@@ -2,8 +2,17 @@
 import { useWindowSize } from '@vueuse/core';
 import StyledBorder from '~/components/spy-ui/styled-border.vue';
 import WorldMap from '~/components/spy-ui/world-map.vue';
+import LocationTarget from '~/components/spy-ui/location-target.vue';
 
 const windowSize = useWindowSize();
+
+function playTargetAnimation() {
+	console.log(LocationTarget);
+}
+
+defineExpose({
+	playTargetAnimation,
+});
 </script>
 
 <template>
