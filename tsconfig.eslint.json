@@ -5,7 +5,7 @@
 		"scripts",
 		"test",
 		"postcss.config.cjs",
-		"tailwind.config.ts",
+		"tailwind.config.cjs",
 		"vite.config.ts",
 		"jest.config.js",
 		".eslintrc.cjs"
