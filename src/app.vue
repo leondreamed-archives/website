@@ -2,11 +2,24 @@
 import { computed, ref } from 'vue';
 import { useWindowSize } from '@vueuse/core';
 import bezierEasing from 'bezier-easing';
+import WorldMapSilhouette from '~/assets/world-map-silhouette.svg';
 
 const windowSize = useWindowSize();
 
+const uiColor = 'teal';
+
+const glowingBorderPadding = 50;
+const worldMapPadding = 100;
+
+const worldMapHeight = computed(
+	() => windowSize.height.value - 2 * worldMapPadding
+);
+const worldMapWidth = computed(
+	() => windowSize.width.value - 2 * worldMapPadding
+);
+
 const glowingBorderPath = computed(() => {
-	const padding = 50;
+	const padding = glowingBorderPadding;
 
 	const width = windowSize.width.value - 2 * padding;
 	const height = windowSize.height.value - 2 * padding;
@@ -104,8 +117,6 @@ function animateBlur(timestamp: DOMHighResTimeStamp) {
 			blurDiff * easing((cycleLength - cycleTimestamp) / halfCycleLength);
 	}
 
-	console.log(blur);
-
 	blurStdDeviation.value = blur;
 
 	requestAnimationFrame(animateBlur);
@@ -115,7 +126,7 @@ requestAnimationFrame(animateBlur);
 </script>
 
 <template>
-	<div class="bg-black column min-h-full">
+	<div class="bg-gray-200 column min-h-full">
 		<svg
 			width="100%"
 			height="100%"
@@ -126,9 +137,18 @@ requestAnimationFrame(animateBlur);
 					<feGaussianBlur in="SourceGraphic" :stdDeviation="blurStdDeviation" />
 				</filter>
 			</defs>
+
+			<WorldMapSilhouette
+				:width="worldMapWidth"
+				:height="worldMapHeight"
+				:x="worldMapPadding"
+				:y="worldMapPadding"
+				:fill="uiColor"
+			/>
+
 			<path
 				stroke-linejoin="round"
-				stroke="teal"
+				:stroke="uiColor"
 				filter="url(#blur)"
 				stroke-width="4"
 				:d="glowingBorderPath"
