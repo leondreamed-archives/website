@@ -116,17 +116,19 @@ requestAnimationFrame(animateBlur);
 </script>
 
 <template>
-	<defs>
-		<filter id="blur">
-			<feGaussianBlur in="SourceGraphic" :stdDeviation="blurStdDeviation" />
-		</filter>
-	</defs>
-	<path
-		stroke-linejoin="round"
-		:stroke="uiColor"
-		filter="url(#blur)"
-		stroke-width="4"
-		:d="glowingBorderPath"
-		fill="none"
-	></path>
+	<svg>
+		<defs>
+			<filter id="blur">
+				<feGaussianBlur in="SourceGraphic" :stdDeviation="blurStdDeviation" />
+			</filter>
+		</defs>
+		<path
+			stroke-linejoin="round"
+			:stroke="uiColor"
+			filter="url(#blur)"
+			stroke-width="4"
+			:d="glowingBorderPath"
+			fill="none"
+		></path>
+	</svg>
 </template>
