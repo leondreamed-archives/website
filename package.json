@@ -27,7 +27,7 @@
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^15.0.0",
-		"@leonzalion/configs": "latest",
+		"@leonzalion/configs": "^1.0.47",
 		"@types/jest": "^27.0.3",
 		"@types/node": "^17.0.0",
 		"@vitejs/plugin-vue": "^2.0.0",
