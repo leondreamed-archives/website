@@ -40,6 +40,7 @@
 		"prettier": "^2.5.1",
 		"rimraf": "^3.0.2",
 		"simple-git-hooks": "^2.7.0",
+		"sync-index": "^1.0.11",
 		"tailwindcss": "^3.0.11",
 		"ts-jest": "^27.1.2",
 		"ts-node": "^10.4.0",

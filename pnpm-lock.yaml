@@ -18,6 +18,7 @@ specifiers:
   prettier: ^2.5.1
   rimraf: ^3.0.2
   simple-git-hooks: ^2.7.0
+  sync-index: ^1.0.11
   tailwindcss: ^3.0.11
   ts-jest: ^27.1.2
   ts-node: ^10.4.0
@@ -50,6 +51,7 @@ devDependencies:
   prettier: 2.5.1
   rimraf: 3.0.2
   simple-git-hooks: 2.7.0
+  sync-index: 1.0.11
   tailwindcss: 3.0.16_f98f8cb1d4c2734d9765edb689db6e16
   ts-jest: 27.1.3_a7e53b5e5b59e71a0fd4d8cf128393d5
   ts-node: 10.4.0_9d6cd740eceb93d711351e2e9548d1bd
@@ -4608,6 +4610,10 @@ packages:
       promise: 7.3.1
     dev: true
 
+  /just-debounce/1.1.0:
+    resolution: {integrity: sha512-qpcRocdkUmf+UTNBYx5w6dexX5J31AKK1OmPwH630a83DdVVUIngk55RSAiIGpQyoH0dlr872VHfPjnQnK1qDQ==}
+    dev: true
+
   /kind-of/6.0.3:
     resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
     engines: {node: '>=0.10.0'}
@@ -5191,6 +5197,11 @@ packages:
       aggregate-error: 3.1.0
     dev: true
 
+  /p-throttle/5.0.0:
+    resolution: {integrity: sha512-iXBFjW4kP/5Ivw7uC9EDnj+/xo3pNn4Rws3zgMGPwXnWTv1M3P0LVdZxLrqRUI5JK0Fp3Du0bt6lCaVrI3WF7g==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dev: true
+
   /p-try/1.0.0:
     resolution: {integrity: sha1-y8ec26+P1CKOE/Yh8rGiN8GyB7M=}
     engines: {node: '>=4'}
@@ -5309,6 +5320,13 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       find-up: 5.0.0
+    dev: true
+
+  /pkg-dir/6.0.1:
+    resolution: {integrity: sha512-C9R+PTCKGA32HG0n5I4JMYkdLL58ZpayVuncQHQrGeKa8o26A4o2x0u6BKekHG+Au0jv5ZW7Xfq1Cj6lm9Ag4w==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dependencies:
+      find-up: 6.2.0
     dev: true
 
   /plur/4.0.0:
@@ -6070,6 +6088,22 @@ packages:
 
   /symbol-tree/3.2.4:
     resolution: {integrity: sha512-9QNk5KwDF+Bvz+PyObkmSYjI5ksVUYtjW7AU22r2NKcfLJcXp96hkDWU3+XndOsUb+AQ9QhfzfCT2O+CNWT5Tw==}
+    dev: true
+
+  /sync-index/1.0.11:
+    resolution: {integrity: sha512-rUnO0T9cFCyRCx26OhJTdLh/72xE6RoKAGQUwOYMUEPLJkTNULHRjug/lp3AqMBApoW0BHfdAsehHlw6WQf7Ew==}
+    hasBin: true
+    dependencies:
+      chokidar: 3.5.3
+      commander: 8.3.0
+      cosmiconfig: 7.0.1
+      debug: 4.3.3
+      globby: 12.2.0
+      just-debounce: 1.1.0
+      p-throttle: 5.0.0
+      pkg-dir: 6.0.1
+    transitivePeerDependencies:
+      - supports-color
     dev: true
 
   /tailwindcss/3.0.16_f98f8cb1d4c2734d9765edb689db6e16:
