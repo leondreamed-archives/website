@@ -2,7 +2,7 @@
 import { ref, computed, onMounted } from 'vue';
 import { useWindowSize } from '@vueuse/core';
 import anime from 'animejs';
-import { uiColor } from '~/utils/constants';
+import { uiColor } from '~/utils/ui';
 
 const windowSize = useWindowSize();
 
