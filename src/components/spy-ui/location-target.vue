@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import anime from 'animejs';
+import { onMounted, ref } from 'vue';
 import { uiColor } from '~/utils/constants';
 
 const width = 20;
@@ -42,11 +44,31 @@ const spikeLines = [
 	rightSpikeLine,
 	bottomSpikeLine,
 ];
+
+const targetG = ref();
+onMounted(async () => {
+	await anime({
+		targets: [targetG.value],
+		rotateZ: [0, 315],
+		scale: [1, 0.05],
+		duration: 2000,
+		easing: 'cubicBezier(.1, .82, .34, 1.1)',
+	}).finished;
+
+	anime({
+		targets: [targetG.value],
+		opacity: [1, 0],
+		direction: 'alternate',
+		duration: 200,
+		loop: 4,
+		easing: 'linear'
+	});
+});
 </script>
 
 <template>
 	<svg :viewBox="`0 0 ${width} ${height}`" width="200px" height="200px">
-		<g class="target">
+		<g ref="targetG" class="target">
 			<line
 				v-for="(spikeLine, i) of spikeLines"
 				:key="i"
@@ -64,21 +86,8 @@ const spikeLines = [
 	</svg>
 </template>
 
-<style scoped>
+<style>
 .target {
 	transform-origin: 50% 50%;
-	animation: rotate 30s;
-}
-
-@keyframes rotate {
-	0% {
-		transform: rotateZ(0deg);
-		width: 100px;
-	}
-
-	100% {
-		transform: rotateZ(270deg);
-		width: 0px;
-	}
 }
 </style>
