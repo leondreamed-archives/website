@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { useWindowSize } from '@vueuse/core';
 import anime from 'animejs';
 import { ref, computed } from 'vue';
+import { useInnerWindowSize } from '~/utils/window';
 
 const scrollDownArrows = ref();
 const opacityAnimationStarted = ref(false);
@@ -41,7 +41,7 @@ defineExpose({
 	playScrollDownArrowsAnimation,
 });
 
-const windowSize = useWindowSize();
+const windowSize = useInnerWindowSize();
 
 const arrowsPaddingBottom = 80;
 const arrowsWidth = 30;

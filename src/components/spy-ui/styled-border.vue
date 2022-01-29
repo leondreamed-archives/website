@@ -1,10 +1,10 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
-import { useWindowSize } from '@vueuse/core';
 import anime from 'animejs';
 import { uiColor } from '~/utils/ui';
+import { useInnerWindowSize } from '~/utils/window';
 
-const windowSize = useWindowSize();
+const windowSize = useInnerWindowSize();
 
 const glowingBorderPadding = 50;
 

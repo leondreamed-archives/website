@@ -1,10 +1,10 @@
-import { useWindowSize } from '@vueuse/core';
 import { computed } from 'vue';
+import { useInnerWindowSize } from '~/utils/window';
 
 export const worldMapPadding = 100;
 export const worldMapAspectRatio = 980 / 504;
 
-export const windowSize = useWindowSize();
+export const windowSize = useInnerWindowSize();
 
 export const worldMapMaxHeight = computed(
 	() => windowSize.height.value - 2 * worldMapPadding

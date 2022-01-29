@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import { useWindowSize } from '@vueuse/core';
 import anime from 'animejs';
 import { computed, ref } from 'vue';
 import { uiColor } from '~/utils/ui';
+import { useInnerWindowSize } from '~/utils/window';
 import { torontoLocationX, torontoLocationY } from '~/utils/world-map';
 
-const windowSize = useWindowSize();
+const windowSize = useInnerWindowSize();
 const projectionBoxWidth = computed(() => windowSize.width.value * 0.75);
 const projectionBoxHeight = computed(() => windowSize.height.value * 0.5);
 const projectionBoxX = computed(

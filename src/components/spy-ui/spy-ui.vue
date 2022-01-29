@@ -1,14 +1,14 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue';
-import { useWindowSize } from '@vueuse/core';
 import LocationTarget from './location-target.vue';
 import ProjectionBox from './projection-box.vue';
 import ScrollDownArrows from './scroll-down-arrows.vue';
 import StyledBorder from '~/components/spy-ui/styled-border.vue';
 import WorldMap from '~/components/spy-ui/world-map.vue';
 import { ComponentType } from '~/types/component';
+import { useInnerWindowSize } from '~/utils/window';
 
-const windowSize = useWindowSize();
+const windowSize = useInnerWindowSize();
 
 const locationTarget = ref<ComponentType<typeof LocationTarget>>();
 const projectionBox = ref<ComponentType<typeof ProjectionBox>>();
@@ -24,8 +24,8 @@ onMounted(async () => {
 <template>
 	<div class="bg-black column min-h-full">
 		<svg
-			width="100%"
-			height="100%"
+			:width="windowSize.width.value"
+			:height="windowSize.height.value"
 			:viewBox="`0 0 ${windowSize.width.value} ${windowSize.height.value}`"
 		>
 			<StyledBorder />
