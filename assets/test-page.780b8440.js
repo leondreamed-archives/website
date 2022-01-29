@@ -1,1 +1,0 @@
-import{_ as e}from"./location-target.1e76a06e.js";import{j as t,o,l as a,q as s}from"./vendor.d2abdec7.js";const r={width:"300",height:"300"},m=t({setup(c){return(n,_)=>(o(),a("svg",r,[s(e)]))}});export{m as default};
