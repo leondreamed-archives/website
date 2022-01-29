@@ -61,7 +61,7 @@ onMounted(async () => {
 		direction: 'alternate',
 		duration: 200,
 		loop: 4,
-		easing: 'linear'
+		easing: 'linear',
 	});
 });
 </script>
