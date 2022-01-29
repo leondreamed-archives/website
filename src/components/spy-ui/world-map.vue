@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, watch } from 'vue';
+import { computed } from 'vue';
 import { useWindowSize } from '@vueuse/core';
 import WorldMapSilhouette from '~/assets/world-map-silhouette.svg';
 import { uiColor } from '~/utils/constants';
