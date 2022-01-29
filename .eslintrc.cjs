@@ -2,9 +2,7 @@ const path = require('path');
 const createAliases = require('@leonzalion/configs/eslint/alias');
 
 module.exports = {
-	extends: [
-		require.resolve('@leonzalion/configs/eslint')
-	],
+	extends: [require.resolve('@leonzalion/configs/eslint')],
 	parserOptions: {
 		project: [path.resolve(__dirname, './tsconfig.eslint.json')],
 		extraFileExtensions: ['.vue'],
@@ -19,5 +17,15 @@ module.exports = {
 			},
 		],
 	},
+	overrides: [
+		{
+			files: ['src/**/*.vue'],
+			rules: {
+				'@typescript-eslint/no-unsafe-call': 'off',
+				'@typescript-eslint/no-unsafe-assignment': 'off',
+				'@typescript-eslint/consistent-type-imports': 'off'
+			},
+		},
+	],
 	settings: createAliases({ '~': './src', '~test': './test' }),
 };

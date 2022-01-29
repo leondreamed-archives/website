@@ -5,14 +5,6 @@ import WorldMap from '~/components/spy-ui/world-map.vue';
 import LocationTarget from '~/components/spy-ui/location-target.vue';
 
 const windowSize = useWindowSize();
-
-function playTargetAnimation() {
-	console.log(LocationTarget);
-}
-
-defineExpose({
-	playTargetAnimation,
-});
 </script>
 
 <template>
@@ -24,6 +16,7 @@ defineExpose({
 		>
 			<StyledBorder />
 			<WorldMap />
+			<LocationTarget />
 		</svg>
 	</div>
 </template>

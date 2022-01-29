@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { computed, ref } from 'vue';
+import { ref, computed, onMounted } from 'vue';
 import { useWindowSize } from '@vueuse/core';
-import bezierEasing from 'bezier-easing';
+import anime from 'animejs';
 import { uiColor } from '~/utils/constants';
 
 const windowSize = useWindowSize();
@@ -75,51 +75,28 @@ const glowingBorderPath = computed(() => {
 
 const minBlur = 2.5;
 const maxBlur = 4;
-const blurDiff = maxBlur - minBlur;
-const blurStdDeviation = ref(maxBlur);
 
-const easing = bezierEasing(0, 0, 1, 0.5);
-
-let previousTimestamp: DOMHighResTimeStamp;
-
-/**
- * Animates the border blur effect. Starts with weak blur.
- */
-function animateBlur(timestamp: DOMHighResTimeStamp) {
-	if (previousTimestamp === undefined) {
-		previousTimestamp = timestamp;
-	}
-
-	const elapsed = timestamp - previousTimestamp;
-	const cycleLength = 2000; // Cycle length in milliseconds
-	const halfCycleLength = cycleLength / 2;
-
-	// Between 0 and 10000 milliseconds
-	const cycleTimestamp = elapsed % cycleLength;
-
-	let blur;
-	// Increasing blur
-	if (cycleTimestamp < cycleLength / 2) {
-		blur = maxBlur - blurDiff * easing(cycleTimestamp / halfCycleLength);
-	} else {
-		blur =
-			maxBlur -
-			blurDiff * easing((cycleLength - cycleTimestamp) / halfCycleLength);
-	}
-
-	blurStdDeviation.value = blur;
-
-	requestAnimationFrame(animateBlur);
-}
-
-requestAnimationFrame(animateBlur);
+const blurFe = ref();
+onMounted(() => {
+	anime({
+		targets: [blurFe.value],
+		stdDeviation: [minBlur, maxBlur],
+		loop: true,
+		direction: 'alternate',
+		easing: 'easeInOutQuad',
+	});
+});
 </script>
 
 <template>
 	<svg>
 		<defs>
 			<filter id="blur">
-				<feGaussianBlur in="SourceGraphic" :stdDeviation="blurStdDeviation" />
+				<feGaussianBlur
+					ref="blurFe"
+					:stdDeviation="maxBlur"
+					in="SourceGraphic"
+				/>
 			</filter>
 		</defs>
 		<path

@@ -45,19 +45,40 @@ const spikeLines = [
 </script>
 
 <template>
-	<svg width="100%" height="100%" :viewBox="`0 0 ${width} ${height}`">
-		<line
-			v-for="(spikeLine, i) of spikeLines"
-			:key="i"
-			v-bind="spikeLine"
-			:stroke="uiColor"
-		/>
-		<circle
-			fill="none"
-			:cx="spikeLength + circleRadius"
-			:cy="spikeLength + circleRadius"
-			:stroke="uiColor"
-			:r="circleRadius"
-		></circle>
+	<svg :viewBox="`0 0 ${width} ${height}`" width="200px" height="200px">
+		<g class="target">
+			<line
+				v-for="(spikeLine, i) of spikeLines"
+				:key="i"
+				v-bind="spikeLine"
+				:stroke="uiColor"
+			/>
+			<circle
+				fill="none"
+				:cx="spikeLength + circleRadius"
+				:cy="spikeLength + circleRadius"
+				:stroke="uiColor"
+				:r="circleRadius"
+			></circle>
+		</g>
 	</svg>
 </template>
+
+<style scoped>
+.target {
+	transform-origin: 50% 50%;
+	animation: rotate 30s;
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotateZ(0deg);
+		width: 100px;
+	}
+
+	100% {
+		transform: rotateZ(270deg);
+		width: 0px;
+	}
+}
+</style>
