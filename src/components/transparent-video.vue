@@ -1,9 +1,16 @@
 <script setup lang="ts">
+import { ref } from 'vue';
+
 defineProps<{ videoName: string }>();
+const video = ref<HTMLVideoElement>();
+
+defineExpose({
+	video,
+});
 </script>
 
 <template>
-	<video width="600" height="100%" autoplay loop muted playsinline>
+	<video ref="video" muted>
 		<source
 			:src="`videos/converted/${videoName}-hevc.mp4`"
 			type='video/mp4; codecs="hvc1"'

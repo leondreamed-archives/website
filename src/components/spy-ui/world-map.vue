@@ -9,14 +9,12 @@ import {
 </script>
 
 <template>
-	<svg>
-		<WorldMapSilhouette
-			style="opacity: 0.2"
-			:width="worldMapMaxWidth"
-			:height="worldMapMaxHeight"
-			:x="worldMapPadding"
-			:y="worldMapPadding"
-			:fill="uiColor"
-		/>
-	</svg>
+	<WorldMapSilhouette
+		style="opacity: 0.2"
+		:width="worldMapMaxWidth"
+		:height="worldMapMaxHeight"
+		:x="worldMapPadding"
+		:y="worldMapPadding"
+		:fill="uiColor"
+	/>
 </template>
