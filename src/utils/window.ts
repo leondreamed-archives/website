@@ -11,7 +11,7 @@ export function useInnerWindowSize({
 
 	const update = () => {
 		width.value = document.body.clientWidth;
-		height.value = document.body.clientHeight;
+		height.value = window.innerHeight;
 	};
 
 	update();
