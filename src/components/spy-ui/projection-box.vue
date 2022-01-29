@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import anime from 'animejs';
 import { computed, ref } from 'vue';
+import TransparentVideo from '../transparent-video.vue';
 import { uiColor } from '~/utils/ui';
 import { useInnerWindowSize } from '~/utils/window';
 import { torontoLocationX, torontoLocationY } from '~/utils/world-map';
@@ -81,6 +82,9 @@ defineExpose({
 <template>
 	<svg width="100%" height="100%">
 		<g v-show="animationStarted">
+			<foreignObject height="200" width="200">
+				<TransparentVideo video-name="projection" />
+			</foreignObject>
 			<line
 				v-for="(projectionBoxLine, i) in projectionBoxLines"
 				v-bind="projectionBoxLine"

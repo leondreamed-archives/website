@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import LocationAnimation from '~/components/spy-ui/location-target.vue';
+import TransparentVideo from '~/components/transparent-video.vue';
 </script>
 
 <template>
-	<svg width="300" height="300">
-		<LocationAnimation />
-	</svg>
+	<div class="bg-blue-200">
+		<TransparentVideo video-name="projection" />
+	</div>
 </template>
