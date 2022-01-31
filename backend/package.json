@@ -10,47 +10,11 @@
 	},
 	"type": "module",
 	"scripts": {
-		"prepare": "simple-git-hooks",
 		"start": "node-ts ./src/index.ts",
 		"test": "NODE_OPTIONS=--experimental-vm-modules jest",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write src",
 		"tc": "tsc --noEmit"
-	},
-	"devDependencies": {
-		"@commitlint/cli": "^15.0.0",
-		"@leonzalion/configs": "latest",
-		"@types/jest": "^27.0.3",
-		"@types/node": "^17.0.0",
-		"eslint": "^8.5.0",
-		"execa": "^6.0.0",
-		"jest": "^27.4.5",
-		"lint-staged": "^12.1.3",
-		"lion-system": "latest",
-		"prettier": "^2.5.1",
-		"simple-git-hooks": "^2.7.0",
-		"ts-jest": "^27.1.2",
-		"ts-jest-resolver": "^2.0.0",
-		"tsc-alias": "^1.5.0",
-		"tsm": "^2.2.1",
-		"typescript": "^4.5.4"
-	},
-	"prettier": "@leonzalion/configs/prettier",
-	"commitlint": {
-		"extends": [
-			"@leonzalion/configs/commitlint"
-		]
-	},
-	"simple-git-hooks": {
-		"pre-commit": "pnpm exec node-ts ./scripts/hooks/pre-commit.ts",
-		"pre-push": "pnpm exec node-ts ./scripts/hooks/pre-push.ts",
-		"commit-msg": "pnpm exec node-ts ./scripts/hooks/commit-msg.ts $@"
-	},
-	"lint-staged": {
-		"*.{js,ts}": [
-			"pnpm run lint",
-			"pnpm run prettier"
-		]
 	},
 	"dependencies": {
 		"fastify": "^3.27.0"
