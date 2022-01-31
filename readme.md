@@ -7,3 +7,11 @@
 **DaVinci Resolve Studio:** The animations are made with DaVinci Resolve Studio, and the Studio version is needed because I leverage DaVinci's Fusion Scripts that automate exporting projects into transparent videos.
 
 - **Python 3.6:** Fusion scripts require Python 3.6 installed on the system.
+
+## Stats
+
+**RescueTime:** Top 5 visited sites at the end of the day + Productivity Pulse
+
+**GitHub:** Contribution Graph
+
+**WakaTime:** Programming Languages Pie Chart & Project Time Dashboard Graph

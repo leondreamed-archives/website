@@ -1,0 +1,105 @@
+# Regex list of sites/apps that I'm ok with making public
+
+allowList:
+  ## All .org sites
+  - regex: '.*\.org'
+
+  ## All .app sites
+  - regex: '.*\.app'
+
+  ## Programming-related sites/apps
+  - regex:
+      - '.*\.io'
+      - '.*\.dev'
+      - '.*\.rs' # Rust sites
+      - localhost # localhost development
+      - alacritty
+      - terminal
+      - app
+      - npm
+      - github
+      - wakatime
+      - devpost
+      - mdn
+      - w3
+      - html
+      - css
+      - javascript
+      - js
+      - py
+      - rust
+      - studio
+      - code # includes VSCode
+      - ide
+      - vim
+      - type
+      - graphql
+      - ts # TypeScript
+
+  ## Communication-related sites/apps
+
+  - regex:
+      - discord
+      - mail # includes gmail
+      - slack
+
+  ## Productivity-related sites/apps
+  - regex:
+      - browser
+      - google # includes Google Search, Docs, Slides, Classroom, etc.
+      - firefox
+      - brave
+      - chrome
+      - safari
+      - rescuetime
+      - bitwarden
+      - notion
+      - learn
+      - zoom
+      - meet
+      - turkey # cold turkey apps
+      - view # includes Preview
+      - hyper
+      - note
+      - figma
+      - doc
+      - word
+      - slide
+      - excel
+      - sheet
+      - chart
+      - wiki
+      - find # Includes Finder
+      - desmos
+      - system
+      - calendar
+      - leanpub
+      - newtab
+      - quicktime
+      - microsoft
+      - managebac
+      - replit
+      - wolfram
+      - college
+      - uni
+
+  # Entertainment-related sites/apps
+  - regex:
+      - soundcloud
+      - youtube
+      - amazon
+      - typeracer
+      - typing
+      - key
+      - linkedin
+      - twitter
+      - reddit
+      - quora
+      - blog
+
+  ## Miscellaneous sites/apps
+  - regex:
+      # DaVinci Resolve
+      - davinci
+      - resolve
+      - blackmagicdesign
