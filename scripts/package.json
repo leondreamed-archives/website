@@ -12,7 +12,8 @@
 		"desm": "^1.2.0",
 		"execa": "^6.0.0",
 		"ffmpeg-static": "^4.4.1",
-		"lion-system": "^1.0.9"
+		"lion-system": "^1.0.9",
+		"onetime": "^6.0.0"
 	},
 	"devDependencies": {
 		"@types/ffmpeg-static": "^3.0.1",

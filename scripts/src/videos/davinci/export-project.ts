@@ -7,9 +7,9 @@ import * as fs from 'node:fs';
 import { execaSync, execa } from 'execa';
 import { join } from 'desm';
 import yaml from 'js-yaml';
-import { getProjectDir } from 'lion-system';
+import { getRootPath } from '../../utils/paths.js';
 
-const projectDir = getProjectDir(import.meta.url);
+const projectDir = getRootPath();
 
 const davinciConfigString = fs
 	.readFileSync(path.join(projectDir, 'davinci/config.yaml'))

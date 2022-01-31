@@ -29,12 +29,18 @@ allowList:
       - py
       - rust
       - studio
-      - code # includes VSCode
+      - code # includes Xcode, VSCode
       - ide
       - vim
       - type
       - graphql
       - ts # TypeScript
+      - android
+      - jetbrains
+      - docker
+      - kubernetes
+      - k8s
+      - node
 
   ## Communication-related sites/apps
 
@@ -59,7 +65,7 @@ allowList:
       - meet
       - turkey # cold turkey apps
       - view # includes Preview
-      - hyper
+      - hyper # Hyper Terminal
       - note
       - figma
       - doc
@@ -82,12 +88,22 @@ allowList:
       - wolfram
       - college
       - uni
+      - karabiner
+      - yabai
+      - authy
+      - alfred
+      - gimp
+      - inkscape
+      - espanso
+      - grammar
+      - vlc
 
   # Entertainment-related sites/apps
   - regex:
       - soundcloud
       - youtube
       - amazon
+      - type
       - typeracer
       - typing
       - key
