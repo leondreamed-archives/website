@@ -47,7 +47,7 @@ const davinciProcessPid = await new Promise<number | undefined>((resolve) => {
 		resolve(undefined);
 	});
 
-	davinciProcess.stdout.on('data', (data: Buffer) => {
+	davinciProcess.stdout?.on('data', (data: Buffer) => {
 		const dataString = data.toString();
 		const result = /Host 'Fusion' \[(\d+)] Added/.exec(dataString);
 		if (result !== null) {

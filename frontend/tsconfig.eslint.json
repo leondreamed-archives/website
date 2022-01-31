@@ -3,7 +3,6 @@
 	"include": [
 		"src",
 		"typings",
-		"scripts",
 		"test",
 		"postcss.config.cjs",
 		"tailwind.config.cjs",

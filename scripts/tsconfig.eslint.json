@@ -1,0 +1,9 @@
+{
+	"extends": "./tsconfig.json",
+	"include": [
+		"davinci",
+		"hooks",
+		"convert-alpha-videos.ts",
+		".eslintrc.cjs"
+	]
+}

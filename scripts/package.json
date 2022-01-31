@@ -4,7 +4,7 @@
 	"scripts": {
 		"export-project": "node-ts ./davinci/export-project.ts",
 		"convert-videos": "node-ts ./davinci/convert-alpha-videos.ts",
-		"lint": "eslint --fix --cache .",
+		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
 		"tc": "tsc --noEmit"
 	},
