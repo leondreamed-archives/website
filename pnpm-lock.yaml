@@ -69,6 +69,8 @@ importers:
 
   scripts:
     specifiers:
+      '@types/ffmpeg-static': ^3.0.1
+      '@types/js-yaml': ^4.0.5
       desm: ^1.2.0
       execa: ^6.0.0
       ffmpeg-static: ^4.4.1
@@ -78,6 +80,9 @@ importers:
       execa: 6.0.0
       ffmpeg-static: 4.4.1
       lion-system: 1.0.9
+    devDependencies:
+      '@types/ffmpeg-static': 3.0.1
+      '@types/js-yaml': 4.0.5
 
 packages:
 
@@ -1129,6 +1134,10 @@ packages:
     resolution: {integrity: sha512-C6N5s2ZFtuZRj54k2/zyRhNDjJwwcViAM3Nbm8zjBpbqAdZ00mr0CFxvSKeO8Y/e03WVFLpQMdHYVfUd6SB+Hw==}
     dev: true
 
+  /@types/ffmpeg-static/3.0.1:
+    resolution: {integrity: sha512-hEJdQMv/g1olk9qTiWqh23BfbKsDKE6Tc7DilNJWF1MgZsU9fYOPKrgQ448vfT7aP2Yt5re9vgJDVv9TXEoTyQ==}
+    dev: true
+
   /@types/graceful-fs/4.1.5:
     resolution: {integrity: sha512-anKkLmZZ+xm4p8JWBf4hElkM4XR+EZeA2M9BAkkTldmcyDY4mbdIJnRghDJH3Ov5ooY7/UAoENtmdMSkaAd7Cw==}
     dependencies:
@@ -1156,6 +1165,10 @@ packages:
     dependencies:
       jest-diff: 27.4.6
       pretty-format: 27.4.6
+    dev: true
+
+  /@types/js-yaml/4.0.5:
+    resolution: {integrity: sha512-FhpRzf927MNQdRZP0J5DLIdTXhjLYzeUTmLAu69mnVksLH9CJY3IuSeEgbKUki7GQZm0WqDkGzyxju2EZGD2wA==}
     dev: true
 
   /@types/json-schema/7.0.9:

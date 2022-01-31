@@ -13,5 +13,9 @@
 		"execa": "^6.0.0",
 		"ffmpeg-static": "^4.4.1",
 		"lion-system": "^1.0.9"
+	},
+	"devDependencies": {
+		"@types/ffmpeg-static": "^3.0.1",
+		"@types/js-yaml": "^4.0.5"
 	}
 }
