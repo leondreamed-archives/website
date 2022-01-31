@@ -8,14 +8,25 @@ import { join } from 'desm';
 const resolveExecutablePath =
 	'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/MacOS/Resolve';
 
-const davinciProcess = execa(resolveExecutablePath, ['-nogui']);
+// Using the `script` executable to trick DaVinci into thinking we're
+// running the command from a TTY (because DaVinci changes its output)
+// otherwise that hides when the FusionScript Server starts which we
+// need to know so that we know when to run our DaVinci script
+const davinciProcess = execa('script', [
+	'-q',
+	'/dev/null',
+	resolveExecutablePath,
+	'-nogui',
+]);
 
-await new Promise((_resolve) => {
-	davinciProcess.stderr.on('data', (data: Buffer) => {
-		console.log(`stderr: ${data.toString()}`);
-	});
+console.info('Waiting for the FusionScript server to start...');
+const davinciProcessPid = await new Promise<number>((resolve) => {
 	davinciProcess.stdout.on('data', (data: Buffer) => {
-		console.log(`stdout: ${data.toString()}`);
+		const dataString = data.toString();
+		const result = /Host 'Fusion' \[(\d+)] Added/.exec(dataString);
+		if (result !== null) {
+			resolve(Number(result[1]));
+		}
 	});
 });
 
@@ -24,13 +35,17 @@ const fuscriptPath =
 
 const pythonScriptPath = join(import.meta.url, './python/create-project.py');
 
-console.log(
-	execaSync(fuscriptPath, ['-l', 'python3', pythonScriptPath], {
-		env: {
-			PYTHONPATH: `${process.env
-				.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
-		},
-	})
-);
+console.info('Running the DaVinci script...');
 
-davinciProcess.kill();
+try {
+	console.log(
+		execaSync(fuscriptPath, ['-l', 'py3', pythonScriptPath], {
+			env: {
+				PYTHONPATH: `${process.env
+					.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
+			},
+		})
+	);
+} finally {
+	process.kill(davinciProcessPid, 'SIGTERM');
+}
