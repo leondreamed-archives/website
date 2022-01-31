@@ -1,4 +1,4 @@
 module.exports = {
-	folders: ['src/utils'],
+	folders: ['frontend/src/utils'],
 	exportExtensions: false,
 };

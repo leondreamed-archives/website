@@ -1,0 +1,11 @@
+{
+	"extends": "./tsconfig.json",
+	"include": [
+		"src",
+		"test",
+		"scripts",
+		".eslintrc.cjs",
+		".markdownlint.js",
+		"jest.config.mjs"
+	]
+}
