@@ -37,15 +37,13 @@ const pythonScriptPath = join(import.meta.url, './python/create-project.py');
 
 console.info('Running the DaVinci script...');
 
-try {
-	console.log(
-		execaSync(fuscriptPath, ['-l', 'py3', pythonScriptPath], {
-			env: {
-				PYTHONPATH: `${process.env
-					.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
-			},
-		})
-	);
-} finally {
-	process.kill(davinciProcessPid, 'SIGTERM');
-}
+console.log(
+	execaSync(fuscriptPath, ['-l', 'py3', pythonScriptPath], {
+		env: {
+			PYTHONPATH: `${process.env
+				.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
+		},
+	})
+);
+
+process.kill(davinciProcessPid, 'SIGTERM');
