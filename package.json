@@ -31,9 +31,9 @@
 		"typescript": "^4.5.5"
 	},
 	"simple-git-hooks": {
-		"pre-commit": "pnpm exec node-ts ./scripts/hooks/pre-commit.ts",
-		"pre-push": "pnpm exec node-ts ./scripts/hooks/pre-push.ts",
-		"commit-msg": "pnpm exec node-ts ./scripts/hooks/commit-msg.ts $@"
+		"pre-commit": "pnpm exec node-ts ./scripts/src/hooks/pre-commit.ts",
+		"pre-push": "pnpm exec node-ts ./scripts/src/hooks/pre-push.ts",
+		"commit-msg": "pnpm exec node-ts ./scripts/src/hooks/commit-msg.ts $@"
 	},
 	"lint-staged": {
 		"*.{js,ts,vue}": [

@@ -2,8 +2,8 @@
 	"name": "website-scripts",
 	"type": "module",
 	"scripts": {
-		"export-project": "node-ts ./davinci/export-project.ts",
-		"convert-videos": "node-ts ./davinci/convert-alpha-videos.ts",
+		"export-project": "node-ts ./src/davinci/export-project.ts",
+		"convert-videos": "node-ts ./src/davinci/convert-alpha-videos.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
 		"tc": "tsc --noEmit"
