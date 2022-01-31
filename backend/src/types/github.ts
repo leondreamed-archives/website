@@ -6,6 +6,24 @@ export type GitHubTreeItem = {
 	content?: string;
 };
 
+export type GithubEvent = {
+	type: string;
+	date: string;
+};
+
+export type GithubCommit = {
+	repo: {
+		name: string;
+		url: string;
+	};
+	message: string;
+	url: string;
+};
+
 export type GithubData = {
-	monke: string
-}
+	/**
+	 * GitHub events in the current day
+	 */
+	events: GithubEvent[];
+	latestCommit?: GithubCommit;
+};

@@ -1,4 +1,5 @@
 import * as path from 'node:path';
+import process from 'node:process';
 import { got } from 'got';
 import yaml from 'js-yaml';
 import camelcaseKeys from 'camelcase-keys';
