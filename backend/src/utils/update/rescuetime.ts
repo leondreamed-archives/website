@@ -16,6 +16,8 @@ export async function getRescuetimeData(): Promise<RescuetimeData> {
 		path.join(configsPath, 'rescuetime.yaml')
 	) as RescuetimeConfig;
 
+	console.info('Retrieving RescueTime data...');
+
 	const response = await got.get(
 		`https://www.rescuetime.com/anapi/data?key=${process.env.RESCUETIME_API_KEY}`
 	);

@@ -1,3 +1,5 @@
+import { Buffer } from 'node:buffer';
+import process from 'node:process';
 import { got } from 'got';
 import type {
 	CamelcasedWakatimeStatsResponse,
@@ -5,8 +7,18 @@ import type {
 } from '~/types/wakatime';
 
 export async function getWakatimeData(): Promise<WakatimeData> {
+	console.info('Retrieving Wakatime stats...');
+
 	const response = await got.get(
-		'https://wakatime.com/api/v1/users/leonzalion/stats/last_7_days'
+		'https://wakatime.com/api/v1/users/leonzalion/stats/last_7_days',
+		{
+			headers: {
+				// eslint-disable-next-line @typescript-eslint/naming-convention
+				Authorization: `Basic ${Buffer.from(
+					process.env.WAKATIME_API_KEY
+				).toString('base64')}`,
+			},
+		}
 	);
 
 	const result = JSON.parse(response.body) as CamelcasedWakatimeStatsResponse;
