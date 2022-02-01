@@ -21,7 +21,7 @@ await Promise.all(
 			const videoPath = path.join(originalVideosPath, videoFile);
 			const videoName = path.parse(videoFile).name;
 
-			console.log(`Converting ${videoPath}...`);
+			console.info(`Converting ${videoPath}...`);
 			// Convert to an intermediary ProRes
 			const proResPath = path.join(
 				convertedVideosPath,

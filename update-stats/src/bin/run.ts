@@ -17,8 +17,6 @@ const [githubData, rescuetimeData, wakatimeData] = await Promise.all([
 	getWakatimeData(),
 ]);
 
-console.log(githubData, rescuetimeData, wakatimeData);
-
 const commitSha = await updateGithubRepo({
 	githubData,
 	rescuetimeData,

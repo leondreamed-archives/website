@@ -23,8 +23,6 @@ export async function getRescuetimeData(): Promise<RescuetimeData> {
 		`https://www.rescuetime.com/anapi/data?key=${process.env.RESCUETIME_API_KEY}&format=json`
 	);
 
-	console.log(response.body);
-
 	const result = camelcaseKeys(
 		JSON.parse(response.body)
 	) as CamelcasedRescuetimeResponse;

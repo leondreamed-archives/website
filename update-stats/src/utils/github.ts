@@ -51,7 +51,7 @@ export async function updateGithubRepo({
 	});
 
 	treeItems.push({
-		path: '/data/github.yaml',
+		path: 'data/github.yaml',
 		type: 'blob',
 		sha: githubYamlBlobResponse.data.sha,
 		mode: '100644',
@@ -64,7 +64,7 @@ export async function updateGithubRepo({
 	});
 
 	treeItems.push({
-		path: '/data/rescuetime.yaml',
+		path: 'data/rescuetime.yaml',
 		type: 'blob',
 		sha: rescuetimeYamlBlobResponse.data.sha,
 		mode: '100644',
@@ -77,7 +77,7 @@ export async function updateGithubRepo({
 	});
 
 	treeItems.push({
-		path: '/data/wakatime.yaml',
+		path: 'data/wakatime.yaml',
 		type: 'blob',
 		sha: wakatimeYamlBlobResponse.data.sha,
 		mode: '100644',
