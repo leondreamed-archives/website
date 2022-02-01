@@ -9,6 +9,7 @@
 	},
 	"scripts": {
 		"dev:frontend": "pnpm dev --filter=./frontend",
+		"build:frontend": "pnpm build --filter=./frontend",
 		"convert-videos": "pnpm convert-videos --filter=./scripts",
 		"export-videos": "pnpm export-videos --filter=./scripts",
 		"update-stats": "pnpm start --filter=./update-stats",
