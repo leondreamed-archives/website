@@ -13,7 +13,7 @@
 		"convert-videos": "pnpm convert-videos --filter=./scripts",
 		"export-videos": "pnpm export-videos --filter=./scripts",
 		"update-stats": "pnpm start --filter=./update-stats",
-		"prepare": "simple-git-hooks",
+		"prepare": "lion-git-hooks",
 		"test": "pnpm recursive test",
 		"lint": "pnpm recursive lint",
 		"prettier": "pnpm recursive prettier",
@@ -27,16 +27,11 @@
 		"eslint": "^8.7.0",
 		"is-ci": "^3.0.1",
 		"lint-staged": "^12.3.1",
+		"lion-git-hooks": "^1.0.1",
 		"prettier": "^2.5.1",
-		"simple-git-hooks": "^2.7.0",
 		"sync-index": "^1.0.11",
 		"tsc-alias": "^1.5.0",
 		"typescript": "^4.5.5"
-	},
-	"simple-git-hooks": {
-		"pre-commit": "pnpm exec node-ts --no-ci ./scripts/src/hooks/pre-commit.ts",
-		"pre-push": "pnpm exec node-ts --no-ci ./scripts/src/hooks/pre-push.ts",
-		"commit-msg": "pnpm exec node-ts --no-ci ./scripts/src/hooks/commit-msg.ts $@"
 	},
 	"lint-staged": {
 		"*.{js,ts,vue}": [

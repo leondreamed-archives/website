@@ -11,8 +11,8 @@ importers:
       eslint: ^8.7.0
       is-ci: ^3.0.1
       lint-staged: ^12.3.1
+      lion-git-hooks: ^1.0.1
       prettier: ^2.5.1
-      simple-git-hooks: ^2.7.0
       sync-index: ^1.0.11
       tsc-alias: ^1.5.0
       typescript: ^4.5.5
@@ -24,8 +24,8 @@ importers:
       eslint: 8.8.0
       is-ci: 3.0.1
       lint-staged: 12.3.2
+      lion-git-hooks: 1.0.1
       prettier: 2.5.1
-      simple-git-hooks: 2.7.0
       sync-index: 1.0.11
       tsc-alias: 1.5.0
       typescript: 4.5.5
@@ -4033,6 +4033,17 @@ packages:
       slash: 4.0.0
     dev: true
 
+  /globby/13.1.0:
+    resolution: {integrity: sha512-BECc0Q0jlCk2BLaY2DuHFCdKo+Es6OzOHECV4KpNtVtgXZobl4jmLThiBPY+RiHoOFeI0pd1G035CFLFP/o2Fg==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dependencies:
+      dir-glob: 3.0.1
+      fast-glob: 3.2.11
+      ignore: 5.2.0
+      merge2: 1.4.1
+      slash: 4.0.0
+    dev: true
+
   /got/12.0.1:
     resolution: {integrity: sha512-1Zhoh+lDej3t7Ks1BP/Jufn+rNqdiHQgUOcTxHzg2Dao1LQfp5S4Iq0T3iBxN4Zdo7QqCJL+WJUNzDX6rCP2Ew==}
     engines: {node: '>=14.16'}
@@ -5290,6 +5301,20 @@ packages:
       - enquirer
     dev: true
 
+  /lion-git-hooks/1.0.1:
+    resolution: {integrity: sha512-zxdHTklT8LYRgcdcx9FkGUCuFDr130mRkYBRDU/zpDgMi0pAtwD/tr4b9UvjqTuQw0B9n2/cbSSzFOWUMQDzMQ==}
+    hasBin: true
+    requiresBuild: true
+    dependencies:
+      cosmiconfig: 7.0.1
+      find-up: 6.2.0
+      globby: 13.1.0
+      is-ci: 3.0.1
+      map-obj: 5.0.0
+      minimist: 1.2.5
+      pkg-dir: 6.0.1
+    dev: true
+
   /lion-system/1.0.9:
     resolution: {integrity: sha512-kOomq2SrAljYpUkzzXHAors4Bibe9+sP51uGSyfi2ilYCx6e0scHiYg3t6oyhWhr4276QjIbjNGwkBEylAB1ww==}
     dependencies:
@@ -5469,6 +5494,11 @@ packages:
   /map-obj/4.3.0:
     resolution: {integrity: sha512-hdN1wVrZbb29eBGiGjJbeP8JbKjq1urkHJ/LIP/NY48MZ1QVXUsQBV1G1zvYFHn1XE06cwjBsOI2K3Ulnj1YXQ==}
     engines: {node: '>=8'}
+
+  /map-obj/5.0.0:
+    resolution: {integrity: sha512-2L3MIgJynYrZ3TYMriLDLWocz15okFakV6J12HXvMXDHui2x/zgChzg1u9mFFGbbGWE+GsLpQByt4POb9Or+uA==}
+    engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
+    dev: true
 
   /mdn-data/2.0.14:
     resolution: {integrity: sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==}
@@ -6561,12 +6591,6 @@ packages:
 
   /signal-exit/3.0.6:
     resolution: {integrity: sha512-sDl4qMFpijcGw22U5w63KmD3cZJfBuFlVNbVMKje2keoKML7X2UzWbc4XrmEbDwg0NXJc3yv4/ox7b+JWb57kQ==}
-
-  /simple-git-hooks/2.7.0:
-    resolution: {integrity: sha512-nQe6ASMO9zn5/htIrU37xEIHGr9E6wikXelLbOeTcfsX2O++DHaVug7RSQoq+kO7DvZTH37WA5gW49hN9HTDmQ==}
-    hasBin: true
-    requiresBuild: true
-    dev: true
 
   /simple-vue-icon/1.1.10_vue@3.2.29:
     resolution: {integrity: sha512-VMLAGxooR3z01V+Rz68Yst0RWviK4v+wCueF7wEE+/QbfI8oBoy0EGifmYDoSd7kkV6yPXtuX6wYz44ZpVCQJg==}
