@@ -1,7 +1,7 @@
 {
 	"name": "backend",
 	"version": "1.0.0",
-	"description": "The backend for my website",
+	"description": "Updates website stats.",
 	"license": "MIT",
 	"author": {
 		"name": "Leon Si",
@@ -10,7 +10,7 @@
 	},
 	"type": "module",
 	"scripts": {
-		"start": "node-ts ./src/index.ts",
+		"start": "node-ts ./src/bin/run.ts",
 		"test": "NODE_OPTIONS=--experimental-vm-modules jest",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write src",

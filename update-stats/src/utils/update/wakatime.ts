@@ -22,9 +22,9 @@ export async function getWakatimeData(): Promise<WakatimeData> {
 		}
 	);
 
-	const result = camelcaseKeys(
-		JSON.parse(response.body)
-	) as CamelcasedWakatimeStatsResponse;
+	const result = camelcaseKeys(JSON.parse(response.body), {
+		deep: true,
+	}) as CamelcasedWakatimeStatsResponse;
 
 	const wakatimeData: WakatimeData = {
 		dailyAverage: result.data.dailyAverage,

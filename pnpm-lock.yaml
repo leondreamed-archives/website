@@ -28,28 +28,6 @@ importers:
       tsc-alias: 1.5.0
       typescript: 4.5.5
 
-  backend:
-    specifiers:
-      '@octokit/core': ^3.5.1
-      camelcase-keys: ^7.0.1
-      dayjs: ^1.10.7
-      desm: ^1.2.0
-      dotenv: ^15.0.0
-      got: ^12.0.1
-      js-yaml: ^4.1.0
-      octokit: ^1.7.1
-      onetime: ^6.0.0
-    dependencies:
-      '@octokit/core': 3.5.1
-      camelcase-keys: 7.0.1
-      dayjs: 1.10.7
-      desm: 1.2.0
-      dotenv: 15.0.0
-      got: 12.0.1
-      js-yaml: 4.1.0
-      octokit: 1.7.1
-      onetime: 6.0.0
-
   frontend:
     specifiers:
       '@mdi/js': ^6.5.95
@@ -127,6 +105,28 @@ importers:
     devDependencies:
       '@types/ffmpeg-static': 3.0.1
       '@types/js-yaml': 4.0.5
+
+  update-stats:
+    specifiers:
+      '@octokit/core': ^3.5.1
+      camelcase-keys: ^7.0.1
+      dayjs: ^1.10.7
+      desm: ^1.2.0
+      dotenv: ^15.0.0
+      got: ^12.0.1
+      js-yaml: ^4.1.0
+      octokit: ^1.7.1
+      onetime: ^6.0.0
+    dependencies:
+      '@octokit/core': 3.5.1
+      camelcase-keys: 7.0.1
+      dayjs: 1.10.7
+      desm: 1.2.0
+      dotenv: 15.0.0
+      got: 12.0.1
+      js-yaml: 4.1.0
+      octokit: 1.7.1
+      onetime: 6.0.0
 
 packages:
 

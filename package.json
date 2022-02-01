@@ -11,6 +11,7 @@
 		"dev:frontend": "pnpm dev --filter=./frontend",
 		"convert-videos": "pnpm convert-videos --filter=./scripts",
 		"export-videos": "pnpm export-videos --filter=./scripts",
+		"update-stats": "pnpm start --filter=./update-stats",
 		"prepare": "simple-git-hooks",
 		"test": "pnpm recursive test",
 		"lint": "pnpm recursive lint",

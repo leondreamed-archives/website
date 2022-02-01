@@ -1,0 +1,32 @@
+name: Update Website Data
+on:
+  schedule:
+    - cron: "0 8-22 * * *"
+
+jobs:
+  update_stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v2-beta
+        with:
+          node-version: 16.x
+
+      - name: Use pnpm
+        uses: pnpm/action-setup@v2.0.1
+        with:
+          version: 6.28.0
+
+      - name: Install dependencies
+        run: pnpm install --filter=./update-stats
+
+      - name: Run update stats script
+        run: pnpm update-stats
+        env:
+          GITHUB_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          RESCUETIME_API_KEY: ${{ secrets.RESCUETIME_API_KEY }}

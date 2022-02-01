@@ -33,7 +33,7 @@ export async function getRescuetimeData(): Promise<RescuetimeData> {
 		for (const allowListEntry of rescuetimeConfig.allowList) {
 			if ('regex' in allowListEntry) {
 				for (const regex of [allowListEntry.regex].flat()) {
-					if (new RegExp(regex).test(str)) return true;
+					if (new RegExp(regex, 'i').test(str)) return true;
 				}
 			} else {
 				for (const name of [allowListEntry.name].flat()) {
