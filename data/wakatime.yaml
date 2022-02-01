@@ -1,0 +1,88 @@
+dailyAverage: 17009
+totalSeconds: 119063.931111
+languages:
+  - name: TypeScript
+    totalSeconds: 55431.979835
+  - name: Vue.js
+    totalSeconds: 31615.159925
+  - name: Markdown
+    totalSeconds: 11661.632641
+  - name: JavaScript
+    totalSeconds: 10306.87145
+  - name: JSON
+    totalSeconds: 6144.812609
+  - name: Other
+    totalSeconds: 4356.976788
+  - name: Python
+    totalSeconds: 1132.921101
+  - name: Lua
+    totalSeconds: 1014.930977
+  - name: YAML
+    totalSeconds: 641.239432
+  - name: Git Config
+    totalSeconds: 418.356729
+  - name: Bash
+    totalSeconds: 291.097253
+  - name: HTML
+    totalSeconds: 126.838085
+  - name: Rust
+    totalSeconds: 120.783259
+  - name: TOML
+    totalSeconds: 79.301329
+  - name: XML
+    totalSeconds: 29.884101
+  - name: CSS
+    totalSeconds: 17.423841
+  - name: Elixir
+    totalSeconds: 16.436142
+  - name: INI
+    totalSeconds: 9.44361
+  - name: C++
+    totalSeconds: 4.566817
+  - name: Docker
+    totalSeconds: 0.251975
+projects:
+  - name: website
+    totalSeconds: 42068.354933
+  - name: ib-simulator
+    totalSeconds: 34494.183143
+  - name: yabai-master-stack-plugin
+    totalSeconds: 18576.408189
+  - name: sync-index
+    totalSeconds: 7794.071848
+  - name: lion-system
+    totalSeconds: 5722.376234
+  - name: leonzalion
+    totalSeconds: 5204.260591
+  - name: create-project
+    totalSeconds: 2818.44324
+  - name: configs
+    totalSeconds: 1745.683574
+  - name: lionp
+    totalSeconds: 1293.249659
+  - name: tabulo
+    totalSeconds: 946.799065
+  - name: vpciclubs.com
+    totalSeconds: 939.065642
+  - name: consistent-type-import-bug
+    totalSeconds: 842.957881
+  - name: tsconfig-paths
+    totalSeconds: 209.319341
+  - name: lionecs
+    totalSeconds: 136.765528
+  - name: espanso
+    totalSeconds: 119.617831
+  - name: rbx-rodux
+    totalSeconds: 117.475957
+  - name: rojo
+    totalSeconds: 93.005176
+  - name: jest
+    totalSeconds: 88.168484
+  - name: rodux
+    totalSeconds: 86.825809
+  - name: roact-rodux
+    totalSeconds: 51.997726
+  - name: node
+    totalSeconds: 50.53086
+  - name: Unknown Project
+    totalSeconds: 21.347188
