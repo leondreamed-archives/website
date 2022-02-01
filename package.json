@@ -27,7 +27,7 @@
 		"eslint": "^8.7.0",
 		"is-ci": "^3.0.1",
 		"lint-staged": "^12.3.1",
-		"lion-git-hooks": "^1.0.1",
+		"lion-git-hooks": "^1.0.2",
 		"prettier": "^2.5.1",
 		"sync-index": "^1.0.11",
 		"tsc-alias": "^1.5.0",
