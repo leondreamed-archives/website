@@ -1,7 +1,8 @@
 name: Update Website Data
 on:
   schedule:
-    - cron: "0 8-22 * * *"
+    # From 8AM EST to 10PM EST
+    - cron: "0 13-23,0-3 * * *"
 
 jobs:
   update_stats:
