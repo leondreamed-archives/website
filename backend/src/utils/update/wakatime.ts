@@ -1,6 +1,7 @@
 import { Buffer } from 'node:buffer';
 import process from 'node:process';
 import { got } from 'got';
+import camelcaseKeys from 'camelcase-keys';
 import type {
 	CamelcasedWakatimeStatsResponse,
 	WakatimeData,
@@ -21,7 +22,9 @@ export async function getWakatimeData(): Promise<WakatimeData> {
 		}
 	);
 
-	const result = JSON.parse(response.body) as CamelcasedWakatimeStatsResponse;
+	const result = camelcaseKeys(
+		JSON.parse(response.body)
+	) as CamelcasedWakatimeStatsResponse;
 
 	const wakatimeData: WakatimeData = {
 		dailyAverage: result.data.dailyAverage,

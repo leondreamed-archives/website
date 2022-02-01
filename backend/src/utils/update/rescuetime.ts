@@ -1,5 +1,6 @@
 import * as path from 'node:path';
 import process from 'node:process';
+import fs from 'node:fs';
 import { got } from 'got';
 import yaml from 'js-yaml';
 import camelcaseKeys from 'camelcase-keys';
@@ -13,14 +14,16 @@ import type {
 export async function getRescuetimeData(): Promise<RescuetimeData> {
 	const configsPath = getConfigsPath();
 	const rescuetimeConfig = yaml.load(
-		path.join(configsPath, 'rescuetime.yaml')
+		fs.readFileSync(path.join(configsPath, 'rescuetime.yaml')).toString()
 	) as RescuetimeConfig;
 
 	console.info('Retrieving RescueTime data...');
 
 	const response = await got.get(
-		`https://www.rescuetime.com/anapi/data?key=${process.env.RESCUETIME_API_KEY}`
+		`https://www.rescuetime.com/anapi/data?key=${process.env.RESCUETIME_API_KEY}&format=json`
 	);
+
+	console.log(response.body);
 
 	const result = camelcaseKeys(
 		JSON.parse(response.body)
