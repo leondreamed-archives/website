@@ -13,7 +13,7 @@ import type { WakatimeData } from '~/types/wakatime';
 export const getOctokit = onetime(
 	() =>
 		new Octokit({
-			auth: process.env.GITHUB_TOKEN,
+			auth: process.env.GITHUB_ACCESS_TOKEN,
 		})
 );
 
@@ -48,6 +48,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(githubData)).toString('base64'),
+		encoding: 'base64'
 	});
 
 	treeItems.push({
@@ -61,6 +62,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(rescuetimeData)).toString('base64'),
+		encoding: 'base64'
 	});
 
 	treeItems.push({
@@ -74,6 +76,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(wakatimeData)).toString('base64'),
+		encoding: 'base64'
 	});
 
 	treeItems.push({
