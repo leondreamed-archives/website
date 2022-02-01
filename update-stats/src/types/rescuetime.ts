@@ -19,7 +19,7 @@ export type RescuetimeActivity = {
 	timeSpent: number;
 	category: string;
 	/**
-	 * Productivity from 1-5 (1 = Very Distracting, 2 = Distracting, 3 = Neutral, 4 = Productive, 5 = Very Productive)
+	 * Productivity from -2 to 2 (-2 = Very Distracting, -1 = Distracting, 0 = Neutral, 1 = Productive, 2 = Very Productive)
 	 */
 	productivity: number;
 };
