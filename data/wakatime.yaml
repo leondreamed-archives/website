@@ -1,32 +1,32 @@
-dailyAverage: 17009
-totalSeconds: 119063.931111
+dailyAverage: 19938
+totalSeconds: 139563.741564
 languages:
   - name: TypeScript
-    totalSeconds: 55431.979835
+    totalSeconds: 69888.846945
   - name: Vue.js
-    totalSeconds: 31615.159925
-  - name: Markdown
-    totalSeconds: 11661.632641
+    totalSeconds: 31694.965872
   - name: JavaScript
-    totalSeconds: 10306.87145
+    totalSeconds: 11143.792696
+  - name: Markdown
+    totalSeconds: 11006.03305
   - name: JSON
-    totalSeconds: 6144.812609
+    totalSeconds: 7143.651249
   - name: Other
-    totalSeconds: 4356.976788
+    totalSeconds: 5129.882267
   - name: Python
-    totalSeconds: 1132.921101
-  - name: Lua
-    totalSeconds: 1014.930977
+    totalSeconds: 3636.017604
   - name: YAML
-    totalSeconds: 641.239432
-  - name: Git Config
-    totalSeconds: 418.356729
+    totalSeconds: 3261.3607
   - name: Bash
-    totalSeconds: 291.097253
+    totalSeconds: 882.530602
+  - name: Git Config
+    totalSeconds: 316.664017
   - name: HTML
-    totalSeconds: 126.838085
+    totalSeconds: 157.482992
+  - name: Lua
+    totalSeconds: 152.367795
   - name: Rust
-    totalSeconds: 120.783259
+    totalSeconds: 119.617831
   - name: TOML
     totalSeconds: 79.301329
   - name: XML
@@ -36,52 +36,52 @@ languages:
   - name: Elixir
     totalSeconds: 16.436142
   - name: INI
-    totalSeconds: 9.44361
+    totalSeconds: 10.696455
   - name: C++
     totalSeconds: 4.566817
+  - name: Text
+    totalSeconds: 1.849551
   - name: Docker
     totalSeconds: 0.251975
 projects:
   - name: website
-    totalSeconds: 42068.354933
+    totalSeconds: 66653.747431
   - name: ib-simulator
-    totalSeconds: 34494.183143
+    totalSeconds: 24904.77157
   - name: yabai-master-stack-plugin
-    totalSeconds: 18576.408189
+    totalSeconds: 18849.616559
   - name: sync-index
     totalSeconds: 7794.071848
+  - name: leonzalion
+    totalSeconds: 6165.695953
   - name: lion-system
     totalSeconds: 5722.376234
-  - name: leonzalion
-    totalSeconds: 5204.260591
   - name: create-project
-    totalSeconds: 2818.44324
+    totalSeconds: 3295.897091
   - name: configs
-    totalSeconds: 1745.683574
+    totalSeconds: 2437.848597
+  - name: vpciclubs.com
+    totalSeconds: 2174.735304
+  - name: simple-git-hooks
+    totalSeconds: 1635.048908
   - name: lionp
     totalSeconds: 1293.249659
+  - name: lionecs
+    totalSeconds: 1268.411395
   - name: tabulo
     totalSeconds: 946.799065
-  - name: vpciclubs.com
-    totalSeconds: 939.065642
   - name: consistent-type-import-bug
     totalSeconds: 842.957881
   - name: tsconfig-paths
     totalSeconds: 209.319341
-  - name: lionecs
-    totalSeconds: 136.765528
+  - name: nanoid-good
+    totalSeconds: 121.9383
   - name: espanso
     totalSeconds: 119.617831
-  - name: rbx-rodux
-    totalSeconds: 117.475957
-  - name: rojo
-    totalSeconds: 93.005176
+  - name: simple-git-hooks-orig
+    totalSeconds: 97.474332
   - name: jest
     totalSeconds: 88.168484
-  - name: rodux
-    totalSeconds: 86.825809
-  - name: roact-rodux
-    totalSeconds: 51.997726
   - name: node
     totalSeconds: 50.53086
   - name: Unknown Project
