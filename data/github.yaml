@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-02T00:16:07Z'
+    type: PushEvent
+  - date: '2022-02-02T00:16:02Z'
+    type: PushEvent
   - date: '2022-02-02T00:15:34Z'
     type: PushEvent
   - date: '2022-02-02T00:14:59Z'
@@ -55,14 +59,10 @@ events:
     type: ReleaseEvent
   - date: '2022-02-01T17:45:00Z'
     type: CreateEvent
-  - date: '2022-02-01T17:45:00Z'
-    type: PushEvent
-  - date: '2022-02-01T17:44:30Z'
-    type: PushEvent
 latestCommit:
-  message: Update stats on 2022-02-01 7:15 PM
+  message: 'fix: change workflow back to cron scheduling'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/6fdb3730d22dbda029063ce2dd5da69cbad9b577
+    https://api.github.com/repos/leonzalion/website/commits/d0140e21192d3b54205639c7540a0ac0eb71af3d
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
