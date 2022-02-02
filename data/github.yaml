@@ -1,26 +1,10 @@
 events:
-  - date: '2022-02-02T20:00:50Z'
+  - date: '2022-02-02T21:57:42Z'
     type: PushEvent
-  - date: '2022-02-02T19:00:59Z'
-    type: PushEvent
-  - date: '2022-02-02T18:00:38Z'
-    type: PushEvent
-  - date: '2022-02-02T17:03:09Z'
-    type: PushEvent
-  - date: '2022-02-02T16:01:02Z'
+  - date: '2022-02-02T21:57:16Z'
     type: PushEvent
   - date: '2022-02-02T15:32:02Z'
     type: WatchEvent
-  - date: '2022-02-02T15:00:57Z'
-    type: PushEvent
-  - date: '2022-02-02T14:01:17Z'
-    type: PushEvent
-  - date: '2022-02-02T13:03:39Z'
-    type: PushEvent
-  - date: '2022-02-02T03:00:39Z'
-    type: PushEvent
-  - date: '2022-02-02T02:11:46Z'
-    type: PushEvent
   - date: '2022-02-02T01:32:43Z'
     type: PushEvent
   - date: '2022-02-02T01:32:36Z'
@@ -53,16 +37,10 @@ events:
     type: PushEvent
   - date: '2022-02-02T00:09:23Z'
     type: PushEvent
-  - date: '2022-02-02T00:07:36Z'
-    type: PushEvent
-  - date: '2022-02-02T00:04:24Z'
-    type: PushEvent
-  - date: '2022-02-02T00:03:43Z'
-    type: CreateEvent
 latestCommit:
-  message: 'chore: update lion-git-hooks'
+  message: 'chore: test'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/9ae9d0eedb31fd4678c263f9715fe2135dd0ef3a
+    https://api.github.com/repos/leonzalion/website/commits/8c4443e3663e6c0091b5f364aca8691932b394f8
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
