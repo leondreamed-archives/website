@@ -15,6 +15,15 @@ export async function getGithubData(): Promise<GithubData> {
 	});
 
 	for (const eventData of events.data) {
+		// Skipping automated events
+		if (
+			(
+				eventData.payload as { commits?: Array<{ message: string }> }
+			).commits?.[0]?.message.startsWith('[automated]')
+		) {
+			continue;
+		}
+
 		githubData.events.push({
 			date: eventData.created_at!,
 			type: eventData.type!,
@@ -27,19 +36,14 @@ export async function getGithubData(): Promise<GithubData> {
 				}
 			).commits[0]!;
 
-			if (
-				githubData.latestCommit === undefined &&
-				!commit.message.startsWith('[automated]')
-			) {
-				githubData.latestCommit = {
-					message: commit.message,
-					url: commit.url,
-					repo: {
-						url: eventData.repo.url,
-						name: eventData.repo.name,
-					},
-				};
-			}
+			githubData.latestCommit = {
+				message: commit.message,
+				url: commit.url,
+				repo: {
+					url: eventData.repo.url,
+					name: eventData.repo.name,
+				},
+			};
 		}
 	}
 
