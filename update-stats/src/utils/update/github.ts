@@ -27,7 +27,10 @@ export async function getGithubData(): Promise<GithubData> {
 				}
 			).commits[0]!;
 
-			if (githubData.latestCommit === undefined) {
+			if (
+				githubData.latestCommit === undefined &&
+				!commit.message.startsWith('[automated]')
+			) {
 				githubData.latestCommit = {
 					message: commit.message,
 					url: commit.url,

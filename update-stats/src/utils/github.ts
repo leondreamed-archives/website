@@ -48,7 +48,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(githubData)).toString('base64'),
-		encoding: 'base64'
+		encoding: 'base64',
 	});
 
 	treeItems.push({
@@ -62,7 +62,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(rescuetimeData)).toString('base64'),
-		encoding: 'base64'
+		encoding: 'base64',
 	});
 
 	treeItems.push({
@@ -76,7 +76,7 @@ export async function updateGithubRepo({
 		owner,
 		repo,
 		content: Buffer.from(yaml.dump(wakatimeData)).toString('base64'),
-		encoding: 'base64'
+		encoding: 'base64',
 	});
 
 	treeItems.push({
@@ -96,7 +96,7 @@ export async function updateGithubRepo({
 
 	console.info('Creating the commit...');
 	const commitResponse = await octokit.rest.git.createCommit({
-		message: `Update stats on ${dayjs
+		message: `[automated] Update stats on ${dayjs
 			.tz(new Date())
 			.format('YYYY-MM-DD h:mm A')}`,
 		owner,
