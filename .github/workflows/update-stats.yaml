@@ -14,6 +14,7 @@ on:
 jobs:
   update_stats:
     runs-on: ubuntu-latest
+    environment: website-env
 
     steps:
       - name: Checkout code
@@ -35,7 +36,6 @@ jobs:
       - name: Run update stats script
         run: pnpm update-stats
         env:
-          GITHUB_ACCESS_TOKEN: ${{ secrets.website-env.GH_ACCESS_TOKEN }}
-          WAKATIME_API_KEY: ${{ secrets.website-env.WAKATIME_API_KEY }}
-          RESCUETIME_API_KEY: ${{ secrets.website-env.RESCUETIME_API_KEY }}
-          SOME_UNDEFINED_SECRET: ${{ secrets.monke }}
+          GITHUB_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          RESCUETIME_API_KEY: ${{ secrets.RESCUETIME_API_KEY }}
