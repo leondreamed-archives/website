@@ -1,3 +1,4 @@
+import process from 'node:process';
 import dayjs from 'dayjs';
 import timezone from 'dayjs/plugin/timezone.js';
 import utc from 'dayjs/plugin/utc.js';
@@ -10,6 +11,10 @@ import { getWakatimeData } from '~/utils/update/wakatime.js';
 dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault('America/Toronto');
+
+console.log('gh', process.env.GITHUB_ACCESS_TOKEN[0]);
+console.log('wk', process.env.WAKATIME_API_KEY[0]);
+console.log('rt', process.env.RESCUETIME_API_KEY[0]);
 
 const [githubData, rescuetimeData, wakatimeData] = await Promise.all([
 	getGithubData(),
