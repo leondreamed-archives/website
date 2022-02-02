@@ -38,3 +38,4 @@ jobs:
           GITHUB_ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           RESCUETIME_API_KEY: ${{ secrets.RESCUETIME_API_KEY }}
+          SOME_UNDEFINED_SECRET: ${{ secrets.monke }}

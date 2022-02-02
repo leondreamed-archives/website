@@ -12,7 +12,7 @@ dayjs.extend(utc);
 dayjs.extend(timezone);
 dayjs.tz.setDefault('America/Toronto');
 
-console.log('gh', Object.keys(process.env));
+console.log('gh', process.env.SOME_UNDEFINED_SECRET, process.env.RESCUETIME_API_KEY[0]);
 
 const [githubData, rescuetimeData, wakatimeData] = await Promise.all([
 	getGithubData(),
