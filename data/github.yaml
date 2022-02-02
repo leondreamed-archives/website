@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-02T15:32:02Z'
+    type: WatchEvent
+  - date: '2022-02-02T15:00:57Z'
+    type: PushEvent
   - date: '2022-02-02T14:01:17Z'
     type: PushEvent
   - date: '2022-02-02T13:03:39Z'
@@ -54,10 +58,6 @@ events:
   - date: '2022-02-02T00:00:33Z'
     type: CreateEvent
   - date: '2022-02-02T00:00:33Z'
-    type: PushEvent
-  - date: '2022-02-02T00:00:18Z'
-    type: PushEvent
-  - date: '2022-02-01T23:43:08Z'
     type: PushEvent
 latestCommit:
   message: 'chore: update lion-git-hooks'
