@@ -29,8 +29,6 @@ events:
     type: IssueCommentEvent
   - date: '2022-02-03T00:43:56Z'
     type: PushEvent
-  - date: '2022-02-03T00:07:26Z'
-    type: IssuesEvent
 latestCommit:
   message: updaets
   url: >-
