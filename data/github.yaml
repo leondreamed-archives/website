@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-03T17:00:10Z'
+    type: PushEvent
   - date: '2022-02-03T06:19:04Z'
     type: CreateEvent
   - date: '2022-02-03T04:39:52Z'
@@ -21,8 +23,6 @@ events:
     type: PushEvent
   - date: '2022-02-02T21:57:16Z'
     type: PushEvent
-  - date: '2022-02-02T15:32:02Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: skip automated commits'
   url: >-

@@ -6,16 +6,16 @@ topActivities:
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
-    timeSpent: 742
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 358
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 338
+    timeSpent: 1269
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 337
+    timeSpent: 396
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 367
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 354
