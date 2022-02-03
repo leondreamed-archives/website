@@ -25,8 +25,6 @@ events:
     type: PushEvent
   - date: '2022-02-02T01:22:59Z'
     type: PushEvent
-  - date: '2022-02-02T00:54:23Z'
-    type: CreateEvent
 latestCommit:
   message: Update stats on 2022-02-01 8:22 PM
   url: >-
