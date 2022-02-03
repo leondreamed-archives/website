@@ -6,7 +6,13 @@
 
 **DaVinci Resolve Studio:** The animations are made with DaVinci Resolve Studio, and the Studio version is needed because I leverage DaVinci's Fusion Scripts that automate exporting projects into transparent videos.
 
-- **Python 3.6:** Fusion scripts require Python 3.6 installed on the system.
+- **Python 3.6.x:** Fusion scripts require a Python 3.6 version installed on the system.
+
+## Flow
+
+The animated effects are stored in DaVinci Resolve Project Files which are synced to the website via a script (TODO: set up a script in DaVinci that autosaves the file to the `website` repository).
+
+The videos in the project files should be exported from DaVinci Resolve into the website's `public/videos` folder. (TODO: see if there's a way to export to Apple ProRes 4444 directly from DaVinci to save time instead of converting the videos to the intermediary format).
 
 ## Stats
 
