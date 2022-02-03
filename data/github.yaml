@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-03T21:11:47Z'
+    type: WatchEvent
+  - date: '2022-02-03T21:03:59Z'
+    type: PushEvent
+  - date: '2022-02-03T21:03:59Z'
+    type: CreateEvent
+  - date: '2022-02-03T21:01:10Z'
+    type: PushEvent
+  - date: '2022-02-03T21:00:48Z'
+    type: PushEvent
   - date: '2022-02-03T20:40:31Z'
     type: CreateEvent
   - date: '2022-02-03T20:40:05Z'
@@ -21,20 +31,10 @@ events:
     type: PushEvent
   - date: '2022-02-03T00:07:26Z'
     type: IssuesEvent
-  - date: '2022-02-03T00:06:11Z'
-    type: PushEvent
-  - date: '2022-02-03T00:05:23Z'
-    type: PushEvent
-  - date: '2022-02-03T00:05:03Z'
-    type: PushEvent
-  - date: '2022-02-03T00:03:29Z'
-    type: CreateEvent
-  - date: '2022-02-03T00:03:20Z'
-    type: CreateEvent
 latestCommit:
-  message: update readme
+  message: updaets
   url: >-
-    https://api.github.com/repos/leonzalion/vue-tsc-bug/commits/805ba63de30bb8572176b425176d038660f785e2
+    https://api.github.com/repos/leonzalion/macos-configs/commits/f1aae6af07c4cf282eddc7edeca02098c143db0a
   repo:
-    url: https://api.github.com/repos/leonzalion/vue-tsc-bug
-    name: leonzalion/vue-tsc-bug
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
