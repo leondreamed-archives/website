@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-02-02T00:14:59Z'
     type: PushEvent
-  - date: '2022-02-02T00:11:33Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: test'
+  message: 'fix: update workflow'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/24ef443cc8eb5e424c8ea457766f281d1883ede8
+    https://api.github.com/repos/leonzalion/website/commits/e3b3e7f52ea16c0a8df5efd76ef6eda0f692d3e0
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
