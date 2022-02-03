@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-03T06:19:04Z'
+    type: CreateEvent
+  - date: '2022-02-03T04:39:52Z'
+    type: IssueCommentEvent
   - date: '2022-02-03T00:43:56Z'
     type: PushEvent
   - date: '2022-02-03T00:07:26Z'
@@ -19,16 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-02T15:32:02Z'
     type: WatchEvent
-  - date: '2022-02-02T01:32:43Z'
-    type: PushEvent
-  - date: '2022-02-02T01:32:36Z'
-    type: PushEvent
-  - date: '2022-02-02T01:22:59Z'
-    type: PushEvent
 latestCommit:
-  message: Update stats on 2022-02-01 8:22 PM
+  message: 'feat: skip automated commits'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/3aff7e9e44af201d05eca4e7f1df24796478ec82
+    https://api.github.com/repos/leonzalion/website/commits/9e7914431c5d69c6cc38cff790b0df31fa3ce157
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
