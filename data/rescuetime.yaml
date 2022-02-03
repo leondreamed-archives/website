@@ -3,19 +3,19 @@ topActivities:
     name: discord
     productivity: -2
     timeSpent: 1653
+  - category: General Reference & Learning
+    name: tdsb.elearningontario.ca
+    productivity: 2
+    timeSpent: 726
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 358
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 338
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 337
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 316
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 253
-  - category: Music
-    name: soundcloud.com
-    productivity: -2
-    timeSpent: 222
