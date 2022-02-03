@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-03T20:40:31Z'
+    type: CreateEvent
+  - date: '2022-02-03T20:40:05Z'
+    type: CreateEvent
+  - date: '2022-02-03T20:39:10Z'
+    type: PushEvent
+  - date: '2022-02-03T20:39:09Z'
+    type: CreateEvent
+  - date: '2022-02-03T20:36:37Z'
+    type: PushEvent
   - date: '2022-02-03T17:10:44Z'
     type: PushEvent
   - date: '2022-02-03T17:00:10Z'
@@ -21,14 +31,10 @@ events:
     type: CreateEvent
   - date: '2022-02-03T00:03:20Z'
     type: CreateEvent
-  - date: '2022-02-02T21:57:42Z'
-    type: PushEvent
-  - date: '2022-02-02T21:57:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: skip automated commits'
+  message: update readme
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/9e7914431c5d69c6cc38cff790b0df31fa3ce157
+    https://api.github.com/repos/leonzalion/vue-tsc-bug/commits/805ba63de30bb8572176b425176d038660f785e2
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/vue-tsc-bug
+    name: leonzalion/vue-tsc-bug
