@@ -1,32 +1,30 @@
-dailyAverage: 19693
-totalSeconds: 137851.954532
+dailyAverage: 20520
+totalSeconds: 143637.615907
 languages:
   - name: TypeScript
-    totalSeconds: 67060.017339
+    totalSeconds: 65414.835917
   - name: Vue.js
-    totalSeconds: 33815.3407
-  - name: JavaScript
-    totalSeconds: 11767.854256
+    totalSeconds: 47697.390254
   - name: JSON
-    totalSeconds: 9330.582329
+    totalSeconds: 8143.781278
+  - name: JavaScript
+    totalSeconds: 7308.938025
   - name: Other
-    totalSeconds: 6229.452281
-  - name: Markdown
-    totalSeconds: 5481.431059
+    totalSeconds: 6712.593198
   - name: YAML
-    totalSeconds: 4604.347425
+    totalSeconds: 4659.205238
   - name: Python
     totalSeconds: 3636.017604
+  - name: Markdown
+    totalSeconds: 3457.43165
   - name: Bash
-    totalSeconds: 939.866024
-  - name: CSS
-    totalSeconds: 376.468563
-  - name: Git Config
-    totalSeconds: 330.99658
+    totalSeconds: 1263.619889
   - name: HTML
-    totalSeconds: 204.237944
-  - name: Rust
-    totalSeconds: 119.617831
+    totalSeconds: 1185.266372
+  - name: CSS
+    totalSeconds: 376.991024
+  - name: Git Config
+    totalSeconds: 307.084307
   - name: TOML
     totalSeconds: 79.301329
   - name: XML
@@ -41,60 +39,62 @@ languages:
     totalSeconds: 10.696455
   - name: C++
     totalSeconds: 4.566817
+  - name: Perl
+    totalSeconds: 1.877471
   - name: Text
     totalSeconds: 1.849551
   - name: Docker
     totalSeconds: 0.251975
 projects:
   - name: website
-    totalSeconds: 68597.990767
-  - name: yabai-master-stack-plugin
-    totalSeconds: 18550.611211
+    totalSeconds: 68797.878428
+  - name: timeblocker
+    totalSeconds: 42323.724146
   - name: lion-git-hooks
     totalSeconds: 13260.177214
-  - name: timeblocker
-    totalSeconds: 12716.672603
   - name: leonzalion
-    totalSeconds: 6381.139658
-  - name: lion-system
-    totalSeconds: 5722.376234
-  - name: create-project
-    totalSeconds: 3011.28871
+    totalSeconds: 5780.724905
+  - name: yabai-master-stack-plugin
+    totalSeconds: 5356.098836
   - name: trpc-esm
     totalSeconds: 2610.481933
-  - name: configs
-    totalSeconds: 2495.381429
   - name: vpciclubs.com
-    totalSeconds: 2207.239791
+    totalSeconds: 2305.409785
   - name: simple-git-hooks
     totalSeconds: 1873.566425
-  - name: lionp
-    totalSeconds: 1293.249659
+  - name: configs
+    totalSeconds: 1538.687585
   - name: lionecs
     totalSeconds: 1268.411395
   - name: tabulo
-    totalSeconds: 946.799065
+    totalSeconds: 1005.725103
   - name: consistent-type-import-bug
     totalSeconds: 842.957881
   - name: ts-node
     totalSeconds: 655.151865
+  - name: create-project
+    totalSeconds: 603.509359
   - name: jest
     totalSeconds: 515.209691
+  - name: vue-hcaptcha
+    totalSeconds: 344.911441
+  - name: vue-tsc-bug
+    totalSeconds: 315.286368
   - name: tabulo-rewrite
     totalSeconds: 218.336536
-  - name: tsconfig-paths
-    totalSeconds: 209.319341
   - name: simple-git-hooks-orig
     totalSeconds: 199.897616
   - name: ib-simulator
     totalSeconds: 182.021182
   - name: nanoid-good
     totalSeconds: 121.9383
-  - name: espanso
-    totalSeconds: 119.617831
+  - name: trpc
+    totalSeconds: 112.586057
   - name: node
     totalSeconds: 50.53086
+  - name: timeblocker-old
+    totalSeconds: 45.639006
   - name: Unknown Project
     totalSeconds: 21.347188
-  - name: timeblocker-old
-    totalSeconds: 9.692428
+  - name: textbelt
+    totalSeconds: 0
