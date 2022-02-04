@@ -35,12 +35,10 @@ events:
     type: CreateEvent
   - date: '2022-02-03T21:01:10Z'
     type: PushEvent
-  - date: '2022-02-03T21:00:48Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add typings'
+  message: 'chore: format'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/871e41b2b61d1219c50efd88e681a929901b75c7
+    https://api.github.com/repos/leonzalion/create-project/commits/faf93597a04d13c37576503434165296ee9b82d3
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
