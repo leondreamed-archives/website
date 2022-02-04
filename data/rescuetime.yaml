@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2204
+    timeSpent: 2704
   - category: Writing
     name: Notion
     productivity: 2
@@ -10,12 +10,12 @@ topActivities:
   - category: Writing
     name: microsoft word
     productivity: 2
-    timeSpent: 1730
+    timeSpent: 1821
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 943
+    timeSpent: 1030
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 691
+    timeSpent: 867
