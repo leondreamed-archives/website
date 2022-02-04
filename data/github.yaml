@@ -27,12 +27,10 @@ events:
     type: CreateEvent
   - date: '2022-02-03T04:39:52Z'
     type: IssueCommentEvent
-  - date: '2022-02-03T00:43:56Z'
-    type: PushEvent
 latestCommit:
-  message: updaets
+  message: 'docs: update readme'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/f1aae6af07c4cf282eddc7edeca02098c143db0a
+    https://api.github.com/repos/leonzalion/website/commits/424c282472aad8c7b015de6556d8a1c8165e109b
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/website
+    name: leonzalion/website
