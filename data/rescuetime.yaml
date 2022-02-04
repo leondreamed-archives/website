@@ -1,21 +1,21 @@
 topActivities:
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1673
+  - category: General Business
+    name: Google Forms
+    productivity: 2
+    timeSpent: 440
+  - category: Instant Message
+    name: slack.com
+    productivity: -1
+    timeSpent: 102
   - category: Browsers
     name: Firefox
     productivity: 0
-    timeSpent: 83
+    timeSpent: 101
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 66
-  - category: Uncategorized
-    name: grammarly desktop
-    productivity: 0
-    timeSpent: 14
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 12
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 2
