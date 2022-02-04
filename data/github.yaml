@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-04T19:42:45Z'
+    type: WatchEvent
   - date: '2022-02-04T18:35:17Z'
     type: PushEvent
   - date: '2022-02-04T18:34:53Z'
