@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-02-04T00:08:17Z'
     type: PushEvent
-  - date: '2022-02-04T00:07:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: add readme'
+  message: 'fix: capitalize'
   url: >-
-    https://api.github.com/repos/leonzalion/phone-call-pass/commits/65ad73a55723361f1208ec019ccd8ff1e2d1fba1
+    https://api.github.com/repos/leonzalion/create-project/commits/80112debacd263c2d91a85be8452bbd30452e7a5
   repo:
-    url: https://api.github.com/repos/leonzalion/phone-call-pass
-    name: leonzalion/phone-call-pass
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
