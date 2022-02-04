@@ -37,8 +37,6 @@ events:
     type: PushEvent
   - date: '2022-02-03T21:00:48Z'
     type: PushEvent
-  - date: '2022-02-03T20:40:31Z'
-    type: CreateEvent
 latestCommit:
   message: 'feat: add typings'
   url: >-
