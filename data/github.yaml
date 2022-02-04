@@ -1,4 +1,16 @@
 events:
+  - date: '2022-02-04T01:04:27Z'
+    type: WatchEvent
+  - date: '2022-02-04T00:48:07Z'
+    type: WatchEvent
+  - date: '2022-02-04T00:08:58Z'
+    type: PushEvent
+  - date: '2022-02-04T00:08:46Z'
+    type: PushEvent
+  - date: '2022-02-04T00:08:17Z'
+    type: PushEvent
+  - date: '2022-02-04T00:07:45Z'
+    type: PushEvent
   - date: '2022-02-03T21:11:47Z'
     type: WatchEvent
   - date: '2022-02-03T21:03:59Z'
@@ -23,10 +35,6 @@ events:
     type: PushEvent
   - date: '2022-02-03T17:00:10Z'
     type: PushEvent
-  - date: '2022-02-03T06:19:04Z'
-    type: CreateEvent
-  - date: '2022-02-03T04:39:52Z'
-    type: IssueCommentEvent
 latestCommit:
   message: 'docs: update readme'
   url: >-
