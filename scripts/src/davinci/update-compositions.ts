@@ -7,8 +7,6 @@ import {
 
 await startFusionServer();
 
-const compositionsToRender = await getChangedCompositions();
-
-await renderCompositions(compositionsToRender);
-
-await convertCompositions(compositionsToRender);
+const updatedCompositions = await getChangedCompositions();
+const renderedCompositions = await renderCompositions(updatedCompositions);
+await convertCompositions(renderedCompositions);

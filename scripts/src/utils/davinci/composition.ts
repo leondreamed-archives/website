@@ -43,8 +43,8 @@ export async function getChangedCompositions(): Promise<DavinciComposition[]> {
 
 	// Rename compositions to old composition files
 	for (const composition of compositions) {
-		const oldCompositionPath = getOldCompositionPath(composition);
-		if (fs.existsSync(oldCompositionPath)) {
+		if (fs.existsSync(composition.compFilePath)) {
+			const oldCompositionPath = getOldCompositionPath(composition);
 			fs.renameSync(composition.compFilePath, oldCompositionPath);
 		}
 	}
@@ -88,7 +88,7 @@ export async function getChangedCompositions(): Promise<DavinciComposition[]> {
 
 export async function renderCompositions(
 	updatedCompositions: DavinciComposition[]
-) {
+): Promise<DavinciComposition[]> {
 	const compositionsToRender = new Set<DavinciComposition>(updatedCompositions);
 
 	// Get all compositions without a render
@@ -119,4 +119,6 @@ export async function renderCompositions(
 	});
 
 	renderSpinner.stop();
+
+	return [...compositionsToRender.values()];
 }
