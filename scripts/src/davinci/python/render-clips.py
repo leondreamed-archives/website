@@ -9,9 +9,26 @@ resolve = dvr_script.scriptapp("Resolve")
 fusion = resolve.Fusion()
 projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
-davinciProjectExportPath = os.path.normpath(os.path.join(dirname, '../../../davinci/project.drp'));
+# davinciProjectExportPath = os.path.normpath(os.path.join(dirname, '../../../davinci/project.drp'));
 
+videoExportFolder = os.path.normpath(os.path.join(dirname, '../../../../assets'))
 projectName = os.environ['PROJECT_NAME']
 project = projectManager.LoadProject(projectName)
 
-print(project.GetRenderCodecs("QuickTime"))
+timeline = project.GetTimelineByIndex(1)
+timelineItems = timeline.GetItemListInTrack("video", 1)
+
+# Remove all active render jobs
+project.DeleteAllRenderJobs()
+
+project.SetCurrentRenderFormatAndCodec("mov", "ProRes444")
+for timelineItem in timelineItems:
+	project.SetRenderSettings({
+		'MarkIn': timelineItem.GetStart(),
+		'MarkOut': timelineItem.GetEnd(),
+		'TargetDir': videoExportFolder,
+		'CustomName': timelineItem.GetName()
+	})
+	project.AddRenderJob()
+
+project.StartRendering()
