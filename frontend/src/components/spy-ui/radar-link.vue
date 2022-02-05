@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { ref, onMounted } from 'vue';
 import TransparentVideo from '~/components/transparent-video.vue';
+import { uiColor } from '~/utils/ui';
 
 defineProps<{
 	x: number;
@@ -35,7 +36,8 @@ onMounted(() => {
 				target="_blank"
 			>
 				<v-icon
-					class="text-white hover:scale-125 transform transition-transform"
+					:style="{ color: uiColor }"
+					class="hover:scale-125 transform transition-transform"
 					:size="size * 0.7"
 					:path="icon"
 				></v-icon>

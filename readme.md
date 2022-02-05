@@ -21,3 +21,9 @@ The videos in the project files should be exported from DaVinci Resolve into the
 **GitHub:** Contribution Graph
 
 **WakaTime:** Programming Languages Pie Chart & Project Time Dashboard Graph
+
+## DaVinci Flow
+
+1. All Fusion compositions are stored in one project.
+2. When the compositions are updated,
+3.
