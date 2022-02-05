@@ -4,7 +4,7 @@ import process from 'node:process';
 import type { Buffer } from 'node:buffer';
 import fs from 'node:fs';
 import path from 'node:path';
-import { execaSync, execa } from 'execa';
+import { execa } from 'execa';
 import yaml from 'js-yaml';
 import type { DavinciComposition, DavinciConfig } from '../types/davinci.js';
 import { getRootPath } from './paths.js';
@@ -24,13 +24,26 @@ export async function runDavinciScript({
 
 	console.info('Running the DaVinci script...');
 
-	execaSync(fuscriptPath, [scriptPath], {
-		env: {
-			PYTHONPATH: `${process.env
-				.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
-			...envVars,
-		},
-		stdio: 'inherit',
+	const scriptProcess = execa(
+		'script',
+		['-q', '/dev/null', fuscriptPath, '-l', 'python3', scriptPath],
+		{
+			stdio: 'pipe',
+			env: {
+				PYTHONPATH: `${process.env
+					.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
+				...envVars,
+			},
+		}
+	);
+
+	// Excludes some weird "Exception ignored in:" message from the output
+	// that only appears when using Python 3 with DaVinci
+	scriptProcess.stdout?.on('data', (data: Buffer) => {
+		const dataString = data.toString();
+		if (!dataString.includes('Exception ignored in:')) {
+			console.info(dataString);
+		}
 	});
 
 	// Don't kill the Fusion server if it was already started before this script was run

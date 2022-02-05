@@ -9,30 +9,17 @@ projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 rootPath = os.path.join(dirname, '../../../..')
 
-videoExportFolder = os.path.normpath(os.path.join(rootPath, './assets'))
 projectName = os.environ['PROJECT_NAME']
 
 project = projectManager.LoadProject(projectName)
 
 timeline = project.GetTimelineByIndex(1)
 timelineItems = timeline.GetItemListInTrack("video", 1)
+compositionFolder = os.path.join(dirname, './assets/davinci/compositions')
+if not os.path.exists(compositionFolder):
+	os.makedirs(compositionFolder)
 
-# Remove all active render jobs
-project.DeleteAllRenderJobs()
-
-project.SetCurrentRenderFormatAndCodec("mov", "ProRes444")
 for timelineItem in timelineItems:
 	name = timelineItem.GetName()
-	start = timelineItem.GetStart()
-	# Subtracting 1 from the end or otherwise it renders a frame of the next clip
-	end = timelineItem.GetEnd() - 1
-	project.SetRenderSettings({
-		'MarkIn': start,
-		'MarkOut': end,
-		'TargetDir': videoExportFolder,
-		'CustomName': name,
-		'ExportAlpha': True
-	})
-	project.AddRenderJob()
-
-project.StartRendering()
+	fusionComp = timelineItem.GetFusionCompByIndex(1)
+	timelineItem.ExportFusionComp(os.path.join(rootPath, './assets/davinci/compositions/' + name + '.comp'), 1)
