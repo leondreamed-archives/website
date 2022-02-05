@@ -14,10 +14,43 @@ const avConvert = '/usr/bin/avconvert';
 
 const tasks = new Listr([], { concurrent: true });
 
+const videoWidth = 1920;
+const videoHeight = 1080;
+
 for (const composition of compositions) {
 	tasks.add({
-		title: `Converting ${composition.name}`,
-		async task() {
+		async task(ctx, task) {
+			task.title = `Cropping ${composition.name}.mov`;
+
+			const cropWidth = composition.metadata.width;
+			const cropHeight = composition.metadata.height;
+			const cropX = (videoWidth - cropWidth) / 2;
+			const cropY = (videoHeight - cropHeight) / 2;
+
+			const croppedVideoPath = path.join(
+				path.dirname(composition.path),
+				`${composition.name}.cropped.mov`
+			);
+
+			await fs.promises.rm(croppedVideoPath, { force: true });
+
+			await execa(ffmpegPath, [
+				'-i',
+				composition.path,
+				'-filter:v',
+				`crop=${cropWidth}:${cropHeight}:${cropX}:${cropY}`,
+				'-c:v',
+				'prores_ks',
+				'-profile:v',
+				'4',
+				'-vendor',
+				'apl0',
+				'-pix_fmt',
+				'yuva444p10le',
+				croppedVideoPath,
+			]);
+
+			task.title = `Converting ${composition.name}.mov`;
 			// HEVC
 			const hevcPath = path.join(
 				frontendVideosPath,
@@ -30,7 +63,7 @@ for (const composition of compositions) {
 				'--preset',
 				'PresetHEVC1920x1080WithAlpha',
 				'--source',
-				composition.path,
+				croppedVideoPath,
 				'--output',
 				hevcPath,
 			]);
@@ -43,7 +76,7 @@ for (const composition of compositions) {
 			await fs.promises.rm(webmPath, { recursive: true, force: true });
 			await execa(ffmpegPath, [
 				'-i',
-				composition.path,
+				croppedVideoPath,
 				'-stats_period',
 				'0.1',
 				'-c:v',
@@ -53,6 +86,8 @@ for (const composition of compositions) {
 				'-nostdin',
 				webmPath,
 			]);
+
+			await fs.promises.rm(croppedVideoPath, { force: true });
 		},
 	});
 }

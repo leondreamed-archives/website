@@ -1,6 +1,10 @@
 export type DavinciComposition = {
 	name: string;
-	metadata: Record<string, unknown>;
+	metadata: {
+		[x: string]: unknown;
+		width: number;
+		height: number;
+	};
 };
 
 export type DavinciConfig = {

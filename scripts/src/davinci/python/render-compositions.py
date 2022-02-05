@@ -9,7 +9,9 @@ resolve = dvr_script.scriptapp("Resolve")
 fusion = resolve.Fusion()
 projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
-videoExportFolder = os.path.normpath(os.path.join(dirname, '../../../../assets'))
+rootPath = os.path.join(dirname, '../../../..')
+
+videoExportFolder = os.path.normpath(os.path.join(rootPath, './assets'))
 projectName = os.environ['PROJECT_NAME']
 
 project = projectManager.LoadProject(projectName)
@@ -31,6 +33,7 @@ for timelineItem in timelineItems:
 		'MarkOut': end,
 		'TargetDir': videoExportFolder,
 		'CustomName': name,
+		'ExportAlpha': True
 	})
 	project.AddRenderJob()
 
