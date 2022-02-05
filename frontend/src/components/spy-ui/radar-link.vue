@@ -2,13 +2,14 @@
 import { ref, onMounted } from 'vue';
 import TransparentVideo from '~/components/transparent-video.vue';
 
-const props = defineProps<{
+defineProps<{
+	x: number;
+	y: number;
+	size: number;
 	name: string;
 	icon: string;
+	href: string;
 }>();
-
-const width = 200;
-const height = 200;
 
 const radarVideo = ref<HTMLVideoElement>();
 onMounted(() => {
@@ -18,19 +19,27 @@ onMounted(() => {
 
 <template>
 	<svg>
-		<foreignObject :width="width" :height="height">
+		<foreignObject :x="x" :y="y" :width="size" :height="size">
 			<TransparentVideo
 				ref="radarVideo"
 				video-name="radar"
 				loop
 				autoplay
-				:width="width"
-				:height="height"
-				class="absolute"
+				:width="size"
+				:height="size"
+				class="absolute -z-10"
 			/>
-			<div class="w-full h-full column center">
-				<v-icon class="text-white" :path="icon"></v-icon>
-			</div>
+			<a
+				class="w-full h-full column center z-10 group"
+				:href="href"
+				target="_blank"
+			>
+				<v-icon
+					class="text-white hover:scale-125 transform transition-transform"
+					:size="size * 0.7"
+					:path="icon"
+				></v-icon>
+			</a>
 		</foreignObject>
 	</svg>
 </template>
