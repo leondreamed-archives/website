@@ -34,7 +34,9 @@ export async function getGithubData(): Promise<GithubData> {
 				eventData.payload as {
 					commits: Array<{ message: string; url: string }>;
 				}
-			).commits[0]!;
+			).commits[0];
+
+			if (commit === undefined) continue;
 
 			githubData.latestCommit = {
 				message: commit.message,
