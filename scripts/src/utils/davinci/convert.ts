@@ -28,7 +28,7 @@ export async function convertCompositions(compositions: DavinciComposition[]) {
 				const cropY = (videoHeight - cropHeight) / 2;
 
 				const croppedVideoPath = path.join(
-					path.dirname(composition.compFilePath),
+					path.dirname(composition.renderPath),
 					`${composition.name}.cropped.mov`
 				);
 
