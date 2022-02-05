@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-05T00:16:30Z'
+    type: WatchEvent
   - date: '2022-02-05T00:00:19Z'
     type: IssueCommentEvent
   - date: '2022-02-04T23:57:48Z'
@@ -31,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-02-04T12:55:32Z'
     type: PushEvent
-  - date: '2022-02-04T01:56:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: readme'
+  message: 'fix: remove temp file'
   url: >-
-    https://api.github.com/repos/leonzalion/phone-call-pass/commits/38cce43f8ce5ff94768d0dc3bba255c617aa3225
+    https://api.github.com/repos/leonzalion/phone-call-pass/commits/9ed5bdfb12abb27537bbf4127d7d5c08fef8ee91
   repo:
     url: https://api.github.com/repos/leonzalion/phone-call-pass
     name: leonzalion/phone-call-pass
