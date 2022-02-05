@@ -9,7 +9,9 @@ resolve = dvr_script.scriptapp("Resolve")
 fusion = resolve.Fusion()
 projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
-davinciProjectExportPath = os.path.normpath(os.path.join(dirname, '../../../davinci/project.drp'));
+davinciProjectExportPath = os.path.normpath(os.path.join(dirname, '../../../../assets/project.drp'));
+
 projectName = os.environ['PROJECT_NAME']
-if projectManager.ExportProject(projectName, davinciProjectExportPath) == False:
-	raise "Failed to export project " + projectName
+result = projectManager.ExportProject(projectName, davinciProjectExportPath)
+if result == False:
+	raise Exception("Failed to export project " + projectName)

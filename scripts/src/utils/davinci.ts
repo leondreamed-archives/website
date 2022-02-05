@@ -68,19 +68,21 @@ export async function runDavinciScript({
 }
 
 export function getProjectName() {
-	const projectDir = getRootPath();
-
-	const davinciConfigString = fs
-		.readFileSync(path.join(projectDir, 'davinci/config.yaml'))
-		.toString();
-
-	const { projectName } = yaml.load(davinciConfigString) as {
-		projectName: string;
-	};
+	const { projectName } = getDavinciConfig();
 
 	if (projectName === undefined) {
-		throw new Error('Could not find projectName in davinci/config.yaml');
+		throw new Error('Could not find projectName in configs/davinci.yaml');
 	}
 
 	return projectName;
+}
+
+export function getDavinciConfig() {
+	const projectDir = getRootPath();
+
+	const davinciConfigString = fs
+		.readFileSync(path.join(projectDir, 'configs/davinci.yaml'))
+		.toString();
+
+	return yaml.load(davinciConfigString) as { projectName: string };
 }
