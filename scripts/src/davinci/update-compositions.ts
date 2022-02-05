@@ -10,4 +10,5 @@ await startFusionServer();
 const compositionsToRender = await getChangedCompositions();
 
 await renderCompositions(compositionsToRender);
+
 await convertCompositions(compositionsToRender);

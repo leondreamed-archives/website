@@ -15,11 +15,11 @@ project = projectManager.LoadProject(projectName)
 
 timeline = project.GetTimelineByIndex(1)
 timelineItems = timeline.GetItemListInTrack("video", 1)
-compositionFolder = os.path.join(dirname, './assets/davinci/compositions')
-if not os.path.exists(compositionFolder):
-	os.makedirs(compositionFolder)
+compositionFilesFolder = os.path.join(rootPath, './assets/davinci/composition-files')
+if not os.path.exists(compositionFilesFolder):
+	os.makedirs(compositionFilesFolder)
 
 for timelineItem in timelineItems:
 	name = timelineItem.GetName()
 	fusionComp = timelineItem.GetFusionCompByIndex(1)
-	timelineItem.ExportFusionComp(os.path.join(rootPath, './assets/davinci/compositions-files/' + name + '.comp'), 1)
+	timelineItem.ExportFusionComp(os.path.join(compositionFilesFolder, name + '.comp'), 1)

@@ -2,9 +2,8 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
-import { Listr } from 'listr2';
 import onetime from 'onetime';
-import pWaitFor from 'p-wait-for';
+import ora from 'ora';
 import type { DavinciComposition } from '../../types/davinci.js';
 import { getDavinciPythonScriptPath, getRootPath } from '../paths.js';
 import { getDavinciConfig, getProjectName } from './config.js';
@@ -31,6 +30,11 @@ export function getDavinciCompositions(): DavinciComposition[] {
 }
 
 export async function getChangedCompositions(): Promise<DavinciComposition[]> {
+	const getChangedCompositionsSpinner = ora(
+		'🔎 Retrieving changed compositions...'
+	);
+	getChangedCompositionsSpinner.start();
+
 	const compositions = getDavinciCompositions();
 	const compositionFilesFolder = getDavinciCompositionFilesFolder();
 
@@ -77,36 +81,42 @@ export async function getChangedCompositions(): Promise<DavinciComposition[]> {
 		fs.rmSync(getOldCompositionPath(composition), { force: true });
 	}
 
+	getChangedCompositionsSpinner.stop();
+
 	return changedCompositions;
 }
 
-export async function renderCompositions(compositions: DavinciComposition[]) {
+export async function renderCompositions(
+	updatedCompositions: DavinciComposition[]
+) {
+	const compositionsToRender = new Set<DavinciComposition>(updatedCompositions);
+
+	// Get all compositions without a render
+	for (const composition of getDavinciCompositions()) {
+		if (!fs.existsSync(composition.renderPath)) {
+			compositionsToRender.add(composition);
+		}
+	}
+
 	// Remove old composition renders
-	for (const composition of compositions) {
+	for (const composition of compositionsToRender) {
 		fs.rmSync(composition.renderPath, { recursive: true, force: true });
 	}
+
+	const renderSpinner = ora(
+		'🎬 Waiting for compositions to finish rendering...'
+	);
+	renderSpinner.start();
 
 	await runDavinciScript({
 		scriptPath: getDavinciPythonScriptPath('render-compositions'),
 		envVars: {
 			PROJECT_NAME: getProjectName(),
+			COMPOSITION_NAMES_TO_RENDER: JSON.stringify(
+				[...compositionsToRender.values()].map((comp) => comp.name)
+			),
 		},
 	});
 
-	const tasks = new Listr([], {
-		concurrent: true,
-	});
-
-	for (const composition of compositions) {
-		tasks.add({
-			title: `Waiting for ${composition.name}.mov to finish rendering...`,
-			async task() {
-				return pWaitFor(() => fs.existsSync(composition.renderPath), {
-					interval: 500,
-				});
-			},
-		});
-	}
-
-	await tasks.run();
+	renderSpinner.stop();
 }

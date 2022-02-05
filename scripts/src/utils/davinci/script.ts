@@ -41,6 +41,8 @@ export async function runDavinciScript({
 		}
 	});
 
+	await scriptProcess;
+
 	// Don't kill the Fusion server if it was already started before this script was run
 	if (davinciProcessPid !== undefined) {
 		process.kill(davinciProcessPid);
