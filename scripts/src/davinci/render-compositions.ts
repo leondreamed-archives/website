@@ -1,28 +1,20 @@
 /* eslint-disable @typescript-eslint/naming-convention */
 
-import path from 'node:path';
 import fs from 'node:fs';
 import { join } from 'desm';
 import pWaitFor from 'p-wait-for';
 import { Listr } from 'listr2';
 import {
-	getDavinciConfig,
+	getDavinciCompositions,
 	getProjectName,
 	runDavinciScript,
 } from '../utils/davinci.js';
-import { getRootPath } from '../utils/paths.js';
 
-const rootPath = getRootPath();
-
-const davinciConfig = getDavinciConfig();
-const fusionCompositions = Object.keys(davinciConfig.fusionCompositions);
-const fusionCompositionPaths = fusionCompositions.map((comp) =>
-	path.join(rootPath, `./assets/${comp}.mov`)
-);
+const fusionCompositions = getDavinciCompositions();
 
 // Remove old compositions
-for (const fusionCompositionPath of fusionCompositionPaths) {
-	fs.rmSync(fusionCompositionPath, { recursive: true, force: true });
+for (const fusionComposition of fusionCompositions) {
+	fs.rmSync(fusionComposition.path, { recursive: true, force: true });
 }
 
 const renderCompositionsScriptPath = join(
@@ -41,19 +33,13 @@ const tasks = new Listr([], {
 	concurrent: true,
 });
 
-for (const fusionCompositionName of Object.keys(
-	davinciConfig.fusionCompositions
-)) {
+for (const fusionComposition of fusionCompositions) {
 	tasks.add({
-		title: `Waiting for ${fusionCompositionName}.mov to finish rendering...`,
+		title: `Waiting for ${fusionComposition.name}.mov to finish rendering...`,
 		async task() {
-			return pWaitFor(
-				() =>
-					fs.existsSync(
-						path.join(rootPath, `./assets/${fusionCompositionName}.mov`)
-					),
-				{ interval: 500 }
-			);
+			return pWaitFor(() => fs.existsSync(fusionComposition.path), {
+				interval: 500,
+			});
 		},
 	});
 }

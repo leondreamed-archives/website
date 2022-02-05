@@ -5,7 +5,7 @@
 		"start-fusion-server": "node-ts ./src/davinci/start-fusion-server.ts",
 		"export-project": "node-ts ./src/davinci/export-project.ts",
 		"render-compositions": "node-ts ./src/davinci/render-compositions.ts",
-		"convert-videos": "node-ts ./src/videos/convert-alpha-videos.ts",
+		"convert-compositions": "node-ts ./src/davinci/convert-compositions.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
 		"tc": "tsc --noEmit"
