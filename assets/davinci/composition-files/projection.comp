@@ -1,0 +1,322 @@
+Composition {
+	CurrentTime = 0,
+	RenderRange = { 0, 119 },
+	GlobalRange = { 0, 119 },
+	CurrentID = 97,
+	HiQ = true,
+	PlaybackUpdateMode = 0,
+	Version = "DaVinci Resolve Studio 17.4.2.0009",
+	SavedOutputs = 0,
+	HeldTools = 0,
+	DisabledTools = 0,
+	LockedTools = 0,
+	AudioOffset = 0,
+	Resumable = true,
+	OutputClips = {
+	},
+	Tools = {
+		sEllipse1Height = BezierSpline {
+			SplineColor = { Red = 0, Green = 255, Blue = 255 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[5] = { 0, RH = { 6, 0.00375 }, Flags = { Linear = true } },
+				[8] = { 0.03, LH = { 6.425, 0.02835 } }
+			}
+		},
+		MediaOut1 = Saver {
+			Inputs = {
+				Index = Input { Value = "0", },
+				Input = Input {
+					SourceOp = "Merge1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1375, 16.5 } },
+		},
+		Polygon1BorderWidth = BezierSpline {
+			SplineColor = { Red = 16, Green = 35, Blue = 248 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[3] = { 0, RH = { 3.33333333333333, 0.002 }, Flags = { Linear = true } },
+				[4] = { 0.006, LH = { 3.66666666666667, 0.004 }, Flags = { Linear = true } }
+			}
+		},
+		Merge1 = Merge {
+			CtrlWZoom = false,
+			Inputs = {
+				Background = Input {
+					SourceOp = "sRender1",
+					Source = "Output",
+				},
+				Foreground = Input {
+					SourceOp = "Background1",
+					Source = "Output",
+				},
+				PerformDepthMerge = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 1155, 16.5 } },
+		},
+		sEllipse1 = sEllipse {
+			EnabledRegion = TimeRegion { { Start = 0, End = 119.9999 } },
+			Inputs = {
+				["Translate.X"] = Input { Value = -0.287850885072419, },
+				["Translate.Y"] = Input { Value = 0.17355973441211, },
+				Width = Input {
+					SourceOp = "sEllipse1Width",
+					Source = "Value",
+				},
+				Height = Input {
+					SourceOp = "sEllipse1Height",
+					Source = "Value",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 770, -82.5 } },
+		},
+		sTransform1YSize = BezierSpline {
+			SplineColor = { Red = 252, Green = 91, Blue = 43 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[0] = { 0, RH = { 3, -0.00133333333333333 }, Flags = { Linear = true } },
+				[9] = { -0.004, LH = { 6, -0.00266666666666667 }, RH = { 13.3333333333333, 0.461833333333333 }, Flags = { Linear = true } },
+				[22] = { 0.86, LH = { 12.25, 0.7625 } }
+			}
+		},
+		Background1 = Background {
+			Inputs = {
+				EffectMask = Input {
+					SourceOp = "Polygon1",
+					Source = "Mask",
+				},
+				GlobalOut = Input { Value = 119, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				TopLeftRed = Input { Value = 1, },
+				TopLeftGreen = Input { Value = 1, },
+				TopLeftBlue = Input { Value = 1, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 1155, -49.5 } },
+		},
+		sEllipse1Width = BezierSpline {
+			SplineColor = { Red = 225, Green = 255, Blue = 0 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[5] = { 0, RH = { 6, 0.00375 }, Flags = { Linear = true } },
+				[8] = { 0.03, LH = { 6.44375, 0.0285 } }
+			}
+		},
+		sMerge1 = sMerge {
+			Inputs = {
+				Input1 = Input {
+					SourceOp = "sOutline1",
+					Source = "Output",
+				},
+				Input2 = Input {
+					SourceOp = "sOutline2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 880, 49.5 } },
+		},
+		sOutline2 = sOutline {
+			Inputs = {
+				Thickness = Input {
+					SourceOp = "sOutline2Thickness",
+					Source = "Value",
+				},
+				Input = Input {
+					SourceOp = "sTransform1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 880, -16.5 } },
+		},
+		Polygon1Length = BezierSpline {
+			SplineColor = { Red = 141, Green = 167, Blue = 243 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[5] = { 0, RH = { 8.65714285714285, 0.4 }, Flags = { Linear = true } },
+				[10] = { 1, LH = { 9.04285714285714, 0.662857142857143 } }
+			}
+		},
+		Polygon1Polyline = BezierSpline {
+			SplineColor = { Red = 173, Green = 255, Blue = 47 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[-5] = { 0, RH = { -3.33333333333333, 0.333333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
+						Points = {
+							{ Linear = true, X = -0.202247191011236, Y = 0.0906821963394343, RX = 0.0290262172284644, RY = -0.0970604547975596 },
+							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0290262172284644, LY = 0.0970604547975596, RX = 0.0278881165177094, RY = -0.000162243491244884 },
+							{ Linear = true, X = -0.0315041897727146, Y = -0.200985898526979, LX = -0.0278881165177094, LY = 0.000162243491244884 }
+						}
+					} },
+				[0] = { 1, LH = { -1.66666666666667, 0.666666666666667 }, RH = { 2, 1.33333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
+						Points = {
+							{ Linear = true, X = -0.213915802446475, Y = 0.1155784618996, RX = 0.0329157543735441, RY = -0.105359209984282 },
+							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0329157543735441, LY = 0.105359209984282, RX = 0.0278727916927189, RY = -0.000216741779998618 },
+							{ Linear = true, X = -0.0315501642476861, Y = -0.20114939339324, LX = -0.0278727916927189, LY = 0.000216741779998618 }
+						}
+					} },
+				[6] = { 2, LH = { 4, 1.66666666666667 }, RH = { 6.33333333333333, 2.33333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
+						Points = {
+							{ Linear = true, X = -0.209323639236478, Y = 0.102461074668975, RX = 0.031385033303545, RY = -0.100986747574073 },
+							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.031385033303545, LY = 0.100986747574073, RX = 0.0278544019027303, RY = -0.000282139726503099 },
+							{ Linear = true, X = -0.0316053336176519, Y = -0.201345587232754, LX = -0.0278544019027303, LY = 0.000282139726503099 }
+						}
+					} },
+				[7] = { 3, LH = { 6.66666666666667, 2.66666666666667 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
+						Points = {
+							{ Linear = true, X = -0.207605257027943, Y = 0.0935251892453371, RX = 0.0308122392340333, RY = -0.0980081190995272 },
+							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0308122392340333, LY = 0.0980081190995272, RX = 0.0278513369377322, RY = -0.000293039384253846 },
+							{ Linear = true, X = -0.0316145285126462, Y = -0.201378286206006, LX = -0.0278513369377322, LY = 0.000293039384253846 }
+						}
+					} }
+			}
+		},
+		Polygon1 = PolylineMask {
+			DrawMode = "ModifyOnly",
+			DrawMode2 = "InsertAndModify",
+			EnabledRegion = TimeRegion { { Start = 0, End = 119.9999, FrameLength = 1 } },
+			Inputs = {
+				Filter = Input { Value = FuID { "Fast Gaussian" }, },
+				BorderWidth = Input {
+					SourceOp = "Polygon1BorderWidth",
+					Source = "Value",
+				},
+				WriteLength = Input {
+					SourceOp = "Polygon1Length",
+					Source = "Value",
+				},
+				MaskWidth = Input { Value = 1920, },
+				MaskHeight = Input { Value = 1080, },
+				PixelAspect = Input { Value = { 1, 1 }, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				ClippingMode = Input { Value = FuID { "None" }, },
+				Center = Input { Value = { 0.426275992438563, 0.691596638655462 }, },
+				Polyline = Input {
+					SourceOp = "Polygon1Polyline",
+					Source = "Value",
+				},
+				Polyline2 = Input {
+					Value = Polyline {
+					},
+					Disabled = true,
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1155, -82.5 } },
+		},
+		sTransform1 = sTransform {
+			Inputs = {
+				XSize = Input {
+					SourceOp = "sTransform1XSize",
+					Source = "Value",
+				},
+				YSize = Input {
+					SourceOp = "sTransform1YSize",
+					Source = "Value",
+				},
+				XPivot = Input { Value = -0.105549065565662, },
+				YPivot = Input { Value = -0.00536567479701738, },
+				Input = Input {
+					SourceOp = "sRectangle1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 880, -49.5 } },
+		},
+		sRender1 = sRender {
+			Inputs = {
+				GlobalOut = Input { Value = 119, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "sMerge1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1045, 16.5 } },
+		},
+		sOutline2Thickness = BezierSpline {
+			SplineColor = { Red = 243, Green = 29, Blue = 58 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[9] = { 0, RH = { 9.33333333333333, 0.00166666666666667 }, Flags = { Linear = true } },
+				[10] = { 0.005, LH = { 9.66666666666667, 0.00333333333333333 }, Flags = { Linear = true } }
+			}
+		},
+		sTransform1XSize = BezierSpline {
+			SplineColor = { Red = 251, Green = 168, Blue = 44 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[0] = { 0, RH = { 1, 0 }, Flags = { Linear = true } },
+				[3] = { 0, LH = { 2, 0 }, RH = { 5, 0 }, Flags = { Linear = true } },
+				[9] = { 0, LH = { 7, 0 }, RH = { 13.3333333333333, 0.541666666666667 }, Flags = { Linear = true } },
+				[22] = { 1, LH = { 9.64999999999999, 0.934999999999999 } }
+			}
+		},
+		sOutline1 = sOutline {
+			Inputs = {
+				Thickness = Input { Value = 0.006, },
+				Input = Input {
+					SourceOp = "sEllipse1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 770, -49.5 } },
+		},
+		sRectangle1 = sRectangle {
+			Inputs = {
+				["Translate.X"] = Input { Value = 0.110586011342155, },
+				["Translate.Y"] = Input { Value = -0.131313772873346, },
+				Width = Input { Value = 0.433, },
+				Height = Input { Value = 0.252, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 880, -82.5 } },
+		}
+	},
+	Frames = {
+	},
+	Prefs = {
+		Comp = {
+			Interactive = {
+				Proxy = {
+					Scale = 1,
+				},
+			},
+			Views = {
+				RightView = {
+					Guides = { Center = false }
+				},
+				LeftView = {
+					Viewer = {
+						Channel = 4294967295
+					}
+				},
+			},
+			FrameFormat = {
+				Rate = 24,
+				GuideRatio = 1.77777777777778,
+				DepthFull = 3,
+				DepthPreview = 3,
+				DepthInteractive = 3,
+			},
+			PolyKeyListDlg = {
+				Window = {
+					Left = 1229,
+					Top = 572
+				}
+			},
+			Unsorted = {
+				GlobalEnd = 119
+			},
+			Paths = {
+			},
+			ActionStrip = {
+				ToolbarName = "Shapes"
+			},
+		}
+	},
+}

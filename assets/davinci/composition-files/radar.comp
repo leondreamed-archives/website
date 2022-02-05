@@ -1,0 +1,535 @@
+Composition {
+	CurrentTime = 39,
+	RenderRange = { 0, 39 },
+	GlobalRange = { 0, 39 },
+	CurrentID = 123,
+	HiQ = true,
+	PlaybackUpdateMode = 0,
+	Version = "DaVinci Resolve Studio 17.4.2.0009",
+	SavedOutputs = 0,
+	HeldTools = 0,
+	DisabledTools = 0,
+	LockedTools = 0,
+	AudioOffset = 0,
+	Resumable = true,
+	OutputClips = {
+	},
+	CustomData = { TEMPLATE_ID = "Fusion Generator" },
+	Tools = {
+		Background1 = Background {
+			Inputs = {
+				EffectMask = Input {
+					SourceOp = "Merge1",
+					Source = "Output",
+				},
+				GlobalOut = Input { Value = 39, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Type = Input { Value = FuID { "Gradient" }, },
+				Start = Input { Value = { 0.373397435897436, 0.793447293447293 }, },
+				End = Input { Value = { 0.421474358974359, 0.437321937321937 }, },
+				Gradient = Input {
+					Value = Gradient {
+						Colors = {
+							[0] = { 0, 1, 0, 1 },
+							[1] = { 0, 0, 0, 0 }
+						}
+					},
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 440, 82.5 } },
+		},
+		sRender1 = sRender {
+			Inputs = {
+				GlobalOut = Input { Value = 39, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "sMerge1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 220, 115.5 } },
+		},
+		MediaOut1 = Saver {
+			Inputs = {
+				Index = Input { Value = "0", },
+				Input = Input {
+					SourceOp = "Merge2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 770, 82.5 } },
+		},
+		Transform1Rotate = BezierSpline {
+			SplineColor = { Red = 221, Green = 242, Blue = 243 },
+			CtrlWZoom = false,
+			KeyFrames = {
+				[0] = { 0, RH = { 13.3333333333333, 240 }, Flags = { Linear = true } },
+				[40] = { 720, LH = { 26.6666666666667, 480 }, Flags = { Linear = true } }
+			}
+		},
+		sMerge1 = sMerge {
+			Inputs = {
+				Input1 = Input {
+					SourceOp = "sEllipse1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 220, 49.5 } },
+		},
+		Background3 = Background {
+			Inputs = {
+				EffectMask = Input {
+					SourceOp = "sRender3",
+					Source = "Output",
+				},
+				GlobalOut = Input { Value = 39, },
+				Width = Input { Value = 1000, },
+				Height = Input { Value = 1000, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				TopLeftGreen = Input { Value = 0.244, },
+				TopLeftAlpha = Input { Value = 0.268, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, -16.5 } },
+		},
+		sRender2 = sRender {
+			Inputs = {
+				GlobalOut = Input { Value = 39, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				Input = Input {
+					SourceOp = "sNGon1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 220, 148.5 } },
+		},
+		RadarBackground = GroupOperator {
+			NameSet = true,
+			Outputs = {
+				Output1 = InstanceOutput {
+					SourceOp = "sRender3",
+					Source = "Output",
+				}
+			},
+			ViewInfo = GroupInfo {
+				Pos = { 550, -16.5 },
+				Flags = {
+					AllowPan = false,
+					GridSnap = true,
+					AutoSnap = true,
+					RemoveRouters = true
+				},
+				Size = { 566, 198.364, 283, 24.2424 },
+				Direction = "Horizontal",
+				PipeStyle = "Direct",
+				Scale = 1,
+				Offset = { 0, 124.136 }
+			},
+			Tools = ordered() {
+				sEllipse2 = sEllipse {
+					CtrlWShown = false,
+					ViewInfo = OperatorInfo { Pos = { -220, -115.5 } },
+				},
+				sEllipse2_1 = sEllipse {
+					CtrlWShown = false,
+					Inputs = {
+						Width = Input { Value = 0.375, },
+						Height = Input { Value = 0.375, },
+						Red = Input { Value = 0, },
+						Green = Input { Value = 0, },
+						Blue = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { -220, -82.5 } },
+				},
+				sEllipse2_2 = sEllipse {
+					CtrlWShown = false,
+					Inputs = {
+						Width = Input { Value = 0.25, },
+						Height = Input { Value = 0.25, },
+						Red = Input { Value = 0, },
+						Green = Input { Value = 0, },
+						Blue = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { -220, -49.5 } },
+				},
+				sEllipse2_2_1 = sEllipse {
+					CtrlWShown = false,
+					Inputs = {
+						Width = Input { Value = 0.125, },
+						Height = Input { Value = 0.125, },
+						Red = Input { Value = 0, },
+						Green = Input { Value = 0, },
+						Blue = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { -220, -16.5 } },
+				},
+				sRectangle1 = sRectangle {
+					CtrlWShown = false,
+					Inputs = {
+						JoinStyle = Input { Value = 0, },
+						Width = Input { Value = 0.005, },
+						Red = Input { Value = 0, },
+						Green = Input { Value = 0, },
+						Blue = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { -220, 16.5 } },
+				},
+				sMerge3 = sMerge {
+					CtrlWShown = false,
+					Inputs = {
+						Input1 = Input {
+							SourceOp = "sEllipse2_1",
+							Source = "Output",
+						},
+						Input2 = Input {
+							SourceOp = "sEllipse2",
+							Source = "Output",
+						},
+						Input4 = Input {
+							SourceOp = "sEllipse2_2_1",
+							Source = "Output",
+						},
+						Input3 = Input {
+							SourceOp = "sEllipse2_2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { -110, -82.5 } },
+				},
+				sOutline1_1 = sOutline {
+					CtrlWShown = false,
+					Inputs = {
+						Thickness = Input { Value = 0.0048, },
+						Input = Input {
+							SourceOp = "sMerge3",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 0, -82.5 } },
+				},
+				sDuplicate1 = sDuplicate {
+					CtrlWShown = false,
+					Inputs = {
+						Copies = Input { Value = 3, },
+						ZRotation = Input { Value = 45, },
+						Input = Input {
+							SourceOp = "sRectangle1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { -110, 16.5 } },
+				},
+				sMerge2 = sMerge {
+					CtrlWShown = false,
+					Inputs = {
+						Input2 = Input {
+							SourceOp = "sOutline1_1",
+							Source = "Output",
+						},
+						Input4 = Input {
+							SourceOp = "sDuplicate1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 110, -82.5 } },
+				},
+				sRender3 = sRender {
+					CtrlWShown = false,
+					Inputs = {
+						GlobalOut = Input { Value = 39, },
+						Width = Input { Value = 1920, },
+						Height = Input { Value = 1080, },
+						UseFrameFormatSettings = Input { Value = 1, },
+						["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+						Input = Input {
+							SourceOp = "sMerge2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 220, -82.5 } },
+				}
+			},
+		},
+		Merge1 = Merge {
+			Inputs = {
+				EffectMask = Input {
+					SourceOp = "sRender2",
+					Source = "Output",
+				},
+				Background = Input {
+					SourceOp = "Background2",
+					Source = "Output",
+				},
+				Foreground = Input {
+					SourceOp = "sRender1",
+					Source = "Output",
+				},
+				PerformDepthMerge = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 330, 115.5 } },
+		},
+		sEllipse1 = sEllipse {
+			Inputs = {
+				Alpha = Input { Value = 0.394, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 110, 49.5 } },
+		},
+		Merge2 = Merge {
+			CtrlWZoom = false,
+			Inputs = {
+				Background = Input {
+					SourceOp = "Background3",
+					Source = "Output",
+				},
+				Foreground = Input {
+					SourceOp = "Transform1",
+					Source = "Output",
+				},
+				PerformDepthMerge = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 660, 82.5 } },
+		},
+		Transform1 = ofx.com.blackmagicdesign.resolvefx.Transform {
+			CtrlWZoom = false,
+			Inputs = {
+				Source = Input {
+					SourceOp = "Background1",
+					Source = "Output",
+				},
+				controlMode = Input { Value = FuID { "TransformControlsSliders" }, },
+				controlGroup = Input { Value = 1, },
+				serializedWarpable = Input {
+					Value = Text {
+					},
+				},
+				serializedPinnable = Input {
+					Value = Text {
+					},
+				},
+				controlReset = Input { Value = 0, },
+				posX = Input { Value = 0, },
+				posY = Input { Value = 0, },
+				zoom = Input { Value = 1, },
+				rotate = Input {
+					SourceOp = "Transform1Rotate",
+					Source = "Value",
+				},
+				flipH = Input { Value = 0, },
+				flipV = Input { Value = 0, },
+				scaleX = Input { Value = 1, },
+				scaleY = Input { Value = 1, },
+				pitch = Input { Value = 0, },
+				yaw = Input { Value = 0, },
+				advancedGroup = Input { Value = 1, },
+				motionBlur = Input { Value = 0, },
+				isCrop = Input { Value = 0, },
+				cropL = Input { Value = 0, },
+				cropR = Input { Value = 0, },
+				cropT = Input { Value = 0, },
+				cropB = Input { Value = 0, },
+				edgeBehaviour = Input { Value = FuID { "Constant" }, },
+				edgeSoftness = Input { Value = 0, },
+				edgeRounding = Input { Value = 0, },
+				previewAlpha = Input { Value = 0, },
+				isLegacyCrop = Input { Value = 0, },
+				isLegacyAlphaHandling = Input { Value = 0, },
+				blendGroup = Input { Value = 0, },
+				blendIn = Input { Value = 1, },
+				blend = Input { Value = 0, },
+				ignoreContentShape = Input { Value = 0, },
+				legacyIsProcessRGBOnly = Input { Value = 0, },
+				refreshTrigger = Input { Value = 1, },
+				resolvefxVersion = Input { Value = "1.2", },
+			},
+			ViewInfo = OperatorInfo { Pos = { 550, 82.5 } },
+		},
+		Background2 = Background {
+			Inputs = {
+				GlobalOut = Input { Value = 39, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				TopLeftAlpha = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 330, 49.5 } },
+		},
+		sNGon1 = sNGon {
+			Inputs = {
+				Sides = Input { Value = 3, },
+				["Translate.X"] = Input { Value = -0.25, },
+				Red = Input { Value = 0, },
+				Green = Input { Value = 0, },
+				Blue = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 110, 115.5 } },
+		}
+	},
+	Frames = {
+		{
+			FrameTypeID = "ChildFrame",
+			Mode = 3,
+			LayoutPreset = 0,
+			PresetName = "Current",
+			Left = 0,
+			Top = 0,
+			Width = 1444,
+			Height = 607,
+			ZoneInfo = { ["!Right"] = {
+				}, ["!Left"] = {
+				}, AuxLeft = { Expanded = true }, Right = { Expanded = false, Adjust = false }, Left = { Expanded = false, }, AuxRight = { Expanded = true } },
+			ViewInfo = { Viewer1 = { Show = true, RatioY = 0.01, RatioX = 1.0530612244898, }, InnerLeft = { RatioY = 100, PixelX = 420, }, MainSplit = { RatioX = 100, RatioY = 0.998426435877263, }, CenterSplit = { RatioX = 1, RatioY = 100, }, Viewer2 = { Show = true, RatioY = 0.01, RatioX = 0.946938775510204, }, Comments = { Show = false }, Time = { Show = true, RatioX = 100, }, InnerColumns = { RatioX = 100, RatioY = 2.00157356412274, }, Keyframes = { Show = false, }, LayoutStrip = { Show = true, }, Inspector = { Show = true, RatioY = 1, RatioX = 100, }, InnerRight = { PixelX = 420, RatioY = 100, }, ActionStrip = { Show = true, RatioX = 100, }, OuterColumns = { RatioX = 100, RatioY = 1, }, Effects = { Show = false, }, Clips = { Show = false, }, Metadata = { Show = false, }, OuterLeft = {
+				}, ViewerSplit = { RatioX = 100, RatioY = 1, }, Nodes = { Show = true, RatioY = 100, RatioX = 1.0019783404772, }, OuterRight = { RatioY = 100, PixelX = 420, }, MediaPool = { Show = true, Adjust = false, RatioY = 100, MRU = 1, RatioX = 1, }, Spline = { Show = true, Adjust = false, RatioY = 100, MRU = 2, RatioX = 0.998067417992897, } },
+			Views = ordered() {
+				MediaPool = "MediaPoolView",
+				Effects = MultiView {
+					Active = "EffectView",
+					ViewList = ordered() {
+						EffectView = "EffectView"
+					},
+				},
+				Nodes = MultiView {
+					Active = "FlowView",
+					ViewList = ordered() {
+						FlowView = "FlowView"
+					},
+					FlowView = FlowView {
+						Flags = {
+							Navigator = true,
+							AutoHideNavigator = true,
+							GridSnap = true,
+							AutoSnap = true,
+							RemoveRouters = true
+						},
+						NavigatorSize = { 200, 140 },
+						Direction = "Horizontal",
+						PipeStyle = "Direct",
+						RootScale = 1,
+						RootOffset = { -296.714, 63.3605 }
+					}
+				},
+				Keyframes = MultiView {
+					Active = "TimelineView",
+					ViewList = ordered() {
+						TimelineView = "TimelineView"
+					},
+					TimelineView = TimelineView {
+						TreeControlState = {
+						},
+						DisplayMode = "All Tools",
+						ShowCurrentTimeTools = false,
+						Filter = "Show All",
+						ShowSelectedTools = false,
+						ShowAnimatedToolsOnly = false,
+						ShowEditBoxes = false,
+						KeyFrameView = {
+							Position = { Left = 232, Bottom = 356 },
+							ScaleX = 0.902758620689655,
+							OffsetX = -59.5820689655172,
+							OffsetY = 0,
+							AutoScaling = "scroll",
+							AutoSnapTo = "frame",
+							AutoSnapToGuidelines = true,
+							GuidelinesGrabEnabled = true,
+							GuidelinesSnapTo = "none"
+						},
+						Spreadsheet = { LeftPos = 232, Visible = false }
+					}
+				},
+				Spline = MultiView {
+					Active = "SplineView",
+					ViewList = ordered() {
+						SplineView = "SplineEditorView"
+					},
+					SplineView = SplineEditorView {
+						LeftPos = 264,
+						ScaleX = 0.2,
+						ScaleY = 0.00335570469798658,
+						OffsetX = -6,
+						OffsetY = 0.338926174496645,
+						AutoScaling = "scroll",
+						AutoSnapTo = "frame",
+						AutoSnapToGuidelines = true,
+						GuidelinesSnapTo = "frame",
+						ShowKeyMarkers = false,
+						IndependentHandles = false,
+						ShowNonSplineModifiers = false,
+						GuidelinesGrabEnabled = true,
+						ShowOneToolOnly = false,
+						ShowSelectedTools = false,
+						ShowAllInputs = false,
+						Filter = "Show All"
+					}
+				},
+				Inspector = MultiView {
+					Active = "Tools",
+					ViewList = ordered() {
+						Tools = "ControlView",
+						Modifiers = "ModifierView"
+					},
+				},
+				Viewer1 = MultiView {
+					Active = "LeftView",
+					ViewList = ordered() {
+						LeftView = "PreviewContainer"
+					},
+				},
+				Viewer2 = MultiView {
+					Active = "RightView",
+					ViewList = ordered() {
+						RightView = "PreviewContainer"
+					},
+				},
+				Time = "TimeView",
+				ActionStrip = "ActionStripView",
+				LayoutStrip = "LayoutStripView",
+				Clips = "ClipsView",
+				Metadata = "MetadataView"
+			},
+			Layout = { { ID = "LayoutStrip", FixedY = 36, Resolve = false, Flat = true }, { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, Zone = "Left", Rows = 2, PaneID = "OuterLeft", PixelX = 420 }, { { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, PaneID = "InnerLeft", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Left" }, { { { ID = "Viewer1", RatioY = 0.01, RatioX = 1 }, { ID = "Viewer2", RatioX = 1 }, RatioY = 1, Columns = 2, PaneID = "ViewerSplit" }, { ID = "Time", FixedY = 83, Flat = true }, RatioX = 1, Rows = 2 }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, PaneID = "InnerRight", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Right" }, RatioY = 2, Columns = 3, PaneID = "InnerColumns" }, { ID = "ActionStrip", FixedY = 50, Flat = true }, { { ID = "Nodes", RatioX = 1 }, { ID = "Spline", RatioX = 1 }, { ID = "Keyframes", RatioX = 1 }, RatioY = 1, Columns = 3, PaneID = "MainSplit" }, { Fusion = false, ID = "Clips", LARGE_FixedY = 160, MEDIUM_FixedY = 138, SMALL_FixedY = 110 }, RatioX = 1, Rows = 4, PaneID = "CenterSplit" }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, Zone = "Right", Rows = 2, PaneID = "OuterRight", PixelX = 420 }, RatioY = 1, Columns = 3, PaneID = "OuterColumns" }, RatioX = 1, Rows = 2, RatioY = 1 },
+			TopBar = { Left = { "Left", "MediaPool", "Effects", "Clips", "Nodes", "Console" }, Right = { "Spline", "Keyframes", "Metadata", "Inspector", "Right" } }
+		}
+	},
+	Prefs = {
+		Comp = {
+			Interactive = {
+				Proxy = {
+					Scale = 1,
+				},
+			},
+			Views = {
+				RightView = {
+					Viewer = {
+					},
+				},
+				LeftView = {
+				},
+				View1 = {
+				},
+			},
+			FrameFormat = {
+				Rate = 24,
+				GuideRatio = 1.77777777777778,
+				DepthFull = 3,
+				DepthPreview = 3,
+				DepthInteractive = 3,
+			},
+			Unsorted = {
+				GlobalEnd = 39
+			},
+			Paths = {
+			},
+			ActionStrip = {
+				ToolbarName = "Shapes"
+			},
+		}
+	},
+}
