@@ -22,4 +22,4 @@ if not os.path.exists(compositionFolder):
 for timelineItem in timelineItems:
 	name = timelineItem.GetName()
 	fusionComp = timelineItem.GetFusionCompByIndex(1)
-	timelineItem.ExportFusionComp(os.path.join(rootPath, './assets/davinci/compositions/' + name + '.comp'), 1)
+	timelineItem.ExportFusionComp(os.path.join(rootPath, './assets/davinci/compositions-files/' + name + '.comp'), 1)

@@ -2,11 +2,7 @@
 	"name": "website-scripts",
 	"type": "module",
 	"scripts": {
-		"start-fusion-server": "node-ts ./src/davinci/start-fusion-server.ts",
-		"export-project": "node-ts ./src/davinci/export-project.ts",
-		"detect-changes": "node-ts ./src/davinci/detect-changes.ts",
-		"render-compositions": "node-ts ./src/davinci/render-compositions.ts",
-		"convert-compositions": "node-ts ./src/davinci/convert-compositions.ts",
+		"update-compositions": "node-ts ./src/davinci/update-compositions.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
 		"tc": "tsc --noEmit"

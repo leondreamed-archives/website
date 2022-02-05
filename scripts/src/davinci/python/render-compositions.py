@@ -9,7 +9,7 @@ projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 rootPath = os.path.join(dirname, '../../../..')
 
-videoExportFolder = os.path.normpath(os.path.join(rootPath, './assets'))
+rendersFolder = os.path.normpath(os.path.join(rootPath, './assets/davinci/composition-renders'))
 projectName = os.environ['PROJECT_NAME']
 
 project = projectManager.LoadProject(projectName)
@@ -29,7 +29,7 @@ for timelineItem in timelineItems:
 	project.SetRenderSettings({
 		'MarkIn': start,
 		'MarkOut': end,
-		'TargetDir': videoExportFolder,
+		'TargetDir': rendersFolder,
 		'CustomName': name,
 		'ExportAlpha': True
 	})
