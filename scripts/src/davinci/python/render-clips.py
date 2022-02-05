@@ -9,10 +9,9 @@ resolve = dvr_script.scriptapp("Resolve")
 fusion = resolve.Fusion()
 projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
-# davinciProjectExportPath = os.path.normpath(os.path.join(dirname, '../../../davinci/project.drp'));
-
 videoExportFolder = os.path.normpath(os.path.join(dirname, '../../../../assets'))
 projectName = os.environ['PROJECT_NAME']
+
 project = projectManager.LoadProject(projectName)
 
 timeline = project.GetTimelineByIndex(1)
@@ -23,11 +22,15 @@ project.DeleteAllRenderJobs()
 
 project.SetCurrentRenderFormatAndCodec("mov", "ProRes444")
 for timelineItem in timelineItems:
+	name = timelineItem.GetName()
+	start = timelineItem.GetStart()
+	# Subtracting 1 from the end or otherwise it renders a frame of the next clip
+	end = timelineItem.GetEnd() - 1
 	project.SetRenderSettings({
-		'MarkIn': timelineItem.GetStart(),
-		'MarkOut': timelineItem.GetEnd(),
+		'MarkIn': start,
+		'MarkOut': end,
 		'TargetDir': videoExportFolder,
-		'CustomName': timelineItem.GetName()
+		'CustomName': name,
 	})
 	project.AddRenderJob()
 

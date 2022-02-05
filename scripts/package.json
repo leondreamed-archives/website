@@ -2,6 +2,7 @@
 	"name": "website-scripts",
 	"type": "module",
 	"scripts": {
+		"start-fusion-server": "node-ts ./src/davinci/start-fusion-server.ts",
 		"export-project": "node-ts ./src/davinci/export-project.ts",
 		"render-clips": "node-ts ./src/davinci/render-clips.ts",
 		"convert-videos": "node-ts ./src/videos/convert-alpha-videos.ts",
@@ -15,7 +16,9 @@
 		"ffmpeg-static": "^4.4.1",
 		"js-yaml": "^4.1.0",
 		"lion-system": "^1.0.9",
-		"onetime": "^6.0.0"
+		"onetime": "^6.0.0",
+		"ora": "^6.0.1",
+		"p-wait-for": "^4.1.0"
 	},
 	"devDependencies": {
 		"@types/ffmpeg-static": "^3.0.1",

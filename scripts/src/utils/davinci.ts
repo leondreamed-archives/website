@@ -6,6 +6,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execaSync, execa } from 'execa';
 import yaml from 'js-yaml';
+import type { DavinciConfig } from '../types/davinci.js';
 import { getRootPath } from './paths.js';
 
 type RunDavinciScriptProps = {
@@ -16,36 +17,7 @@ export async function runDavinciScript({
 	scriptPath,
 	envVars,
 }: RunDavinciScriptProps) {
-	const resolveExecutablePath =
-		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/MacOS/Resolve';
-
-	// Using the `script` executable to trick DaVinci into thinking we're
-	// running the command from a TTY (because DaVinci changes its output)
-	// otherwise that hides when the FusionScript Server starts which we
-	// need to know so that we know when to run our DaVinci script
-	const davinciProcess = execa('script', [
-		'-q',
-		'/dev/null',
-		resolveExecutablePath,
-		'-nogui',
-	]);
-
-	console.info('Waiting for the FusionScript server to start...');
-
-	// If the davinciProcess closed, that means the Fusion server has already started
-	const davinciProcessPid = await new Promise<number | undefined>((resolve) => {
-		void davinciProcess.on('close', () => {
-			resolve(undefined);
-		});
-
-		davinciProcess.stdout?.on('data', (data: Buffer) => {
-			const dataString = data.toString();
-			const result = /Host 'Fusion' \[(\d+)] Added/.exec(dataString);
-			if (result !== null) {
-				resolve(Number(result[1]));
-			}
-		});
-	});
+	const davinciProcessPid = await startFusionServer();
 
 	const fuscriptPath =
 		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
@@ -77,12 +49,47 @@ export function getProjectName() {
 	return projectName;
 }
 
-export function getDavinciConfig() {
+export function getDavinciConfig(): DavinciConfig {
 	const projectDir = getRootPath();
 
 	const davinciConfigString = fs
 		.readFileSync(path.join(projectDir, 'configs/davinci.yaml'))
 		.toString();
 
-	return yaml.load(davinciConfigString) as { projectName: string };
+	return yaml.load(davinciConfigString) as DavinciConfig;
+}
+
+export async function startFusionServer(): Promise<number | undefined> {
+	const resolveExecutablePath =
+		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/MacOS/Resolve';
+
+	// Using the `script` executable to trick DaVinci into thinking we're
+	// running the command from a TTY (because DaVinci changes its output)
+	// otherwise that hides when the FusionScript Server starts which we
+	// need to know so that we know when to run our DaVinci script
+	const davinciProcess = execa('script', [
+		'-q',
+		'/dev/null',
+		resolveExecutablePath,
+		'-nogui',
+	]);
+
+	console.info('Waiting for the FusionScript server to start...');
+
+	// If the davinciProcess closed, that means the Fusion server has already started
+	const davinciProcessPid = await new Promise<number | undefined>((resolve) => {
+		void davinciProcess.on('close', () => {
+			resolve(undefined);
+		});
+
+		davinciProcess.stdout?.on('data', (data: Buffer) => {
+			const dataString = data.toString();
+			const result = /Host 'Fusion' \[(\d+)] Added/.exec(dataString);
+			if (result !== null) {
+				resolve(Number(result[1]));
+			}
+		});
+	});
+
+	return davinciProcessPid;
 }

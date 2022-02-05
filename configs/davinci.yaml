@@ -1,1 +1,12 @@
 projectName: leonzalion.com Videos
+fusionCompositions:
+  target:
+    width: 500
+    height: 500
+  projection:
+    width: 1920
+    height: 1080
+  radar:
+    width: 1000
+    height: 1000
+
