@@ -12,11 +12,11 @@ defineExpose({
 <template>
 	<video ref="video" muted>
 		<source
-			:src="`videos/converted/${videoName}-hevc.mp4`"
+			:src="`videos/${videoName}-hevc.mp4`"
 			type='video/mp4; codecs="hvc1"'
 		/>
 		<source
-			:src="`videos/converted/${videoName}-webm.webm`"
+			:src="`videos/${videoName}-webm.webm`"
 			type="video/webm"
 		/>
 	</video>

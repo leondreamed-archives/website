@@ -4,6 +4,7 @@ import LocationTarget from './location-target.vue';
 import ProjectionBox from './projection-box.vue';
 import ScrollDownArrows from './scroll-down-arrows.vue';
 import HeaderTabs from './header-tabs.vue';
+import RadarLinks from './radar-links.vue';
 import StyledBorder from '~/components/spy-ui/styled-border.vue';
 import WorldMap from '~/components/spy-ui/world-map.vue';
 import { ComponentType } from '~/types/component';
@@ -31,6 +32,7 @@ onMounted(async () => {
 		>
 			<StyledBorder />
 			<HeaderTabs />
+			<RadarLinks />
 			<WorldMap />
 			<LocationTarget ref="locationTarget" />
 			<ProjectionBox ref="projectionBox" />

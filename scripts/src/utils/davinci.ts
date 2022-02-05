@@ -2,7 +2,12 @@
 
 import process from 'node:process';
 import type { Buffer } from 'node:buffer';
+import fs from 'node:fs';
+import path from 'node:path';
 import { execaSync, execa } from 'execa';
+import yaml from 'js-yaml';
+import type { DavinciComposition, DavinciConfig } from '../types/davinci.js';
+import { getRootPath } from './paths.js';
 
 type RunDavinciScriptProps = {
 	scriptPath: string;
@@ -12,6 +17,49 @@ export async function runDavinciScript({
 	scriptPath,
 	envVars,
 }: RunDavinciScriptProps) {
+	const davinciProcessPid = await startFusionServer();
+
+	const fuscriptPath =
+		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
+
+	console.info('Running the DaVinci script...');
+
+	execaSync(fuscriptPath, [scriptPath], {
+		env: {
+			PYTHONPATH: `${process.env
+				.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
+			...envVars,
+		},
+		stdio: 'inherit',
+	});
+
+	// Don't kill the Fusion server if it was already started before this script was run
+	if (davinciProcessPid !== undefined) {
+		process.kill(davinciProcessPid);
+	}
+}
+
+export function getProjectName() {
+	const { projectName } = getDavinciConfig();
+
+	if (projectName === undefined) {
+		throw new Error('Could not find projectName in configs/davinci.yaml');
+	}
+
+	return projectName;
+}
+
+export function getDavinciConfig(): DavinciConfig {
+	const projectDir = getRootPath();
+
+	const davinciConfigString = fs
+		.readFileSync(path.join(projectDir, 'configs/davinci.yaml'))
+		.toString();
+
+	return yaml.load(davinciConfigString) as DavinciConfig;
+}
+
+export async function startFusionServer(): Promise<number | undefined> {
 	const resolveExecutablePath =
 		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/MacOS/Resolve';
 
@@ -43,22 +91,16 @@ export async function runDavinciScript({
 		});
 	});
 
-	const fuscriptPath =
-		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
+	return davinciProcessPid;
+}
 
-	console.info('Running the DaVinci script...');
-
-	execaSync(fuscriptPath, [scriptPath], {
-		env: {
-			PYTHONPATH: `${process.env
-				.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
-			...envVars,
-		},
-		stdio: 'inherit',
-	});
-
-	// Don't kill the Fusion server if it was already started before this script was run
-	if (davinciProcessPid !== undefined) {
-		process.kill(davinciProcessPid);
-	}
+type AugmentedDavinciCompositions = DavinciComposition & {
+	path: string;
+};
+export function getDavinciCompositions(): AugmentedDavinciCompositions[] {
+	const rootPath = getRootPath();
+	return getDavinciConfig().fusionCompositions.map((composition) => ({
+		...composition,
+		path: path.join(rootPath, `./assets/${composition.name}.mov`),
+	}));
 }

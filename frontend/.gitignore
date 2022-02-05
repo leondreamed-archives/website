@@ -1,0 +1,3 @@
+# TODO: optimally, videos should not be saved in git but rather saved to S3 when the website is published,
+# with the local development website using `public/videos` for convenience
+public/videos
