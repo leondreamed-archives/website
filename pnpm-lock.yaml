@@ -96,12 +96,14 @@ importers:
       desm: ^1.2.0
       execa: ^6.0.0
       ffmpeg-static: ^4.4.1
+      js-yaml: ^4.1.0
       lion-system: ^1.0.9
       onetime: ^6.0.0
     dependencies:
       desm: 1.2.0
       execa: 6.0.0
       ffmpeg-static: 4.4.1
+      js-yaml: 4.1.0
       lion-system: 1.0.9
       onetime: 6.0.0
     devDependencies:

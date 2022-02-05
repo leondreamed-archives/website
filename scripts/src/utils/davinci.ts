@@ -2,7 +2,11 @@
 
 import process from 'node:process';
 import type { Buffer } from 'node:buffer';
+import fs from 'node:fs';
+import path from 'node:path';
 import { execaSync, execa } from 'execa';
+import yaml from 'js-yaml';
+import { getRootPath } from './paths.js';
 
 type RunDavinciScriptProps = {
 	scriptPath: string;
@@ -61,4 +65,22 @@ export async function runDavinciScript({
 	if (davinciProcessPid !== undefined) {
 		process.kill(davinciProcessPid);
 	}
+}
+
+export function getProjectName() {
+	const projectDir = getRootPath();
+
+	const davinciConfigString = fs
+		.readFileSync(path.join(projectDir, 'davinci/config.yaml'))
+		.toString();
+
+	const { projectName } = yaml.load(davinciConfigString) as {
+		projectName: string;
+	};
+
+	if (projectName === undefined) {
+		throw new Error('Could not find projectName in davinci/config.yaml');
+	}
+
+	return projectName;
 }

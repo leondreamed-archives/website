@@ -2,7 +2,8 @@
 	"name": "website-scripts",
 	"type": "module",
 	"scripts": {
-		"export-project": "node-ts ./src/videos/davinci/export-project.ts",
+		"export-project": "node-ts ./src/davinci/export-project.ts",
+		"render-clips": "node-ts ./src/davinci/render-clips.ts",
 		"convert-videos": "node-ts ./src/videos/convert-alpha-videos.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
@@ -12,6 +13,7 @@
 		"desm": "^1.2.0",
 		"execa": "^6.0.0",
 		"ffmpeg-static": "^4.4.1",
+		"js-yaml": "^4.1.0",
 		"lion-system": "^1.0.9",
 		"onetime": "^6.0.0"
 	},
