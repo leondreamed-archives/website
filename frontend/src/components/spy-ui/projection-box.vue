@@ -44,7 +44,7 @@ defineExpose({
 					ref="projectionVideo"
 					:width="animationWidth"
 					:height="animationHeight"
-					video-name="untitled"
+					video-name="projection"
 				/>
 			</foreignObject>
 		</g>

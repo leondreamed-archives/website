@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import TransparentVideo from '~/components/transparent-video.vue';
+
 const props = defineProps<{
 	name: string;
 	icon: string;
@@ -6,5 +8,5 @@ const props = defineProps<{
 </script>
 
 <template>
-	<TransparentVideo />
+	<TransparentVideo video-name='radar' loop />
 </template>

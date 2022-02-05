@@ -15,5 +15,5 @@ const links = [
 </script>
 
 <template>
-	<RadarLink />
+	<RadarLink v-for="link of links" v-bind="link" :key="link.name" />
 </template>
