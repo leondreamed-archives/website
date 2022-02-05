@@ -6,7 +6,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { execaSync, execa } from 'execa';
 import yaml from 'js-yaml';
-import type { DavinciConfig } from '../types/davinci.js';
+import type { DavinciComposition, DavinciConfig } from '../types/davinci.js';
 import { getRootPath } from './paths.js';
 
 type RunDavinciScriptProps = {
@@ -92,4 +92,15 @@ export async function startFusionServer(): Promise<number | undefined> {
 	});
 
 	return davinciProcessPid;
+}
+
+type AugmentedDavinciCompositions = DavinciComposition & {
+	path: string;
+};
+export function getDavinciCompositions(): AugmentedDavinciCompositions[] {
+	const rootPath = getRootPath();
+	return getDavinciConfig().fusionCompositions.map((composition) => ({
+		...composition,
+		path: path.join(rootPath, `./assets/${composition.name}.mov`),
+	}));
 }

@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { mdiLinkedin, mdiGithub } from '@mdi/js';
+import RadarLink from './radar-link.vue';
 
 const links = [
 	{
@@ -14,7 +15,5 @@ const links = [
 </script>
 
 <template>
-	<svg>
-		<circle v-for="(link, i) of links" :key="i"></circle>
-	</svg>
+	<RadarLink />
 </template>

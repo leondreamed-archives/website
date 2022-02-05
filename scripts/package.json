@@ -4,7 +4,7 @@
 	"scripts": {
 		"start-fusion-server": "node-ts ./src/davinci/start-fusion-server.ts",
 		"export-project": "node-ts ./src/davinci/export-project.ts",
-		"render-clips": "node-ts ./src/davinci/render-clips.ts",
+		"render-compositions": "node-ts ./src/davinci/render-compositions.ts",
 		"convert-videos": "node-ts ./src/videos/convert-alpha-videos.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
@@ -17,6 +17,7 @@
 		"js-yaml": "^4.1.0",
 		"lion-system": "^1.0.9",
 		"listr2": "^4.0.2",
+		"map-obj": "^5.0.0",
 		"onetime": "^6.0.0",
 		"ora": "^6.0.1",
 		"p-wait-for": "^4.1.0"

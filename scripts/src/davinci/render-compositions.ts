@@ -20,15 +20,18 @@ const fusionCompositionPaths = fusionCompositions.map((comp) =>
 	path.join(rootPath, `./assets/${comp}.mov`)
 );
 
-// Remove old clips
+// Remove old compositions
 for (const fusionCompositionPath of fusionCompositionPaths) {
 	fs.rmSync(fusionCompositionPath, { recursive: true, force: true });
 }
 
-const renderClipsScriptPath = join(import.meta.url, './python/render-clips.py');
+const renderCompositionsScriptPath = join(
+	import.meta.url,
+	'./python/render-compositions.py'
+);
 
 await runDavinciScript({
-	scriptPath: renderClipsScriptPath,
+	scriptPath: renderCompositionsScriptPath,
 	envVars: {
 		PROJECT_NAME: getProjectName(),
 	},

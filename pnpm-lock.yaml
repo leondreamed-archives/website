@@ -99,6 +99,7 @@ importers:
       js-yaml: ^4.1.0
       lion-system: ^1.0.9
       listr2: ^4.0.2
+      map-obj: ^5.0.0
       onetime: ^6.0.0
       ora: ^6.0.1
       p-wait-for: ^4.1.0
@@ -109,6 +110,7 @@ importers:
       js-yaml: 4.1.0
       lion-system: 1.0.9
       listr2: 4.0.2
+      map-obj: 5.0.0
       onetime: 6.0.0
       ora: 6.0.1
       p-wait-for: 4.1.0
@@ -5579,7 +5581,6 @@ packages:
   /map-obj/5.0.0:
     resolution: {integrity: sha512-2L3MIgJynYrZ3TYMriLDLWocz15okFakV6J12HXvMXDHui2x/zgChzg1u9mFFGbbGWE+GsLpQByt4POb9Or+uA==}
     engines: {node: ^12.20.0 || ^14.13.1 || >=16.0.0}
-    dev: true
 
   /mdn-data/2.0.14:
     resolution: {integrity: sha512-dn6wd0uw5GsdswPFfsgMp5NSB0/aDe6fK94YJV/AJDYXL6HVLWBsxeq7js7Ad+mU2K9LAlwpk6kN2D5mwCPVow==}
