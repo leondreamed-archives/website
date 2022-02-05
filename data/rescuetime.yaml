@@ -6,7 +6,7 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1908
+    timeSpent: 1956
   - category: Writing
     name: microsoft word
     productivity: 2
@@ -14,7 +14,7 @@ topActivities:
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 1030
+    timeSpent: 1039
   - category: General Software Development
     name: localhost:3000
     productivity: 2
