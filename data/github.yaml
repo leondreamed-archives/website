@@ -1,4 +1,12 @@
 events:
+  - date: '2022-02-05T21:39:15Z'
+    type: WatchEvent
+  - date: '2022-02-05T21:21:23Z'
+    type: PushEvent
+  - date: '2022-02-05T21:19:24Z'
+    type: PushEvent
+  - date: '2022-02-05T21:13:47Z'
+    type: WatchEvent
   - date: '2022-02-05T20:18:55Z'
     type: PushEvent
   - date: '2022-02-05T20:10:41Z'
@@ -49,18 +57,10 @@ events:
     type: CreateEvent
   - date: '2022-02-05T17:03:45Z'
     type: PushEvent
-  - date: '2022-02-05T17:03:21Z'
-    type: PushEvent
-  - date: '2022-02-05T16:17:43Z'
-    type: PushEvent
-  - date: '2022-02-05T07:52:16Z'
-    type: PushEvent
-  - date: '2022-02-05T07:49:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add radar links'
+  message: 1.0.12
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/27efc5d6be0294675b309429e1b1be5676b3edb1
+    https://api.github.com/repos/leonzalion/sync-index/commits/f8c898c665a9ab0cdd73e3e904ca8df4dbe100a9
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/sync-index
+    name: leonzalion/sync-index
