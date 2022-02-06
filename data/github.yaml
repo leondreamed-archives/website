@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-02-05T18:57:22Z'
     type: PushEvent
-  - date: '2022-02-05T18:08:51Z'
-    type: PushEvent
 latestCommit:
-  message: config updates
+  message: 'chore: remove tsm'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b3ea1b6032817dba43be411d30db1d31d87ab3d4
+    https://api.github.com/repos/leonzalion/create-project/commits/4205b1fcc02ad371b724b9473d1966b272789f41
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
