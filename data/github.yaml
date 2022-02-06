@@ -49,12 +49,10 @@ events:
     type: CreateEvent
   - date: '2022-02-05T18:59:54Z'
     type: PushEvent
-  - date: '2022-02-05T18:57:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove tsm'
+  message: 1.0.40
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/4205b1fcc02ad371b724b9473d1966b272789f41
+    https://api.github.com/repos/leonzalion/create-project/commits/611425fc91a62d58d8a06997c9f83d04cf693439
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
