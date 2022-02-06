@@ -1,4 +1,10 @@
 events:
+  - date: '2022-02-05T23:35:01Z'
+    type: PushEvent
+  - date: '2022-02-05T23:22:51Z'
+    type: PushEvent
+  - date: '2022-02-05T23:18:18Z'
+    type: PushEvent
   - date: '2022-02-05T21:39:15Z'
     type: WatchEvent
   - date: '2022-02-05T21:21:23Z'
@@ -49,18 +55,10 @@ events:
     type: PushEvent
   - date: '2022-02-05T17:59:54Z'
     type: PushEvent
-  - date: '2022-02-05T17:55:22Z'
-    type: PushEvent
-  - date: '2022-02-05T17:22:02Z'
-    type: PushEvent
-  - date: '2022-02-05T17:03:45Z'
-    type: CreateEvent
-  - date: '2022-02-05T17:03:45Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.12
+  message: 'fix: davinci script'
   url: >-
-    https://api.github.com/repos/leonzalion/sync-index/commits/f8c898c665a9ab0cdd73e3e904ca8df4dbe100a9
+    https://api.github.com/repos/leonzalion/website/commits/49c96b8791418eaed9e8d6a980589409e4247063
   repo:
-    url: https://api.github.com/repos/leonzalion/sync-index
-    name: leonzalion/sync-index
+    url: https://api.github.com/repos/leonzalion/website
+    name: leonzalion/website
