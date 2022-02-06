@@ -1,30 +1,30 @@
-dailyAverage: 21160
-totalSeconds: 148122.494344
+dailyAverage: 25239
+totalSeconds: 176670.487588
 languages:
   - name: TypeScript
-    totalSeconds: 82736.100772
+    totalSeconds: 100265.209506
   - name: Vue.js
-    totalSeconds: 29658.219421
+    totalSeconds: 30910.673595
   - name: JSON
-    totalSeconds: 9900.962248
-  - name: JavaScript
-    totalSeconds: 7040.535095
+    totalSeconds: 13525.244397
   - name: Python
-    totalSeconds: 6247.056644
+    totalSeconds: 10810.054559
   - name: Other
-    totalSeconds: 5267.429017
+    totalSeconds: 8860.414863
+  - name: JavaScript
+    totalSeconds: 7418.015233
   - name: Markdown
-    totalSeconds: 4555.71726
+    totalSeconds: 5167.898347
   - name: YAML
-    totalSeconds: 4417.902349
+    totalSeconds: 4677.085285
   - name: Bash
-    totalSeconds: 1383.342533
+    totalSeconds: 1688.443097
   - name: HTML
-    totalSeconds: 1066.802209
+    totalSeconds: 1071.464026
   - name: Git Config
     totalSeconds: 503.262723
   - name: CSS
-    totalSeconds: 389.015789
+    totalSeconds: 409.559519
   - name: Rust
     totalSeconds: 171.840109
   - name: Lua
@@ -40,30 +40,34 @@ languages:
   - name: INI
     totalSeconds: 1.252845
 projects:
-  - name: timeblocker
-    totalSeconds: 53181.829045
   - name: website
-    totalSeconds: 52902.126505
+    totalSeconds: 66098.610875
+  - name: timeblocker
+    totalSeconds: 55051.320507
   - name: phone-call-pass
-    totalSeconds: 14011.428673
+    totalSeconds: 14166.959516
   - name: lion-git-hooks
     totalSeconds: 13260.177214
+  - name: SpamShun
+    totalSeconds: 10918.04885
   - name: leonzalion
-    totalSeconds: 3706.684048
+    totalSeconds: 7006.767199
+  - name: create-project
+    totalSeconds: 2886.321688
   - name: yabai-master-stack-plugin
     totalSeconds: 2622.254509
   - name: trpc-esm
     totalSeconds: 2610.481933
   - name: simple-git-hooks
     totalSeconds: 1873.566425
-  - name: create-project
-    totalSeconds: 1470.056086
   - name: configs
     totalSeconds: 1419.483804
   - name: vpciclubs.com
     totalSeconds: 1366.344143
   - name: lionecs
     totalSeconds: 1131.645867
+  - name: sync-index
+    totalSeconds: 859.35904
   - name: ts-node
     totalSeconds: 655.151865
   - name: jest
@@ -74,6 +78,8 @@ projects:
     totalSeconds: 344.911441
   - name: vue-tsc-bug
     totalSeconds: 315.286368
+  - name: electron
+    totalSeconds: 279.096118
   - name: tabulo-rewrite
     totalSeconds: 218.336536
   - name: espanso
@@ -90,6 +96,8 @@ projects:
     totalSeconds: 130.856079
   - name: trpc
     totalSeconds: 112.586057
+  - name: leonzalion-google-workspace
+    totalSeconds: 103.08679
   - name: simple-vue-icon
     totalSeconds: 72.131164
   - name: tabulo
@@ -98,7 +106,11 @@ projects:
     totalSeconds: 50.53086
   - name: timeblocker-old
     totalSeconds: 45.639006
+  - name: vite-electron-builder
+    totalSeconds: 37.139464
   - name: Unknown Project
-    totalSeconds: 43.365913
+    totalSeconds: 28.177156
+  - name: fundamental-particles-project
+    totalSeconds: 21.582157
   - name: textbelt
     totalSeconds: 0
