@@ -1,17 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1194
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 226
-  - category: Browsers
-    name: about:newtab
-    productivity: 0
-    timeSpent: 4
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 3
+    timeSpent: 281
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1
+    timeSpent: 253
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 98
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 78
