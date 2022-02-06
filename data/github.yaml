@@ -47,12 +47,10 @@ events:
     type: WatchEvent
   - date: '2022-02-05T18:59:54Z'
     type: CreateEvent
-  - date: '2022-02-05T18:59:54Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.40
+  message: 'fix: eslint files should not use browser: true'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/611425fc91a62d58d8a06997c9f83d04cf693439
+    https://api.github.com/repos/leonzalion/configs/commits/7e14b4243dafa0775927d4658843f9302c13c6ab
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
