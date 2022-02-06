@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-06T18:34:05Z'
+    type: PushEvent
+  - date: '2022-02-06T18:17:02Z'
+    type: PushEvent
   - date: '2022-02-06T01:22:01Z'
     type: PushEvent
   - date: '2022-02-05T23:35:01Z'
@@ -29,16 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-02-05T19:57:52Z'
     type: PushEvent
-  - date: '2022-02-05T19:57:03Z'
-    type: PushEvent
-  - date: '2022-02-05T19:49:39Z'
-    type: CreateEvent
-  - date: '2022-02-05T19:49:39Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.64
+  message: 'fix: test'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/57d19b797aa0a38695e616867d1e535c8fb9560a
+    https://api.github.com/repos/leonzalion/create-project/commits/46e50a59feb2c78119b92be552f1aa7c2d2bd101
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
