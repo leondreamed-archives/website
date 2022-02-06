@@ -43,8 +43,6 @@ events:
     type: CreateEvent
   - date: '2022-02-05T19:48:18Z'
     type: PushEvent
-  - date: '2022-02-05T19:00:08Z'
-    type: WatchEvent
 latestCommit:
   message: 'fix: eslint files should not use browser: true'
   url: >-
