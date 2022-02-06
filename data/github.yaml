@@ -25,12 +25,10 @@ events:
     type: CreateEvent
   - date: '2022-02-05T20:10:40Z'
     type: PushEvent
-  - date: '2022-02-05T20:10:15Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: type errors'
+  message: 1.0.42
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/8664672dbac0daa5678ed6e3d7efe1951ebdff82
+    https://api.github.com/repos/leonzalion/create-project/commits/ba252f893d7422f26e7abbcd33a49d2848d74ced
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
