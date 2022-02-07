@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1506
+    timeSpent: 2657
   - category: Other
     name: alacritty
     productivity: 0
     timeSpent: 546
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 132
+  - category: Browsers
+    name: about:newtab
+    productivity: 0
+    timeSpent: 308
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 130
-  - category: Search
-    name: google.com
+    timeSpent: 284
+  - category: Internet Utilities
+    name: Blank Web Browser
     productivity: 1
-    timeSpent: 67
+    timeSpent: 176

@@ -13,12 +13,10 @@ events:
     type: PushEvent
   - date: '2022-02-05T23:35:01Z'
     type: PushEvent
-  - date: '2022-02-05T23:22:51Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: type issues'
+  message: 'fix: long standing command+click multiselect issue'
   url: >-
-    https://api.github.com/repos/leonzalion/SpamShun/commits/55749d1fbb8f6e3cd926816d98456732b76a6b99
+    https://api.github.com/repos/leonzalion/macos-configs/commits/b7dc8594ed2c84272aa3b051db7bb8a96b99e156
   repo:
-    url: https://api.github.com/repos/leonzalion/SpamShun
-    name: leonzalion/SpamShun
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
