@@ -21,8 +21,6 @@ events:
     type: WatchEvent
   - date: '2022-02-05T20:18:55Z'
     type: PushEvent
-  - date: '2022-02-05T20:10:41Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: more type issues'
   url: >-
