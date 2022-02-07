@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2657
+    timeSpent: 4005
   - category: Writing
     name: Google Documents
     productivity: 2
@@ -10,12 +10,12 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 839
-  - category: General Reference & Learning
-    name: classroom.google.com
-    productivity: 2
-    timeSpent: 699
+    timeSpent: 1034
   - category: Search
     name: wolframalpha.com
     productivity: 1
-    timeSpent: 616
+    timeSpent: 924
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 870
