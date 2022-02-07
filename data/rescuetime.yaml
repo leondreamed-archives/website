@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4011
+    timeSpent: 4016
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 2074
+    timeSpent: 2373
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 1529
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1121
-  - category: Search
-    name: wolframalpha.com
-    productivity: 1
-    timeSpent: 924
+    timeSpent: 2103
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 2034
+  - category: General Reference & Learning
+    name: classroom.google.com
+    productivity: 2
+    timeSpent: 1283
