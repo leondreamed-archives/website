@@ -15,12 +15,10 @@ events:
     type: PushEvent
   - date: '2022-02-05T23:22:51Z'
     type: PushEvent
-  - date: '2022-02-05T23:18:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: template commit'
+  message: 'fix: type issues'
   url: >-
-    https://api.github.com/repos/leonzalion/SpamShun/commits/3ad568af3ca1400e6d9b8888de54b9fce2a59f99
+    https://api.github.com/repos/leonzalion/SpamShun/commits/55749d1fbb8f6e3cd926816d98456732b76a6b99
   repo:
     url: https://api.github.com/repos/leonzalion/SpamShun
     name: leonzalion/SpamShun
