@@ -11,12 +11,10 @@ events:
     type: PushEvent
   - date: '2022-02-06T01:22:01Z'
     type: PushEvent
-  - date: '2022-02-05T23:35:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: long standing command+click multiselect issue'
+  message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b7dc8594ed2c84272aa3b051db7bb8a96b99e156
+    https://api.github.com/repos/leonzalion/lionp/commits/2a620cadf6374d181a3f74245cf36c3285cbf6d2
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/lionp
+    name: leonzalion/lionp
