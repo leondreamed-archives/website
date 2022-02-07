@@ -12,3 +12,7 @@ export function getDavinciPythonScriptPath(scriptName: string) {
 		`${scriptName}.py`
 	);
 }
+
+export const getFrontendVideosPath = onetime(() =>
+	path.join(getRootPath(), 'frontend/public/videos')
+);

@@ -3,13 +3,10 @@ import fs from 'node:fs';
 import { execa } from 'execa';
 import { Listr } from 'listr2';
 import pathToFfmpeg from 'ffmpeg-static';
-import { getRootPath } from '../paths.js';
 import type { DavinciComposition } from '../../types/davinci.js';
+import { getHevcVideoPath, getWebmVideoPath } from './composition.js';
 
 export async function convertCompositions(compositions: DavinciComposition[]) {
-	const rootPath = getRootPath();
-	const frontendVideosPath = path.join(rootPath, 'frontend/public/videos');
-
 	const avConvert = '/usr/bin/avconvert';
 
 	const tasks = new Listr([], { concurrent: true });
@@ -52,10 +49,7 @@ export async function convertCompositions(compositions: DavinciComposition[]) {
 
 				task.title = `Converting ${composition.name}.mov`;
 				// HEVC
-				const hevcPath = path.join(
-					frontendVideosPath,
-					`${composition.name}-hevc.mp4`
-				);
+				const hevcPath = getHevcVideoPath(composition);
 				await fs.promises.rm(hevcPath, { recursive: true, force: true });
 
 				await execa(avConvert, [
@@ -69,10 +63,7 @@ export async function convertCompositions(compositions: DavinciComposition[]) {
 				]);
 
 				// WebM
-				const webmPath = path.join(
-					frontendVideosPath,
-					`${composition.name}-webm.webm`
-				);
+				const webmPath = getWebmVideoPath(composition);
 				await fs.promises.rm(webmPath, { recursive: true, force: true });
 				await execa(pathToFfmpeg, [
 					'-i',

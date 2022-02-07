@@ -5,8 +5,17 @@ import path from 'node:path';
 import onetime from 'onetime';
 import ora from 'ora';
 import type { DavinciComposition } from '../../types/davinci.js';
-import { getDavinciPythonScriptPath, getRootPath } from '../paths.js';
-import { getDavinciConfig, getProjectName } from './config.js';
+import {
+	getDavinciPythonScriptPath,
+	getFrontendVideosPath,
+	getRootPath,
+} from '../paths.js';
+import {
+	getDavinciConfig,
+	getProjectName,
+	startFusionServer,
+} from './config.js';
+import { convertCompositions } from './convert.js';
 import { runDavinciScript } from './script.js';
 
 export const getDavinciCompositionFilesFolder = onetime(() => {
@@ -122,3 +131,17 @@ export async function renderCompositions(
 
 	return [...compositionsToRender.values()];
 }
+
+export async function updateCompositionVideos() {
+	await startFusionServer();
+	const updatedCompositions = await getChangedCompositions();
+	const renderedCompositions = await renderCompositions(updatedCompositions);
+	await convertCompositions(renderedCompositions);
+	return updatedCompositions;
+}
+
+export const getHevcVideoPath = (composition: DavinciComposition) =>
+	path.join(getFrontendVideosPath(), `${composition.name}-hevc.mp4`);
+
+export const getWebmVideoPath = (composition: DavinciComposition) =>
+	path.join(getFrontendVideosPath(), `${composition.name}-webm.webm`);

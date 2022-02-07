@@ -3,12 +3,15 @@
 	"type": "module",
 	"scripts": {
 		"update-compositions": "node-ts ./src/davinci/update-compositions.ts",
+		"upload-compositions": "node-ts ./src/s3/upload-compositions.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
 		"tc": "tsc --noEmit"
 	},
 	"dependencies": {
+		"aws-sdk": "^2.1070.0",
 		"desm": "^1.2.0",
+		"dotenv": "^15.0.0",
 		"execa": "^6.0.0",
 		"ffmpeg-static": "^4.4.1",
 		"js-yaml": "^4.1.0",
