@@ -19,12 +19,10 @@ events:
     type: PushEvent
   - date: '2022-02-05T21:13:47Z'
     type: WatchEvent
-  - date: '2022-02-05T20:18:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: more type issues'
+  message: 'fix: update electron template'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/52c16599edf418a26ac45bb817bca9f8bbd35997
+    https://api.github.com/repos/leonzalion/create-project/commits/9a237c401d91ad29d8e40a95d3e5984b569cd395
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
