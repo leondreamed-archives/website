@@ -1,6 +1,7 @@
 import process from 'node:process';
 import type { Buffer } from 'node:buffer';
 import { execa } from 'execa';
+import { logDebug } from '../log.js';
 import { startFusionServer } from './config.js';
 
 type RunDavinciScriptProps = {
@@ -16,7 +17,7 @@ export async function runDavinciScript({
 	const fuscriptPath =
 		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
 
-	console.info('Running the DaVinci script...');
+	logDebug(() => 'Running the DaVinci script...');
 
 	const scriptProcess = execa(
 		'script',
@@ -37,7 +38,7 @@ export async function runDavinciScript({
 	scriptProcess.stdout?.on('data', (data: Buffer) => {
 		const dataString = data.toString();
 		if (!dataString.includes('Exception ignored in:')) {
-			console.info(dataString);
+			logDebug(() => dataString);
 		}
 	});
 

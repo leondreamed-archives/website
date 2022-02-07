@@ -11,6 +11,7 @@
 		"dev:frontend": "pnpm dev --filter=./frontend",
 		"build:frontend": "pnpm build --filter=./frontend",
 		"update-compositions": "pnpm update-compositions --filter=./scripts",
+		"upload-compositions": "pnpm upload-compositions --filter=./scripts",
 		"update-stats": "pnpm start --filter=./update-stats",
 		"prepare": "lion-git-hooks",
 		"test": "pnpm recursive test",

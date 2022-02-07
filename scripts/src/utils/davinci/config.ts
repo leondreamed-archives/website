@@ -1,10 +1,12 @@
 import path from 'node:path';
 import fs from 'node:fs';
 import type { Buffer } from 'node:buffer';
+import { setTimeout } from 'node:timers/promises';
 import { execa } from 'execa';
 import yaml from 'js-yaml';
 import type { DavinciConfig } from '../../types/davinci.js';
 import { getRootPath } from '../paths.js';
+import { logDebug } from '../log.js';
 
 export function getDavinciConfig(): DavinciConfig {
 	const projectDir = getRootPath();
@@ -31,7 +33,7 @@ export async function startFusionServer(): Promise<number | undefined> {
 		'-nogui',
 	]);
 
-	console.info('Waiting for the FusionScript server to start...');
+	logDebug(() => 'Waiting for the FusionScript server to start...');
 
 	// If the davinciProcess closed, that means the Fusion server has already started
 	const davinciProcessPid = await new Promise<number | undefined>((resolve) => {
@@ -47,6 +49,11 @@ export async function startFusionServer(): Promise<number | undefined> {
 			}
 		});
 	});
+
+	logDebug(() => davinciProcessPid);
+
+	// TODO: Find a better way to guarantee that Fusion Server started
+	await setTimeout(2000);
 
 	return davinciProcessPid;
 }
