@@ -2,15 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4005
+    timeSpent: 4008
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 1507
+    timeSpent: 1525
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1034
+    timeSpent: 1085
   - category: Search
     name: wolframalpha.com
     productivity: 1
