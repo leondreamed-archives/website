@@ -3,19 +3,19 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 2657
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 1363
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 546
+    timeSpent: 839
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 335
+    timeSpent: 601
   - category: Browsers
     name: about:newtab
     productivity: 0
-    timeSpent: 315
-  - category: Search
-    name: wolframalpha.com
-    productivity: 1
-    timeSpent: 298
+    timeSpent: 485
