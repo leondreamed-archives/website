@@ -2,11 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3755
+    timeSpent: 4959
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 2314
+    timeSpent: 3045
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1541
   - category: Presentation
     name: Google Presentations
     productivity: 2
@@ -14,8 +18,4 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1162
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1128
+    timeSpent: 1174

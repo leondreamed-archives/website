@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-08T20:49:18Z'
+    type: PushEvent
+  - date: '2022-02-08T20:43:37Z'
+    type: WatchEvent
   - date: '2022-02-08T18:35:50Z'
     type: WatchEvent
   - date: '2022-02-08T00:02:35Z'
@@ -11,8 +15,6 @@ events:
     type: PushEvent
   - date: '2022-02-07T20:39:17Z'
     type: PushEvent
-  - date: '2022-02-07T13:00:23Z'
-    type: WatchEvent
 latestCommit:
   message: 'chore: puppeteer'
   url: >-
