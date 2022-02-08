@@ -3,6 +3,14 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 851
+  - category: Presentation
+    name: Google Presentations
+    productivity: 2
+    timeSpent: 599
+  - category: Uncategorized
+    name: teachchemistry.org
+    productivity: 0
+    timeSpent: 342
   - category: General Software Development
     name: Github
     productivity: 2
@@ -11,11 +19,3 @@ topActivities:
     name: Firefox
     productivity: 0
     timeSpent: 217
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 206
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 44
