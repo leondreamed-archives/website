@@ -1,42 +1,26 @@
 events:
-  - date: '2022-02-05T00:16:30Z'
+  - date: '2022-02-07T23:59:42Z'
+    type: PushEvent
+  - date: '2022-02-07T23:58:12Z'
+    type: PushEvent
+  - date: '2022-02-07T23:40:13Z'
+    type: PushEvent
+  - date: '2022-02-07T20:39:17Z'
+    type: PushEvent
+  - date: '2022-02-07T13:00:23Z'
     type: WatchEvent
-  - date: '2022-02-05T00:00:19Z'
-    type: IssueCommentEvent
-  - date: '2022-02-04T23:57:48Z'
-    type: PushEvent
-  - date: '2022-02-04T23:57:48Z'
-    type: CreateEvent
-  - date: '2022-02-04T23:57:29Z'
-    type: PushEvent
-  - date: '2022-02-04T23:57:23Z'
-    type: PushEvent
-  - date: '2022-02-04T23:51:44Z'
-    type: CreateEvent
-  - date: '2022-02-04T23:51:44Z'
-    type: PushEvent
-  - date: '2022-02-04T23:47:43Z'
-    type: PushEvent
-  - date: '2022-02-04T23:46:29Z'
-    type: PushEvent
-  - date: '2022-02-04T23:46:02Z'
-    type: PushEvent
-  - date: '2022-02-04T19:42:45Z'
+  - date: '2022-02-07T12:28:28Z'
     type: WatchEvent
-  - date: '2022-02-04T18:35:17Z'
+  - date: '2022-02-07T02:57:22Z'
     type: PushEvent
-  - date: '2022-02-04T18:34:53Z'
+  - date: '2022-02-06T18:34:05Z'
     type: PushEvent
-  - date: '2022-02-04T18:34:52Z'
-    type: CreateEvent
-  - date: '2022-02-04T18:34:01Z'
-    type: PushEvent
-  - date: '2022-02-04T12:55:32Z'
+  - date: '2022-02-06T18:17:02Z'
     type: PushEvent
 latestCommit:
-  message: 'fix: remove temp file'
+  message: 'chore: update configs'
   url: >-
-    https://api.github.com/repos/leonzalion/phone-call-pass/commits/9ed5bdfb12abb27537bbf4127d7d5c08fef8ee91
+    https://api.github.com/repos/leonzalion/hashed-out/commits/dcae9a278bfff6e4e36008a70489f1efe1334130
   repo:
-    url: https://api.github.com/repos/leonzalion/phone-call-pass
-    name: leonzalion/phone-call-pass
+    url: https://api.github.com/repos/leonzalion/hashed-out
+    name: leonzalion/hashed-out

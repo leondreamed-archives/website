@@ -1,89 +1,81 @@
-dailyAverage: 22702
-totalSeconds: 158916.129666
+dailyAverage: 26915
+totalSeconds: 188402.452781
 languages:
   - name: TypeScript
-    totalSeconds: 75818.080026
+    totalSeconds: 103966.259978
   - name: Vue.js
-    totalSeconds: 48767.446685
+    totalSeconds: 42150.728144
   - name: JSON
-    totalSeconds: 9253.16386
-  - name: JavaScript
-    totalSeconds: 7314.242457
-  - name: Other
-    totalSeconds: 6905.504926
-  - name: Markdown
-    totalSeconds: 4858.460106
-  - name: YAML
-    totalSeconds: 4692.929147
+    totalSeconds: 13619.931641
   - name: Python
-    totalSeconds: 4250.847554
+    totalSeconds: 10148.699816
+  - name: Other
+    totalSeconds: 9847.340519
+  - name: JavaScript
+    totalSeconds: 4992.219594
+  - name: Markdown
+    totalSeconds: 4978.464934
+  - name: YAML
+    totalSeconds: 4677.047454
   - name: Bash
-    totalSeconds: 1596.269438
+    totalSeconds: 1688.443097
   - name: HTML
-    totalSeconds: 1186.488992
+    totalSeconds: 1071.464026
   - name: Git Config
-    totalSeconds: 446.081405
+    totalSeconds: 503.262723
   - name: CSS
-    totalSeconds: 376.991024
+    totalSeconds: 409.559519
   - name: Rust
     totalSeconds: 171.840109
-  - name: TOML
-    totalSeconds: 79.301329
-  - name: XML
-    totalSeconds: 29.884101
-  - name: Lua
-    totalSeconds: 22.638629
   - name: Diff
     totalSeconds: 19.551879
-  - name: Elixir
-    totalSeconds: 16.436142
-  - name: INI
-    totalSeconds: 6.930969
-  - name: C++
-    totalSeconds: 4.566817
   - name: Perl
     totalSeconds: 1.877471
   - name: Text
     totalSeconds: 1.849551
-  - name: Docker
-    totalSeconds: 0.251975
+  - name: INI
+    totalSeconds: 1.252845
 projects:
-  - name: website
-    totalSeconds: 70522.197255
   - name: timeblocker
-    totalSeconds: 47112.34243
+    totalSeconds: 76024.218062
+  - name: website
+    totalSeconds: 60195.47146
   - name: phone-call-pass
-    totalSeconds: 14011.428673
+    totalSeconds: 14166.959516
   - name: lion-git-hooks
     totalSeconds: 13260.177214
+  - name: SpamShun
+    totalSeconds: 10918.04885
   - name: leonzalion
-    totalSeconds: 5780.724905
+    totalSeconds: 4696.628773
+  - name: create-project
+    totalSeconds: 2886.321688
+  - name: yabai-master-stack-plugin
+    totalSeconds: 2622.254509
   - name: trpc-esm
     totalSeconds: 2610.481933
   - name: simple-git-hooks
     totalSeconds: 1873.566425
   - name: configs
-    totalSeconds: 1538.687585
-  - name: create-project
-    totalSeconds: 1470.056086
+    totalSeconds: 1419.483804
   - name: vpciclubs.com
     totalSeconds: 1366.344143
   - name: lionecs
     totalSeconds: 1131.645867
-  - name: tabulo
-    totalSeconds: 1005.725103
-  - name: consistent-type-import-bug
-    totalSeconds: 842.957881
+  - name: sync-index
+    totalSeconds: 859.35904
   - name: ts-node
     totalSeconds: 655.151865
   - name: jest
     totalSeconds: 515.209691
+  - name: lionp
+    totalSeconds: 354.045807
   - name: vue-hcaptcha
     totalSeconds: 344.911441
   - name: vue-tsc-bug
     totalSeconds: 315.286368
-  - name: yabai-master-stack-plugin
-    totalSeconds: 273.20837
+  - name: electron
+    totalSeconds: 279.096118
   - name: tabulo-rewrite
     totalSeconds: 218.336536
   - name: espanso
@@ -93,14 +85,26 @@ projects:
   - name: ib-simulator
     totalSeconds: 182.021182
   - name: nanoid-good
-    totalSeconds: 121.9383
+    totalSeconds: 169.474251
+  - name: sindre-np
+    totalSeconds: 154.417779
+  - name: leonzalion-nanoid-good
+    totalSeconds: 130.856079
   - name: trpc
     totalSeconds: 112.586057
-  - name: node
-    totalSeconds: 50.53086
-  - name: Unknown Project
-    totalSeconds: 49.524344
+  - name: leonzalion-google-workspace
+    totalSeconds: 103.08679
+  - name: simple-vue-icon
+    totalSeconds: 72.131164
+  - name: tabulo
+    totalSeconds: 58.926038
   - name: timeblocker-old
     totalSeconds: 45.639006
+  - name: vite-electron-builder
+    totalSeconds: 37.139464
+  - name: fundamental-particles-project
+    totalSeconds: 30.046198
+  - name: Unknown Project
+    totalSeconds: 29.51511
   - name: textbelt
     totalSeconds: 0
