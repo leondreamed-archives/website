@@ -1,9 +1,21 @@
 topActivities:
-  - category: Browsers
-    name: Firefox
-    productivity: 0
-    timeSpent: 69
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2
+    timeSpent: 851
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 277
+  - category: Browsers
+    name: Firefox
+    productivity: 0
+    timeSpent: 217
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 206
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 44
