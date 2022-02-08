@@ -10,12 +10,12 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1541
+    timeSpent: 1566
   - category: Presentation
     name: Google Presentations
     productivity: 2
     timeSpent: 1256
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 1174
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 1221
