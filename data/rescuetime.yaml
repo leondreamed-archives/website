@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2804
+    timeSpent: 3837
   - category: General Reference & Learning
     name: classroom.google.com
     productivity: 2
-    timeSpent: 1293
+    timeSpent: 1320
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 937
   - category: Browsers
     name: about:newtab
     productivity: 0
-    timeSpent: 690
-  - category: Presentation
-    name: Google Presentations
-    productivity: 2
-    timeSpent: 598
+    timeSpent: 738
