@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-09T01:43:41Z'
+    type: PushEvent
+  - date: '2022-02-09T01:43:33Z'
+    type: PushEvent
+  - date: '2022-02-09T01:37:52Z'
+    type: PushEvent
+  - date: '2022-02-09T01:37:36Z'
+    type: PushEvent
+  - date: '2022-02-09T01:34:32Z'
+    type: PushEvent
   - date: '2022-02-09T01:19:25Z'
     type: PushEvent
   - date: '2022-02-09T00:19:03Z'
@@ -13,16 +23,10 @@ events:
     type: WatchEvent
   - date: '2022-02-08T00:02:35Z'
     type: PushEvent
-  - date: '2022-02-07T23:59:42Z'
-    type: PushEvent
-  - date: '2022-02-07T23:58:12Z'
-    type: PushEvent
-  - date: '2022-02-07T23:40:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add s3 script'
+  message: 'feat: detect changes script wip'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/ef858ff97339f7f55857ec4df8ae9a595d8ee3fb
+    https://api.github.com/repos/leonzalion/website/commits/cd6763832ea4d8d454d867c471e0fb104830eb67
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website

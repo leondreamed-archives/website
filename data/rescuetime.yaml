@@ -2,11 +2,11 @@ topActivities:
   - category: Video Editing
     name: davinci resolve
     productivity: 2
-    timeSpent: 10315
+    timeSpent: 12618
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5123
+    timeSpent: 5822
   - category: Writing
     name: Google Documents
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1840
+    timeSpent: 2109
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 1357
+    timeSpent: 1397
