@@ -381,13 +381,13 @@ Composition {
 			PresetName = "Current",
 			Left = 0,
 			Top = 0,
-			Width = 1880,
+			Width = 1725,
 			Height = 1324,
 			ZoneInfo = { AuxRight = { Expanded = true }, ["!Left"] = {
 				}, AuxLeft = { Expanded = true }, Right = { Expanded = false, Adjust = false }, Left = { Expanded = false, }, ["!Right"] = {
 				} },
-			ViewInfo = { Viewer1 = { Show = true, RatioY = 0.01, RatioX = 1.05337078651685, }, InnerLeft = { PixelX = 420, RatioY = 100, }, MainSplit = { RatioX = 100, RatioY = 0.998426435877263, }, CenterSplit = { RatioX = 1, RatioY = 100, }, Viewer2 = { Show = true, RatioY = 0.01, RatioX = 0.946629213483146, }, Comments = { Show = false }, Time = { Show = true, RatioX = 100, }, InnerColumns = { RatioX = 100, RatioY = 2.00157356412274, }, Keyframes = { Show = false, }, LayoutStrip = { Show = true, }, Inspector = { Show = true, RatioY = 1, RatioX = 100, }, InnerRight = { RatioY = 100, PixelX = 420, }, MediaPool = { Show = false, Adjust = true, RatioY = 100, MRU = 0, RatioX = 1, }, OuterColumns = { RatioX = 100, RatioY = 1, }, Effects = { Show = false, }, ActionStrip = { Show = true, RatioX = 100, }, Metadata = { Show = false, }, OuterLeft = {
-				}, ViewerSplit = { RatioX = 100, RatioY = 1, }, Nodes = { Show = true, RatioY = 100, RatioX = 1.0019783404772, }, OuterRight = { PixelX = 420, RatioY = 100, }, Clips = { Show = false, }, Spline = { Show = true, Adjust = false, RatioY = 100, MRU = 2, RatioX = 0.998067417992897, } },
+			ViewInfo = { Viewer1 = { Show = true, RatioX = 1.05611068408916, RatioY = 0.01, MRU = 3, Adjust = false, }, InnerLeft = { PixelX = 420, RatioY = 100, }, MainSplit = { RatioX = 100, RatioY = 0.998426435877263, }, CenterSplit = { RatioX = 1, RatioY = 100, }, Viewer2 = { Show = true, RatioY = 0.01, RatioX = 0.943889315910838, }, Comments = { Show = false }, Time = { Show = true, RatioX = 100, }, InnerColumns = { RatioX = 100, RatioY = 2.00157356412274, }, Keyframes = { Show = false, }, LayoutStrip = { Show = true, }, Inspector = { Show = true, RatioX = 100, RatioY = 1, MRU = 2, Adjust = false, }, InnerRight = { RatioY = 100, PixelX = 420, }, MediaPool = { Show = false, Adjust = true, RatioY = 100, MRU = 0, RatioX = 1, }, OuterColumns = { RatioX = 100, RatioY = 1, }, Effects = { Show = false, }, ActionStrip = { Show = true, RatioX = 100, }, Metadata = { Show = false, Adjust = true, RatioY = 0.998862343572241, MRU = 0, RatioX = 100, }, OuterLeft = {
+				}, ViewerSplit = { RatioX = 100, RatioY = 1, }, Nodes = { Show = true, RatioY = 100, RatioX = 1.00118434599374, }, OuterRight = { PixelX = 420, RatioY = 100, }, Clips = { Show = false, }, Spline = { Show = true, Adjust = false, RatioY = 100, MRU = 2, RatioX = 0.998861412476353, } },
 			Views = ordered() {
 				MediaPool = "MediaPoolView",
 				Effects = MultiView {
@@ -403,7 +403,6 @@ Composition {
 					},
 					FlowView = FlowView {
 						Flags = {
-							Navigator = true,
 							AutoHideNavigator = true,
 							GridSnap = true,
 							AutoSnap = true,
@@ -412,8 +411,8 @@ Composition {
 						NavigatorSize = { 200, 140 },
 						Direction = "Horizontal",
 						PipeStyle = "Direct",
-						RootScale = 1,
-						RootOffset = { -296.714, 61.5423 }
+						RootScale = 0.349896,
+						RootOffset = { 533.866, 388.897 }
 					}
 				},
 				Keyframes = MultiView {
@@ -453,8 +452,8 @@ Composition {
 						LeftPos = 264,
 						ScaleX = 0.2,
 						ScaleY = 0.00335570469798658,
-						OffsetX = -6,
-						OffsetY = -0.463087248322148,
+						OffsetX = -5.8,
+						OffsetY = -0.442953020134228,
 						AutoScaling = "scroll",
 						AutoSnapTo = "frame",
 						AutoSnapToGuidelines = true,
@@ -494,7 +493,7 @@ Composition {
 				Clips = "ClipsView",
 				Metadata = "MetadataView"
 			},
-			Layout = { { ID = "LayoutStrip", FixedY = 36, Resolve = false, Flat = true }, { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, Zone = "Left", Rows = 2, PaneID = "OuterLeft", PixelX = 420 }, { { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, PaneID = "InnerLeft", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Left" }, { { { ID = "Viewer1", RatioY = 0.01, RatioX = 1 }, { ID = "Viewer2", RatioX = 1 }, RatioY = 1, Columns = 2, PaneID = "ViewerSplit" }, { ID = "Time", FixedY = 83, Flat = true }, RatioX = 1, Rows = 2 }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, PaneID = "InnerRight", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Right" }, RatioY = 2, Columns = 3, PaneID = "InnerColumns" }, { ID = "ActionStrip", FixedY = 50, Flat = true }, { { ID = "Nodes", RatioX = 1 }, { ID = "Spline", RatioX = 1 }, { ID = "Keyframes", RatioX = 1 }, RatioY = 1, Columns = 3, PaneID = "MainSplit" }, { Fusion = false, ID = "Clips", LARGE_FixedY = 160, MEDIUM_FixedY = 138, SMALL_FixedY = 110 }, RatioX = 1, Rows = 4, PaneID = "CenterSplit" }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, Zone = "Right", Rows = 2, PaneID = "OuterRight", PixelX = 420 }, RatioY = 1, Columns = 3, PaneID = "OuterColumns" }, RatioX = 1, Rows = 2, RatioY = 1 },
+			Layout = { { ID = "LayoutStrip", FixedY = 36, Flat = true, Resolve = false }, { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, PixelX = 420, Rows = 2, PaneID = "OuterLeft", Zone = "Left" }, { { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, PaneID = "InnerLeft", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Left" }, { { { ID = "Viewer1", RatioY = 0.01, RatioX = 1 }, { ID = "Viewer2", RatioX = 1 }, RatioY = 1, Columns = 2, PaneID = "ViewerSplit" }, { ID = "Time", FixedY = 83, Flat = true }, RatioX = 1, Rows = 2 }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, PaneID = "InnerRight", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Right" }, RatioY = 2, Columns = 3, PaneID = "InnerColumns" }, { ID = "ActionStrip", FixedY = 50, Flat = true }, { { ID = "Nodes", RatioX = 1 }, { ID = "Spline", RatioX = 1 }, { ID = "Keyframes", RatioX = 1 }, RatioY = 1, Columns = 3, PaneID = "MainSplit" }, { LARGE_FixedY = 160, ID = "Clips", Fusion = false, MEDIUM_FixedY = 138, SMALL_FixedY = 110 }, RatioX = 1, Rows = 4, PaneID = "CenterSplit" }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, PixelX = 420, Rows = 2, PaneID = "OuterRight", Zone = "Right" }, RatioY = 1, Columns = 3, PaneID = "OuterColumns" }, RatioX = 1, Rows = 2, RatioY = 1 },
 			TopBar = { Left = { "Left", "MediaPool", "Effects", "Clips", "Nodes", "Console" }, Right = { "Spline", "Keyframes", "Metadata", "Inspector", "Right" } }
 		}
 	},
