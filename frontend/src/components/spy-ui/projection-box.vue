@@ -53,7 +53,7 @@ defineExpose({
 				/>
 				<div v-show="animationFinished">
 					<div class="top-[34%] left-[28.5%] absolute text-white">
-						<img src="images/selfie.jpeg" class='opacity-[0.75] rounded-full w-[30%] border-[rgb(62_254_255)] border-[5px]' />
+						<img src="~/assets/selfie.jpeg" class='opacity-[0.75] rounded-full w-[30%] border-[rgb(62_254_255)] border-[5px]' />
 					</div>
 				</div>
 			</foreignObject>
