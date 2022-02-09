@@ -21,12 +21,10 @@ events:
     type: WatchEvent
   - date: '2022-02-08T18:35:50Z'
     type: WatchEvent
-  - date: '2022-02-08T00:02:35Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: detect changes script wip'
+  message: 'feat: use doppler'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/cd6763832ea4d8d454d867c471e0fb104830eb67
+    https://api.github.com/repos/leonzalion/phone-call-pass/commits/3ab78707505a9306536f109c6c925bc65505bbbb
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/phone-call-pass
+    name: leonzalion/phone-call-pass

@@ -1,61 +1,51 @@
-dailyAverage: 23744
-totalSeconds: 166206.203862
+dailyAverage: 20847
+totalSeconds: 145930.751082
 languages:
   - name: TypeScript
-    totalSeconds: 87571.93935
+    totalSeconds: 71251.102295
   - name: Vue.js
-    totalSeconds: 46222.553291
+    totalSeconds: 49643.433638
   - name: JSON
-    totalSeconds: 11391.42659
+    totalSeconds: 8951.95233
   - name: Other
-    totalSeconds: 10120.105188
+    totalSeconds: 8721.654486
   - name: Python
     totalSeconds: 7645.603313
   - name: Markdown
-    totalSeconds: 4884.915048
-  - name: JavaScript
-    totalSeconds: 2815.12767
-  - name: YAML
-    totalSeconds: 2017.075725
+    totalSeconds: 3323.549451
   - name: Bash
-    totalSeconds: 1511.727643
+    totalSeconds: 1466.493223
   - name: HTML
-    totalSeconds: 1041.640951
+    totalSeconds: 994.885999
+  - name: JavaScript
+    totalSeconds: 944.993338
+  - name: YAML
+    totalSeconds: 933.712971
   - name: Git Config
-    totalSeconds: 494.678391
-  - name: CSS
-    totalSeconds: 416.246431
+    totalSeconds: 544.105235
   - name: Rust
     totalSeconds: 171.840109
-  - name: Diff
-    totalSeconds: 19.551879
+  - name: CSS
+    totalSeconds: 57.201709
   - name: Perl
     totalSeconds: 1.877471
 projects:
   - name: timeblocker
-    totalSeconds: 82019.380769
+    totalSeconds: 77419.450196
   - name: website
-    totalSeconds: 39644.587172
+    totalSeconds: 39180.710981
   - name: phone-call-pass
     totalSeconds: 14166.959516
-  - name: lion-git-hooks
-    totalSeconds: 13260.177214
   - name: SpamShun
-    totalSeconds: 10918.04885
+    totalSeconds: 12324.827061
   - name: leonzalion
-    totalSeconds: 3859.690283
-  - name: trpc-esm
-    totalSeconds: 2610.481933
-  - name: create-project
-    totalSeconds: 2370.345497
+    totalSeconds: 3630.376309
   - name: yabai-master-stack-plugin
     totalSeconds: 2349.046139
+  - name: create-project
+    totalSeconds: 2282.812329
   - name: sync-index
     totalSeconds: 859.35904
-  - name: ts-node
-    totalSeconds: 655.151865
-  - name: jest
-    totalSeconds: 515.209691
   - name: lionp
     totalSeconds: 354.045807
   - name: vue-hcaptcha
@@ -64,39 +54,33 @@ projects:
     totalSeconds: 315.286368
   - name: electron
     totalSeconds: 279.096118
-  - name: simple-git-hooks
-    totalSeconds: 238.517517
-  - name: tabulo-rewrite
-    totalSeconds: 218.336536
   - name: espanso
     totalSeconds: 211.057456
   - name: sindre-np
     totalSeconds: 154.417779
   - name: leonzalion-nanoid-good
     totalSeconds: 130.856079
-  - name: vpciclubs.com
-    totalSeconds: 130.674481
   - name: trpc
     totalSeconds: 112.586057
   - name: leonzalion-google-workspace
     totalSeconds: 103.08679
-  - name: simple-git-hooks-orig
-    totalSeconds: 102.423284
+  - name: vpciclubs.com
+    totalSeconds: 98.169994
   - name: simple-vue-icon
     totalSeconds: 72.131164
-  - name: configs
-    totalSeconds: 67.23801
   - name: tabulo
     totalSeconds: 58.926038
   - name: nanoid-good
     totalSeconds: 47.535951
-  - name: timeblocker-old
-    totalSeconds: 45.639006
   - name: fundamental-particles-project
     totalSeconds: 44.450625
   - name: vite-electron-builder
     totalSeconds: 37.139464
+  - name: timeblocker-old
+    totalSeconds: 35.946578
   - name: Unknown Project
     totalSeconds: 29.51511
+  - name: configs
+    totalSeconds: 9.705178
   - name: textbelt
     totalSeconds: 0
