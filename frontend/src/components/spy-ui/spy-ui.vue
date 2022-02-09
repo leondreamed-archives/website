@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { onMounted, ref } from 'vue';
-import LocationTarget from './location-target.vue';
 import ProjectionBox from './projection-box.vue';
 import ScrollDownArrows from './scroll-down-arrows.vue';
 import HeaderTabs from './header-tabs.vue';
@@ -12,12 +11,10 @@ import { useInnerWindowSize } from '~/utils/window';
 
 const windowSize = useInnerWindowSize();
 
-const locationTarget = ref<ComponentType<typeof LocationTarget>>();
 const projectionBox = ref<ComponentType<typeof ProjectionBox>>();
 const scrollDownArrows = ref<ComponentType<typeof ScrollDownArrows>>();
 
 onMounted(async () => {
-	await locationTarget.value?.playTargetAnimation();
 	await projectionBox.value?.playProjectionBoxAnimation();
 	await scrollDownArrows.value?.playScrollDownArrowsAnimation();
 });
@@ -34,7 +31,6 @@ onMounted(async () => {
 			<HeaderTabs />
 			<RadarLinks />
 			<WorldMap />
-			<LocationTarget ref="locationTarget" />
 			<ProjectionBox ref="projectionBox" />
 			<ScrollDownArrows ref="scrollDownArrows" />
 		</svg>
