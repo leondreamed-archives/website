@@ -8,6 +8,7 @@ import {
 	worldMapHeight,
 	worldMapWidth,
 } from '~/utils/world-map';
+import selfieJpegUrl from '~/assets/selfie.jpeg';
 
 const animationWidth = computed(() => worldMapWidth.value * 0.8);
 const animationHeight = computed(() => worldMapHeight.value * 0.8);
@@ -53,7 +54,10 @@ defineExpose({
 				/>
 				<div v-show="animationFinished">
 					<div class="top-[34%] left-[28.5%] absolute text-white">
-						<img src="~/assets/selfie.jpeg" class='opacity-[0.75] rounded-full w-[30%] border-[rgb(62_254_255)] border-[5px]' />
+						<img
+							:src="selfieJpegUrl"
+							class="opacity-[0.75] rounded-full w-[30%] border-[rgb(62_254_255)] border-[5px]"
+						/>
 					</div>
 				</div>
 			</foreignObject>
