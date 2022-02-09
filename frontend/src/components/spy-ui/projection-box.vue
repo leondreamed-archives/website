@@ -9,14 +9,14 @@ import {
 	worldMapWidth,
 } from '~/utils/world-map';
 
-const animationWidth = computed(() => worldMapWidth.value / 2);
-const animationHeight = computed(() => worldMapHeight.value / 2);
+const animationWidth = computed(() => worldMapWidth.value * 0.8);
+const animationHeight = computed(() => worldMapHeight.value * 0.8);
 
 const animationX = computed(
-	() => torontoLocationX.value - animationWidth.value * 0.213
+	() => torontoLocationX.value - animationWidth.value * 0.135
 );
 const animationY = computed(
-	() => torontoLocationY.value - animationHeight.value * 0.21
+	() => torontoLocationY.value - animationHeight.value * 0.37
 );
 
 const animationStarted = ref(false);
