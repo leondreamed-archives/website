@@ -1,8 +1,8 @@
 Composition {
-	CurrentTime = 0,
-	RenderRange = { 0, 119 },
-	GlobalRange = { 0, 119 },
-	CurrentID = 97,
+	CurrentTime = 40,
+	RenderRange = { 0, 67 },
+	GlobalRange = { 0, 67 },
+	CurrentID = 369,
 	HiQ = true,
 	PlaybackUpdateMode = 0,
 	Version = "DaVinci Resolve Studio 17.4.2.0009",
@@ -15,269 +15,1358 @@ Composition {
 	OutputClips = {
 	},
 	Tools = {
+		Background2TopLeftAlpha = BezierSpline {
+			SplineColor = { Red = 180, Green = 180, Blue = 180 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[25] = { 0, RH = { 25.6666666666667, 0.0893333333333333 }, Flags = { Linear = true } },
+				[27] = { 0.268, LH = { 26.3333333333333, 0.178666666666667 }, RH = { 27.6666666666667, 0.178666666666667 }, Flags = { Linear = true } },
+				[29] = { 0, LH = { 28.3333333333333, 0.0893333333333333 }, RH = { 31, 0.333333333333333 }, Flags = { Linear = true } },
+				[35] = { 1, LH = { 33, 0.666666666666667 }, Flags = { Linear = true } }
+			}
+		},
+		sOutline1JoinStyle = BezierSpline {
+			SplineColor = { Red = 97, Green = 63, Blue = 252 },
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, RH = { 19.3333333333333, 0 }, Flags = { Linear = true } },
+				[20] = { 0, LH = { 19.6666666666667, 0 }, Flags = { Linear = true } }
+			}
+		},
+		sOutline1CapStyle = BezierSpline {
+			SplineColor = { Red = 26, Green = 242, Blue = 4 },
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, RH = { 19.3333333333333, 0.666666666666667 }, Flags = { Linear = true } },
+				[20] = { 2, LH = { 19.6666666666667, 1.33333333333333 }, Flags = { Linear = true } }
+			}
+		},
+		sOutline1Length = BezierSpline {
+			SplineColor = { Red = 141, Green = 167, Blue = 243 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, RH = { 21.6666666666667, 0.173333333333333 }, Flags = { Linear = true } },
+				[27] = { 0.52, LH = { 17.4, 0.483 } }
+			}
+		},
+		sOutline1_1JoinStyle = BezierSpline {
+			SplineColor = { Red = 97, Green = 63, Blue = 252 },
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, Flags = { Linear = true } }
+			}
+		},
+		sOutline1_1CapStyle = BezierSpline {
+			SplineColor = { Red = 26, Green = 242, Blue = 4 },
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, RH = { 19.3333333333333, 0.666666666666667 }, Flags = { Linear = true } },
+				[20] = { 2, LH = { 19.6666666666667, 1.33333333333333 }, Flags = { Linear = true } }
+			}
+		},
+		sOutline1_1Position = BezierSpline {
+			SplineColor = { Red = 237, Green = 132, Blue = 6 },
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0.682, RH = { 21.6666666666667, 0.521333333333333 }, Flags = { Linear = true } },
+				[27] = { 0.2, LH = { 18.55, 0.314 } }
+			}
+		},
+		sOutline1_1Length = BezierSpline {
+			SplineColor = { Red = 141, Green = 167, Blue = 243 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[19] = { 0, RH = { 21.6666666666667, 0.16 }, Flags = { Linear = true } },
+				[27] = { 0.48, LH = { 18.35, 0.418 } }
+			}
+		},
+		Transform2 = Transform {
+			Inputs = {
+				Input = Input {
+					SourceOp = "PipeRouter4",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1320, -82.5 } },
+		},
+		sEllipse1Width = BezierSpline {
+			SplineColor = { Red = 225, Green = 255, Blue = 0 },
+			NameSet = true,
+			KeyFrames = {
+				[0] = { 0, RH = { 5, 0.0416666666666666 }, Flags = { Linear = true } },
+				[15] = { 0.0387, LH = { 6.8, 0.0676999999999999 } }
+			}
+		},
 		sEllipse1Height = BezierSpline {
 			SplineColor = { Red = 0, Green = 255, Blue = 255 },
 			CtrlWZoom = false,
+			NameSet = true,
 			KeyFrames = {
-				[5] = { 0, RH = { 6, 0.00375 }, Flags = { Linear = true } },
-				[8] = { 0.03, LH = { 6.425, 0.02835 } }
+				[0] = { 0, RH = { 5, 0.0416666666666667 }, Flags = { Linear = true } },
+				[15] = { 0.0387, LH = { 6.8, 0.0676999999999997 } }
 			}
+		},
+		sOutline1_2Thickness = BezierSpline {
+			SplineColor = { Red = 243, Green = 29, Blue = 58 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[0] = { 0.002, RH = { 5, 0.00266666666666667 }, Flags = { Linear = true } },
+				[15] = { 0.004, LH = { 10, 0.00333333333333333 }, Flags = { Linear = true } }
+			}
+		},
+		sOutline1_2Length = BezierSpline {
+			SplineColor = { Red = 141, Green = 167, Blue = 243 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[0] = { 0, RH = { 0.333333333333333, 0.0263333333333333 }, Flags = { Linear = true } },
+				[1] = { 0.079, LH = { 0.666666666666667, 0.0526666666666667 }, RH = { 2.33333333333333, 0.142666666666667 }, Flags = { Linear = true } },
+				[5] = { 0.27, LH = { 3.66666666666667, 0.206333333333333 }, RH = { 7.33333333333333, 0.27 }, Flags = { Linear = true } },
+				[12] = { 0.27, LH = { 9.66666666666667, 0.27 }, RH = { 13, 0.345333333333333 }, Flags = { Linear = true } },
+				[15] = { 0.496, LH = { 14, 0.420666666666667 }, Flags = { Linear = true } }
+			}
+		},
+		sTransform1_2Rotation = BezierSpline {
+			SplineColor = { Red = 128, Green = 128, Blue = 255 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[0] = { 0, RH = { 5, 100 }, Flags = { Linear = true } },
+				[15] = { 592, LH = { 7.14285714285714, 546.285714285714 } }
+			}
+		},
+		sOutline2Position = BezierSpline {
+			SplineColor = { Red = 237, Green = 132, Blue = 6 },
+			CtrlWZoom = false,
+			NameSet = true,
+			KeyFrames = {
+				[15] = { 0.307, RH = { 16.3333333333333, 0.204666666666667 }, Flags = { Linear = true } },
+				[19] = { 0, LH = { 17.6666666666667, 0.102333333333333 }, Flags = { Linear = true } }
+			}
+		},
+		Transform1 = Transform {
+			Inputs = {
+				Center = Input { Value = { 0.136223602484472, 0.662983425414365 }, },
+				Input = Input {
+					SourceOp = "sRender1_1",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 1210, 247.5 } },
+		},
+		Merge3 = Merge {
+			Inputs = {
+				Background = Input {
+					SourceOp = "Transform2",
+					Source = "Output",
+				},
+				Foreground = Input {
+					SourceOp = "Transform1",
+					Source = "Output",
+				},
+				PerformDepthMerge = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 1375, 82.5 } },
+		},
+		Background1_1 = Background {
+			Inputs = {
+				GlobalOut = Input { Value = 67, },
+				Width = Input { Value = 1920, },
+				Height = Input { Value = 1080, },
+				UseFrameFormatSettings = Input { Value = 1, },
+				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+				TopLeftRed = Input { Value = 0.14117647, },
+				TopLeftGreen = Input { Value = 0.98823529411, },
+				TopLeftBlue = Input { Value = 1, },
+				EffectMask = Input {
+					SourceOp = "Merge3",
+					Source = "Output",
+				}
+			},
+			ViewInfo = OperatorInfo { Pos = { 1540, 82.5 } },
+		},
+		Merge4 = Merge {
+			CtrlWZoom = false,
+			Inputs = {
+				Background = Input {
+					SourceOp = "Background1_1",
+					Source = "Output",
+				},
+				PerformDepthMerge = Input { Value = 0, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 1650, -82.5 } },
 		},
 		MediaOut1 = Saver {
 			Inputs = {
 				Index = Input { Value = "0", },
 				Input = Input {
-					SourceOp = "Merge1",
+					SourceOp = "Merge4",
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 1375, 16.5 } },
+			ViewInfo = OperatorInfo { Pos = { 1815, 16.5 } },
 		},
-		Polygon1BorderWidth = BezierSpline {
-			SplineColor = { Red = 16, Green = 35, Blue = 248 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[3] = { 0, RH = { 3.33333333333333, 0.002 }, Flags = { Linear = true } },
-				[4] = { 0.006, LH = { 3.66666666666667, 0.004 }, Flags = { Linear = true } }
-			}
-		},
-		Merge1 = Merge {
-			CtrlWZoom = false,
-			Inputs = {
-				Background = Input {
-					SourceOp = "sRender1",
+		ProjectionArm = GroupOperator {
+			NameSet = true,
+			Outputs = {
+				Output1 = InstanceOutput {
+					SourceOp = "sRender1_1",
 					Source = "Output",
 				},
-				Foreground = Input {
-					SourceOp = "Background1",
+				Output2 = InstanceOutput {
+					SourceOp = "sRectangle5",
 					Source = "Output",
-				},
-				PerformDepthMerge = Input { Value = 0, },
+				}
 			},
-			ViewInfo = OperatorInfo { Pos = { 1155, 16.5 } },
-		},
-		sEllipse1 = sEllipse {
-			EnabledRegion = TimeRegion { { Start = 0, End = 119.9999 } },
-			Inputs = {
-				["Translate.X"] = Input { Value = -0.287850885072419, },
-				["Translate.Y"] = Input { Value = 0.17355973441211, },
-				Width = Input {
-					SourceOp = "sEllipse1Width",
-					Source = "Value",
+			ViewInfo = GroupInfo {
+				Pos = { 660, 247.5 },
+				Flags = {
+					Expanded = true,
+					AllowPan = false,
+					GridSnap = true,
+					AutoSnap = true,
+					RemoveRouters = true
 				},
-				Height = Input {
-					SourceOp = "sEllipse1Height",
-					Source = "Value",
-				},
+				Size = { 833.632, 200.643, 393, 24.2424 },
+				Direction = "Horizontal",
+				PipeStyle = "Direct",
+				Scale = 1,
+				Offset = { -990, 124.136 }
 			},
-			ViewInfo = OperatorInfo { Pos = { 770, -82.5 } },
-		},
-		sTransform1YSize = BezierSpline {
-			SplineColor = { Red = 252, Green = 91, Blue = 43 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[0] = { 0, RH = { 3, -0.00133333333333333 }, Flags = { Linear = true } },
-				[9] = { -0.004, LH = { 6, -0.00266666666666667 }, RH = { 13.3333333333333, 0.461833333333333 }, Flags = { Linear = true } },
-				[22] = { 0.86, LH = { 12.25, 0.7625 } }
-			}
-		},
-		Background1 = Background {
-			Inputs = {
-				EffectMask = Input {
-					SourceOp = "Polygon1",
-					Source = "Mask",
-				},
-				GlobalOut = Input { Value = 119, },
-				Width = Input { Value = 1920, },
-				Height = Input { Value = 1080, },
-				UseFrameFormatSettings = Input { Value = 1, },
-				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
-				TopLeftRed = Input { Value = 1, },
-				TopLeftGreen = Input { Value = 1, },
-				TopLeftBlue = Input { Value = 1, },
-			},
-			ViewInfo = OperatorInfo { Pos = { 1155, -49.5 } },
-		},
-		sEllipse1Width = BezierSpline {
-			SplineColor = { Red = 225, Green = 255, Blue = 0 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[5] = { 0, RH = { 6, 0.00375 }, Flags = { Linear = true } },
-				[8] = { 0.03, LH = { 6.44375, 0.0285 } }
-			}
-		},
-		sMerge1 = sMerge {
-			Inputs = {
-				Input1 = Input {
-					SourceOp = "sOutline1",
-					Source = "Output",
-				},
-				Input2 = Input {
-					SourceOp = "sOutline2",
-					Source = "Output",
-				},
-			},
-			ViewInfo = OperatorInfo { Pos = { 880, 49.5 } },
-		},
-		sOutline2 = sOutline {
-			Inputs = {
-				Thickness = Input {
-					SourceOp = "sOutline2Thickness",
-					Source = "Value",
-				},
-				Input = Input {
-					SourceOp = "sTransform1",
-					Source = "Output",
-				},
-			},
-			ViewInfo = OperatorInfo { Pos = { 880, -16.5 } },
-		},
-		Polygon1Length = BezierSpline {
-			SplineColor = { Red = 141, Green = 167, Blue = 243 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[5] = { 0, RH = { 8.65714285714285, 0.4 }, Flags = { Linear = true } },
-				[10] = { 1, LH = { 9.04285714285714, 0.662857142857143 } }
-			}
-		},
-		Polygon1Polyline = BezierSpline {
-			SplineColor = { Red = 173, Green = 255, Blue = 47 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[-5] = { 0, RH = { -3.33333333333333, 0.333333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
-						Points = {
-							{ Linear = true, X = -0.202247191011236, Y = 0.0906821963394343, RX = 0.0290262172284644, RY = -0.0970604547975596 },
-							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0290262172284644, LY = 0.0970604547975596, RX = 0.0278881165177094, RY = -0.000162243491244884 },
-							{ Linear = true, X = -0.0315041897727146, Y = -0.200985898526979, LX = -0.0278881165177094, LY = 0.000162243491244884 }
-						}
-					} },
-				[0] = { 1, LH = { -1.66666666666667, 0.666666666666667 }, RH = { 2, 1.33333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
-						Points = {
-							{ Linear = true, X = -0.213915802446475, Y = 0.1155784618996, RX = 0.0329157543735441, RY = -0.105359209984282 },
-							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0329157543735441, LY = 0.105359209984282, RX = 0.0278727916927189, RY = -0.000216741779998618 },
-							{ Linear = true, X = -0.0315501642476861, Y = -0.20114939339324, LX = -0.0278727916927189, LY = 0.000216741779998618 }
-						}
-					} },
-				[6] = { 2, LH = { 4, 1.66666666666667 }, RH = { 6.33333333333333, 2.33333333333333 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
-						Points = {
-							{ Linear = true, X = -0.209323639236478, Y = 0.102461074668975, RX = 0.031385033303545, RY = -0.100986747574073 },
-							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.031385033303545, LY = 0.100986747574073, RX = 0.0278544019027303, RY = -0.000282139726503099 },
-							{ Linear = true, X = -0.0316053336176519, Y = -0.201345587232754, LX = -0.0278544019027303, LY = 0.000282139726503099 }
-						}
-					} },
-				[7] = { 3, LH = { 6.66666666666667, 2.66666666666667 }, Flags = { Linear = true, LockedY = true }, Value = Polyline {
-						Points = {
-							{ Linear = true, X = -0.207605257027943, Y = 0.0935251892453371, RX = 0.0308122392340333, RY = -0.0980081190995272 },
-							{ Linear = true, X = -0.115168539325843, Y = -0.200499168053245, LX = -0.0308122392340333, LY = 0.0980081190995272, RX = 0.0278513369377322, RY = -0.000293039384253846 },
-							{ Linear = true, X = -0.0316145285126462, Y = -0.201378286206006, LX = -0.0278513369377322, LY = 0.000293039384253846 }
-						}
-					} }
-			}
-		},
-		Polygon1 = PolylineMask {
-			DrawMode = "ModifyOnly",
-			DrawMode2 = "InsertAndModify",
-			EnabledRegion = TimeRegion { { Start = 0, End = 119.9999, FrameLength = 1 } },
-			Inputs = {
-				Filter = Input { Value = FuID { "Fast Gaussian" }, },
-				BorderWidth = Input {
-					SourceOp = "Polygon1BorderWidth",
-					Source = "Value",
-				},
-				WriteLength = Input {
-					SourceOp = "Polygon1Length",
-					Source = "Value",
-				},
-				MaskWidth = Input { Value = 1920, },
-				MaskHeight = Input { Value = 1080, },
-				PixelAspect = Input { Value = { 1, 1 }, },
-				UseFrameFormatSettings = Input { Value = 1, },
-				ClippingMode = Input { Value = FuID { "None" }, },
-				Center = Input { Value = { 0.426275992438563, 0.691596638655462 }, },
-				Polyline = Input {
-					SourceOp = "Polygon1Polyline",
-					Source = "Value",
-				},
-				Polyline2 = Input {
-					Value = Polyline {
+			Tools = ordered() {
+				sEllipse1 = sEllipse {
+					Inputs = {
+						Width = Input {
+							SourceOp = "sEllipse1Width",
+							Source = "Value",
+						},
+						Height = Input {
+							SourceOp = "sEllipse1Height",
+							Source = "Value",
+						},
 					},
-					Disabled = true,
+					ViewInfo = OperatorInfo { Pos = { 660, 16.5 } },
 				},
+				sOutline1_2 = sOutline {
+					Inputs = {
+						Thickness = Input {
+							SourceOp = "sOutline1_2Thickness",
+							Source = "Value",
+						},
+						WriteLength = Input {
+							SourceOp = "sOutline1_2Length",
+							Source = "Value",
+						},
+						Input = Input {
+							SourceOp = "sEllipse1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 770, 16.5 } },
+				},
+				sDuplicate1 = sDuplicate {
+					Inputs = {
+						Copies = Input { Value = 1, },
+						ZRotation = Input { Value = 180, },
+						Input = Input {
+							SourceOp = "sOutline1_2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 880, 16.5 } },
+				},
+				sRectangle1_2 = sRectangle {
+					Inputs = {
+						["Translate.X"] = Input { Value = 0.105449712007089, },
+						["Translate.Y"] = Input { Value = 0.00644852933480789, },
+						Width = Input { Value = 0.1, },
+						Height = Input { Value = 0.1, },
+					},
+					ViewInfo = OperatorInfo { Pos = { 1045, -115.5 } },
+				},
+				sRectangle1_1 = sRectangle {
+					Inputs = {
+						["Translate.X"] = Input { Value = 0.0425343376163048, },
+						["Translate.Y"] = Input { Value = 0.077793873576888, },
+						Width = Input { Value = 0.1, },
+						Height = Input { Value = 0.1, },
+						Angle = Input { Value = 45, },
+					},
+					ViewInfo = OperatorInfo { Pos = { 1155, -115.5 } },
+				},
+				sTransform1_2 = sTransform {
+					Inputs = {
+						ZRotation = Input {
+							SourceOp = "sTransform1_2Rotation",
+							Source = "Value",
+						},
+						Input = Input {
+							SourceOp = "sDuplicate1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 990, 16.5 } },
+				},
+				sOutline2 = sOutline {
+					Inputs = {
+						Thickness = Input { Value = 0.006, },
+						WritePosition = Input {
+							SourceOp = "sOutline2Position",
+							Source = "Value",
+						},
+						WriteLength = Input { Value = 0.409, },
+						Input = Input {
+							SourceOp = "sBoolean1_1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1155, -82.5 } },
+				},
+				sBoolean1_1 = sBoolean {
+					Inputs = {
+						Operation = Input { Value = FuID { "Subtract" }, },
+						Input1 = Input {
+							SourceOp = "sRectangle1_2",
+							Source = "Output",
+						},
+						Input2 = Input {
+							SourceOp = "sRectangle1_1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1045, -82.5 } },
+				},
+				sRectangle2_2 = sRectangle {
+					Inputs = {
+						["Translate.X"] = Input { Value = 0.0988037217545414, },
+						["Translate.Y"] = Input { Value = 0.111429671841549, },
+						Width = Input { Value = 0.181, },
+						Height = Input { Value = 0.181, },
+						Angle = Input { Value = -49.4238599823105, },
+					},
+					ViewInfo = OperatorInfo { Pos = { 1265, -82.5 } },
+				},
+				sMerge1_1 = sMerge {
+					Inputs = {
+						Input1 = Input {
+							SourceOp = "sTransform1_2",
+							Source = "Output",
+						},
+						Input2 = Input {
+							SourceOp = "sTransform2_1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1100, 16.5 } },
+				},
+				sBoolean2_2 = sBoolean {
+					Inputs = {
+						Input1 = Input {
+							SourceOp = "sRectangle2_2",
+							Source = "Output",
+						},
+						Input2 = Input {
+							SourceOp = "sOutline2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1265, -49.5 } },
+				},
+				sTransform2_1 = sTransform {
+					Inputs = {
+						XOffset = Input { Value = -0.0434204696499779, },
+						YOffset = Input { Value = -0.00620292423571112, },
+						Input = Input {
+							SourceOp = "sBoolean2_2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1155, -16.5 } },
+				},
+				sRender1_1 = sRender {
+					Inputs = {
+						GlobalOut = Input { Value = 67, },
+						Width = Input { Value = 1920, },
+						Height = Input { Value = 1080, },
+						UseFrameFormatSettings = Input { Value = 1, },
+						["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+						Input = Input {
+							SourceOp = "sMerge1_1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 1320, 16.5 } },
+				}
 			},
-			ViewInfo = OperatorInfo { Pos = { 1155, -82.5 } },
 		},
-		sTransform1 = sTransform {
-			Inputs = {
-				XSize = Input {
-					SourceOp = "sTransform1XSize",
-					Source = "Value",
-				},
-				YSize = Input {
-					SourceOp = "sTransform1YSize",
-					Source = "Value",
-				},
-				XPivot = Input { Value = -0.105549065565662, },
-				YPivot = Input { Value = -0.00536567479701738, },
-				Input = Input {
-					SourceOp = "sRectangle1",
+		ProjectionBox = GroupOperator {
+			NameSet = true,
+			Outputs = {
+				Output1 = InstanceOutput {
+					SourceOp = "PipeRouter4",
 					Source = "Output",
+				}
+			},
+			ViewInfo = GroupInfo {
+				Pos = { 770, -115.5 },
+				Flags = {
+					Expanded = true,
+					AllowPan = false,
+					GridSnap = true,
+					AutoSnap = true,
+					RemoveRouters = true
 				},
+				Size = { 860.932, 171.554, 397.134, 24.2424 },
+				Direction = "Horizontal",
+				PipeStyle = "Direct",
+				Scale = 1,
+				Offset = { -774.134, 124.136 }
 			},
-			ViewInfo = OperatorInfo { Pos = { 880, -49.5 } },
-		},
-		sRender1 = sRender {
-			Inputs = {
-				GlobalOut = Input { Value = 119, },
-				Width = Input { Value = 1920, },
-				Height = Input { Value = 1080, },
-				UseFrameFormatSettings = Input { Value = 1, },
-				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
-				Input = Input {
-					SourceOp = "sMerge1",
-					Source = "Output",
+			Tools = ordered() {
+				BottomFill = GroupOperator {
+					NameSet = true,
+					Inputs = ordered() {
+						Input1 = InstanceInput {
+							SourceOp = "sMerge2",
+							Source = "Input1",
+						}
+					},
+					Outputs = {
+						Output1 = InstanceOutput {
+							SourceOp = "PipeRouter1",
+							Source = "Output",
+						}
+					},
+					ViewInfo = GroupInfo {
+						Pos = { 440, -115.5 },
+						Flags = {
+							AllowPan = false,
+							GridSnap = true,
+							AutoSnap = true,
+							RemoveRouters = true
+						},
+						Size = { 346, 209.795, 173, 24.2424 },
+						Direction = "Horizontal",
+						PipeStyle = "Direct",
+						Scale = 1,
+						Offset = { -1705, -45.9326 }
+					},
+					Tools = ordered() {
+						PipeRouter1 = PipeRouter {
+							Inputs = {
+								Input = Input {
+									SourceOp = "sTransform4",
+									Source = "Output",
+								},
+							},
+							ViewInfo = PipeRouterInfo { Pos = { 1760, 82.5 } },
+						},
+						RightAngleTriangle_1_1_1_1 = GroupOperator {
+							NameSet = true,
+							Outputs = {
+								Output1 = InstanceOutput {
+									SourceOp = "sBoolean3_1_1_1_1",
+									Source = "Output",
+								}
+							},
+							ViewInfo = GroupInfo {
+								Pos = { 1595, 198 },
+								Flags = {
+									AllowPan = false,
+									GridSnap = true,
+									AutoSnap = true,
+									RemoveRouters = true
+								},
+								Size = { 236, 99.3636, 118, 24.2424 },
+								Direction = "Horizontal",
+								PipeStyle = "Direct",
+								Scale = 1,
+								Offset = { -715, 91.1364 }
+							},
+							Tools = ordered() {
+								sRectangle4_1_1_1_1 = sRectangle {
+									CtrlWShown = false,
+									Inputs = {
+										["Translate.X"] = Input { Value = -0.5, },
+										["Translate.Y"] = Input { Value = -0.5, },
+										Width = Input { Value = 1.414, },
+										Height = Input { Value = 1.414, },
+										Angle = Input { Value = 45, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 660, -49.5 } },
+								},
+								sRectangle3_1_1_1_1 = sRectangle {
+									CtrlWShown = false,
+									Inputs = {
+										Width = Input { Value = 1, },
+										Height = Input { Value = 1, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 660, -82.5 } },
+								},
+								sBoolean3_1_1_1_1 = sBoolean {
+									CtrlWShown = false,
+									Inputs = {
+										Input1 = Input {
+											SourceOp = "sRectangle3_1_1_1_1",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle4_1_1_1_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 770, -49.5 } },
+								}
+							},
+						},
+						sTransform3 = sTransform {
+							Inputs = {
+								XOffset = Input { Value = 0.045, },
+								YOffset = Input { Value = -0.2025, },
+								XSize = Input { Value = 0.02, },
+								YSize = Input { Value = 0.02, },
+								Input = Input {
+									SourceOp = "sBoolean3_1_1_1_1",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1595, 148.5 } },
+						},
+						sRectangle11 = sRectangle {
+							Inputs = {
+								["Translate.Y"] = Input { Value = -0.2025, },
+								Width = Input { Value = 0.07, },
+								Height = Input { Value = 0.02, },
+							},
+							ViewInfo = OperatorInfo { Pos = { 1595, 82.5 } },
+						},
+						sTransform4 = sTransform {
+							Inputs = {
+								YOffset = Input { Value = -0.0015, },
+								XSize = Input { Value = 0.88, },
+								YSize = Input { Value = 0.88, },
+								YPivot = Input { Value = -0.203, },
+								Input = Input {
+									SourceOp = "sMerge2",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1815, 115.5 } },
+						},
+						sTransform3_1 = sTransform {
+							Inputs = {
+								XOffset = Input { Value = -0.045, },
+								YOffset = Input { Value = -0.2025, },
+								XSize = Input { Value = 0.02, },
+								YSize = Input { Value = 0.02, },
+								ZRotation = Input { Value = 90, },
+								Input = Input {
+									SourceOp = "sBoolean3_1_1_1",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1705, 165 } },
+						},
+						RightAngleTriangle_1_1_1 = GroupOperator {
+							NameSet = true,
+							Outputs = {
+								Output1 = InstanceOutput {
+									SourceOp = "sBoolean3_1_1_1",
+									Source = "Output",
+								}
+							},
+							ViewInfo = GroupInfo {
+								Pos = { 1705, 198 },
+								Flags = {
+									AllowPan = false,
+									GridSnap = true,
+									AutoSnap = true,
+									RemoveRouters = true
+								},
+								Size = { 236, 99.3636, 118, 24.2424 },
+								Direction = "Horizontal",
+								PipeStyle = "Direct",
+								Scale = 1,
+								Offset = { -715, 91.1364 }
+							},
+							Tools = ordered() {
+								sRectangle4_1_1_1 = sRectangle {
+									Inputs = {
+										["Translate.X"] = Input { Value = -0.5, },
+										["Translate.Y"] = Input { Value = -0.5, },
+										Width = Input { Value = 1.414, },
+										Height = Input { Value = 1.414, },
+										Angle = Input { Value = 45, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 660, -49.5 } },
+								},
+								sRectangle3_1_1_1 = sRectangle {
+									Inputs = {
+										Width = Input { Value = 1, },
+										Height = Input { Value = 1, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 660, -82.5 } },
+								},
+								sBoolean3_1_1_1 = sBoolean {
+									Inputs = {
+										Input1 = Input {
+											SourceOp = "sRectangle3_1_1_1",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle4_1_1_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 770, -49.5 } },
+								}
+							},
+						},
+						sMerge2 = sMerge {
+							Inputs = {
+								Input2 = Input {
+									SourceOp = "sTransform3",
+									Source = "Output",
+								},
+								Input3 = Input {
+									SourceOp = "sTransform3_1",
+									Source = "Output",
+								},
+								Input4 = Input {
+									SourceOp = "sRectangle11",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1595, 115.5 } },
+						}
+					},
 				},
-			},
-			ViewInfo = OperatorInfo { Pos = { 1045, 16.5 } },
-		},
-		sOutline2Thickness = BezierSpline {
-			SplineColor = { Red = 243, Green = 29, Blue = 58 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[9] = { 0, RH = { 9.33333333333333, 0.00166666666666667 }, Flags = { Linear = true } },
-				[10] = { 0.005, LH = { 9.66666666666667, 0.00333333333333333 }, Flags = { Linear = true } }
-			}
-		},
-		sTransform1XSize = BezierSpline {
-			SplineColor = { Red = 251, Green = 168, Blue = 44 },
-			CtrlWZoom = false,
-			KeyFrames = {
-				[0] = { 0, RH = { 1, 0 }, Flags = { Linear = true } },
-				[3] = { 0, LH = { 2, 0 }, RH = { 5, 0 }, Flags = { Linear = true } },
-				[9] = { 0, LH = { 7, 0 }, RH = { 13.3333333333333, 0.541666666666667 }, Flags = { Linear = true } },
-				[22] = { 1, LH = { 9.64999999999999, 0.934999999999999 } }
-			}
-		},
-		sOutline1 = sOutline {
-			Inputs = {
-				Thickness = Input { Value = 0.006, },
-				Input = Input {
-					SourceOp = "sEllipse1",
-					Source = "Output",
+				Border = GroupOperator {
+					NameSet = true,
+					Outputs = {
+						Output1 = InstanceOutput {
+							SourceOp = "PipeRouter3",
+							Source = "Output",
+						}
+					},
+					ViewInfo = GroupInfo {
+						Pos = { 550, -82.5 },
+						Flags = {
+							AllowPan = false,
+							GridSnap = true,
+							AutoSnap = true,
+							RemoveRouters = true
+						},
+						Size = { 771.205, 242.706, 283, 24.2424 },
+						Direction = "Horizontal",
+						PipeStyle = "Direct",
+						Scale = 1,
+						Offset = { -1540, -211.658 }
+					},
+					Tools = ordered() {
+						PipeRouter3 = PipeRouter {
+							Inputs = {
+								Input = Input {
+									SourceOp = "sMerge3",
+									Source = "Output",
+								},
+							},
+							ViewInfo = PipeRouterInfo { Pos = { 1540, 247.5 } },
+						},
+						sRectangle9 = sRectangle {
+							ViewInfo = OperatorInfo { Pos = { 1650, 330 } },
+						},
+						sBoolean6 = sBoolean {
+							Inputs = {
+								Input1 = Input {
+									SourceOp = "sMerge1",
+									Source = "Output",
+								},
+								Input2 = Input {
+									SourceOp = "sRectangle9",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1650, 297 } },
+						},
+						RectangleTop = GroupOperator {
+							NameSet = true,
+							Outputs = {
+								Output1 = InstanceOutput {
+									SourceOp = "sBoolean2_1",
+									Source = "Output",
+								}
+							},
+							ViewInfo = GroupInfo {
+								Pos = { 1540, 330 },
+								Flags = {
+									Expanded = true,
+									AllowPan = false,
+									GridSnap = true,
+									AutoSnap = true,
+									RemoveRouters = true
+								},
+								Size = { 236, 99.3636, 118, 24.2424 },
+								Direction = "Horizontal",
+								PipeStyle = "Direct",
+								Scale = 1,
+								Offset = { -1430, 157.136 }
+							},
+							Tools = ordered() {
+								sRectangle8 = sRectangle {
+									Inputs = {
+										["Translate.Y"] = Input { Value = 0.11, },
+										Height = Input { Value = 0.063, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 1375, -148.5 } },
+								},
+								sBoolean2_1 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sRectangle8",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle2_1_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1485, -148.5 } },
+								},
+								sRectangle2_1_1 = sRectangle {
+									Inputs = {
+										["Translate.X"] = Input { Value = 0.210923766553382, },
+										["Translate.Y"] = Input { Value = 0.152656785761871, },
+										Width = Input { Value = 0.205, },
+										Height = Input { Value = 0.094, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 1485, -115.5 } },
+								}
+							},
+						},
+						sTransform2 = sTransform {
+							Inputs = {
+								YOffset = Input { Value = -0.08, },
+								Input = Input {
+									SourceOp = "sBoolean7",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1430, 297 } },
+						},
+						sMerge1 = sMerge {
+							Inputs = {
+								Input1 = Input {
+									SourceOp = "sTransform2",
+									Source = "Output",
+								},
+								Input2 = Input {
+									SourceOp = "sBoolean2_1",
+									Source = "Output",
+								},
+								Input3 = Input {
+									SourceOp = "sRectangle7",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1540, 297 } },
+						},
+						sRectangle7 = sRectangle {
+							Inputs = {
+								["Translate.Y"] = Input { Value = -0.0177637402271563, },
+								Height = Input { Value = 0.197, },
+							},
+							ViewInfo = OperatorInfo { Pos = { 1430, 264 } },
+						},
+						sRectangle1 = sRectangle {
+							Inputs = {
+								["Translate.Y"] = Input { Value = -0.08, },
+								Height = Input { Value = 0.1, },
+							},
+							ViewInfo = OperatorInfo { Pos = { 1430, 231 } },
+						},
+						RectangleBottom = GroupOperator {
+							NameSet = true,
+							Inputs = ordered() {
+								Input1 = InstanceInput {
+									SourceOp = "sBoolean1",
+									Source = "Input1",
+								}
+							},
+							Outputs = {
+								Output1 = InstanceOutput {
+									SourceOp = "sBoolean7",
+									Source = "Output",
+								}
+							},
+							ViewInfo = GroupInfo {
+								Pos = { 1320, 231 },
+								Flags = {
+									AllowPan = false,
+									GridSnap = true,
+									AutoSnap = true,
+									RemoveRouters = true
+								},
+								Size = { 1081.23, 145.171, 338, 37.0496 },
+								Direction = "Horizontal",
+								PipeStyle = "Direct",
+								Scale = 1,
+								Offset = { -1265, 25.1364 }
+							},
+							Tools = ordered() {
+								sBoolean1 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sRectangle1",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle2",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 990, -16.5 } },
+								},
+								sRectangle2 = sRectangle {
+									Inputs = {
+										["Translate.X"] = Input { Value = 0.245283018867925, },
+										["Translate.Y"] = Input { Value = -0.127555031446541, },
+										Width = Input { Value = 0.205, },
+										Height = Input { Value = 0.055, },
+										Angle = Input { Value = 45, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 990, 16.5 } },
+								},
+								sRectangle2_1 = sRectangle {
+									Inputs = {
+										["Translate.X"] = Input { Value = -0.244103773584905, },
+										["Translate.Y"] = Input { Value = -0.115449838669325, },
+										Width = Input { Value = 0.205, },
+										Height = Input { Value = 0.094, },
+										Angle = Input { Value = -45, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 1100, 16.5 } },
+								},
+								sBoolean2 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sBoolean1",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle2_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1100, -16.5 } },
+								},
+								sBoolean4 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sBoolean2",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sTransform1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1320, -16.5 } },
+								},
+								sBoolean4_1 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sBoolean4",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sTransform1_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1430, -16.5 } },
+								},
+								RightAngleTriangle = GroupOperator {
+									NameSet = true,
+									Outputs = {
+										Output1 = InstanceOutput {
+											SourceOp = "sBoolean3",
+											Source = "Output",
+										}
+									},
+									ViewInfo = GroupInfo {
+										Pos = { 1320, 49.5 },
+										Flags = {
+											AllowPan = false,
+											GridSnap = true,
+											AutoSnap = true,
+											RemoveRouters = true
+										},
+										Size = { 236, 99.3636, 118, 24.2424 },
+										Direction = "Horizontal",
+										PipeStyle = "Direct",
+										Scale = 1,
+										Offset = { -715, 91.1364 }
+									},
+									Tools = ordered() {
+										sRectangle4 = sRectangle {
+											Inputs = {
+												["Translate.X"] = Input { Value = -0.25, },
+												["Translate.Y"] = Input { Value = -0.25, },
+												Width = Input { Value = 0.707, },
+												Height = Input { Value = 0.707, },
+												Angle = Input { Value = 45, },
+											},
+											ViewInfo = OperatorInfo { Pos = { 660, -49.5 } },
+										},
+										sRectangle3 = sRectangle {
+											ViewInfo = OperatorInfo { Pos = { 660, -82.5 } },
+										},
+										sBoolean3 = sBoolean {
+											Inputs = {
+												Input1 = Input {
+													SourceOp = "sRectangle3",
+													Source = "Output",
+												},
+												Input2 = Input {
+													SourceOp = "sRectangle4",
+													Source = "Output",
+												},
+											},
+											ViewInfo = OperatorInfo { Pos = { 770, -82.5 } },
+										}
+									},
+								},
+								sTransform1 = sTransform {
+									Inputs = {
+										XOffset = Input { Value = 0.05, },
+										YOffset = Input { Value = -0.118, },
+										XSize = Input { Value = 0.05, },
+										YSize = Input { Value = 0.05, },
+										Input = Input {
+											SourceOp = "sBoolean3",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1320, 16.5 } },
+								},
+								RightAngleTriangle_1 = GroupOperator {
+									NameSet = true,
+									Outputs = {
+										Output1 = InstanceOutput {
+											SourceOp = "sBoolean3_1",
+											Source = "Output",
+										}
+									},
+									ViewInfo = GroupInfo {
+										Pos = { 1430, 49.5 },
+										Flags = {
+											AllowPan = false,
+											GridSnap = true,
+											AutoSnap = true,
+											RemoveRouters = true
+										},
+										Size = { 236, 99.3636, 118, 24.2424 },
+										Direction = "Horizontal",
+										PipeStyle = "Direct",
+										Scale = 1,
+										Offset = { -715, 91.1364 }
+									},
+									Tools = ordered() {
+										sRectangle4_1 = sRectangle {
+											Inputs = {
+												["Translate.X"] = Input { Value = -0.25, },
+												["Translate.Y"] = Input { Value = -0.25, },
+												Width = Input { Value = 0.707, },
+												Height = Input { Value = 0.707, },
+												Angle = Input { Value = 45, },
+											},
+											ViewInfo = OperatorInfo { Pos = { 660, -49.5 } },
+										},
+										sRectangle3_1 = sRectangle {
+											ViewInfo = OperatorInfo { Pos = { 660, -82.5 } },
+										},
+										sBoolean3_1 = sBoolean {
+											Inputs = {
+												Input1 = Input {
+													SourceOp = "sRectangle3_1",
+													Source = "Output",
+												},
+												Input2 = Input {
+													SourceOp = "sRectangle4_1",
+													Source = "Output",
+												},
+											},
+											ViewInfo = OperatorInfo { Pos = { 770, -82.5 } },
+										}
+									},
+								},
+								sTransform1_1 = sTransform {
+									Inputs = {
+										XOffset = Input { Value = -0.05, },
+										YOffset = Input { Value = -0.118, },
+										XSize = Input { Value = 0.05, },
+										YSize = Input { Value = 0.05, },
+										ZRotation = Input { Value = 90, },
+										Input = Input {
+											SourceOp = "sBoolean3_1",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1430, 16.5 } },
+								},
+								sRectangle6 = sRectangle {
+									Inputs = {
+										["Translate.Y"] = Input { Value = -0.121034344947478, },
+										Width = Input { Value = 0.07503, },
+										Height = Input { Value = 0.031, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 1540, 49.5 } },
+								},
+								sBoolean7 = sBoolean {
+									Inputs = {
+										Input1 = Input {
+											SourceOp = "sRectangle10",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sBoolean5",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1650, 16.5 } },
+								},
+								sRectangle10 = sRectangle {
+									Inputs = {
+										BorderWidth = Input { Value = 0.2, },
+									},
+									ViewInfo = OperatorInfo { Pos = { 1650, 49.5 } },
+								},
+								sBoolean5 = sBoolean {
+									Inputs = {
+										Operation = Input { Value = FuID { "Subtract" }, },
+										Input1 = Input {
+											SourceOp = "sBoolean4_1",
+											Source = "Output",
+										},
+										Input2 = Input {
+											SourceOp = "sRectangle6",
+											Source = "Output",
+										},
+									},
+									ViewInfo = OperatorInfo { Pos = { 1540, 16.5 } },
+								}
+							},
+						},
+						sMerge3 = sMerge {
+							Inputs = {
+								Input1 = Input {
+									SourceOp = "sOutline1",
+									Source = "Output",
+								},
+								Input2 = Input {
+									SourceOp = "sOutline1_1",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1925, 247.5 } },
+						},
+						sOutline1_1 = sOutline {
+							Inputs = {
+								Thickness = Input { Value = 0.005, },
+								JoinStyle = Input {
+									SourceOp = "sOutline1_1JoinStyle",
+									Source = "Value",
+								},
+								CapStyle = Input {
+									SourceOp = "sOutline1_1CapStyle",
+									Source = "Value",
+								},
+								WritePosition = Input {
+									SourceOp = "sOutline1_1Position",
+									Source = "Value",
+								},
+								WriteLength = Input {
+									SourceOp = "sOutline1_1Length",
+									Source = "Value",
+								},
+								Input = Input {
+									SourceOp = "sBoolean6",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1815, 313.5 } },
+						},
+						sOutline1 = sOutline {
+							Inputs = {
+								Thickness = Input { Value = 0.005, },
+								JoinStyle = Input {
+									SourceOp = "sOutline1JoinStyle",
+									Source = "Value",
+								},
+								CapStyle = Input {
+									SourceOp = "sOutline1CapStyle",
+									Source = "Value",
+								},
+								WritePosition = Input { Value = 0.682, },
+								WriteLength = Input {
+									SourceOp = "sOutline1Length",
+									Source = "Value",
+								},
+								Input = Input {
+									SourceOp = "sBoolean6",
+									Source = "Output",
+								},
+							},
+							ViewInfo = OperatorInfo { Pos = { 1815, 280.5 } },
+						}
+					},
 				},
+				sRender1 = sRender {
+					Inputs = {
+						GlobalOut = Input { Value = 67, },
+						Width = Input { Value = 1920, },
+						Height = Input { Value = 1080, },
+						UseFrameFormatSettings = Input { Value = 1, },
+						["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+						Input = Input {
+							SourceOp = "PipeRouter1",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 550, -115.5 } },
+				},
+				Background2 = Background {
+					Inputs = {
+						GlobalOut = Input { Value = 67, },
+						Width = Input { Value = 1920, },
+						Height = Input { Value = 1080, },
+						UseFrameFormatSettings = Input { Value = 1, },
+						["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+						TopLeftAlpha = Input {
+							SourceOp = "Background2TopLeftAlpha",
+							Source = "Value",
+						},
+						EffectMask = Input {
+							SourceOp = "sRender1",
+							Source = "Output",
+						}
+					},
+					ViewInfo = OperatorInfo { Pos = { 660, -115.5 } },
+				},
+				sRender2 = sRender {
+					Inputs = {
+						GlobalOut = Input { Value = 67, },
+						Width = Input { Value = 1920, },
+						Height = Input { Value = 1080, },
+						UseFrameFormatSettings = Input { Value = 1, },
+						["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
+						Input = Input {
+							SourceOp = "PipeRouter3",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 660, -82.5 } },
+				},
+				PipeRouter2 = PipeRouter {
+					Inputs = {
+						Input = Input {
+							SourceOp = "sRender2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = PipeRouterInfo { Pos = { 825, -49.5 } },
+				},
+				Blur1_1 = Blur {
+					Inputs = {
+						Filter = Input { Value = FuID { "Fast Gaussian" }, },
+						XBlurSize = Input { Value = 11, },
+						Input = Input {
+							SourceOp = "sRender2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = OperatorInfo { Pos = { 825, -82.5 } },
+				},
+				Merge1 = Merge {
+					Inputs = {
+						Background = Input {
+							SourceOp = "Blur1_1",
+							Source = "Output",
+						},
+						Foreground = Input {
+							SourceOp = "Background2",
+							Source = "Output",
+						},
+						PerformDepthMerge = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { 825, -115.5 } },
+				},
+				PipeRouter4 = PipeRouter {
+					Inputs = {
+						Input = Input {
+							SourceOp = "Merge2",
+							Source = "Output",
+						},
+					},
+					ViewInfo = PipeRouterInfo { Pos = { 1143.27, -81.8909 } },
+				},
+				Merge2 = Merge {
+					Inputs = {
+						Background = Input {
+							SourceOp = "Merge1",
+							Source = "Output",
+						},
+						Foreground = Input {
+							SourceOp = "PipeRouter2",
+							Source = "Output",
+						},
+						PerformDepthMerge = Input { Value = 0, },
+					},
+					ViewInfo = OperatorInfo { Pos = { 990, -82.5 } },
+				}
 			},
-			ViewInfo = OperatorInfo { Pos = { 770, -49.5 } },
-		},
-		sRectangle1 = sRectangle {
-			Inputs = {
-				["Translate.X"] = Input { Value = 0.110586011342155, },
-				["Translate.Y"] = Input { Value = -0.131313772873346, },
-				Width = Input { Value = 0.433, },
-				Height = Input { Value = 0.252, },
-			},
-			ViewInfo = OperatorInfo { Pos = { 880, -82.5 } },
 		}
 	},
 	Frames = {
+		{
+			FrameTypeID = "ChildFrame",
+			Mode = 3,
+			LayoutPreset = 0,
+			PresetName = "Current",
+			Left = 0,
+			Top = 0,
+			Width = 1565,
+			Height = 1324,
+			ZoneInfo = { AuxRight = { Expanded = true }, ["!Left"] = {
+				}, AuxLeft = { Expanded = true }, Right = { Expanded = false, Adjust = false }, Left = { Expanded = false, }, ["!Right"] = {
+				} },
+			ViewInfo = { Viewer1 = { Show = true, RatioY = 0.01, RatioX = 1.11993769470405, Adjust = false, MRU = 3 }, InnerLeft = { PixelX = 420, RatioY = 100, }, MainSplit = { RatioX = 100, RatioY = 0.920535011801732, }, CenterSplit = { RatioX = 1, RatioY = 100, }, Viewer2 = { Show = true, RatioY = 0.01, RatioX = 0.88006230529595, }, Comments = { Show = false }, Time = { Show = true, RatioX = 100, }, InnerColumns = { RatioX = 100, RatioY = 2.07946498819827, }, Keyframes = { Show = false, }, LayoutStrip = { Show = true, }, Inspector = { Show = true, RatioY = 1.00113765642776, RatioX = 100, Adjust = false, MRU = 2 }, InnerRight = { RatioY = 100, PixelX = 427, }, MediaPool = { Show = false, Adjust = true, RatioY = 100, MRU = 0, RatioX = 1, }, OuterColumns = { RatioX = 100, RatioY = 1, }, Effects = { Show = false, }, ActionStrip = { Show = true, RatioX = 100, }, Metadata = { Show = false, Adjust = true, RatioX = 100, RatioY = 0.998862343572241, MRU = 0 }, OuterLeft = {
+				}, ViewerSplit = { RatioX = 100, RatioY = 1, }, Nodes = { Show = true, RatioY = 100, RatioX = 1.00235938128933, }, OuterRight = { PixelX = 427, RatioY = 100, }, Clips = { Show = false, }, Spline = { Show = true, Adjust = false, RatioY = 100, MRU = 2, RatioX = 0.997686377180759, } },
+			Views = ordered() {
+				MediaPool = "MediaPoolView",
+				Effects = MultiView {
+					Active = "EffectView",
+					ViewList = ordered() {
+						EffectView = "EffectView"
+					},
+				},
+				Nodes = MultiView {
+					Active = "FlowView",
+					ViewList = ordered() {
+						FlowView = "FlowView"
+					},
+					FlowView = FlowView {
+						Flags = {
+							Navigator = true,
+							AutoHideNavigator = true,
+							GridSnap = true,
+							AutoSnap = true,
+							RemoveRouters = true
+						},
+						NavigatorSize = { 415, 140 },
+						Direction = "Horizontal",
+						PipeStyle = "Direct",
+						RootScale = 0.480022,
+						RootOffset = { -543.295, 304.103 }
+					}
+				},
+				Keyframes = MultiView {
+					Active = "TimelineView",
+					ViewList = ordered() {
+						TimelineView = "TimelineView"
+					},
+					TimelineView = TimelineView {
+						TreeControlState = {
+						},
+						DisplayMode = "All Tools",
+						ShowCurrentTimeTools = false,
+						Filter = "Show All",
+						ShowSelectedTools = false,
+						ShowAnimatedToolsOnly = false,
+						ShowEditBoxes = false,
+						KeyFrameView = {
+							Position = { Left = 232, Bottom = 356 },
+							ScaleX = 0.902758620689655,
+							OffsetX = -59.5820689655172,
+							OffsetY = 0,
+							AutoScaling = "scroll",
+							AutoSnapTo = "frame",
+							AutoSnapToGuidelines = true,
+							GuidelinesGrabEnabled = true,
+							GuidelinesSnapTo = "none"
+						},
+						Spreadsheet = { LeftPos = 232, Visible = false }
+					}
+				},
+				Spline = MultiView {
+					Active = "SplineView",
+					ViewList = ordered() {
+						SplineView = "SplineEditorView"
+					},
+					SplineView = SplineEditorView {
+						LeftPos = 264,
+						ScaleX = 0.0963867018770545,
+						ScaleY = 0.000838926174496644,
+						OffsetX = 12.0483377346318,
+						OffsetY = -0.0528523489932885,
+						AutoScaling = "scroll",
+						AutoSnapTo = "frame",
+						AutoSnapToGuidelines = true,
+						GuidelinesSnapTo = "frame",
+						ShowKeyMarkers = false,
+						IndependentHandles = false,
+						ShowNonSplineModifiers = false,
+						GuidelinesGrabEnabled = true,
+						ToolStates = {
+							Current = {
+								Editable = { "sOutline1_1JoinStyle", "sOutline1_1CapStyle", "sOutline1_1Position", "sOutline1_1Length", "Background2TopLeftAlpha", "sOutline1JoinStyle", "sOutline1CapStyle", "sOutline1Length" },
+								NonEditable = { }
+							}
+						},
+						ShowOneToolOnly = false,
+						ShowSelectedTools = false,
+						ShowAllInputs = false,
+						Filter = "Show All"
+					}
+				},
+				Inspector = MultiView {
+					Active = "Tools",
+					ViewList = ordered() {
+						Tools = "ControlView",
+						Modifiers = "ModifierView"
+					},
+				},
+				Viewer1 = MultiView {
+					Active = "LeftView",
+					ViewList = ordered() {
+						LeftView = "PreviewContainer"
+					},
+				},
+				Viewer2 = MultiView {
+					Active = "RightView",
+					ViewList = ordered() {
+						RightView = "PreviewContainer"
+					},
+				},
+				Time = "TimeView",
+				ActionStrip = "ActionStripView",
+				LayoutStrip = "LayoutStripView",
+				Clips = "ClipsView",
+				Metadata = "MetadataView"
+			},
+			Layout = { { ID = "LayoutStrip", FixedY = 36, Resolve = false, Flat = true }, { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, Zone = "Left", Rows = 2, PaneID = "OuterLeft", PixelX = 420 }, { { { { ID = "MediaPool", Fusion = false, RatioX = 1 }, { ID = "Effects", RatioX = 1 }, PaneID = "InnerLeft", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Left" }, { { { ID = "Viewer1", RatioY = 0.01, RatioX = 1 }, { ID = "Viewer2", RatioX = 1 }, RatioY = 1, Columns = 2, PaneID = "ViewerSplit" }, { ID = "Time", FixedY = 83, Flat = true }, RatioX = 1, Rows = 2 }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, PaneID = "InnerRight", MaxViews = 1, PixelX = 420, Rows = 2, Zone = "!Right" }, RatioY = 2, Columns = 3, PaneID = "InnerColumns" }, { ID = "ActionStrip", FixedY = 50, Flat = true }, { { ID = "Nodes", RatioX = 1 }, { ID = "Spline", RatioX = 1 }, { ID = "Keyframes", RatioX = 1 }, RatioY = 1, Columns = 3, PaneID = "MainSplit" }, { Fusion = false, ID = "Clips", LARGE_FixedY = 160, MEDIUM_FixedY = 138, SMALL_FixedY = 110 }, RatioX = 1, Rows = 4, PaneID = "CenterSplit" }, { { ID = "Inspector", RatioY = 1 }, { ID = "Metadata", RatioY = 1, Fusion = false }, Zone = "Right", Rows = 2, PaneID = "OuterRight", PixelX = 420 }, RatioY = 1, Columns = 3, PaneID = "OuterColumns" }, RatioX = 1, Rows = 2, RatioY = 1 },
+			TopBar = { Left = { "Left", "MediaPool", "Effects", "Clips", "Nodes", "Console" }, Right = { "Spline", "Keyframes", "Metadata", "Inspector", "Right" } }
+		}
 	},
 	Prefs = {
 		Comp = {
@@ -288,12 +1377,19 @@ Composition {
 			},
 			Views = {
 				RightView = {
-					Guides = { Center = false }
+					Viewer = {
+						One2One = true,
+						PixelGrid = true,
+						Smooth = true,
+					},
+					Guides = { Center = false, },
 				},
 				LeftView = {
 					Viewer = {
-						Channel = 4294967295
-					}
+						Channel = 4294967295,
+					},
+				},
+				View1 = {
 				},
 			},
 			FrameFormat = {
@@ -310,7 +1406,7 @@ Composition {
 				}
 			},
 			Unsorted = {
-				GlobalEnd = 119
+				GlobalEnd = 67
 			},
 			Paths = {
 			},
