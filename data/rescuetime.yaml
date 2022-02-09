@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1053
+  - category: General Reference & Learning
+    name: tdsb.elearningontario.ca
+    productivity: 2
+    timeSpent: 183
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 104
+  - category: Presentation
+    name: Google Presentations
+    productivity: 2
+    timeSpent: 89
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 82
