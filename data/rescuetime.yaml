@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1809
+    timeSpent: 2455
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 1407
+    timeSpent: 2228
   - category: Presentation
     name: Google Presentations
     productivity: 2
@@ -14,7 +14,7 @@ topActivities:
   - category: Browsers
     name: about:newtab
     productivity: 0
-    timeSpent: 356
+    timeSpent: 369
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
