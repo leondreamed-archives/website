@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-10T18:09:06Z'
+    type: WatchEvent
   - date: '2022-02-10T13:55:44Z'
     type: PushEvent
   - date: '2022-02-10T13:55:32Z'
@@ -11,14 +13,10 @@ events:
     type: PushEvent
   - date: '2022-02-09T01:43:41Z'
     type: PushEvent
-  - date: '2022-02-09T01:43:33Z'
-    type: PushEvent
-  - date: '2022-02-09T01:37:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: move selfie to assets'
+  message: 'feat: fix selfie import'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/80776a77ead916534cd3cf556f50466996574c80
+    https://api.github.com/repos/leonzalion/website/commits/1cd99b7478520c341e239013ceb5724f515e885b
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
