@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Reference & Learning
-    name: desmos.com
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 280
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 221
+    timeSpent: 615
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 131
-  - category: Writing
-    name: microsoft word
-    productivity: 2
-    timeSpent: 101
-  - category: General News & Opinion
-    name: reddit.com
-    productivity: -2
-    timeSpent: 95
+    timeSpent: 578
+  - category: Search
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 391
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 357
+  - category: Browsers
+    name: about:newtab
+    productivity: 0
+    timeSpent: 338
