@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 4845
   - category: Writing
     name: Google Documents
     productivity: 2
     timeSpent: 4633
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 4148
   - category: General Reference & Learning
     name: classroom.google.com
     productivity: 2
-    timeSpent: 2373
+    timeSpent: 2679
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1927
+    timeSpent: 2057
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 1562
+    timeSpent: 1834
