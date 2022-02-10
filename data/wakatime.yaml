@@ -1,45 +1,49 @@
-dailyAverage: 20847
-totalSeconds: 145930.751082
+dailyAverage: 18437
+totalSeconds: 129058.698423
 languages:
   - name: TypeScript
-    totalSeconds: 71251.102295
+    totalSeconds: 63057.132517
   - name: Vue.js
-    totalSeconds: 49643.433638
-  - name: JSON
-    totalSeconds: 8951.95233
-  - name: Other
-    totalSeconds: 8721.654486
+    totalSeconds: 36554.60414
+  - name: C++
+    totalSeconds: 7785.363191
   - name: Python
     totalSeconds: 7645.603313
+  - name: JSON
+    totalSeconds: 7068.931501
+  - name: Other
+    totalSeconds: 6929.181048
   - name: Markdown
-    totalSeconds: 3323.549451
+    totalSeconds: 3184.51985
   - name: Bash
-    totalSeconds: 1466.493223
-  - name: HTML
-    totalSeconds: 994.885999
-  - name: JavaScript
-    totalSeconds: 944.993338
+    totalSeconds: 1231.487015
   - name: YAML
-    totalSeconds: 933.712971
+    totalSeconds: 879.018853
+  - name: JavaScript
+    totalSeconds: 869.241295
   - name: Git Config
-    totalSeconds: 544.105235
+    totalSeconds: 539.532165
   - name: Rust
     totalSeconds: 171.840109
   - name: CSS
-    totalSeconds: 57.201709
-  - name: Perl
-    totalSeconds: 1.877471
+    totalSeconds: 56.679248
+  - name: HTML
+    totalSeconds: 13.857571
+  - name: C
+    totalSeconds: 0.887655
 projects:
   - name: timeblocker
-    totalSeconds: 77419.450196
+    totalSeconds: 52252.962299
   - name: website
-    totalSeconds: 39180.710981
+    totalSeconds: 38980.82332
   - name: phone-call-pass
     totalSeconds: 14166.959516
   - name: SpamShun
     totalSeconds: 12324.827061
   - name: leonzalion
-    totalSeconds: 3630.376309
+    totalSeconds: 8604.086687
+  - name: math-ia
+    totalSeconds: 2702.783082
   - name: yabai-master-stack-plugin
     totalSeconds: 2349.046139
   - name: create-project
@@ -48,10 +52,6 @@ projects:
     totalSeconds: 859.35904
   - name: lionp
     totalSeconds: 354.045807
-  - name: vue-hcaptcha
-    totalSeconds: 344.911441
-  - name: vue-tsc-bug
-    totalSeconds: 315.286368
   - name: electron
     totalSeconds: 279.096118
   - name: espanso
@@ -60,27 +60,15 @@ projects:
     totalSeconds: 154.417779
   - name: leonzalion-nanoid-good
     totalSeconds: 130.856079
-  - name: trpc
-    totalSeconds: 112.586057
   - name: leonzalion-google-workspace
     totalSeconds: 103.08679
-  - name: vpciclubs.com
-    totalSeconds: 98.169994
   - name: simple-vue-icon
     totalSeconds: 72.131164
-  - name: tabulo
-    totalSeconds: 58.926038
   - name: nanoid-good
     totalSeconds: 47.535951
   - name: fundamental-particles-project
     totalSeconds: 44.450625
   - name: vite-electron-builder
     totalSeconds: 37.139464
-  - name: timeblocker-old
-    totalSeconds: 35.946578
   - name: Unknown Project
-    totalSeconds: 29.51511
-  - name: configs
-    totalSeconds: 9.705178
-  - name: textbelt
-    totalSeconds: 0
+    totalSeconds: 30.402765
