@@ -21,12 +21,10 @@ events:
     type: CreateEvent
   - date: '2022-02-10T13:53:20Z'
     type: CreateEvent
-  - date: '2022-02-09T18:52:13Z'
-    type: PushEvent
 latestCommit:
-  message: update zsh options
+  message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/275f240084d27e6b55f9c71c36773208182f77bf
+    https://api.github.com/repos/leonzalion/flip/commits/6006608fd25893c05e01cf799882369a1c8c2b19
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/flip
+    name: leonzalion/flip
