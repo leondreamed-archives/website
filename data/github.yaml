@@ -11,12 +11,10 @@ events:
     type: CreateEvent
   - date: '2022-02-09T18:52:13Z'
     type: PushEvent
-  - date: '2022-02-09T01:43:41Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: fix selfie import'
+  message: update zsh options
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/1cd99b7478520c341e239013ceb5724f515e885b
+    https://api.github.com/repos/leonzalion/macos-configs/commits/275f240084d27e6b55f9c71c36773208182f77bf
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
