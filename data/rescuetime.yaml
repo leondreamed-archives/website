@@ -1,21 +1,21 @@
 topActivities:
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 815
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 661
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 446
-  - category: Search
-    name: '[unpublished]'
-    productivity: 1
-    timeSpent: 393
   - category: Browsers
     name: about:newtab
     productivity: 0
-    timeSpent: 379
+    timeSpent: 959
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 911
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 704
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 604
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 592
