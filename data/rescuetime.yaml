@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 5661
-  - category: Writing
-    name: Google Documents
-    productivity: 2
-    timeSpent: 5365
+    timeSpent: 68
   - category: General Reference & Learning
     name: brilliant.org
     productivity: 2
-    timeSpent: 5268
-  - category: General Reference & Learning
-    name: classroom.google.com
-    productivity: 2
-    timeSpent: 1708
-  - category: Search
-    name: google.com
+    timeSpent: 67
+  - category: Internet Utilities
+    name: Blank Web Browser
     productivity: 1
-    timeSpent: 1648
+    timeSpent: 12
+  - category: General Software Development
+    name: leonzalion.github.io
+    productivity: 2
+    timeSpent: 10
+  - category: Browsers
+    name: Firefox
+    productivity: 0
+    timeSpent: 6
