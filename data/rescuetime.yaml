@@ -8,14 +8,14 @@ topActivities:
     productivity: 2
     timeSpent: 4989
   - category: General Reference & Learning
+    name: brilliant.org
+    productivity: 2
+    timeSpent: 4502
+  - category: General Reference & Learning
     name: classroom.google.com
     productivity: 2
-    timeSpent: 1654
+    timeSpent: 1680
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1461
-  - category: Browsers
-    name: about:newtab
-    productivity: 0
-    timeSpent: 1446
+    timeSpent: 1632
