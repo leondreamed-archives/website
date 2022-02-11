@@ -27,12 +27,10 @@ events:
     type: WatchEvent
   - date: '2022-02-10T13:55:44Z'
     type: PushEvent
-  - date: '2022-02-10T13:55:32Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/flip/commits/6006608fd25893c05e01cf799882369a1c8c2b19
+    https://api.github.com/repos/leonzalion/flip/commits/566e769da3db14011d0712cb8569a2d577903616
   repo:
     url: https://api.github.com/repos/leonzalion/flip
     name: leonzalion/flip
