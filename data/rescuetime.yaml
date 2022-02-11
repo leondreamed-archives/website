@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 68
   - category: General Reference & Learning
     name: brilliant.org
     productivity: 2
-    timeSpent: 67
+    timeSpent: 458
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 210
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 158
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 12
-  - category: General Software Development
-    name: leonzalion.github.io
-    productivity: 2
-    timeSpent: 10
-  - category: Browsers
-    name: Firefox
+    timeSpent: 37
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 6
+    timeSpent: 35

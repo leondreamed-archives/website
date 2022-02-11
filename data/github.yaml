@@ -25,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-02-10T18:09:06Z'
     type: WatchEvent
-  - date: '2022-02-10T13:55:44Z'
-    type: PushEvent
 latestCommit:
-  message: Update readme.md
+  message: add intro to css
   url: >-
-    https://api.github.com/repos/leonzalion/flip/commits/566e769da3db14011d0712cb8569a2d577903616
+    https://api.github.com/repos/Vic-Park/vpcc-web-dev/commits/bf4415e1fb6242f0106e985b4e2f181909cf3703
   repo:
-    url: https://api.github.com/repos/leonzalion/flip
-    name: leonzalion/flip
+    url: https://api.github.com/repos/Vic-Park/vpcc-web-dev
+    name: Vic-Park/vpcc-web-dev
