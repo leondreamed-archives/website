@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-11T19:25:15Z'
+    type: WatchEvent
   - date: '2022-02-11T17:15:50Z'
     type: PushEvent
   - date: '2022-02-11T17:14:17Z'
@@ -31,14 +33,10 @@ events:
     type: PushEvent
   - date: '2022-02-10T21:31:41Z'
     type: PushEvent
-  - date: '2022-02-10T21:19:35Z'
-    type: PushEvent
-  - date: '2022-02-10T21:09:57Z'
-    type: PushEvent
 latestCommit:
-  message: add intro to css
+  message: add lesson plan
   url: >-
-    https://api.github.com/repos/Vic-Park/vpcc-web-dev/commits/bf4415e1fb6242f0106e985b4e2f181909cf3703
+    https://api.github.com/repos/Vic-Park/vpcc-web-dev/commits/aa44dc385747b4bff591963aa13ff0e638b81c76
   repo:
     url: https://api.github.com/repos/Vic-Park/vpcc-web-dev
     name: Vic-Park/vpcc-web-dev
