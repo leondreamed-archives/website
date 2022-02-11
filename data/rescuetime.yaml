@@ -2,20 +2,20 @@ topActivities:
   - category: General Reference & Learning
     name: brilliant.org
     productivity: 2
-    timeSpent: 458
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 210
+    timeSpent: 834
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 158
-  - category: Internet Utilities
-    name: Blank Web Browser
+    timeSpent: 433
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 254
+  - category: Search
+    name: wolframalpha.com
     productivity: 1
-    timeSpent: 37
+    timeSpent: 179
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 35
+    timeSpent: 77
