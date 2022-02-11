@@ -29,12 +29,10 @@ events:
     type: WatchEvent
   - date: '2022-02-10T21:34:32Z'
     type: PushEvent
-  - date: '2022-02-10T21:31:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: update contributing.md'
+  message: update lesson plan
   url: >-
-    https://api.github.com/repos/Vic-Park/vpciclubs.com/commits/1a650c6fc16eab3638b954b6976bf70b53ee3011
+    https://api.github.com/repos/Vic-Park/vpcc-web-dev/commits/78f81c26106816f74fd27818457997233fc41408
   repo:
-    url: https://api.github.com/repos/Vic-Park/vpciclubs.com
-    name: Vic-Park/vpciclubs.com
+    url: https://api.github.com/repos/Vic-Park/vpcc-web-dev
+    name: Vic-Park/vpcc-web-dev
