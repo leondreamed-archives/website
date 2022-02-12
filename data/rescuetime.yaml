@@ -2,12 +2,20 @@ topActivities:
   - category: Browsers
     name: Firefox
     productivity: 0
-    timeSpent: 34
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 14
-  - category: Editing & IDEs
-    name: Visual Studio Code
+    timeSpent: 606
+  - category: General Reference & Learning
+    name: brilliant.org
     productivity: 2
-    timeSpent: 7
+    timeSpent: 337
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 166
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 55
+  - category: Science & Technology
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 46
