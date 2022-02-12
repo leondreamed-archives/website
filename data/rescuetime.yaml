@@ -1,1 +1,13 @@
-topActivities: []
+topActivities:
+  - category: Browsers
+    name: Firefox
+    productivity: 0
+    timeSpent: 34
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 14
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 7
