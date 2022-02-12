@@ -23,8 +23,6 @@ events:
     type: PushEvent
   - date: '2022-02-12T15:57:08Z'
     type: WatchEvent
-  - date: '2022-02-11T19:25:15Z'
-    type: WatchEvent
 latestCommit:
   message: 'fix: add file extensions'
   url: >-
