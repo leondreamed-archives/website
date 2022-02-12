@@ -3,14 +3,14 @@ topActivities:
     name: brilliant.org
     productivity: 2
     timeSpent: 7602
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2790
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 2665
+    timeSpent: 3512
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2877
   - category: General Business
     name: Google Forms
     productivity: 2
