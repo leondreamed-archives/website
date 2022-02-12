@@ -1,21 +1,21 @@
 topActivities:
+  - category: General Reference & Learning
+    name: brilliant.org
+    productivity: 2
+    timeSpent: 1159
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 665
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 630
   - category: Browsers
     name: Firefox
     productivity: 0
     timeSpent: 606
-  - category: General Reference & Learning
-    name: brilliant.org
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 337
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 166
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 55
-  - category: Science & Technology
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 46
+    timeSpent: 430
