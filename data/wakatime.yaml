@@ -1,41 +1,41 @@
-dailyAverage: 17548
-totalSeconds: 122834.976463
+dailyAverage: 15298
+totalSeconds: 107082.931136
 languages:
   - name: TypeScript
-    totalSeconds: 48267.589158
+    totalSeconds: 42105.722994
   - name: Vue.js
-    totalSeconds: 39299.42331
-  - name: Python
-    totalSeconds: 9191.631368
+    totalSeconds: 32512.563234
   - name: C++
     totalSeconds: 7785.363191
-  - name: Other
-    totalSeconds: 6923.761014
+  - name: Python
+    totalSeconds: 6723.85592
   - name: JSON
-    totalSeconds: 6259.093563
+    totalSeconds: 6623.833125
+  - name: Other
+    totalSeconds: 6449.097554
   - name: Markdown
-    totalSeconds: 4363.419816
+    totalSeconds: 4668.312444
   - name: HTML
-    totalSeconds: 4317.510253
+    totalSeconds: 4363.180477
   - name: Bash
     totalSeconds: 953.226455
   - name: YAML
-    totalSeconds: 845.716747
+    totalSeconds: 555.589751
   - name: JavaScript
-    totalSeconds: 845.629386
+    totalSeconds: 409.697041
   - name: Git Config
-    totalSeconds: 644.608315
+    totalSeconds: 349.270209
   - name: CSS
-    totalSeconds: 56.679248
+    totalSeconds: 27.230642
   - name: D
     totalSeconds: 4.197998
   - name: C
     totalSeconds: 0.887655
 projects:
   - name: timeblocker
-    totalSeconds: 52148.786853
+    totalSeconds: 49991.136779
   - name: website
-    totalSeconds: 37256.504493
+    totalSeconds: 25653.512724
   - name: SpamShun
     totalSeconds: 12324.827061
   - name: leonzalion
@@ -43,34 +43,24 @@ projects:
   - name: math-ia
     totalSeconds: 6949.905345
   - name: vpcc-web-dev
-    totalSeconds: 5494.046474
-  - name: yabai-master-stack-plugin
-    totalSeconds: 2349.046139
+    totalSeconds: 5863.108941
   - name: create-project
     totalSeconds: 1416.265602
   - name: sync-index
     totalSeconds: 859.35904
-  - name: lionp
-    totalSeconds: 354.045807
   - name: vpciclubs.com
     totalSeconds: 347.188557
   - name: electron
     totalSeconds: 279.096118
+  - name: Unknown Project
+    totalSeconds: 175.212955
   - name: phone-call-pass
     totalSeconds: 155.530843
-  - name: sindre-np
-    totalSeconds: 154.417779
-  - name: leonzalion-nanoid-good
-    totalSeconds: 130.856079
   - name: leonzalion-google-workspace
     totalSeconds: 103.08679
-  - name: simple-vue-icon
-    totalSeconds: 72.131164
-  - name: nanoid-good
-    totalSeconds: 47.535951
+  - name: vue-tsc-bug
+    totalSeconds: 99.916162
   - name: fundamental-particles-project
     totalSeconds: 44.450625
   - name: vite-electron-builder
     totalSeconds: 37.139464
-  - name: Unknown Project
-    totalSeconds: 2.225609
