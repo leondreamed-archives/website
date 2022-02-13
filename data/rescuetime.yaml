@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6873
+    timeSpent: 8961
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 3262
-  - category: Uncategorized
-    name: python3.10
-    productivity: 0
-    timeSpent: 1189
+    timeSpent: 3762
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 867
+    timeSpent: 1376
+  - category: Uncategorized
+    name: python3.10
+    productivity: 0
+    timeSpent: 1305
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 512
+    timeSpent: 623
