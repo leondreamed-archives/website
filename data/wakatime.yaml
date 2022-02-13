@@ -1,66 +1,64 @@
-dailyAverage: 15298
-totalSeconds: 107082.931136
+dailyAverage: 13572
+totalSeconds: 95003.281059
 languages:
   - name: TypeScript
-    totalSeconds: 42105.722994
+    totalSeconds: 36823.696184
   - name: Vue.js
-    totalSeconds: 32512.563234
+    totalSeconds: 25799.824009
+  - name: Python
+    totalSeconds: 10278.070947
   - name: C++
     totalSeconds: 7785.363191
-  - name: Python
-    totalSeconds: 6723.85592
-  - name: JSON
-    totalSeconds: 6623.833125
-  - name: Other
-    totalSeconds: 6449.097554
   - name: Markdown
-    totalSeconds: 4668.312444
+    totalSeconds: 4922.032138
   - name: HTML
-    totalSeconds: 4363.180477
+    totalSeconds: 4353.261166
+  - name: Other
+    totalSeconds: 3680.49134
+  - name: JSON
+    totalSeconds: 3437.769277
   - name: Bash
-    totalSeconds: 953.226455
-  - name: YAML
-    totalSeconds: 555.589751
+    totalSeconds: 569.955543
   - name: JavaScript
-    totalSeconds: 409.697041
+    totalSeconds: 363.517056
   - name: Git Config
     totalSeconds: 349.270209
+  - name: YAML
+    totalSeconds: 298.478506
+  - name: Text
+    totalSeconds: 10.229926
   - name: CSS
-    totalSeconds: 27.230642
+    totalSeconds: 6.686912
   - name: D
     totalSeconds: 4.197998
   - name: C
     totalSeconds: 0.887655
+  - name: CSV
+    totalSeconds: 0.040342
 projects:
   - name: timeblocker
-    totalSeconds: 49991.136779
-  - name: website
-    totalSeconds: 25653.512724
-  - name: SpamShun
-    totalSeconds: 12324.827061
-  - name: leonzalion
-    totalSeconds: 9232.291684
+    totalSeconds: 48121.645317
   - name: math-ia
-    totalSeconds: 6949.905345
+    totalSeconds: 23329.107355
+  - name: lionecs
+    totalSeconds: 6743.316036
+  - name: leonzalion
+    totalSeconds: 5938.482752
+  - name: website
+    totalSeconds: 5874.59976
   - name: vpcc-web-dev
     totalSeconds: 5863.108941
-  - name: create-project
-    totalSeconds: 1416.265602
-  - name: sync-index
-    totalSeconds: 859.35904
+  - name: SpamShun
+    totalSeconds: 1406.778211
+  - name: TypeRacerStats
+    totalSeconds: 433.059733
   - name: vpciclubs.com
     totalSeconds: 347.188557
-  - name: electron
-    totalSeconds: 279.096118
+  - name: tampermonkey
+    totalSeconds: 328.488152
   - name: Unknown Project
     totalSeconds: 175.212955
-  - name: phone-call-pass
-    totalSeconds: 155.530843
-  - name: leonzalion-google-workspace
-    totalSeconds: 103.08679
   - name: vue-tsc-bug
     totalSeconds: 99.916162
   - name: fundamental-particles-project
-    totalSeconds: 44.450625
-  - name: vite-electron-builder
-    totalSeconds: 37.139464
+    totalSeconds: 22.868468
