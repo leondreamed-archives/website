@@ -1,21 +1,21 @@
 topActivities:
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 1554
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 942
+    timeSpent: 2567
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 2052
+  - category: Uncategorized
+    name: python3.10
+    productivity: 0
+    timeSpent: 469
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 269
   - category: Browsers
     name: Firefox
     productivity: 0
     timeSpent: 236
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 164
-  - category: Uncategorized
-    name: iscinumpy.dev
-    productivity: 0
-    timeSpent: 147
