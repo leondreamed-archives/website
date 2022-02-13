@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-02-12T18:24:30Z'
     type: PushEvent
-  - date: '2022-02-12T18:22:47Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add file extensions'
+  message: 'refactor: createEntity -> entity'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/8a69c2d84d133a524e7b8dd15970163ebe5fee9a
+    https://api.github.com/repos/leonzalion/lionecs/commits/65ef64337e9207508225ed912d8432183b986bc0
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
