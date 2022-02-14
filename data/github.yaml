@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-14T02:38:28Z'
+    type: WatchEvent
   - date: '2022-02-14T01:30:49Z'
     type: PushEvent
   - date: '2022-02-14T01:25:02Z'
@@ -13,14 +15,10 @@ events:
     type: WatchEvent
   - date: '2022-02-12T23:13:03Z'
     type: WatchEvent
-  - date: '2022-02-12T19:57:37Z'
-    type: PushEvent
-  - date: '2022-02-12T19:56:27Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: improve entity ergonomics'
+  message: vscode settings
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/5c244604023ce813698926c7c9c644c073e14ad9
+    https://api.github.com/repos/leonzalion/macos-configs/commits/27577ec3a463d576a346c98db90fd2ea8a8fdbed
   repo:
-    url: https://api.github.com/repos/leonzalion/lionecs
-    name: leonzalion/lionecs
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
