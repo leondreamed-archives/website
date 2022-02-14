@@ -15,8 +15,6 @@ events:
     type: WatchEvent
   - date: '2022-02-14T00:31:09Z'
     type: WatchEvent
-  - date: '2022-02-12T23:13:03Z'
-    type: WatchEvent
 latestCommit:
   message: vscode settings
   url: >-
