@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-14T01:30:49Z'
+    type: PushEvent
+  - date: '2022-02-14T01:25:02Z'
+    type: PushEvent
   - date: '2022-02-14T01:17:48Z'
     type: PushEvent
   - date: '2022-02-14T01:17:17Z'
@@ -13,16 +17,10 @@ events:
     type: PushEvent
   - date: '2022-02-12T19:56:27Z'
     type: PushEvent
-  - date: '2022-02-12T19:52:09Z'
-    type: PushEvent
-  - date: '2022-02-12T19:49:44Z'
-    type: PushEvent
-  - date: '2022-02-12T19:43:26Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: more ergonomic entity definition'
+  message: 'docs: improve entity ergonomics'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/c2be1687dfe3c0e6d831f2f1e0b54ae179217ca3
+    https://api.github.com/repos/leonzalion/lionecs/commits/5c244604023ce813698926c7c9c644c073e14ad9
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
