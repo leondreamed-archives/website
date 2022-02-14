@@ -19,12 +19,10 @@ events:
     type: PushEvent
   - date: '2022-02-12T18:53:42Z'
     type: PushEvent
-  - date: '2022-02-12T18:24:30Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: createEntity -> entity'
+  message: 'feat: useproxy'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/65ef64337e9207508225ed912d8432183b986bc0
+    https://api.github.com/repos/leonzalion/lionecs/commits/c07d46b84a787f8122d31a03526eeb16ce4f23cd
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
