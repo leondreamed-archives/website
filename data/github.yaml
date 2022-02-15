@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-14T02:38:28Z'
     type: WatchEvent
-  - date: '2022-02-14T01:30:49Z'
-    type: PushEvent
 latestCommit:
-  message: latex fix
+  message: zoom
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b71308e7cf6121636677862778ceafa6e89bab4b
+    https://api.github.com/repos/leonzalion/macos-configs/commits/c42d07434af2590557adf297e44e5b807b8c3566
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
