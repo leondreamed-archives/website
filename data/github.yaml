@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-15T01:56:01Z'
+    type: WatchEvent
   - date: '2022-02-15T00:00:03Z'
     type: PushEvent
   - date: '2022-02-14T23:56:20Z'
@@ -25,14 +27,10 @@ events:
     type: PushEvent
   - date: '2022-02-14T01:25:02Z'
     type: PushEvent
-  - date: '2022-02-14T01:17:48Z'
-    type: PushEvent
-  - date: '2022-02-14T01:17:17Z'
-    type: PushEvent
 latestCommit:
-  message: vscode settings
+  message: fix latex in vscode
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/27577ec3a463d576a346c98db90fd2ea8a8fdbed
+    https://api.github.com/repos/leonzalion/macos-configs/commits/f20aaba6063fa38a3c45eaeb1b76e365189c1530
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
