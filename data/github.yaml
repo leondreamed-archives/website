@@ -21,8 +21,6 @@ events:
     type: WatchEvent
   - date: '2022-02-14T13:16:28Z'
     type: PushEvent
-  - date: '2022-02-14T02:38:28Z'
-    type: WatchEvent
 latestCommit:
   message: zoom
   url: >-
