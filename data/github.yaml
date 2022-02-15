@@ -19,12 +19,10 @@ events:
     type: PushEvent
   - date: '2022-02-14T16:22:46Z'
     type: WatchEvent
-  - date: '2022-02-14T13:16:28Z'
-    type: PushEvent
 latestCommit:
-  message: zoom
+  message: 'feat: add app.json'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/c42d07434af2590557adf297e44e5b807b8c3566
+    https://api.github.com/repos/leonzalion/phone-call-pass/commits/7e217c97016aeb0d5f78a554805ba275962f8c25
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/phone-call-pass
+    name: leonzalion/phone-call-pass
