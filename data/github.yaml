@@ -17,8 +17,6 @@ events:
     type: IssueCommentEvent
   - date: '2022-02-14T17:28:26Z'
     type: PushEvent
-  - date: '2022-02-14T16:22:46Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: add app.json'
   url: >-
