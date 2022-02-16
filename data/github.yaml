@@ -9,12 +9,10 @@ events:
     type: PushEvent
   - date: '2022-02-14T23:56:20Z'
     type: WatchEvent
-  - date: '2022-02-14T23:55:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add oh my zsh'
+  message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/1deb6ed24ecec6699424a3b7c8917a5286473467
+    https://api.github.com/repos/leonzalion/macos-configs/commits/b4db19e15c44e58edf0234283b9237ab81bf13e3
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
