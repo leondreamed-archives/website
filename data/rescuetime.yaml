@@ -2,7 +2,7 @@ topActivities:
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 845
+    timeSpent: 3031
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -11,11 +11,11 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 197
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 156
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 151
-  - category: Browsers
-    name: about:newtab
-    productivity: 0
-    timeSpent: 39
