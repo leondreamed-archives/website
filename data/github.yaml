@@ -11,8 +11,6 @@ events:
     type: WatchEvent
   - date: '2022-02-14T23:55:03Z'
     type: PushEvent
-  - date: '2022-02-14T23:48:49Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: add oh my zsh'
   url: >-
