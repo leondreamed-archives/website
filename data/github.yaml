@@ -1,18 +1,16 @@
 events:
+  - date: '2022-02-16T19:12:31Z'
+    type: PushEvent
   - date: '2022-02-16T02:53:53Z'
     type: WatchEvent
   - date: '2022-02-15T23:23:06Z'
     type: PushEvent
   - date: '2022-02-15T01:56:01Z'
     type: WatchEvent
-  - date: '2022-02-15T00:00:03Z'
-    type: PushEvent
-  - date: '2022-02-14T23:56:20Z'
-    type: WatchEvent
 latestCommit:
-  message: 'fix: bug'
+  message: update latex settings
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b4db19e15c44e58edf0234283b9237ab81bf13e3
+    https://api.github.com/repos/leonzalion/macos-configs/commits/5a456c6558f5704f913d2cb9d2b4ce707abc254f
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs

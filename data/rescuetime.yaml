@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1984
+    timeSpent: 4447
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 786
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 420
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 259
-  - category: General News & Opinion
+    timeSpent: 601
+  - category: Engineering & Technology
     name: '[unpublished]'
-    productivity: -2
-    timeSpent: 223
+    productivity: 2
+    timeSpent: 472
