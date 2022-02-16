@@ -1,12 +1,12 @@
 events:
+  - date: '2022-02-16T21:19:15Z'
+    type: PushEvent
   - date: '2022-02-16T19:12:31Z'
     type: PushEvent
   - date: '2022-02-16T02:53:53Z'
     type: WatchEvent
   - date: '2022-02-15T23:23:06Z'
     type: PushEvent
-  - date: '2022-02-15T01:56:01Z'
-    type: WatchEvent
 latestCommit:
   message: update latex settings
   url: >-
