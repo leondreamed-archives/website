@@ -15,12 +15,10 @@ events:
     type: WatchEvent
   - date: '2022-02-14T23:16:30Z'
     type: PushEvent
-  - date: '2022-02-14T20:39:49Z'
-    type: PushEvent
 latestCommit:
-  message: code changesn
+  message: 1.0.8
   url: >-
-    https://api.github.com/repos/Vic-Park/vpcc-web-dev/commits/574a1ae1ac3ccbeb4dc8ec083c8dd8a501e0e18d
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/86754b7538de07d4ac3db4f02cf1c8812631fd79
   repo:
-    url: https://api.github.com/repos/Vic-Park/vpcc-web-dev
-    name: Vic-Park/vpcc-web-dev
+    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
+    name: leonzalion/yabai-master-stack-plugin

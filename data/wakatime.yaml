@@ -1,40 +1,40 @@
-dailyAverage: 18115
-totalSeconds: 126802.279497
+dailyAverage: 18440
+totalSeconds: 129078.652922
 languages:
   - name: Python
     totalSeconds: 38076.176069
-  - name: TypeScript
-    totalSeconds: 25357.348194
   - name: TeX
-    totalSeconds: 24159.139913
-  - name: Vue.js
-    totalSeconds: 11591.18337
+    totalSeconds: 33577.515436
+  - name: TypeScript
+    totalSeconds: 20868.491621
   - name: HTML
     totalSeconds: 8396.690105
   - name: C++
     totalSeconds: 7785.363191
+  - name: Vue.js
+    totalSeconds: 6049.928195
   - name: Markdown
-    totalSeconds: 5219.635347
+    totalSeconds: 5199.565947
   - name: JSON
-    totalSeconds: 4323.901346
-  - name: Other
-    totalSeconds: 2260.861916
-  - name: JavaScript
-    totalSeconds: 516.633614
+    totalSeconds: 4201.144441
   - name: sh
-    totalSeconds: 411.228161
+    totalSeconds: 3612.184066
+  - name: Other
+    totalSeconds: 2153.428603
   - name: Git Config
-    totalSeconds: 385.799495
-  - name: YAML
-    totalSeconds: 291.285186
+    totalSeconds: 516.014016
+  - name: JavaScript
+    totalSeconds: 488.411199
   - name: Bash
-    totalSeconds: 107.19161
+    totalSeconds: 95.090608
   - name: Text
     totalSeconds: 81.720142
   - name: TOML
     totalSeconds: 35.273238
   - name: INI
     totalSeconds: 35.00652
+  - name: YAML
+    totalSeconds: 31.374132
   - name: reStructuredText
     totalSeconds: 11.706043
   - name: CSV
@@ -47,23 +47,21 @@ languages:
     totalSeconds: 0.887655
 projects:
   - name: math-ia
-    totalSeconds: 51042.40615
+    totalSeconds: 51042.558385
   - name: timeblocker
-    totalSeconds: 25938.532952
+    totalSeconds: 28561.918478
   - name: leonzalion
-    totalSeconds: 15868.434174
+    totalSeconds: 17662.426131
   - name: chem-lab
-    totalSeconds: 13102.854594
+    totalSeconds: 13741.410344
   - name: lionecs
     totalSeconds: 6743.316036
   - name: vpcc-web-dev
     totalSeconds: 6710.750643
-  - name: website
-    totalSeconds: 3171.207126
   - name: vpciclubs.com
     totalSeconds: 1936.142321
-  - name: SpamShun
-    totalSeconds: 1406.778211
+  - name: website
+    totalSeconds: 1690.839981
   - name: TypeRacerStats
     totalSeconds: 1264.678033
   - name: phone-call-pass
