@@ -13,12 +13,10 @@ events:
     type: PushEvent
   - date: '2022-02-14T23:48:49Z'
     type: WatchEvent
-  - date: '2022-02-14T23:16:30Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.8
+  message: 'feat: add oh my zsh'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/86754b7538de07d4ac3db4f02cf1c8812631fd79
+    https://api.github.com/repos/leonzalion/macos-configs/commits/1deb6ed24ecec6699424a3b7c8917a5286473467
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs

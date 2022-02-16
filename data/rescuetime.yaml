@@ -2,20 +2,20 @@ topActivities:
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 3031
+    timeSpent: 3338
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 751
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 229
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 223
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 197
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
-    timeSpent: 156
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 151
+    timeSpent: 208
