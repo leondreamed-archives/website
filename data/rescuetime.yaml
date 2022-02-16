@@ -1,5 +1,21 @@
 topActivities:
-  - category: Systems Operations
-    name: Terminal
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 845
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 223
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 197
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 3
+    timeSpent: 151
+  - category: Browsers
+    name: about:newtab
+    productivity: 0
+    timeSpent: 39
