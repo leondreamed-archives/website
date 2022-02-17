@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3566
+    timeSpent: 5777
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1130
+    timeSpent: 1250
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 870
+  - category: Internet Utilities
+    name: Blank Web Browser
+    productivity: 1
+    timeSpent: 600
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
     timeSpent: 491
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 466
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 462
