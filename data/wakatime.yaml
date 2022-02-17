@@ -1,59 +1,57 @@
-dailyAverage: 18440
-totalSeconds: 129078.652922
+dailyAverage: 20773
+totalSeconds: 145413.709249
 languages:
+  - name: TeX
+    totalSeconds: 49213.354737
   - name: Python
     totalSeconds: 38076.176069
-  - name: TeX
-    totalSeconds: 33577.515436
   - name: TypeScript
-    totalSeconds: 20868.491621
+    totalSeconds: 18281.947404
+  - name: C++
+    totalSeconds: 10227.57672
   - name: HTML
     totalSeconds: 8396.690105
-  - name: C++
-    totalSeconds: 7785.363191
+  - name: sh
+    totalSeconds: 5297.167985
   - name: Vue.js
-    totalSeconds: 6049.928195
+    totalSeconds: 5256.708139
   - name: Markdown
     totalSeconds: 5199.565947
   - name: JSON
-    totalSeconds: 4201.144441
-  - name: sh
-    totalSeconds: 3612.184066
+    totalSeconds: 4276.433046
   - name: Other
-    totalSeconds: 2153.428603
+    totalSeconds: 2176.528818
   - name: Git Config
-    totalSeconds: 516.014016
+    totalSeconds: 507.883024
   - name: JavaScript
-    totalSeconds: 488.411199
-  - name: Bash
-    totalSeconds: 95.090608
+    totalSeconds: 488.215866
   - name: Text
     totalSeconds: 81.720142
   - name: TOML
     totalSeconds: 35.273238
   - name: INI
     totalSeconds: 35.00652
-  - name: YAML
-    totalSeconds: 31.374132
   - name: reStructuredText
     totalSeconds: 11.706043
+  - name: Bash
+    totalSeconds: 6.342951
   - name: CSV
     totalSeconds: 6.164155
+  - name: YAML
+    totalSeconds: 5.831015
   - name: Lua
     totalSeconds: 5.748145
   - name: D
     totalSeconds: 4.197998
-  - name: C
-    totalSeconds: 0.887655
 projects:
   - name: math-ia
-    totalSeconds: 51042.558385
+    totalSeconds: 48339.775303
   - name: timeblocker
-    totalSeconds: 28561.918478
+    totalSeconds: 40945.608353
   - name: leonzalion
-    totalSeconds: 17662.426131
+    totalSeconds: 23560.865145
   - name: chem-lab
-    totalSeconds: 13741.410344
+    totalSeconds: 13870.762728
   - name: lionecs
     totalSeconds: 6743.316036
   - name: vpcc-web-dev
@@ -62,17 +60,19 @@ projects:
     totalSeconds: 1936.142321
   - name: website
     totalSeconds: 1690.839981
+  - name: phone-call-pass
+    totalSeconds: 1585.629905
   - name: TypeRacerStats
     totalSeconds: 1264.678033
-  - name: phone-call-pass
-    totalSeconds: 946.086563
   - name: tampermonkey
     totalSeconds: 448.066534
   - name: Unknown Project
-    totalSeconds: 173.875001
+    totalSeconds: 172.987346
   - name: python
     totalSeconds: 140.773408
   - name: vue-tsc-bug
     totalSeconds: 99.916162
   - name: monkeytype
     totalSeconds: 69.323505
+  - name: Terminal
+    totalSeconds: 10.802664
