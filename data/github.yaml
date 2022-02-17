@@ -9,8 +9,6 @@ events:
     type: PushEvent
   - date: '2022-02-16T19:12:31Z'
     type: PushEvent
-  - date: '2022-02-16T02:53:53Z'
-    type: WatchEvent
 latestCommit:
   message: vscode use lualatex
   url: >-

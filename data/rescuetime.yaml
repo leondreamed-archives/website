@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5777
+    timeSpent: 6674
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1251
+    timeSpent: 1500
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 1488
+  - category: Calendars
+    name: cold turkey blocker
+    productivity: 0
+    timeSpent: 1243
   - category: General Software Development
     name: localhost:3000
     productivity: 2
     timeSpent: 870
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 859
-  - category: Calendars
-    name: cold turkey blocker
-    productivity: 0
-    timeSpent: 766
