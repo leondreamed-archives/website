@@ -9,12 +9,10 @@ events:
     type: PushEvent
   - date: '2022-02-16T02:53:53Z'
     type: WatchEvent
-  - date: '2022-02-15T23:23:06Z'
-    type: PushEvent
 latestCommit:
-  message: update latex settings
+  message: vscode use lualatex
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/5a456c6558f5704f913d2cb9d2b4ce707abc254f
+    https://api.github.com/repos/leonzalion/macos-configs/commits/03a81eaf7c67b479b3fac80fc4e81447b4eef20b
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
