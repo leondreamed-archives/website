@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-18T22:42:42Z'
+    type: PushEvent
   - date: '2022-02-18T03:24:18Z'
     type: WatchEvent
   - date: '2022-02-18T02:24:36Z'
@@ -21,12 +23,10 @@ events:
     type: CreateEvent
   - date: '2022-02-17T23:42:16Z'
     type: PushEvent
-  - date: '2022-02-17T19:37:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: rename path to icon'
+  message: 'chore: update build command'
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/47d961be367f4bad3b3976cdbcf77141345524b1
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/081ee89faa1ddd8cfce2234fb50b9e0db1791ae2
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
