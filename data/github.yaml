@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-18T03:24:18Z'
+    type: WatchEvent
   - date: '2022-02-18T02:24:36Z'
     type: PushEvent
   - date: '2022-02-18T02:22:55Z'
@@ -23,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-02-17T16:43:21Z'
     type: PushEvent
-  - date: '2022-02-17T00:58:27Z'
-    type: PushEvent
 latestCommit:
-  message: cpp
+  message: brew
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/2d86d2833ec776eedcedffc1d69a637e9b342e52
+    https://api.github.com/repos/leonzalion/macos-configs/commits/3df13e1240a0fb5dc64703090f908a08add538e8
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs

@@ -1,71 +1,81 @@
-dailyAverage: 20773
-totalSeconds: 145413.709249
+dailyAverage: 22738
+totalSeconds: 159167.843794
 languages:
   - name: TeX
-    totalSeconds: 49213.354737
+    totalSeconds: 51422.748435
   - name: Python
-    totalSeconds: 38076.176069
+    totalSeconds: 35921.787349
   - name: TypeScript
-    totalSeconds: 18281.947404
+    totalSeconds: 25026.400689
   - name: C++
     totalSeconds: 10227.57672
-  - name: HTML
-    totalSeconds: 8396.690105
   - name: sh
-    totalSeconds: 5297.167985
+    totalSeconds: 9253.322543
   - name: Vue.js
-    totalSeconds: 5256.708139
+    totalSeconds: 6953.706082
   - name: Markdown
-    totalSeconds: 5199.565947
+    totalSeconds: 6800.026236
   - name: JSON
-    totalSeconds: 4276.433046
-  - name: Other
-    totalSeconds: 2176.528818
-  - name: Git Config
-    totalSeconds: 507.883024
-  - name: JavaScript
-    totalSeconds: 488.215866
+    totalSeconds: 4986.929769
+  - name: HTML
+    totalSeconds: 4091.814803
   - name: Text
-    totalSeconds: 81.720142
-  - name: TOML
-    totalSeconds: 35.273238
+    totalSeconds: 3262.587308
+  - name: Other
+    totalSeconds: 2275.985851
+  - name: JavaScript
+    totalSeconds: 517.72729
+  - name: Git Config
+    totalSeconds: 263.309329
+  - name: Bash
+    totalSeconds: 189.351638
+  - name: SQL
+    totalSeconds: 74.427176
+  - name: YAML
+    totalSeconds: 60.498107
   - name: INI
-    totalSeconds: 35.00652
+    totalSeconds: 47.264962
+  - name: TOML
+    totalSeconds: 37.244986
   - name: reStructuredText
     totalSeconds: 11.706043
-  - name: Bash
-    totalSeconds: 6.342951
   - name: CSV
     totalSeconds: 6.164155
-  - name: YAML
-    totalSeconds: 5.831015
   - name: Lua
     totalSeconds: 5.748145
-  - name: D
-    totalSeconds: 4.197998
+  - name: Roff
+    totalSeconds: 2.444109
+  - name: VimL
+    totalSeconds: 1.863181
+  - name: AppleScript
+    totalSeconds: 1.709104
+  - name: tmux
+    totalSeconds: 1.485635
 projects:
-  - name: math-ia
-    totalSeconds: 48339.775303
   - name: timeblocker
-    totalSeconds: 40945.608353
+    totalSeconds: 53232.76965
+  - name: math-ia
+    totalSeconds: 47295.978936
   - name: leonzalion
-    totalSeconds: 23560.865145
+    totalSeconds: 31470.291981
   - name: chem-lab
-    totalSeconds: 13870.762728
+    totalSeconds: 14090.654301
   - name: lionecs
     totalSeconds: 6743.316036
-  - name: vpcc-web-dev
-    totalSeconds: 6710.750643
-  - name: vpciclubs.com
-    totalSeconds: 1936.142321
   - name: website
     totalSeconds: 1690.839981
+  - name: vpciclubs.com
+    totalSeconds: 1588.953764
   - name: phone-call-pass
     totalSeconds: 1585.629905
   - name: TypeRacerStats
     totalSeconds: 1264.678033
+  - name: vpcc-web-dev
+    totalSeconds: 1216.704169
   - name: tampermonkey
     totalSeconds: 448.066534
+  - name: simple-vue-icon
+    totalSeconds: 258.358575
   - name: Unknown Project
     totalSeconds: 172.987346
   - name: python
@@ -74,5 +84,11 @@ projects:
     totalSeconds: 99.916162
   - name: monkeytype
     totalSeconds: 69.323505
+  - name: tabulo-rewrite
+    totalSeconds: 39.72173
+  - name: backend
+    totalSeconds: 22.152545
   - name: Terminal
     totalSeconds: 10.802664
+  - name: DrillDev
+    totalSeconds: 1.91042
