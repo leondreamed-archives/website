@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2265
+    timeSpent: 3346
+  - category: General Reference & Learning
+    name: app.kiratalent.com
+    productivity: 2
+    timeSpent: 1841
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
     timeSpent: 443
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 315
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 275
+    timeSpent: 427
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 183
+    timeSpent: 417
