@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-17T19:37:52Z'
     type: PushEvent
-  - date: '2022-02-17T16:43:21Z'
-    type: PushEvent
 latestCommit:
-  message: brew
+  message: 'refactor: rename path to icon'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/3df13e1240a0fb5dc64703090f908a08add538e8
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/47d961be367f4bad3b3976cdbcf77141345524b1
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/simple-vue-icon
+    name: leonzalion/simple-vue-icon

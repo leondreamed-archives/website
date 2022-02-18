@@ -2,7 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5238
+    timeSpent: 5311
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 2817
   - category: Communications
     name: discord.com
     productivity: -1
@@ -11,11 +15,7 @@ topActivities:
     name: app.kiratalent.com
     productivity: 2
     timeSpent: 2001
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 1794
-  - category: Writing
-    name: Google Documents
+  - category: General Software Development
+    name: '[unpublished]'
     productivity: 2
-    timeSpent: 852
+    timeSpent: 972
