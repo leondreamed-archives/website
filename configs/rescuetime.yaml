@@ -41,6 +41,7 @@ allowList:
       - kubernetes
       - k8s
       - node
+      - dmoj
 
   ## Communication-related sites/apps
 
