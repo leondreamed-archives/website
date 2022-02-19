@@ -1,50 +1,66 @@
 events:
-  - date: '2022-02-19T21:07:47Z'
-    type: IssuesEvent
-  - date: '2022-02-19T20:54:58Z'
-    type: PushEvent
-  - date: '2022-02-19T20:54:26Z'
-    type: PushEvent
-  - date: '2022-02-19T20:53:58Z'
-    type: ForkEvent
-  - date: '2022-02-19T20:24:13Z'
-    type: PushEvent
-  - date: '2022-02-19T20:23:40Z'
+  - date: '2022-02-19T22:55:54Z'
+    type: ReleaseEvent
+  - date: '2022-02-19T22:55:53Z'
     type: CreateEvent
-  - date: '2022-02-19T20:23:32Z'
-    type: CreateEvent
-  - date: '2022-02-19T20:20:44Z'
+  - date: '2022-02-19T22:55:53Z'
     type: PushEvent
-  - date: '2022-02-19T20:20:44Z'
-    type: CreateEvent
-  - date: '2022-02-19T20:20:13Z'
+  - date: '2022-02-19T22:55:31Z'
     type: PushEvent
-  - date: '2022-02-19T20:17:42Z'
+  - date: '2022-02-19T22:55:13Z'
     type: PushEvent
-  - date: '2022-02-19T20:09:25Z'
+  - date: '2022-02-19T22:50:46Z'
+    type: ReleaseEvent
+  - date: '2022-02-19T22:48:42Z'
+    type: PushEvent
+  - date: '2022-02-19T22:48:41Z'
     type: CreateEvent
-  - date: '2022-02-19T19:41:26Z'
+  - date: '2022-02-19T22:48:21Z'
+    type: PushEvent
+  - date: '2022-02-19T22:48:13Z'
+    type: PushEvent
+  - date: '2022-02-19T22:47:56Z'
+    type: ReleaseEvent
+  - date: '2022-02-19T22:47:54Z'
+    type: PushEvent
+  - date: '2022-02-19T22:47:54Z'
+    type: CreateEvent
+  - date: '2022-02-19T22:47:37Z'
+    type: PushEvent
+  - date: '2022-02-19T22:46:38Z'
+    type: PushEvent
+  - date: '2022-02-19T22:46:38Z'
+    type: CreateEvent
+  - date: '2022-02-19T22:46:16Z'
+    type: PushEvent
+  - date: '2022-02-19T22:45:43Z'
+    type: PushEvent
+  - date: '2022-02-19T22:43:11Z'
+    type: CreateEvent
+  - date: '2022-02-19T22:43:13Z'
+    type: ReleaseEvent
+  - date: '2022-02-19T22:43:11Z'
+    type: PushEvent
+  - date: '2022-02-19T22:42:10Z'
+    type: PushEvent
+  - date: '2022-02-19T22:41:46Z'
+    type: PushEvent
+  - date: '2022-02-19T22:41:47Z'
+    type: CreateEvent
+  - date: '2022-02-19T22:41:17Z'
+    type: PushEvent
+  - date: '2022-02-19T22:40:48Z'
+    type: PushEvent
+  - date: '2022-02-19T22:40:34Z'
+    type: PushEvent
+  - date: '2022-02-19T22:39:44Z'
+    type: PushEvent
+  - date: '2022-02-19T22:36:45Z'
     type: WatchEvent
-  - date: '2022-02-19T19:40:31Z'
-    type: PushEvent
-  - date: '2022-02-19T19:07:24Z'
-    type: PushEvent
-  - date: '2022-02-19T18:57:38Z'
-    type: PushEvent
-  - date: '2022-02-19T18:55:48Z'
-    type: WatchEvent
-  - date: '2022-02-19T16:34:48Z'
-    type: PushEvent
-  - date: '2022-02-19T16:34:15Z'
-    type: PushEvent
-  - date: '2022-02-19T16:34:15Z'
-    type: CreateEvent
-  - date: '2022-02-19T16:34:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add vue component name casing'
+  message: 'feat: implemented press to continue prompt'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/c5053f6ea6650c220efa9246acdaa82f8bb4bd8d
+    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/2d196b827073e44377b60dcb5a0ffc363d896f38
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
+    name: leonzalion/inquirer-press-to-continue
