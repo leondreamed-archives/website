@@ -1,32 +1,32 @@
-dailyAverage: 22738
-totalSeconds: 159167.843794
+dailyAverage: 24358
+totalSeconds: 170503.732104
 languages:
   - name: TeX
-    totalSeconds: 51422.748435
+    totalSeconds: 51423.41827
   - name: Python
     totalSeconds: 35921.787349
   - name: TypeScript
-    totalSeconds: 25026.400689
+    totalSeconds: 23559.299939
+  - name: Text
+    totalSeconds: 13611.516264
+  - name: Vue.js
+    totalSeconds: 11030.618683
   - name: C++
     totalSeconds: 10227.57672
   - name: sh
-    totalSeconds: 9253.322543
-  - name: Vue.js
-    totalSeconds: 6953.706082
+    totalSeconds: 9288.359714
   - name: Markdown
-    totalSeconds: 6800.026236
-  - name: JSON
-    totalSeconds: 4986.929769
+    totalSeconds: 6494.029083
   - name: HTML
-    totalSeconds: 4091.814803
-  - name: Text
-    totalSeconds: 3262.587308
+    totalSeconds: 4044.250771
+  - name: JSON
+    totalSeconds: 3575.330193
   - name: Other
-    totalSeconds: 2275.985851
+    totalSeconds: 2253.17945
   - name: JavaScript
-    totalSeconds: 517.72729
+    totalSeconds: 637.497377
   - name: Git Config
-    totalSeconds: 263.309329
+    totalSeconds: 247.069201
   - name: Bash
     totalSeconds: 189.351638
   - name: SQL
@@ -43,6 +43,8 @@ languages:
     totalSeconds: 6.164155
   - name: Lua
     totalSeconds: 5.748145
+  - name: CSS
+    totalSeconds: 3.071299
   - name: Roff
     totalSeconds: 2.444109
   - name: VimL
@@ -53,17 +55,17 @@ languages:
     totalSeconds: 1.485635
 projects:
   - name: timeblocker
-    totalSeconds: 53232.76965
+    totalSeconds: 54394.660357
   - name: math-ia
     totalSeconds: 47295.978936
   - name: leonzalion
-    totalSeconds: 31470.291981
+    totalSeconds: 42263.511852
   - name: chem-lab
     totalSeconds: 14090.654301
   - name: lionecs
     totalSeconds: 6743.316036
   - name: website
-    totalSeconds: 1690.839981
+    totalSeconds: 1622.857974
   - name: vpciclubs.com
     totalSeconds: 1588.953764
   - name: phone-call-pass
@@ -71,17 +73,13 @@ projects:
   - name: TypeRacerStats
     totalSeconds: 1264.678033
   - name: vpcc-web-dev
-    totalSeconds: 1216.704169
+    totalSeconds: 847.641702
   - name: tampermonkey
     totalSeconds: 448.066534
   - name: simple-vue-icon
-    totalSeconds: 258.358575
-  - name: Unknown Project
-    totalSeconds: 172.987346
+    totalSeconds: 326.277888
   - name: python
     totalSeconds: 140.773408
-  - name: vue-tsc-bug
-    totalSeconds: 99.916162
   - name: monkeytype
     totalSeconds: 69.323505
   - name: tabulo-rewrite

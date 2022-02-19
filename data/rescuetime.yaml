@@ -1,21 +1,21 @@
 topActivities:
+  - category: Games
+    name: play.typeracer.com
+    productivity: -2
+    timeSpent: 1098
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 9999
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 7229
-  - category: Other
-    name: alacritty
+    timeSpent: 860
+  - category: Uncategorized
+    name: '[unpublished]'
     productivity: 0
-    timeSpent: 2409
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 2130
-  - category: General Reference & Learning
-    name: app.kiratalent.com
-    productivity: 2
-    timeSpent: 2001
+    timeSpent: 449
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 186
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 144

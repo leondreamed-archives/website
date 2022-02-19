@@ -1,4 +1,10 @@
 events:
+  - date: '2022-02-19T06:04:40Z'
+    type: CreateEvent
+  - date: '2022-02-19T06:04:40Z'
+    type: PushEvent
+  - date: '2022-02-19T06:04:27Z'
+    type: PushEvent
   - date: '2022-02-19T02:37:10Z'
     type: PushEvent
   - date: '2022-02-18T22:42:42Z'
@@ -19,14 +25,10 @@ events:
     type: PushEvent
   - date: '2022-02-18T01:27:55Z'
     type: PushEvent
-  - date: '2022-02-17T23:42:39Z'
-    type: PushEvent
-  - date: '2022-02-17T23:42:39Z'
-    type: CreateEvent
 latestCommit:
-  message: 1.1.12
+  message: use chrome
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/7eaa536a87fd125152d2bb48afdf2e8b509f5b77
+    https://api.github.com/repos/leonzalion/macos-configs/commits/405405ff5ccb472a73eb414c035bb05604de948f
   repo:
-    url: https://api.github.com/repos/leonzalion/simple-vue-icon
-    name: leonzalion/simple-vue-icon
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
