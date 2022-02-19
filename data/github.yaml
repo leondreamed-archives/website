@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-19T21:07:47Z'
+    type: IssuesEvent
   - date: '2022-02-19T20:54:58Z'
     type: PushEvent
   - date: '2022-02-19T20:54:26Z'
@@ -39,14 +41,10 @@ events:
     type: CreateEvent
   - date: '2022-02-19T16:34:01Z'
     type: PushEvent
-  - date: '2022-02-19T06:04:40Z'
-    type: CreateEvent
-  - date: '2022-02-19T06:04:40Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.65
+  message: 'feat: add vue component name casing'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/9713dfa04e5e9ca8a1be228cacf138335ad42951
+    https://api.github.com/repos/leonzalion/configs/commits/c5053f6ea6650c220efa9246acdaa82f8bb4bd8d
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs

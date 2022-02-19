@@ -2,11 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 12496
+    timeSpent: 14446
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2978
+    timeSpent: 3158
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 2069
   - category: Games
     name: play.typeracer.com
     productivity: -2
@@ -15,7 +19,3 @@ topActivities:
     name: localhost:3000
     productivity: 2
     timeSpent: 957
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 904
