@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-19T02:37:10Z'
+    type: PushEvent
   - date: '2022-02-18T22:42:42Z'
     type: PushEvent
   - date: '2022-02-18T03:24:18Z'
@@ -21,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-17T23:42:39Z'
     type: CreateEvent
-  - date: '2022-02-17T23:42:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update build command'
+  message: 1.1.12
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/081ee89faa1ddd8cfce2234fb50b9e0db1791ae2
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/7eaa536a87fd125152d2bb48afdf2e8b509f5b77
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
