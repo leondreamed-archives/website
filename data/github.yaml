@@ -1,4 +1,26 @@
 events:
+  - date: '2022-02-19T20:54:58Z'
+    type: PushEvent
+  - date: '2022-02-19T20:54:26Z'
+    type: PushEvent
+  - date: '2022-02-19T20:53:58Z'
+    type: ForkEvent
+  - date: '2022-02-19T20:24:13Z'
+    type: PushEvent
+  - date: '2022-02-19T20:23:40Z'
+    type: CreateEvent
+  - date: '2022-02-19T20:23:32Z'
+    type: CreateEvent
+  - date: '2022-02-19T20:20:44Z'
+    type: PushEvent
+  - date: '2022-02-19T20:20:44Z'
+    type: CreateEvent
+  - date: '2022-02-19T20:20:13Z'
+    type: PushEvent
+  - date: '2022-02-19T20:17:42Z'
+    type: PushEvent
+  - date: '2022-02-19T20:09:25Z'
+    type: CreateEvent
   - date: '2022-02-19T19:41:26Z'
     type: WatchEvent
   - date: '2022-02-19T19:40:31Z'
@@ -21,16 +43,10 @@ events:
     type: CreateEvent
   - date: '2022-02-19T06:04:40Z'
     type: PushEvent
-  - date: '2022-02-19T06:04:27Z'
-    type: PushEvent
-  - date: '2022-02-19T02:37:10Z'
-    type: PushEvent
-  - date: '2022-02-18T22:42:42Z'
-    type: PushEvent
 latestCommit:
-  message: brew
+  message: 1.0.65
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/bd3e7bfe75c3958dc31a961c08f118105b3c090f
+    https://api.github.com/repos/leonzalion/configs/commits/9713dfa04e5e9ca8a1be228cacf138335ad42951
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
