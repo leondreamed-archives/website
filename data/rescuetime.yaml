@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1285
+    timeSpent: 4314
   - category: Games
     name: play.typeracer.com
     productivity: -2
@@ -14,7 +14,7 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 536
+    timeSpent: 615
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0

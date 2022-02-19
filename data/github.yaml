@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-02-18T02:20:10Z'
     type: PushEvent
-  - date: '2022-02-18T02:18:50Z'
-    type: PushEvent
 latestCommit:
   message: test
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/89b5fffc057da7ee84888a7cf4a370dd8e531daf
+    https://api.github.com/repos/leonzalion/macos-configs/commits/1fe22b1ef8c983148e308b161947dbffdf2a7cb4
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
