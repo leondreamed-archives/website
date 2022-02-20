@@ -1,4 +1,28 @@
 events:
+  - date: '2022-02-20T18:57:34Z'
+    type: ReleaseEvent
+  - date: '2022-02-20T18:57:29Z'
+    type: PushEvent
+  - date: '2022-02-20T18:57:29Z'
+    type: CreateEvent
+  - date: '2022-02-20T18:57:05Z'
+    type: PushEvent
+  - date: '2022-02-20T18:55:32Z'
+    type: PushEvent
+  - date: '2022-02-20T18:54:11Z'
+    type: ReleaseEvent
+  - date: '2022-02-20T18:54:09Z'
+    type: CreateEvent
+  - date: '2022-02-20T18:54:09Z'
+    type: PushEvent
+  - date: '2022-02-20T18:53:46Z'
+    type: PushEvent
+  - date: '2022-02-20T18:50:34Z'
+    type: WatchEvent
+  - date: '2022-02-20T18:48:24Z'
+    type: PushEvent
+  - date: '2022-02-20T18:24:10Z'
+    type: ForkEvent
   - date: '2022-02-20T17:24:46Z'
     type: IssueCommentEvent
   - date: '2022-02-20T17:11:57Z'
@@ -27,28 +51,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T14:42:30Z'
     type: CreateEvent
-  - date: '2022-02-20T14:38:30Z'
-    type: CreateEvent
-  - date: '2022-02-20T14:38:29Z'
-    type: PushEvent
-  - date: '2022-02-20T14:36:43Z'
-    type: PushEvent
-  - date: '2022-02-20T14:35:44Z'
-    type: WatchEvent
-  - date: '2022-02-20T14:27:45Z'
-    type: PushEvent
-  - date: '2022-02-20T14:26:33Z'
-    type: PushEvent
-  - date: '2022-02-20T14:24:47Z'
-    type: PushEvent
-  - date: '2022-02-20T02:16:52Z'
-    type: PushEvent
-  - date: '2022-02-20T01:39:17Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: changes'
+  message: 'fix: remove env variables'
   url: >-
-    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/303314a79336d0ac26256639dbe47e6eac8fc908
+    https://api.github.com/repos/leonzalion/create-project/commits/8fa853cc50040e30b51c61de58ee31bdb55eb731
   repo:
-    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
-    name: leonzalion/mac-sudo-prompt
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
