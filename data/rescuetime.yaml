@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1289
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 250
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 121
+  - category: General Software Development
+    name: npmjs.com
+    productivity: 2
+    timeSpent: 106
+  - category: General Software Development
+    name: gist.github.com
+    productivity: 2
+    timeSpent: 34
