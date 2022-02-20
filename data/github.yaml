@@ -1,4 +1,16 @@
 events:
+  - date: '2022-02-19T23:26:31Z'
+    type: PushEvent
+  - date: '2022-02-19T23:24:45Z'
+    type: ReleaseEvent
+  - date: '2022-02-19T23:22:33Z'
+    type: PushEvent
+  - date: '2022-02-19T23:22:32Z'
+    type: CreateEvent
+  - date: '2022-02-19T23:22:10Z'
+    type: PushEvent
+  - date: '2022-02-19T23:17:46Z'
+    type: PushEvent
   - date: '2022-02-19T22:55:54Z'
     type: ReleaseEvent
   - date: '2022-02-19T22:55:53Z'
@@ -45,22 +57,10 @@ events:
     type: PushEvent
   - date: '2022-02-19T22:41:46Z'
     type: PushEvent
-  - date: '2022-02-19T22:41:47Z'
-    type: CreateEvent
-  - date: '2022-02-19T22:41:17Z'
-    type: PushEvent
-  - date: '2022-02-19T22:40:48Z'
-    type: PushEvent
-  - date: '2022-02-19T22:40:34Z'
-    type: PushEvent
-  - date: '2022-02-19T22:39:44Z'
-    type: PushEvent
-  - date: '2022-02-19T22:36:45Z'
-    type: WatchEvent
 latestCommit:
-  message: 'feat: implemented press to continue prompt'
+  message: 1.0.44
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/2d196b827073e44377b60dcb5a0ffc363d896f38
+    https://api.github.com/repos/leonzalion/create-project/commits/9211f8bcf08dc1619925b6f13214e5c44a0f51c4
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
-    name: leonzalion/inquirer-press-to-continue
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
