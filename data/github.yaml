@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-20T21:18:37Z'
+    type: CreateEvent
   - date: '2022-02-20T20:11:31Z'
     type: ForkEvent
   - date: '2022-02-20T19:33:48Z'
@@ -45,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T15:51:54Z'
     type: WatchEvent
-  - date: '2022-02-20T15:51:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: experimentation'
+  message: 'fix: lint errors'
   url: >-
-    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/76c5277446eae5e2759803701b1880125e3554ca
+    https://api.github.com/repos/leonzalion/SpamShun/commits/c2c3bbb207980a26c774227035eecd399567e438
   repo:
-    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
-    name: leonzalion/mac-sudo-prompt
+    url: https://api.github.com/repos/leonzalion/SpamShun
+    name: leonzalion/SpamShun
