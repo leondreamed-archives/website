@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-20T16:50:04Z'
+    type: WatchEvent
+  - date: '2022-02-20T16:47:10Z'
+    type: PushEvent
+  - date: '2022-02-20T16:45:09Z'
+    type: CreateEvent
+  - date: '2022-02-20T16:29:42Z'
+    type: CreateEvent
+  - date: '2022-02-20T16:29:07Z'
+    type: PushEvent
   - date: '2022-02-20T15:51:54Z'
     type: WatchEvent
   - date: '2022-02-20T15:51:32Z'
@@ -37,20 +47,10 @@ events:
     type: CreateEvent
   - date: '2022-02-20T01:38:06Z'
     type: PushEvent
-  - date: '2022-02-20T01:28:03Z'
-    type: ReleaseEvent
-  - date: '2022-02-20T01:28:02Z'
-    type: CreateEvent
-  - date: '2022-02-20T01:28:02Z'
-    type: PushEvent
-  - date: '2022-02-20T01:27:24Z'
-    type: PushEvent
-  - date: '2022-02-20T01:25:47Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add publishConfig.directory'
+  message: 'fix: add rmdist'
   url: >-
-    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/f1614414c9a0395b5fe2018d1d7cbfb5f26d1fd2
+    https://api.github.com/repos/leonzalion/create-project/commits/f4354c8bb122df22916e85ceeb47d981011f1d1a
   repo:
-    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
-    name: leonzalion/mac-sudo-prompt
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
