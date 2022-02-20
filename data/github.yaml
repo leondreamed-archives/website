@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-20T19:33:48Z'
+    type: PushEvent
+  - date: '2022-02-20T19:02:28Z'
+    type: PushEvent
   - date: '2022-02-20T18:57:34Z'
     type: ReleaseEvent
   - date: '2022-02-20T18:57:29Z'
@@ -45,16 +49,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T14:46:36Z'
     type: CreateEvent
-  - date: '2022-02-20T14:45:47Z'
-    type: PushEvent
-  - date: '2022-02-20T14:45:02Z'
-    type: PushEvent
-  - date: '2022-02-20T14:42:30Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: remove env variables'
+  message: 1.0.47
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/8fa853cc50040e30b51c61de58ee31bdb55eb731
+    https://api.github.com/repos/leonzalion/create-project/commits/9609b9c683e04568bef33812ab013315c31bcb9f
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
