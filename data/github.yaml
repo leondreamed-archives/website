@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T01:11:27Z'
     type: PushEvent
-  - date: '2022-02-20T01:10:08Z'
-    type: PushEvent
 latestCommit:
-  message: use lionp
+  message: add lockfile
   url: >-
-    https://api.github.com/repos/leonzalion/ow/commits/dae4e9f0f3d000de96c3f984242e13e8f2f4b681
+    https://api.github.com/repos/leonzalion/ow/commits/aa41ad86baf44fa754459fa83a5ef2868dd787b9
   repo:
     url: https://api.github.com/repos/leonzalion/ow
     name: leonzalion/ow
