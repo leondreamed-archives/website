@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-20T20:11:31Z'
+    type: ForkEvent
   - date: '2022-02-20T19:33:48Z'
     type: PushEvent
   - date: '2022-02-20T19:02:28Z'
@@ -45,14 +47,10 @@ events:
     type: WatchEvent
   - date: '2022-02-20T15:51:32Z'
     type: PushEvent
-  - date: '2022-02-20T14:46:37Z'
-    type: PushEvent
-  - date: '2022-02-20T14:46:36Z'
-    type: CreateEvent
 latestCommit:
-  message: 1.0.47
+  message: 'chore: experimentation'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/9609b9c683e04568bef33812ab013315c31bcb9f
+    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/76c5277446eae5e2759803701b1880125e3554ca
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
+    name: leonzalion/mac-sudo-prompt
