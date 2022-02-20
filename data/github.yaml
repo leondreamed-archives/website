@@ -53,8 +53,6 @@ events:
     type: PushEvent
   - date: '2022-02-20T01:10:08Z'
     type: PushEvent
-  - date: '2022-02-20T01:08:02Z'
-    type: WatchEvent
 latestCommit:
   message: use lionp
   url: >-
