@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-20T17:24:46Z'
+    type: IssueCommentEvent
+  - date: '2022-02-20T17:11:57Z'
+    type: PushEvent
   - date: '2022-02-20T16:50:04Z'
     type: WatchEvent
   - date: '2022-02-20T16:47:10Z'
@@ -41,16 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T01:39:17Z'
     type: PushEvent
-  - date: '2022-02-20T01:38:30Z'
-    type: PushEvent
-  - date: '2022-02-20T01:38:30Z'
-    type: CreateEvent
-  - date: '2022-02-20T01:38:06Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add rmdist'
+  message: 'fix: changes'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/f4354c8bb122df22916e85ceeb47d981011f1d1a
+    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/303314a79336d0ac26256639dbe47e6eac8fc908
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
+    name: leonzalion/mac-sudo-prompt
