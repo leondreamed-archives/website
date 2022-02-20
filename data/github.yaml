@@ -45,8 +45,6 @@ events:
     type: CreateEvent
   - date: '2022-02-20T16:29:07Z'
     type: PushEvent
-  - date: '2022-02-20T15:51:54Z'
-    type: WatchEvent
 latestCommit:
   message: 'fix: lint errors'
   url: >-
