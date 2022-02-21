@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-21T16:39:01Z'
+    type: PushEvent
+  - date: '2022-02-21T16:04:12Z'
+    type: PushEvent
   - date: '2022-02-21T15:55:57Z'
     type: PushEvent
   - date: '2022-02-21T15:39:13Z'
@@ -45,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T02:44:37Z'
     type: PushEvent
-  - date: '2022-02-21T02:44:19Z'
-    type: PushEvent
 latestCommit:
-  message: brave default browser
+  message: goku
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/a07377f5500bc25316a4337a05bee2188439a039
+    https://api.github.com/repos/leonzalion/macos-configs/commits/e01ca25c525a083c0883a567eaac06803a94729e
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
