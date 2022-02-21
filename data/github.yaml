@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T05:50:25Z'
     type: PushEvent
-  - date: '2022-02-21T05:45:06Z'
-    type: PushEvent
 latestCommit:
-  message: Add types for console-clear
+  message: fix tslint.json
   url: >-
-    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/e299193b3f7cc7adc414ccb2bd5fb9c4f8d49f30
+    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/773c464ed421b3c9f73375fc23e5e0b1733417be
   repo:
     url: https://api.github.com/repos/leonzalion/DefinitelyTyped
     name: leonzalion/DefinitelyTyped
