@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-21T15:55:57Z'
+    type: PushEvent
+  - date: '2022-02-21T15:39:13Z'
+    type: PushEvent
   - date: '2022-02-21T06:59:01Z'
     type: ReleaseEvent
   - date: '2022-02-21T06:58:53Z'
@@ -43,14 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T02:44:19Z'
     type: PushEvent
-  - date: '2022-02-21T01:22:35Z'
-    type: PushEvent
-  - date: '2022-02-21T01:21:41Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add electron'
+  message: brave default browser
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/1034e1921aa2f207eb3d1e998f3b809a8f58884f
+    https://api.github.com/repos/leonzalion/macos-configs/commits/a07377f5500bc25316a4337a05bee2188439a039
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
