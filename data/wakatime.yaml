@@ -1,52 +1,50 @@
-dailyAverage: 27654
-totalSeconds: 193576.803927
+dailyAverage: 27639
+totalSeconds: 193471.502237
 languages:
   - name: TeX
-    totalSeconds: 58270.726552
+    totalSeconds: 59941.224577
   - name: TypeScript
-    totalSeconds: 33123.972672
-  - name: Python
-    totalSeconds: 27806.045503
+    totalSeconds: 53113.257597
   - name: Vue.js
-    totalSeconds: 17632.563653
+    totalSeconds: 19204.650154
+  - name: sh
+    totalSeconds: 15078.5605
   - name: Text
     totalSeconds: 13616.926753
-  - name: sh
-    totalSeconds: 13286.770454
   - name: C++
-    totalSeconds: 10227.57672
-  - name: Markdown
-    totalSeconds: 6022.536485
+    totalSeconds: 10244.126505
   - name: JSON
-    totalSeconds: 5103.005306
-  - name: HTML
-    totalSeconds: 4044.250771
+    totalSeconds: 6104.444052
+  - name: Markdown
+    totalSeconds: 5781.197702
   - name: JavaScript
-    totalSeconds: 3394.736697
+    totalSeconds: 4556.718108
+  - name: HTML
+    totalSeconds: 4030.266043
   - name: Other
-    totalSeconds: 3155.109595
+    totalSeconds: 3440.149745
+  - name: Bash
+    totalSeconds: 469.797128
   - name: Git Config
     totalSeconds: 338.672242
-  - name: Bash
-    totalSeconds: 190.59035
-  - name: CSS
-    totalSeconds: 158.023309
+  - name: Python
+    totalSeconds: 259.217248
   - name: YAML
-    totalSeconds: 135.260685
+    totalSeconds: 220.039406
+  - name: CSS
+    totalSeconds: 175.054641
+  - name: Lua
+    totalSeconds: 116.874512
   - name: SQL
     totalSeconds: 98.460233
   - name: INI
     totalSeconds: 47.264962
   - name: TOML
     totalSeconds: 37.244986
+  - name: XML
+    totalSeconds: 13.308142
   - name: reStructuredText
     totalSeconds: 11.706043
-  - name: XML
-    totalSeconds: 8.774367
-  - name: CSV
-    totalSeconds: 6.123813
-  - name: Lua
-    totalSeconds: 5.748145
   - name: Roff
     totalSeconds: 2.444109
   - name: D
@@ -55,21 +53,31 @@ languages:
     totalSeconds: 1.863181
   - name: AppleScript
     totalSeconds: 1.709104
+  - name: PowerShell
+    totalSeconds: 1.690414
   - name: tmux
     totalSeconds: 1.485635
+  - name: Diff
+    totalSeconds: 0.977063
 projects:
   - name: timeblocker
     totalSeconds: 71533.924703
   - name: leonzalion
-    totalSeconds: 52490.805689
-  - name: math-ia
-    totalSeconds: 30916.776926
-  - name: chem-lab
-    totalSeconds: 14090.654301
-  - name: inquirer-press-to-continue
-    totalSeconds: 8815.951049
+    totalSeconds: 46744.628805
+  - name: chem
+    totalSeconds: 16593.632124
+  - name: bootstrap-macos
+    totalSeconds: 15825.324105
   - name: mac-sudo-prompt
-    totalSeconds: 6476.560008
+    totalSeconds: 10807.465418
+  - name: inquirer-press-to-continue
+    totalSeconds: 9436.477824
+  - name: chem-lab
+    totalSeconds: 5030.124432
+  - name: math-ia
+    totalSeconds: 3519.630579
+  - name: hashed-out
+    totalSeconds: 3290.848319
   - name: phone-call-pass
     totalSeconds: 2316.375714
   - name: website
@@ -78,16 +86,20 @@ projects:
     totalSeconds: 1588.953764
   - name: ora
     totalSeconds: 1226.71017
+  - name: Inquirer.js
+    totalSeconds: 969.590123
+  - name: create-project
+    totalSeconds: 901.870794
+  - name: vite-typescript-electron
+    totalSeconds: 860.993628
   - name: vpcc-web-dev
     totalSeconds: 847.641702
-  - name: TypeRacerStats
-    totalSeconds: 831.6183
   - name: sudo-prompt
     totalSeconds: 775.083252
-  - name: bootstrap-macos
-    totalSeconds: 708.445481
-  - name: create-project
-    totalSeconds: 703.655087
+  - name: vscode
+    totalSeconds: 626.42596
+  - name: SpamShun
+    totalSeconds: 618.630618
   - name: ow
     totalSeconds: 476.988669
   - name: lionp
@@ -98,19 +110,19 @@ projects:
     totalSeconds: 185.646531
   - name: python
     totalSeconds: 140.773408
-  - name: tampermonkey
-    totalSeconds: 119.578382
-  - name: monkeytype
-    totalSeconds: 69.323505
+  - name: esm
+    totalSeconds: 90.509774
+  - name: electron
+    totalSeconds: 89.472737
   - name: tabulo-rewrite
     totalSeconds: 39.72173
   - name: redox-lab
-    totalSeconds: 26.304494
-  - name: Inquirer.js
-    totalSeconds: 26.067956
+    totalSeconds: 29.866421
+  - name: Terminal
+    totalSeconds: 26.907478
   - name: backend
     totalSeconds: 22.152545
-  - name: Terminal
-    totalSeconds: 10.802664
+  - name: Unknown Project
+    totalSeconds: 3.883163
   - name: DrillDev
     totalSeconds: 1.91042
