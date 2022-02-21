@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-21T01:22:35Z'
+    type: PushEvent
+  - date: '2022-02-21T01:21:41Z'
+    type: PushEvent
   - date: '2022-02-20T21:18:37Z'
     type: CreateEvent
   - date: '2022-02-20T20:11:31Z'
@@ -39,16 +43,10 @@ events:
     type: WatchEvent
   - date: '2022-02-20T16:47:10Z'
     type: PushEvent
-  - date: '2022-02-20T16:45:09Z'
-    type: CreateEvent
-  - date: '2022-02-20T16:29:42Z'
-    type: CreateEvent
-  - date: '2022-02-20T16:29:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lint errors'
+  message: 'refactor: move electron typecsript vite into its own repo'
   url: >-
-    https://api.github.com/repos/leonzalion/SpamShun/commits/c2c3bbb207980a26c774227035eecd399567e438
+    https://api.github.com/repos/leonzalion/create-project/commits/4b1956d7649b47b886f67ec675a1fb05b124fc71
   repo:
-    url: https://api.github.com/repos/leonzalion/SpamShun
-    name: leonzalion/SpamShun
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
