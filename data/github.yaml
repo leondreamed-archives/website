@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-21T21:40:40Z'
+    type: WatchEvent
   - date: '2022-02-21T19:37:46Z'
     type: PushEvent
   - date: '2022-02-21T19:25:33Z'
@@ -39,14 +41,10 @@ events:
     type: PullRequestEvent
   - date: '2022-02-21T05:57:42Z'
     type: PushEvent
-  - date: '2022-02-21T05:51:20Z'
-    type: PushEvent
-  - date: '2022-02-21T05:50:25Z'
-    type: PushEvent
 latestCommit:
-  message: fix tslint.json
+  message: use export = syntax
   url: >-
-    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/773c464ed421b3c9f73375fc23e5e0b1733417be
+    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/94e3e1b5e8bdb800c279d1d2562ae1424575d510
   repo:
     url: https://api.github.com/repos/leonzalion/DefinitelyTyped
     name: leonzalion/DefinitelyTyped
