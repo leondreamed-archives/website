@@ -42,6 +42,7 @@ allowList:
       - k8s
       - node
       - dmoj
+      - electron
 
   ## Communication-related sites/apps
 
