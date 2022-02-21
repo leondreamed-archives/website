@@ -1,9 +1,13 @@
 events:
+  - date: '2022-02-21T18:42:16Z'
+    type: PushEvent
+  - date: '2022-02-21T18:07:18Z'
+    type: WatchEvent
+  - date: '2022-02-21T18:05:03Z'
+    type: PushEvent
   - date: '2022-02-21T16:39:01Z'
     type: PushEvent
   - date: '2022-02-21T16:04:12Z'
-    type: PushEvent
-  - date: '2022-02-21T15:55:57Z'
     type: PushEvent
   - date: '2022-02-21T15:39:13Z'
     type: PushEvent
@@ -43,14 +47,25 @@ events:
     type: PushEvent
   - date: '2022-02-21T04:00:17Z'
     type: PushEvent
-  - date: '2022-02-21T03:59:29Z'
-    type: PushEvent
-  - date: '2022-02-21T02:45:12Z'
-    type: PushEvent
 latestCommit:
-  message: fix
+  message: >-
+    git subrepo clone --force https://github.com/marlonrichert/zsh-autocomplete
+    code/zsh-autocomplete
+
+
+    subrepo:
+      subdir:   "code/zsh-autocomplete"
+      merged:   "7ab87cb"
+    upstream:
+      origin:   "https://github.com/marlonrichert/zsh-autocomplete"
+      branch:   "main"
+      commit:   "7ab87cb"
+    git-subrepo:
+      version:  "0.4.3"
+      origin:   "https://github.com/ingydotnet/git-subrepo"
+      commit:   "2f68596"
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/a444b60b7752324a05afcdedb014b7c90bc01eca
+    https://api.github.com/repos/leonzalion/macos-configs/commits/bb8102cf2ffca150d1ddbcd6a66038e43751616a
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
