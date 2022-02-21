@@ -1,4 +1,12 @@
 events:
+  - date: '2022-02-21T19:37:46Z'
+    type: PushEvent
+  - date: '2022-02-21T19:25:33Z'
+    type: PushEvent
+  - date: '2022-02-21T19:07:42Z'
+    type: IssueCommentEvent
+  - date: '2022-02-21T19:03:52Z'
+    type: WatchEvent
   - date: '2022-02-21T18:42:16Z'
     type: PushEvent
   - date: '2022-02-21T18:07:18Z'
@@ -37,35 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T05:45:06Z'
     type: PushEvent
-  - date: '2022-02-21T05:31:00Z'
-    type: ForkEvent
-  - date: '2022-02-21T05:28:40Z'
-    type: PushEvent
-  - date: '2022-02-21T05:27:38Z'
-    type: PushEvent
-  - date: '2022-02-21T05:26:17Z'
-    type: PushEvent
-  - date: '2022-02-21T04:00:17Z'
-    type: PushEvent
 latestCommit:
-  message: >-
-    git subrepo clone --force https://github.com/marlonrichert/zsh-autocomplete
-    code/zsh-autocomplete
-
-
-    subrepo:
-      subdir:   "code/zsh-autocomplete"
-      merged:   "7ab87cb"
-    upstream:
-      origin:   "https://github.com/marlonrichert/zsh-autocomplete"
-      branch:   "main"
-      commit:   "7ab87cb"
-    git-subrepo:
-      version:  "0.4.3"
-      origin:   "https://github.com/ingydotnet/git-subrepo"
-      commit:   "2f68596"
+  message: Add types for console-clear
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/bb8102cf2ffca150d1ddbcd6a66038e43751616a
+    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/e299193b3f7cc7adc414ccb2bd5fb9c4f8d49f30
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/DefinitelyTyped
+    name: leonzalion/DefinitelyTyped
