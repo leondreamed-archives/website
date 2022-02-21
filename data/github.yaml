@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-02-20T16:50:04Z'
     type: WatchEvent
-  - date: '2022-02-20T16:47:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: move electron typecsript vite into its own repo'
+  message: 'fix: don''t steal focus'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/4b1956d7649b47b886f67ec675a1fb05b124fc71
+    https://api.github.com/repos/leonzalion/vite-typescript-electron/commits/690b0e4a5068616afccc5863bb294733faf2e630
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/vite-typescript-electron
+    name: leonzalion/vite-typescript-electron
