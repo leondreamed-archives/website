@@ -1,4 +1,10 @@
 events:
+  - date: '2022-02-21T22:49:11Z'
+    type: PushEvent
+  - date: '2022-02-21T22:38:12Z'
+    type: CreateEvent
+  - date: '2022-02-21T22:37:28Z'
+    type: PushEvent
   - date: '2022-02-21T21:40:40Z'
     type: WatchEvent
   - date: '2022-02-21T19:37:46Z'
@@ -33,18 +39,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T06:50:37Z'
     type: CreateEvent
-  - date: '2022-02-21T06:42:57Z'
-    type: CreateEvent
-  - date: '2022-02-21T05:59:03Z'
-    type: IssuesEvent
-  - date: '2022-02-21T05:58:54Z'
-    type: PullRequestEvent
-  - date: '2022-02-21T05:57:42Z'
-    type: PushEvent
 latestCommit:
-  message: use export = syntax
+  message: 'fix: type error'
   url: >-
-    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/94e3e1b5e8bdb800c279d1d2562ae1424575d510
+    https://api.github.com/repos/leonzalion/nanoid-nice/commits/7f6caf3738c35d778bbc3463c1c1e25f5e0bfef8
   repo:
-    url: https://api.github.com/repos/leonzalion/DefinitelyTyped
-    name: leonzalion/DefinitelyTyped
+    url: https://api.github.com/repos/leonzalion/nanoid-nice
+    name: leonzalion/nanoid-nice
