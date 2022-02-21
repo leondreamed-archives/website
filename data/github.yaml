@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T02:45:12Z'
     type: PushEvent
-  - date: '2022-02-21T02:44:37Z'
-    type: PushEvent
 latestCommit:
-  message: goku
+  message: fix
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/e01ca25c525a083c0883a567eaac06803a94729e
+    https://api.github.com/repos/leonzalion/macos-configs/commits/a444b60b7752324a05afcdedb014b7c90bc01eca
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
