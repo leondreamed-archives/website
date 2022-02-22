@@ -37,8 +37,6 @@ events:
     type: PushEvent
   - date: '2022-02-21T06:53:38Z'
     type: PushEvent
-  - date: '2022-02-21T06:50:37Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: type error'
   url: >-
