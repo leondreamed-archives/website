@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T06:58:52Z'
     type: CreateEvent
-  - date: '2022-02-21T06:58:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: package.json publishConfig.directory'
+  message: 0.0.1
   url: >-
-    https://api.github.com/repos/leonzalion/nanoid-nice/commits/7d5923992f2ac724f2284cc2a6c8f18b62690aaf
+    https://api.github.com/repos/leonzalion/nanoid-nice/commits/a183e255145c774b20e04cec7f3edc365fcf4dd5
   repo:
     url: https://api.github.com/repos/leonzalion/nanoid-nice
     name: leonzalion/nanoid-nice
