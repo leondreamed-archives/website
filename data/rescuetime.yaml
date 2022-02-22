@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6151
+    timeSpent: 7482
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1755
+    timeSpent: 1821
   - category: General Software Development
     name: dortania.github.io
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: youtube.com
     productivity: -2
     timeSpent: 1047
-  - category: General Utilities
-    name: Finder
-    productivity: 2
-    timeSpent: 794
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 921

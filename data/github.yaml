@@ -39,12 +39,10 @@ events:
     type: WatchEvent
   - date: '2022-02-21T19:37:46Z'
     type: PushEvent
-  - date: '2022-02-21T19:25:33Z'
-    type: PushEvent
 latestCommit:
-  message: brew stuff
+  message: 'chore: use @types/console-clear'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/7cbb65b0b3bc4179aa4f48604d78a77a9884dce8
+    https://api.github.com/repos/leonzalion/hashed-out/commits/8e13248c54f88691b88260055c3fa5dd75601b49
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/hashed-out
+    name: leonzalion/hashed-out
