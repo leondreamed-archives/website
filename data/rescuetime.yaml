@@ -6,11 +6,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 5699
+    timeSpent: 5752
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 4991
+    timeSpent: 5133
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
