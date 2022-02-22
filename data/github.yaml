@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T06:50:10Z'
     type: PushEvent
-  - date: '2022-02-22T06:45:27Z'
-    type: PushEvent
 latestCommit:
-  message: upgrade kexts
+  message: update openshell
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/3a9160d0bc90b3c951f3b130167c508cb34a2654
+    https://api.github.com/repos/leonzalion/macos-configs/commits/291cb776bf31e1d7d50e386a49aaa1925b8e2dda
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
