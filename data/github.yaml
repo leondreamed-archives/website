@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-22T18:26:53Z'
+    type: ForkEvent
+  - date: '2022-02-22T18:17:39Z'
+    type: PushEvent
   - date: '2022-02-22T17:32:58Z'
     type: PushEvent
   - date: '2022-02-22T17:32:36Z'
@@ -43,16 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T06:45:27Z'
     type: PushEvent
-  - date: '2022-02-22T06:38:44Z'
-    type: PushEvent
-  - date: '2022-02-22T06:05:28Z'
-    type: PushEvent
-  - date: '2022-02-22T04:59:51Z'
-    type: ReleaseEvent
 latestCommit:
-  message: fix pyenv
+  message: upgrade kexts
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/e5ad7bf6511bcfca75c968ba2863724d50d8b923
+    https://api.github.com/repos/leonzalion/macos-configs/commits/3a9160d0bc90b3c951f3b130167c508cb34a2654
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
