@@ -1,4 +1,30 @@
 events:
+  - date: '2022-02-22T07:11:40Z'
+    type: PushEvent
+  - date: '2022-02-22T06:50:10Z'
+    type: PushEvent
+  - date: '2022-02-22T06:45:27Z'
+    type: PushEvent
+  - date: '2022-02-22T06:38:44Z'
+    type: PushEvent
+  - date: '2022-02-22T06:05:28Z'
+    type: PushEvent
+  - date: '2022-02-22T04:59:51Z'
+    type: ReleaseEvent
+  - date: '2022-02-22T04:59:13Z'
+    type: PushEvent
+  - date: '2022-02-22T04:59:12Z'
+    type: CreateEvent
+  - date: '2022-02-22T04:58:52Z'
+    type: PushEvent
+  - date: '2022-02-22T04:58:24Z'
+    type: PushEvent
+  - date: '2022-02-22T04:56:53Z'
+    type: PushEvent
+  - date: '2022-02-22T04:30:29Z'
+    type: PushEvent
+  - date: '2022-02-22T03:42:32Z'
+    type: PushEvent
   - date: '2022-02-22T02:45:03Z'
     type: PushEvent
   - date: '2022-02-22T02:24:28Z'
@@ -17,24 +43,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T19:07:42Z'
     type: IssueCommentEvent
-  - date: '2022-02-21T19:03:52Z'
-    type: WatchEvent
-  - date: '2022-02-21T18:42:16Z'
-    type: PushEvent
-  - date: '2022-02-21T18:07:18Z'
-    type: WatchEvent
-  - date: '2022-02-21T18:05:03Z'
-    type: PushEvent
-  - date: '2022-02-21T16:39:01Z'
-    type: PushEvent
-  - date: '2022-02-21T16:04:12Z'
-    type: PushEvent
-  - date: '2022-02-21T15:39:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: add possible solution for stdio inherit'
+  message: brew stuff
   url: >-
-    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/d48f76bcb47a1d34a6583354db5e6b280747b656
+    https://api.github.com/repos/leonzalion/macos-configs/commits/7cbb65b0b3bc4179aa4f48604d78a77a9884dce8
   repo:
-    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
-    name: leonzalion/mac-sudo-prompt
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs

@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 7345
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6538
+    timeSpent: 4885
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 6034
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 5688
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 2037
+    timeSpent: 1609
+  - category: General Software Development
+    name: dortania.github.io
+    productivity: 2
+    timeSpent: 1056
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 1047
+  - category: General Utilities
+    name: Finder
+    productivity: 2
+    timeSpent: 792
