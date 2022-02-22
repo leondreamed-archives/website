@@ -1,4 +1,22 @@
 events:
+  - date: '2022-02-22T17:32:58Z'
+    type: PushEvent
+  - date: '2022-02-22T17:32:36Z'
+    type: PushEvent
+  - date: '2022-02-22T17:30:40Z'
+    type: PushEvent
+  - date: '2022-02-22T17:27:29Z'
+    type: ReleaseEvent
+  - date: '2022-02-22T17:27:20Z'
+    type: PushEvent
+  - date: '2022-02-22T17:27:19Z'
+    type: CreateEvent
+  - date: '2022-02-22T17:26:41Z'
+    type: PushEvent
+  - date: '2022-02-22T17:16:55Z'
+    type: PushEvent
+  - date: '2022-02-22T17:11:44Z'
+    type: PushEvent
   - date: '2022-02-22T15:42:04Z'
     type: PushEvent
   - date: '2022-02-22T15:35:51Z'
@@ -31,28 +49,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T04:59:51Z'
     type: ReleaseEvent
-  - date: '2022-02-22T04:59:13Z'
-    type: PushEvent
-  - date: '2022-02-22T04:59:12Z'
-    type: CreateEvent
-  - date: '2022-02-22T04:58:52Z'
-    type: PushEvent
-  - date: '2022-02-22T04:58:24Z'
-    type: PushEvent
-  - date: '2022-02-22T04:56:53Z'
-    type: PushEvent
-  - date: '2022-02-22T04:30:29Z'
-    type: PushEvent
-  - date: '2022-02-22T03:42:32Z'
-    type: PushEvent
-  - date: '2022-02-22T02:45:03Z'
-    type: PushEvent
-  - date: '2022-02-22T02:24:28Z'
-    type: WatchEvent
 latestCommit:
-  message: update latex build pipeline
+  message: fix pyenv
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/a05f2698f5aa7bc9f6cd9cc985275fadb298ec8d
+    https://api.github.com/repos/leonzalion/macos-configs/commits/e5ad7bf6511bcfca75c968ba2863724d50d8b923
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
