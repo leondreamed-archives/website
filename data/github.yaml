@@ -1,4 +1,24 @@
 events:
+  - date: '2022-02-22T15:42:04Z'
+    type: PushEvent
+  - date: '2022-02-22T15:35:51Z'
+    type: PushEvent
+  - date: '2022-02-22T15:33:24Z'
+    type: ReleaseEvent
+  - date: '2022-02-22T15:33:19Z'
+    type: PushEvent
+  - date: '2022-02-22T15:33:19Z'
+    type: CreateEvent
+  - date: '2022-02-22T15:32:10Z'
+    type: PushEvent
+  - date: '2022-02-22T15:30:21Z'
+    type: PushEvent
+  - date: '2022-02-22T15:29:57Z'
+    type: PushEvent
+  - date: '2022-02-22T15:28:26Z'
+    type: CreateEvent
+  - date: '2022-02-22T15:27:34Z'
+    type: CreateEvent
   - date: '2022-02-22T07:11:40Z'
     type: PushEvent
   - date: '2022-02-22T06:50:10Z'
@@ -29,20 +49,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T02:24:28Z'
     type: WatchEvent
-  - date: '2022-02-21T22:49:11Z'
-    type: PushEvent
-  - date: '2022-02-21T22:38:12Z'
-    type: CreateEvent
-  - date: '2022-02-21T22:37:28Z'
-    type: PushEvent
-  - date: '2022-02-21T21:40:40Z'
-    type: WatchEvent
-  - date: '2022-02-21T19:37:46Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: use @types/console-clear'
+  message: update latex build pipeline
   url: >-
-    https://api.github.com/repos/leonzalion/hashed-out/commits/8e13248c54f88691b88260055c3fa5dd75601b49
+    https://api.github.com/repos/leonzalion/macos-configs/commits/a05f2698f5aa7bc9f6cd9cc985275fadb298ec8d
   repo:
-    url: https://api.github.com/repos/leonzalion/hashed-out
-    name: leonzalion/hashed-out
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
