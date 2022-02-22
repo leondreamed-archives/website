@@ -1,4 +1,8 @@
 events:
+  - date: '2022-02-22T02:45:03Z'
+    type: PushEvent
+  - date: '2022-02-22T02:24:28Z'
+    type: WatchEvent
   - date: '2022-02-21T22:49:11Z'
     type: PushEvent
   - date: '2022-02-21T22:38:12Z'
@@ -27,16 +31,10 @@ events:
     type: PushEvent
   - date: '2022-02-21T15:39:13Z'
     type: PushEvent
-  - date: '2022-02-21T06:59:01Z'
-    type: ReleaseEvent
-  - date: '2022-02-21T06:58:53Z'
-    type: PushEvent
-  - date: '2022-02-21T06:58:52Z'
-    type: CreateEvent
 latestCommit:
-  message: 0.0.1
+  message: 'docs: add possible solution for stdio inherit'
   url: >-
-    https://api.github.com/repos/leonzalion/nanoid-nice/commits/a183e255145c774b20e04cec7f3edc365fcf4dd5
+    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/d48f76bcb47a1d34a6583354db5e6b280747b656
   repo:
-    url: https://api.github.com/repos/leonzalion/nanoid-nice
-    name: leonzalion/nanoid-nice
+    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
+    name: leonzalion/mac-sudo-prompt
