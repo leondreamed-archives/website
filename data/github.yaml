@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T15:33:19Z'
     type: CreateEvent
-  - date: '2022-02-22T15:32:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add build script'
+  message: 1.0.0
   url: >-
-    https://api.github.com/repos/leonzalion/lualatex-py/commits/cdabffde9ddf9e0628bf682eb7ea936e88ff1ee3
+    https://api.github.com/repos/leonzalion/lualatex-py/commits/8667f9dafe273f81589bceff06803516654fc475
   repo:
     url: https://api.github.com/repos/leonzalion/lualatex-py
     name: leonzalion/lualatex-py
