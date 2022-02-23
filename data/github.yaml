@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-02-23T13:49:11Z'
     type: CreateEvent
-  - date: '2022-02-23T13:48:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: include heroku as a ci'
+  message: 1.0.4
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/1292f6af716d31973d83de089b4b7bab10d923a1
+    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/9e07567283d130db8f171b108e63a82e9e3be2ac
   repo:
     url: https://api.github.com/repos/leonzalion/lion-git-hooks
     name: leonzalion/lion-git-hooks
