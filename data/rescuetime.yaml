@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1325
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1073
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 640
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 39
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 23

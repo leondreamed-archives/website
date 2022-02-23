@@ -1,4 +1,22 @@
 events:
+  - date: '2022-02-23T14:42:30Z'
+    type: ReleaseEvent
+  - date: '2022-02-23T14:42:26Z'
+    type: PushEvent
+  - date: '2022-02-23T14:42:25Z'
+    type: CreateEvent
+  - date: '2022-02-23T14:41:53Z'
+    type: PushEvent
+  - date: '2022-02-23T14:40:15Z'
+    type: PushEvent
+  - date: '2022-02-23T14:38:57Z'
+    type: PushEvent
+  - date: '2022-02-23T14:38:04Z'
+    type: PushEvent
+  - date: '2022-02-23T14:37:13Z'
+    type: PushEvent
+  - date: '2022-02-23T14:34:00Z'
+    type: PushEvent
   - date: '2022-02-23T13:57:14Z'
     type: ReleaseEvent
   - date: '2022-02-23T13:57:12Z'
@@ -27,20 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T23:45:37Z'
     type: PushEvent
-  - date: '2022-02-22T20:49:32Z'
-    type: PushEvent
-  - date: '2022-02-22T20:00:33Z'
-    type: IssuesEvent
-  - date: '2022-02-22T18:26:53Z'
-    type: ForkEvent
-  - date: '2022-02-22T18:17:39Z'
-    type: PushEvent
-  - date: '2022-02-22T17:32:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: wording'
+  message: 'fix: process.exit'
   url: >-
-    https://api.github.com/repos/leonzalion/lualatex-py/commits/1c25ec1c3a66794ad76da8480f6b86884e356de7
+    https://api.github.com/repos/leonzalion/lualatex-py/commits/b1490a46762a5c7d832e726fd44ef68bd835dac9
   repo:
     url: https://api.github.com/repos/leonzalion/lualatex-py
     name: leonzalion/lualatex-py
