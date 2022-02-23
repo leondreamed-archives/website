@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-02-22T15:30:21Z'
     type: PushEvent
-  - date: '2022-02-22T15:29:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add lionp'
+  message: 'fix: add publishconfig'
   url: >-
-    https://api.github.com/repos/leonzalion/lualatex-py/commits/5c36fbbd346f33340a5fcb2adee660c749f15de5
+    https://api.github.com/repos/leonzalion/lualatex-py/commits/919cd22053d5259a6882c4f4e3445205d15f3b1c
   repo:
     url: https://api.github.com/repos/leonzalion/lualatex-py
     name: leonzalion/lualatex-py
