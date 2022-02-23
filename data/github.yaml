@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-23T13:50:13Z'
     type: ReleaseEvent
-  - date: '2022-02-23T13:49:11Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.4
+  message: 'fix: heroku early exit'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/9e07567283d130db8f171b108e63a82e9e3be2ac
+    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/05f81f817e208eba41838a75bf4153b49629bd3e
   repo:
     url: https://api.github.com/repos/leonzalion/lion-git-hooks
     name: leonzalion/lion-git-hooks
