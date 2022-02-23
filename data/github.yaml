@@ -43,8 +43,6 @@ events:
     type: CreateEvent
   - date: '2022-02-23T13:56:35Z'
     type: PushEvent
-  - date: '2022-02-23T13:50:13Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: heroku early exit'
   url: >-
