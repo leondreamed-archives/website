@@ -2,20 +2,20 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1325
+    timeSpent: 1934
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1073
+    timeSpent: 1587
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 640
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 39
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 23
+    timeSpent: 759
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 216
+  - category: General Reference & Learning
+    name: tdsb.elearningontario.ca
+    productivity: 2
+    timeSpent: 54
