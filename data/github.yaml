@@ -1,4 +1,10 @@
 events:
+  - date: '2022-02-24T02:28:15Z'
+    type: PushEvent
+  - date: '2022-02-24T02:28:12Z'
+    type: CreateEvent
+  - date: '2022-02-24T02:28:02Z'
+    type: PushEvent
   - date: '2022-02-24T01:31:36Z'
     type: CreateEvent
   - date: '2022-02-24T01:31:36Z'
@@ -31,16 +37,10 @@ events:
     type: CreateEvent
   - date: '2022-02-23T15:03:53Z'
     type: ReleaseEvent
-  - date: '2022-02-23T15:03:46Z'
-    type: PushEvent
-  - date: '2022-02-23T15:03:46Z'
-    type: CreateEvent
-  - date: '2022-02-23T15:03:14Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add naughty words via build script'
+  message: 1.0.2
   url: >-
-    https://api.github.com/repos/leonzalion/nanoid-nice/commits/956cc5c3063c5a23b5513588548468648ee098bf
+    https://api.github.com/repos/leonzalion/lualatex-py/commits/a4a901d76a52a9075f991290bca194ef79bf2af1
   repo:
-    url: https://api.github.com/repos/leonzalion/nanoid-nice
-    name: leonzalion/nanoid-nice
+    url: https://api.github.com/repos/leonzalion/lualatex-py
+    name: leonzalion/lualatex-py
