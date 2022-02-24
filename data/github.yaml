@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-24T01:31:36Z'
+    type: CreateEvent
+  - date: '2022-02-24T01:31:36Z'
+    type: PushEvent
+  - date: '2022-02-24T01:29:24Z'
+    type: CreateEvent
+  - date: '2022-02-24T01:29:24Z'
+    type: PushEvent
+  - date: '2022-02-24T01:29:06Z'
+    type: PushEvent
   - date: '2022-02-24T01:26:07Z'
     type: PushEvent
   - date: '2022-02-24T01:25:55Z'
@@ -27,22 +37,10 @@ events:
     type: CreateEvent
   - date: '2022-02-23T15:03:14Z'
     type: PushEvent
-  - date: '2022-02-23T14:42:30Z'
-    type: ReleaseEvent
-  - date: '2022-02-23T14:42:26Z'
-    type: PushEvent
-  - date: '2022-02-23T14:42:25Z'
-    type: CreateEvent
-  - date: '2022-02-23T14:41:53Z'
-    type: PushEvent
-  - date: '2022-02-23T14:40:15Z'
-    type: PushEvent
-  - date: '2022-02-23T14:38:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: scripts'
+  message: 'chore: add naughty words via build script'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/e9416e939a99115b3539ea1379f5583c7d4ad8d2
+    https://api.github.com/repos/leonzalion/nanoid-nice/commits/956cc5c3063c5a23b5513588548468648ee098bf
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-git-hooks
-    name: leonzalion/lion-git-hooks
+    url: https://api.github.com/repos/leonzalion/nanoid-nice
+    name: leonzalion/nanoid-nice
