@@ -45,8 +45,6 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:26:07Z'
     type: PushEvent
-  - date: '2022-02-24T01:25:55Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: update lionp'
   url: >-

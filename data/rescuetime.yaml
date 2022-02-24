@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 7967
+    timeSpent: 8476
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2676
+    timeSpent: 2754
   - category: Uncategorized
     name: ruffle.rs
     productivity: 0
     timeSpent: 1253
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1220
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
     timeSpent: 1201
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 1063
