@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-24T19:55:29Z'
+    type: PushEvent
   - date: '2022-02-24T07:38:08Z'
     type: CreateEvent
   - date: '2022-02-24T07:38:07Z'
@@ -39,14 +41,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:29:24Z'
     type: CreateEvent
-  - date: '2022-02-24T01:29:24Z'
-    type: PushEvent
-  - date: '2022-02-24T01:29:06Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: remove missing webpack dep'
+  message: 1.0.69
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/b6545194d44b57e3cb50680064adb6a297cd17f4
+    https://api.github.com/repos/leonzalion/configs/commits/cccb1bc45a670a3f93770a6b2f16042446bac0eb
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
