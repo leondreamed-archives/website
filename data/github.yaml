@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:31:36Z'
     type: CreateEvent
-  - date: '2022-02-24T01:31:36Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.69
+  message: disable no custom classname
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/cccb1bc45a670a3f93770a6b2f16042446bac0eb
+    https://api.github.com/repos/leonzalion/configs/commits/ee4d947f15a6023942413ccfab4cfb8ff9b95f74
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
