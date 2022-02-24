@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-24T01:26:07Z'
+    type: PushEvent
+  - date: '2022-02-24T01:25:55Z'
+    type: CreateEvent
+  - date: '2022-02-24T01:25:55Z'
+    type: PushEvent
+  - date: '2022-02-24T01:25:31Z'
+    type: PushEvent
+  - date: '2022-02-24T01:22:14Z'
+    type: WatchEvent
   - date: '2022-02-23T17:34:54Z'
     type: PushEvent
   - date: '2022-02-23T17:27:20Z'
@@ -29,20 +39,10 @@ events:
     type: PushEvent
   - date: '2022-02-23T14:38:57Z'
     type: PushEvent
-  - date: '2022-02-23T14:38:04Z'
-    type: PushEvent
-  - date: '2022-02-23T14:37:13Z'
-    type: PushEvent
-  - date: '2022-02-23T14:34:00Z'
-    type: PushEvent
-  - date: '2022-02-23T13:57:14Z'
-    type: ReleaseEvent
-  - date: '2022-02-23T13:57:12Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.5
+  message: 'fix: scripts'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/33820a137a28f2dbf39671773e3fdb6ea86378bd
+    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/e9416e939a99115b3539ea1379f5583c7d4ad8d2
   repo:
     url: https://api.github.com/repos/leonzalion/lion-git-hooks
     name: leonzalion/lion-git-hooks
