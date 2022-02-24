@@ -6,11 +6,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2533
+    timeSpent: 2535
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1170
+    timeSpent: 1198
   - category: General Software Development
     name: Github
     productivity: 2

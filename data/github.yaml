@@ -51,8 +51,6 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:25:31Z'
     type: PushEvent
-  - date: '2022-02-24T01:22:14Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: tailwind eslint and prettier plugins'
   url: >-
