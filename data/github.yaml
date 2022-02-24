@@ -49,12 +49,10 @@ events:
     type: CreateEvent
   - date: '2022-02-24T01:25:55Z'
     type: PushEvent
-  - date: '2022-02-24T01:25:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: tailwind eslint and prettier plugins'
+  message: 1.0.67
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/879e1be8c2c2877345915957c33986ca2b11ced6
+    https://api.github.com/repos/leonzalion/configs/commits/92802f659297d99dc489189b34945f94b8e89280
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
