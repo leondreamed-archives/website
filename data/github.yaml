@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:29:06Z'
     type: PushEvent
-  - date: '2022-02-24T01:26:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update lionp'
+  message: 'fix: remove missing webpack dep'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/7ca0f449957af6bb1eb14983c5ed478b2c3b6b01
+    https://api.github.com/repos/leonzalion/configs/commits/b6545194d44b57e3cb50680064adb6a297cd17f4
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
