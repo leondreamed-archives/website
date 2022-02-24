@@ -35,8 +35,6 @@ events:
     type: CreateEvent
   - date: '2022-02-24T02:28:02Z'
     type: PushEvent
-  - date: '2022-02-24T01:31:36Z'
-    type: CreateEvent
 latestCommit:
   message: disable no custom classname
   url: >-
