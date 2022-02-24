@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T01:25:55Z'
     type: CreateEvent
-  - date: '2022-02-24T01:25:55Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.67
+  message: 'chore: update lionp'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/92802f659297d99dc489189b34945f94b8e89280
+    https://api.github.com/repos/leonzalion/configs/commits/7ca0f449957af6bb1eb14983c5ed478b2c3b6b01
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
