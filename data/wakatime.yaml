@@ -1,42 +1,44 @@
-dailyAverage: 32546
-totalSeconds: 227819.272662
+dailyAverage: 33444
+totalSeconds: 234107.939658
 languages:
-  - name: TeX
-    totalSeconds: 63209.434162
   - name: TypeScript
-    totalSeconds: 60204.190826
+    totalSeconds: 63991.144389
+  - name: TeX
+    totalSeconds: 56266.241652
   - name: sh
-    totalSeconds: 33181.114083
+    totalSeconds: 35687.723605
   - name: Vue.js
-    totalSeconds: 19701.026797
+    totalSeconds: 34496.023851
   - name: Text
-    totalSeconds: 17393.561594
-  - name: C++
-    totalSeconds: 10244.126505
+    totalSeconds: 17396.521486
   - name: JSON
-    totalSeconds: 8637.731367
+    totalSeconds: 9489.264922
   - name: Markdown
-    totalSeconds: 7246.246752
+    totalSeconds: 7814.242743
   - name: JavaScript
-    totalSeconds: 4736.487621
+    totalSeconds: 4738.703119
   - name: Other
-    totalSeconds: 3695.059891
+    totalSeconds: 3837.929541
   - name: HTML
     totalSeconds: 1964.761071
+  - name: TOML
+    totalSeconds: 624.246631
+  - name: YAML
+    totalSeconds: 493.526354
   - name: Bash
     totalSeconds: 463.454177
-  - name: YAML
-    totalSeconds: 216.701885
   - name: CSS
     totalSeconds: 177.57047
+  - name: SQL
+    totalSeconds: 141.967895
   - name: Git Config
-    totalSeconds: 129.092091
+    totalSeconds: 128.615059
   - name: Lua
     totalSeconds: 116.487657
-  - name: SQL
-    totalSeconds: 98.460233
   - name: Python
-    totalSeconds: 58.796336
+    totalSeconds: 62.837505
+  - name: C++
+    totalSeconds: 16.549785
   - name: XML
     totalSeconds: 13.308142
   - name: INI
@@ -45,8 +47,6 @@ languages:
     totalSeconds: 2.444109
   - name: D
     totalSeconds: 2.321197
-  - name: TOML
-    totalSeconds: 1.971748
   - name: VimL
     totalSeconds: 1.863181
   - name: AppleScript
@@ -59,9 +59,9 @@ languages:
     totalSeconds: 0.977063
 projects:
   - name: timeblocker
-    totalSeconds: 62766.451771
+    totalSeconds: 74880.019372
   - name: leonzalion
-    totalSeconds: 61294.163196
+    totalSeconds: 51132.483202
   - name: chem
     totalSeconds: 34579.925785
   - name: bootstrap-macos
@@ -69,25 +69,27 @@ projects:
   - name: mac-sudo-prompt
     totalSeconds: 11533.204233
   - name: inquirer-press-to-continue
-    totalSeconds: 9436.477824
+    totalSeconds: 9722.459685
   - name: lualatex-py
-    totalSeconds: 6358.386614
-  - name: hashed-out
-    totalSeconds: 4698.912216
+    totalSeconds: 6578.118587
   - name: math-ia
-    totalSeconds: 4350.06206
+    totalSeconds: 4767.29372
+  - name: hashed-out
+    totalSeconds: 4733.01086
+  - name: vpciclubs.com
+    totalSeconds: 2102.490656
   - name: DefinitelyTyped
     totalSeconds: 2039.432992
-  - name: phone-call-pass
-    totalSeconds: 1370.289151
+  - name: nanoid-nice
+    totalSeconds: 1904.961495
+  - name: lionp
+    totalSeconds: 1463.646345
   - name: pure-twitter
     totalSeconds: 1332.493635
-  - name: vpciclubs.com
-    totalSeconds: 1330.235194
+  - name: lion-git-hooks
+    totalSeconds: 1285.970092
   - name: ora
     totalSeconds: 1226.71017
-  - name: nanoid-nice
-    totalSeconds: 1115.031054
   - name: vite-typescript-electron
     totalSeconds: 1079.291651
   - name: Inquirer.js
@@ -100,8 +102,12 @@ projects:
     totalSeconds: 775.083252
   - name: yabai-master-stack-plugin
     totalSeconds: 756.992164
+  - name: phone-call-pass
+    totalSeconds: 730.745809
   - name: SpamShun
     totalSeconds: 728.727114
+  - name: tex-escape
+    totalSeconds: 668.273778
   - name: vscode
     totalSeconds: 626.42596
   - name: vite-electron-builder
@@ -110,20 +116,16 @@ projects:
     totalSeconds: 476.988669
   - name: is-heroku
     totalSeconds: 467.965109
-  - name: lion-git-hooks
-    totalSeconds: 363.260033
-  - name: chem-lab
-    totalSeconds: 349.243957
-  - name: lionp
-    totalSeconds: 340.35121
   - name: simple-vue-icon
     totalSeconds: 326.277888
   - name: nanoid-clean
     totalSeconds: 242.544446
+  - name: chem-lab
+    totalSeconds: 219.891573
   - name: configs
     totalSeconds: 191.360912
   - name: Terminal
-    totalSeconds: 101.459101
+    totalSeconds: 90.656437
   - name: esm
     totalSeconds: 90.509774
   - name: electron
@@ -136,15 +138,19 @@ projects:
     totalSeconds: 29.866421
   - name: backend
     totalSeconds: 22.152545
+  - name: timeblocker-ics
+    totalSeconds: 21.91007
   - name: nanoid-good
     totalSeconds: 19.486102
   - name: assets
     totalSeconds: 4.888494
+  - name: DrillDev
+    totalSeconds: 4.258456
   - name: Unknown Project
     totalSeconds: 3.883163
-  - name: DrillDev
-    totalSeconds: 1.91042
   - name: ee
     totalSeconds: 1.709391
+  - name: lion-architecture
+    totalSeconds: 1.58031
   - name: vpcc-web-dev
     totalSeconds: 0
