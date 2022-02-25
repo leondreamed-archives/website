@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T04:33:35Z'
     type: PushEvent
-  - date: '2022-02-24T04:30:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: version bump'
+  message: zsh config
   url: >-
-    https://api.github.com/repos/leonzalion/tex-escape/commits/4e099d3539f2311759fbab473819425017047d85
+    https://api.github.com/repos/leonzalion/macos-configs/commits/9b6d6a82929c0c3786067ac1a47630e40eaf87d4
   repo:
-    url: https://api.github.com/repos/leonzalion/tex-escape
-    name: leonzalion/tex-escape
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
