@@ -1,79 +1,73 @@
-dailyAverage: 33444
-totalSeconds: 234107.939658
+dailyAverage: 35882
+totalSeconds: 251176.545549
 languages:
   - name: TypeScript
-    totalSeconds: 63991.144389
+    totalSeconds: 73156.436184
   - name: TeX
-    totalSeconds: 56266.241652
+    totalSeconds: 62449.250057
   - name: sh
-    totalSeconds: 35687.723605
+    totalSeconds: 40519.031953
   - name: Vue.js
-    totalSeconds: 34496.023851
+    totalSeconds: 35438.140477
   - name: Text
-    totalSeconds: 17396.521486
+    totalSeconds: 16883.588801
   - name: JSON
-    totalSeconds: 9489.264922
-  - name: Markdown
-    totalSeconds: 7814.242743
-  - name: JavaScript
-    totalSeconds: 4738.703119
+    totalSeconds: 9707.312657
   - name: Other
-    totalSeconds: 3837.929541
+    totalSeconds: 5008.485231
+  - name: JavaScript
+    totalSeconds: 4824.73481
+  - name: Markdown
+    totalSeconds: 2629.685966
   - name: HTML
     totalSeconds: 1964.761071
-  - name: TOML
-    totalSeconds: 624.246631
+  - name: Python
+    totalSeconds: 1253.92051
   - name: YAML
-    totalSeconds: 493.526354
+    totalSeconds: 877.703581
+  - name: TOML
+    totalSeconds: 622.274883
   - name: Bash
-    totalSeconds: 463.454177
+    totalSeconds: 289.996784
   - name: CSS
     totalSeconds: 177.57047
-  - name: SQL
-    totalSeconds: 141.967895
   - name: Git Config
-    totalSeconds: 128.615059
+    totalSeconds: 126.196694
   - name: Lua
     totalSeconds: 116.487657
-  - name: Python
-    totalSeconds: 62.837505
+  - name: SQL
+    totalSeconds: 67.540719
+  - name: BibTeX
+    totalSeconds: 33.025
+  - name: XML
+    totalSeconds: 17.348816
   - name: C++
     totalSeconds: 16.549785
-  - name: XML
-    totalSeconds: 13.308142
-  - name: INI
-    totalSeconds: 12.258442
-  - name: Roff
-    totalSeconds: 2.444109
   - name: D
     totalSeconds: 2.321197
-  - name: VimL
-    totalSeconds: 1.863181
-  - name: AppleScript
-    totalSeconds: 1.709104
   - name: PowerShell
     totalSeconds: 1.690414
-  - name: tmux
-    totalSeconds: 1.485635
   - name: Diff
     totalSeconds: 0.977063
 projects:
   - name: timeblocker
-    totalSeconds: 74880.019372
+    totalSeconds: 74623.336153
   - name: leonzalion
-    totalSeconds: 51132.483202
+    totalSeconds: 46737.691628
   - name: chem
     totalSeconds: 34579.925785
   - name: bootstrap-macos
     totalSeconds: 17596.760634
+  - name: latex-workflow
+    totalSeconds: 11755.421558
+  - name: math-ia
+    totalSeconds: 11678.136127
   - name: mac-sudo-prompt
     totalSeconds: 11533.204233
+  - name: lualatex-py
+    totalSeconds: 9998.404001
   - name: inquirer-press-to-continue
     totalSeconds: 9722.459685
-  - name: lualatex-py
-    totalSeconds: 6578.118587
-  - name: math-ia
-    totalSeconds: 4767.29372
   - name: hashed-out
     totalSeconds: 4733.01086
   - name: vpciclubs.com
@@ -84,12 +78,14 @@ projects:
     totalSeconds: 1904.961495
   - name: lionp
     totalSeconds: 1463.646345
+  - name: lion-git-hooks
+    totalSeconds: 1419.40604
   - name: pure-twitter
     totalSeconds: 1332.493635
-  - name: lion-git-hooks
-    totalSeconds: 1285.970092
   - name: ora
     totalSeconds: 1226.71017
+  - name: TypeRacerStats
+    totalSeconds: 1195.133664
   - name: vite-typescript-electron
     totalSeconds: 1079.291651
   - name: Inquirer.js
@@ -101,7 +97,7 @@ projects:
   - name: sudo-prompt
     totalSeconds: 775.083252
   - name: yabai-master-stack-plugin
-    totalSeconds: 756.992164
+    totalSeconds: 771.958193
   - name: phone-call-pass
     totalSeconds: 730.745809
   - name: SpamShun
@@ -116,38 +112,32 @@ projects:
     totalSeconds: 476.988669
   - name: is-heroku
     totalSeconds: 467.965109
-  - name: simple-vue-icon
-    totalSeconds: 326.277888
   - name: nanoid-clean
     totalSeconds: 242.544446
-  - name: chem-lab
-    totalSeconds: 219.891573
   - name: configs
     totalSeconds: 191.360912
   - name: Terminal
-    totalSeconds: 90.656437
+    totalSeconds: 93.242634
   - name: esm
     totalSeconds: 90.509774
   - name: electron
     totalSeconds: 89.472737
   - name: ProperTree
     totalSeconds: 68.365068
-  - name: tabulo-rewrite
-    totalSeconds: 39.72173
+  - name: simple-vue-icon
+    totalSeconds: 67.919313
   - name: redox-lab
     totalSeconds: 29.866421
-  - name: backend
-    totalSeconds: 22.152545
   - name: timeblocker-ics
     totalSeconds: 21.91007
   - name: nanoid-good
     totalSeconds: 19.486102
   - name: assets
     totalSeconds: 4.888494
-  - name: DrillDev
-    totalSeconds: 4.258456
   - name: Unknown Project
     totalSeconds: 3.883163
+  - name: DrillDev
+    totalSeconds: 2.348036
   - name: ee
     totalSeconds: 1.709391
   - name: lion-architecture

@@ -29,12 +29,10 @@ events:
     type: CreateEvent
   - date: '2022-02-24T05:40:30Z'
     type: PushEvent
-  - date: '2022-02-24T04:33:35Z'
-    type: PushEvent
 latestCommit:
-  message: zsh config
+  message: 'fix: let prettier plugin handle classname order'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/9b6d6a82929c0c3786067ac1a47630e40eaf87d4
+    https://api.github.com/repos/leonzalion/configs/commits/3cd84320c8c8b335a43788f2bfa86c8ef6aaf98e
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
