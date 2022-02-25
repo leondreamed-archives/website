@@ -2,11 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4722
+    timeSpent: 6233
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1762
+    timeSpent: 2206
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1098
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -14,8 +18,4 @@ topActivities:
   - category: Uncategorized
     name: vicpark.managebac.com
     productivity: 0
-    timeSpent: 559
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 499
+    timeSpent: 614
