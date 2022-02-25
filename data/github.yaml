@@ -27,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T05:40:44Z'
     type: CreateEvent
-  - date: '2022-02-24T05:40:30Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: let prettier plugin handle classname order'
+  message: 1.0.71
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/3cd84320c8c8b335a43788f2bfa86c8ef6aaf98e
+    https://api.github.com/repos/leonzalion/configs/commits/c537a5fbb9af120eb2371c6c22553630200a11db
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs

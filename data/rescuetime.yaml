@@ -2,15 +2,15 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 525
+    timeSpent: 1074
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 324
   - category: Video
     name: '[unpublished]'
     productivity: -2
     timeSpent: 118
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 65
   - category: Browsers
     name: Firefox
     productivity: 0
