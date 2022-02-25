@@ -21,12 +21,10 @@ events:
     type: CreateEvent
   - date: '2022-02-24T07:38:07Z'
     type: PushEvent
-  - date: '2022-02-24T07:36:41Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add shebang'
+  message: 1.0.72
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/f948fcaddb5cfe3819f0ac7918c9f6b1f1503ca2
+    https://api.github.com/repos/leonzalion/configs/commits/c71d930c29f0aebbb28240fd3c5d90466135186d
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs

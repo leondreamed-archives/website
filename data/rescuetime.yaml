@@ -2,11 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2175
+    timeSpent: 2790
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1593
+    timeSpent: 1660
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 919
   - category: Writing
     name: Notion
     productivity: 2
@@ -15,7 +19,3 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 118
-  - category: General Reference & Learning
-    name: tdsb.brightspace.com
-    productivity: 2
-    timeSpent: 74
