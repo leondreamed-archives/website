@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2790
+    timeSpent: 4722
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1660
+    timeSpent: 1762
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 919
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 401
-  - category: Video
+  - category: Uncategorized
+    name: vicpark.managebac.com
+    productivity: 0
+    timeSpent: 559
+  - category: Uncategorized
     name: '[unpublished]'
-    productivity: -2
-    timeSpent: 118
+    productivity: 0
+    timeSpent: 499

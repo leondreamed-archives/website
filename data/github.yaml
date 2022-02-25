@@ -19,12 +19,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T07:38:08Z'
     type: CreateEvent
-  - date: '2022-02-24T07:38:07Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.72
+  message: 'fix: bib latex'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/c71d930c29f0aebbb28240fd3c5d90466135186d
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/b688c9b282eb5148daa9d48d966901812129e0ec
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
