@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2158
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1074
-  - category: Editing & IDEs
-    name: Visual Studio Code
+    timeSpent: 1544
+  - category: Writing
+    name: Notion
     productivity: 2
     timeSpent: 324
   - category: Video
     name: '[unpublished]'
     productivity: -2
     timeSpent: 118
-  - category: Browsers
-    name: Firefox
-    productivity: 0
-    timeSpent: 5
-  - category: General Utilities
-    name: Finder
+  - category: General Reference & Learning
+    name: tdsb.brightspace.com
     productivity: 2
-    timeSpent: 4
+    timeSpent: 74
