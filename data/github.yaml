@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-02-24T04:06:09Z'
     type: PushEvent
-  - date: '2022-02-24T04:04:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: configs'
+  message: 'docs: update redame'
   url: >-
-    https://api.github.com/repos/leonzalion/tex-escape/commits/935fb920f27e309256be962f3050e84cb9f5e7f7
+    https://api.github.com/repos/leonzalion/tex-escape/commits/8f7575d7d30ba387d5dde480693876baee4e241a
   repo:
     url: https://api.github.com/repos/leonzalion/tex-escape
     name: leonzalion/tex-escape
