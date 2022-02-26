@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:16:22Z'
     type: PushEvent
-  - date: '2022-02-26T06:10:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: upgrade configs'
+  message: 'fix: vue plugin type issues'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/58661b6299c5ba2214d318dd16665644175914a2
+    https://api.github.com/repos/leonzalion/lionecs/commits/0f2f4384c6555e1c47294954784b7fee94a8f7d7
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
