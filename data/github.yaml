@@ -41,12 +41,10 @@ events:
     type: CreateEvent
   - date: '2022-02-26T06:25:04Z'
     type: PushEvent
-  - date: '2022-02-26T06:24:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: build script for plugins'
+  message: 'chore: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/9ef4b6f8c198e1ed82ba04b408e728a8734af7e5
+    https://api.github.com/repos/leonzalion/lionecs/commits/478128ff2eae7f453144f375ba79e44c0fc4b7e7
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
