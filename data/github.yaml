@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:08:49Z'
     type: CreateEvent
-  - date: '2022-02-26T06:08:33Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: disable no null rule'
+  message: 1.1.2
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/d54c7d78e51d3dbaf524c373bfd0a87f706cd444
+    https://api.github.com/repos/leonzalion/configs/commits/162a505a4d5b7c8b01245dcb6c94e4553008e449
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
