@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:25:30Z'
     type: CreateEvent
-  - date: '2022-02-26T06:25:04Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: prettier'
+  message: 0.1.0
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/478128ff2eae7f453144f375ba79e44c0fc4b7e7
+    https://api.github.com/repos/leonzalion/lionecs/commits/dc3b59d2e308f2a99dd12fd2c5daedf3b9d32b04
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
