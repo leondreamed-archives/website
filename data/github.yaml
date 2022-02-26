@@ -55,12 +55,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:07:37Z'
     type: PushEvent
-  - date: '2022-02-26T06:06:39Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: upgrade deps'
+  message: 'chore: add repo to package.json'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/983c5279bc9cc0add4cda605b711ea5d0938638a
+    https://api.github.com/repos/leonzalion/lionecs/commits/518344b25ffe2725c2f47c36854705f36fe64c49
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
