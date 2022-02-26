@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-26T18:09:21Z'
+    type: WatchEvent
   - date: '2022-02-26T06:36:20Z'
     type: ReleaseEvent
   - date: '2022-02-26T06:36:18Z'
@@ -45,14 +47,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:10:44Z'
     type: PushEvent
-  - date: '2022-02-26T06:08:53Z'
-    type: ReleaseEvent
-  - date: '2022-02-26T06:08:50Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.2
+  message: 'chore: upgrade configs'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/162a505a4d5b7c8b01245dcb6c94e4553008e449
+    https://api.github.com/repos/leonzalion/lionecs/commits/58661b6299c5ba2214d318dd16665644175914a2
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/lionecs
+    name: leonzalion/lionecs
