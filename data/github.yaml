@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:30:45Z'
     type: CreateEvent
-  - date: '2022-02-26T06:29:06Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: updating deps'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/6a5ae94f77fb37755c640937fcf08807913b1b44
+    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/172915b69daa2a1cf581d895b6abfd4731e3dc36
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/leonzalion/lion-git-hooks
+    name: leonzalion/lion-git-hooks
