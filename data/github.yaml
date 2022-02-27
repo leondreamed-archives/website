@@ -19,12 +19,10 @@ events:
     type: ReleaseEvent
   - date: '2022-02-26T06:36:18Z'
     type: CreateEvent
-  - date: '2022-02-26T06:36:18Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.3
+  message: 'fix: hard clear'
   url: >-
-    https://api.github.com/repos/leonzalion/nanoid-nice/commits/a512c1e5d743419fd5fe882c7f0c799114e1c1ae
+    https://api.github.com/repos/leonzalion/macos-configs/commits/c7e0cc31d5404fb8222e1b2d406aa0480d1a7d34
   repo:
-    url: https://api.github.com/repos/leonzalion/nanoid-nice
-    name: leonzalion/nanoid-nice
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
