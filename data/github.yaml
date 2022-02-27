@@ -27,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:30:48Z'
     type: ReleaseEvent
-  - date: '2022-02-26T06:30:46Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/172915b69daa2a1cf581d895b6abfd4731e3dc36
+    https://api.github.com/repos/leonzalion/succ-js/commits/1c41ff2494409bfe517c28a9e23a1e2f28800c4c
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-git-hooks
-    name: leonzalion/lion-git-hooks
+    url: https://api.github.com/repos/leonzalion/succ-js
+    name: leonzalion/succ-js
