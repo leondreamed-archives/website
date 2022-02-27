@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-27T00:45:12Z'
+    type: PushEvent
   - date: '2022-02-26T18:09:21Z'
     type: WatchEvent
   - date: '2022-02-26T06:36:20Z'
@@ -33,14 +35,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:28:52Z'
     type: PushEvent
-  - date: '2022-02-26T06:25:32Z'
-    type: ReleaseEvent
-  - date: '2022-02-26T06:25:30Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.0
+  message: 'chore: hooks'
   url: >-
-    https://api.github.com/repos/leonzalion/lionecs/commits/dc3b59d2e308f2a99dd12fd2c5daedf3b9d32b04
+    https://api.github.com/repos/leonzalion/lionecs/commits/8f26ef1a351df50932524be84bcac0e0ff0da6c2
   repo:
     url: https://api.github.com/repos/leonzalion/lionecs
     name: leonzalion/lionecs
