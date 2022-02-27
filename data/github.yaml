@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-27T18:30:51Z'
+    type: PushEvent
   - date: '2022-02-27T16:16:38Z'
     type: ReleaseEvent
   - date: '2022-02-27T16:16:34Z'
@@ -15,10 +17,6 @@ events:
     type: PushEvent
   - date: '2022-02-26T18:09:21Z'
     type: WatchEvent
-  - date: '2022-02-26T06:36:20Z'
-    type: ReleaseEvent
-  - date: '2022-02-26T06:36:18Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: hard clear'
   url: >-
