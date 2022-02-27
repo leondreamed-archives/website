@@ -1,4 +1,6 @@
 events:
+  - date: '2022-02-27T15:06:21Z'
+    type: PushEvent
   - date: '2022-02-27T00:45:12Z'
     type: PushEvent
   - date: '2022-02-26T18:09:21Z'
@@ -21,14 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-26T06:32:37Z'
     type: PushEvent
-  - date: '2022-02-26T06:32:37Z'
-    type: CreateEvent
-  - date: '2022-02-26T06:32:19Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 1.0.3
   url: >-
-    https://api.github.com/repos/leonzalion/succ-js/commits/1c41ff2494409bfe517c28a9e23a1e2f28800c4c
+    https://api.github.com/repos/leonzalion/succ-js/commits/33434479c54e3bbc18e1ae9d65662b119a840529
   repo:
     url: https://api.github.com/repos/leonzalion/succ-js
     name: leonzalion/succ-js
