@@ -15,8 +15,6 @@ events:
     type: PushEvent
   - date: '2022-02-27T00:45:12Z'
     type: PushEvent
-  - date: '2022-02-26T18:09:21Z'
-    type: WatchEvent
 latestCommit:
   message: 'fix: hard clear'
   url: >-
