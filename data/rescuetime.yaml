@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2127
+    timeSpent: 2874
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 192
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 73
+    timeSpent: 328
+  - category: Uncategorized
+    name: vicpark.managebac.com
+    productivity: 0
+    timeSpent: 181
