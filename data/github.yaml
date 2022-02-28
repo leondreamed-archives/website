@@ -1,4 +1,14 @@
 events:
+  - date: '2022-02-28T04:20:56Z'
+    type: PushEvent
+  - date: '2022-02-28T04:19:14Z'
+    type: PushEvent
+  - date: '2022-02-28T04:09:46Z'
+    type: PushEvent
+  - date: '2022-02-28T04:09:45Z'
+    type: CreateEvent
+  - date: '2022-02-28T04:08:07Z'
+    type: PushEvent
   - date: '2022-02-27T18:30:51Z'
     type: PushEvent
   - date: '2022-02-27T16:16:38Z'
@@ -13,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-02-27T15:06:21Z'
     type: PushEvent
-  - date: '2022-02-27T00:45:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: hard clear'
+  message: bibtex
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/c7e0cc31d5404fb8222e1b2d406aa0480d1a7d34
+    https://api.github.com/repos/leonzalion/macos-configs/commits/f1e85a2437f615a30c45858cdc7b06d989727a7c
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
