@@ -1,4 +1,32 @@
 events:
+  - date: '2022-02-28T16:57:05Z'
+    type: PushEvent
+  - date: '2022-02-28T16:45:51Z'
+    type: PushEvent
+  - date: '2022-02-28T16:42:06Z'
+    type: ReleaseEvent
+  - date: '2022-02-28T16:42:03Z'
+    type: CreateEvent
+  - date: '2022-02-28T16:42:03Z'
+    type: PushEvent
+  - date: '2022-02-28T16:41:04Z'
+    type: PushEvent
+  - date: '2022-02-28T16:32:47Z'
+    type: ReleaseEvent
+  - date: '2022-02-28T16:32:30Z'
+    type: CreateEvent
+  - date: '2022-02-28T16:32:30Z'
+    type: PushEvent
+  - date: '2022-02-28T16:30:44Z'
+    type: PushEvent
+  - date: '2022-02-28T16:24:55Z'
+    type: ReleaseEvent
+  - date: '2022-02-28T16:24:48Z'
+    type: CreateEvent
+  - date: '2022-02-28T16:24:48Z'
+    type: PushEvent
+  - date: '2022-02-28T16:23:55Z'
+    type: PushEvent
   - date: '2022-02-28T04:20:56Z'
     type: PushEvent
   - date: '2022-02-28T04:19:14Z'
@@ -9,24 +37,10 @@ events:
     type: CreateEvent
   - date: '2022-02-28T04:08:07Z'
     type: PushEvent
-  - date: '2022-02-27T18:30:51Z'
-    type: PushEvent
-  - date: '2022-02-27T16:16:38Z'
-    type: ReleaseEvent
-  - date: '2022-02-27T16:16:34Z'
-    type: PushEvent
-  - date: '2022-02-27T16:16:34Z'
-    type: CreateEvent
-  - date: '2022-02-27T16:15:56Z'
-    type: PushEvent
-  - date: '2022-02-27T16:14:35Z'
-    type: PushEvent
-  - date: '2022-02-27T15:06:21Z'
-    type: PushEvent
 latestCommit:
-  message: bibtex
+  message: 'fix: copy artifacts on failure'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/f1e85a2437f615a30c45858cdc7b06d989727a7c
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/1f40fd2d550c6044ca033bf7904097ff1d73909f
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
