@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3979
+    timeSpent: 5179
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1893
+    timeSpent: 2742
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
-    timeSpent: 520
+    timeSpent: 642
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 372
-  - category: Uncategorized
-    name: vicpark.managebac.com
-    productivity: 0
-    timeSpent: 181
+    timeSpent: 375
+  - category: General Reference & Learning
+    name: classroom.google.com
+    productivity: 2
+    timeSpent: 275
