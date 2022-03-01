@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-01T21:58:29Z'
+    type: ReleaseEvent
+  - date: '2022-03-01T21:58:26Z'
+    type: PushEvent
+  - date: '2022-03-01T21:58:26Z'
+    type: CreateEvent
+  - date: '2022-03-01T21:57:59Z'
+    type: PushEvent
   - date: '2022-02-28T18:32:06Z'
     type: ReleaseEvent
   - date: '2022-02-28T18:32:00Z'
@@ -11,20 +19,10 @@ events:
     type: PushEvent
   - date: '2022-02-28T16:45:51Z'
     type: PushEvent
-  - date: '2022-02-28T16:42:06Z'
-    type: ReleaseEvent
-  - date: '2022-02-28T16:42:03Z'
-    type: CreateEvent
-  - date: '2022-02-28T16:42:03Z'
-    type: PushEvent
-  - date: '2022-02-28T16:41:04Z'
-    type: PushEvent
-  - date: '2022-02-28T16:32:47Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: symbolic link detection'
+  message: 'test: modify images test'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/c192f808c4915a1e9df56820a96beba6ca950cdb
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/36a1a46d200f6cef86b95c4b4221da217e91c6d4
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
