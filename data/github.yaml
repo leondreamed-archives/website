@@ -27,8 +27,6 @@ events:
     type: PushEvent
   - date: '2022-02-28T16:30:44Z'
     type: PushEvent
-  - date: '2022-02-28T16:24:55Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: don''t copy symlinks'
   url: >-
