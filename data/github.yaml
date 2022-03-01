@@ -17,12 +17,10 @@ events:
     type: PushEvent
   - date: '2022-02-28T16:57:05Z'
     type: PushEvent
-  - date: '2022-02-28T16:45:51Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: modify images test'
+  message: turn word wrap on
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/36a1a46d200f6cef86b95c4b4221da217e91c6d4
+    https://api.github.com/repos/leonzalion/macos-configs/commits/5e63bd5ca9efb9b1b76b9c74bd526c37b9df3da7
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
