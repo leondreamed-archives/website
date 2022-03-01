@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-02-28T04:20:56Z'
     type: PushEvent
-  - date: '2022-02-28T04:19:14Z'
-    type: PushEvent
 latestCommit:
-  message: ':eyes:'
+  message: 'fix: don''t copy symlinked temp files'
   url: >-
-    https://api.github.com/repos/Code-in-Production/Kevin-RPG-Game/commits/3412c5255c9341aae2c7ad9edd540beb61bd9400
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/f69259d7670d3f8549e61a847180626004242e26
   repo:
-    url: https://api.github.com/repos/Code-in-Production/Kevin-RPG-Game
-    name: Code-in-Production/Kevin-RPG-Game
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
