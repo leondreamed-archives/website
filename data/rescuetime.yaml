@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3260
+    timeSpent: 4834
   - category: Uncategorized
     name: ml-cheatsheet.readthedocs.io
     productivity: 0
-    timeSpent: 448
+    timeSpent: 472
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 337
+    timeSpent: 435
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 309
   - category: Engineering & Technology
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 262
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 105
+    timeSpent: 288
