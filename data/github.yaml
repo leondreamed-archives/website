@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-02-28T16:24:48Z'
     type: PushEvent
-  - date: '2022-02-28T16:23:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: don''t copy symlinked temp files'
+  message: 1.0.8
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/f69259d7670d3f8549e61a847180626004242e26
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/ec9fef4b8d9a32676160d99b9bc1a9ae1bf897a9
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow

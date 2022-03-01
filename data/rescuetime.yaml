@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2948
+  - category: Uncategorized
+    name: ml-cheatsheet.readthedocs.io
+    productivity: 0
+    timeSpent: 442
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
     timeSpent: 105
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 52
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 34
-  - category: General News & Opinion
-    name: lh3.googleusercontent.com
-    productivity: 0
-    timeSpent: 11
-  - category: Uncategorized
-    name: grammarly desktop
-    productivity: 0
-    timeSpent: 6
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 5
+    timeSpent: 45
