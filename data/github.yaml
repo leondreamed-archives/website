@@ -23,12 +23,10 @@ events:
     type: ReleaseEvent
   - date: '2022-02-28T16:32:30Z'
     type: CreateEvent
-  - date: '2022-02-28T16:32:30Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.9
+  message: 'fix: symbolic link detection'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/58fe4c60617191ffc14b652505bd11f7f2748820
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/c192f808c4915a1e9df56820a96beba6ca950cdb
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
