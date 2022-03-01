@@ -25,12 +25,10 @@ events:
     type: CreateEvent
   - date: '2022-02-28T16:32:30Z'
     type: PushEvent
-  - date: '2022-02-28T16:30:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: don''t copy symlinks'
+  message: 1.0.9
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/60fa853ba43f7376c60f1fae5f512371a1571fad
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/58fe4c60617191ffc14b652505bd11f7f2748820
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
