@@ -21,8 +21,6 @@ events:
     type: PushEvent
   - date: '2022-02-28T16:32:47Z'
     type: ReleaseEvent
-  - date: '2022-02-28T16:32:30Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: symbolic link detection'
   url: >-
