@@ -13,8 +13,6 @@ events:
     type: CreateEvent
   - date: '2022-03-01T21:57:59Z'
     type: PushEvent
-  - date: '2022-02-28T18:32:06Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: disable capitalized comments rule'
   url: >-
