@@ -1,34 +1,34 @@
-dailyAverage: 34012
-totalSeconds: 238085.827769
+dailyAverage: 32900
+totalSeconds: 230299.043151
 languages:
   - name: TypeScript
-    totalSeconds: 77868.718001
+    totalSeconds: 78226.28747
   - name: TeX
-    totalSeconds: 59166.73128
-  - name: sh
-    totalSeconds: 32657.28923
+    totalSeconds: 57194.781295
   - name: Vue.js
-    totalSeconds: 22884.234345
-  - name: HTML
-    totalSeconds: 10724.279482
+    totalSeconds: 29078.584723
+  - name: sh
+    totalSeconds: 26994.725339
   - name: Python
-    totalSeconds: 10403.917005
-  - name: Text
-    totalSeconds: 9040.040544
+    totalSeconds: 10930.323644
+  - name: HTML
+    totalSeconds: 8760.926644
   - name: JSON
-    totalSeconds: 8873.605601
+    totalSeconds: 7763.273246
   - name: Other
-    totalSeconds: 5263.952473
+    totalSeconds: 5381.207118
+  - name: Text
+    totalSeconds: 5195.029683
   - name: Markdown
-    totalSeconds: 3073.726094
+    totalSeconds: 2859.451549
   - name: YAML
-    totalSeconds: 1168.564249
+    totalSeconds: 1172.572186
   - name: CSV
     totalSeconds: 870.210501
   - name: TOML
     totalSeconds: 622.274883
   - name: JavaScript
-    totalSeconds: 528.895201
+    totalSeconds: 429.776464
   - name: Git Config
     totalSeconds: 61.73839
   - name: Bash
@@ -37,10 +37,10 @@ languages:
     totalSeconds: 43.507662
   - name: BibTeX
     totalSeconds: 33.025
-  - name: CSS
-    totalSeconds: 6.15608
   - name: XML
     totalSeconds: 4.040674
+  - name: CSS
+    totalSeconds: 3.640251
   - name: INI
     totalSeconds: 2.177849
   - name: Puppet
@@ -49,25 +49,21 @@ languages:
     totalSeconds: 2.022992
 projects:
   - name: math-ia
-    totalSeconds: 92272.381929
+    totalSeconds: 102586.750938
   - name: timeblocker
-    totalSeconds: 58112.193269
+    totalSeconds: 69372.636861
   - name: leonzalion
-    totalSeconds: 30047.480746
+    totalSeconds: 19024.138925
   - name: latex-workflow
     totalSeconds: 18026.209091
   - name: lualatex-py
-    totalSeconds: 9998.455485
-  - name: chem
-    totalSeconds: 9087.699442
+    totalSeconds: 3640.017387
   - name: configs
     totalSeconds: 3488.219694
   - name: js-jsonl
     totalSeconds: 2861.598369
   - name: create-project
     totalSeconds: 2335.445137
-  - name: vpciclubs.com
-    totalSeconds: 2274.004908
   - name: lionecs
     totalSeconds: 2244.467908
   - name: lionp
@@ -75,11 +71,13 @@ projects:
   - name: TypeRacerStats
     totalSeconds: 1973.725907
   - name: lion-git-hooks
-    totalSeconds: 1897.249666
-  - name: hashed-out
-    totalSeconds: 1200.03596
+    totalSeconds: 1252.436825
+  - name: vpciclubs.com
+    totalSeconds: 943.769714
   - name: nanoid-nice
     totalSeconds: 878.129904
+  - name: chem
+    totalSeconds: 791.482335
   - name: lion-architecture
     totalSeconds: 718.309534
   - name: tex-escape
@@ -88,16 +86,16 @@ projects:
     totalSeconds: 578.31195
   - name: inquirer-press-to-continue
     totalSeconds: 525.086088
-  - name: is-heroku
-    totalSeconds: 467.965109
   - name: lion-system
     totalSeconds: 320.894693
-  - name: yabai-master-stack-plugin
-    totalSeconds: 265.469797
   - name: vpcc-web-dev
     totalSeconds: 244.824891
+  - name: yabai-master-stack-plugin
+    totalSeconds: 200.849806
   - name: succ-js
     totalSeconds: 194.756883
+  - name: hashed-out
+    totalSeconds: 172.807673
   - name: sync-index
     totalSeconds: 163.845344
   - name: fundamental-particles-project
@@ -106,8 +104,8 @@ projects:
     totalSeconds: 115.480894
   - name: type-fest
     totalSeconds: 93.088881
-  - name: ProperTree
-    totalSeconds: 68.365068
+  - name: pythontex
+    totalSeconds: 36.880942
   - name: tabulo-rewrite
     totalSeconds: 22.083869
   - name: timeblocker-ics
