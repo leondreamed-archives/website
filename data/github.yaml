@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-02T01:32:58Z'
+    type: PushEvent
+  - date: '2022-03-02T01:30:04Z'
+    type: CreateEvent
+  - date: '2022-03-02T01:28:23Z'
+    type: PushEvent
   - date: '2022-03-01T21:58:29Z'
     type: ReleaseEvent
   - date: '2022-03-01T21:58:26Z'
@@ -9,16 +15,10 @@ events:
     type: PushEvent
   - date: '2022-02-28T18:32:06Z'
     type: ReleaseEvent
-  - date: '2022-02-28T18:32:00Z'
-    type: CreateEvent
-  - date: '2022-02-28T18:32:00Z'
-    type: PushEvent
-  - date: '2022-02-28T18:31:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: allow null'
+  message: 'fix: disable capitalized comments rule'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/f4cc0b5ea9dc34a4273d08c63054580b3ded9c8f
+    https://api.github.com/repos/leonzalion/configs/commits/c8dd5047bfe0548048b6d37b74a641f064ac2dc7
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
