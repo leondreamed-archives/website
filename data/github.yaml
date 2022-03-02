@@ -15,12 +15,10 @@ events:
     type: PushEvent
   - date: '2022-02-28T18:31:28Z'
     type: PushEvent
-  - date: '2022-02-28T16:57:05Z'
-    type: PushEvent
 latestCommit:
-  message: turn word wrap on
+  message: 'feat: allow null'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/5e63bd5ca9efb9b1b76b9c74bd526c37b9df3da7
+    https://api.github.com/repos/leonzalion/configs/commits/f4cc0b5ea9dc34a4273d08c63054580b3ded9c8f
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
