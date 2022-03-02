@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6241
+    timeSpent: 9656
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 492
+    timeSpent: 581
+  - category: Uncategorized
+    name: ml-cheatsheet.readthedocs.io
+    productivity: 0
+    timeSpent: 514
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 424
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 337
-  - category: Uncategorized
-    name: ml-cheatsheet.readthedocs.io
-    productivity: 0
-    timeSpent: 222
-  - category: Uncategorized
-    name: python3.10
-    productivity: 0
-    timeSpent: 93
