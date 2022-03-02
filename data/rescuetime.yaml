@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1495
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 337
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 167
+  - category: Presentation
+    name: Google Presentations
+    productivity: 2
+    timeSpent: 81
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 80
