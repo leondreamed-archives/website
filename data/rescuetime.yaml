@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 12514
+    timeSpent: 12773
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -10,7 +10,7 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1156
+    timeSpent: 1174
   - category: Internet Utilities
     name: Blank Web Browser
     productivity: 1
