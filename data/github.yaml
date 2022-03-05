@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-04T01:01:58Z'
     type: CreateEvent
-  - date: '2022-03-04T01:01:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: use stdio inherit'
+  message: 1.1.1
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/b5bbb8a9737d8637135d5ff52ff7f7c4ecf6083d
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/f7da8b13428331d822704855473746ebd2de3385
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow

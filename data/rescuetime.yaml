@@ -6,16 +6,16 @@ topActivities:
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 3656
+    timeSpent: 3670
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2592
+    timeSpent: 3663
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2511
+    timeSpent: 2636
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 387
+    timeSpent: 391
