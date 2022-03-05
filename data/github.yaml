@@ -1,4 +1,16 @@
 events:
+  - date: '2022-03-05T20:43:59Z'
+    type: ReleaseEvent
+  - date: '2022-03-05T20:43:57Z'
+    type: PushEvent
+  - date: '2022-03-05T20:43:57Z'
+    type: CreateEvent
+  - date: '2022-03-05T20:42:44Z'
+    type: PushEvent
+  - date: '2022-03-05T20:35:35Z'
+    type: PushEvent
+  - date: '2022-03-05T20:34:23Z'
+    type: PushEvent
   - date: '2022-03-05T01:22:26Z'
     type: PushEvent
   - date: '2022-03-05T01:14:30Z'
@@ -39,22 +51,10 @@ events:
     type: PushEvent
   - date: '2022-03-04T00:13:40Z'
     type: ReleaseEvent
-  - date: '2022-03-03T22:25:46Z'
-    type: CreateEvent
-  - date: '2022-03-03T22:25:46Z'
-    type: PushEvent
-  - date: '2022-03-03T22:24:52Z'
-    type: PushEvent
-  - date: '2022-03-03T22:02:31Z'
-    type: CreateEvent
-  - date: '2022-03-03T22:02:31Z'
-    type: PushEvent
-  - date: '2022-03-03T22:01:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: expose compileLatex function'
+  message: 'fix: use stdio inherit'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/3e742ce82fa2ee8683e11dab2658dce759584f24
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/b5bbb8a9737d8637135d5ff52ff7f7c4ecf6083d
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
