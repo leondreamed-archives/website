@@ -1,22 +1,60 @@
 events:
-  - date: '2022-03-02T01:32:58Z'
+  - date: '2022-03-05T01:22:26Z'
     type: PushEvent
-  - date: '2022-03-02T01:30:04Z'
-    type: CreateEvent
-  - date: '2022-03-02T01:28:23Z'
-    type: PushEvent
-  - date: '2022-03-01T21:58:29Z'
+  - date: '2022-03-05T01:14:30Z'
     type: ReleaseEvent
-  - date: '2022-03-01T21:58:26Z'
+  - date: '2022-03-05T01:14:28Z'
     type: PushEvent
-  - date: '2022-03-01T21:58:26Z'
+  - date: '2022-03-05T01:14:28Z'
     type: CreateEvent
-  - date: '2022-03-01T21:57:59Z'
+  - date: '2022-03-05T01:13:49Z'
+    type: PushEvent
+  - date: '2022-03-05T01:01:43Z'
+    type: PushEvent
+  - date: '2022-03-04T18:19:02Z'
+    type: ReleaseEvent
+  - date: '2022-03-04T18:18:57Z'
+    type: CreateEvent
+  - date: '2022-03-04T18:18:57Z'
+    type: PushEvent
+  - date: '2022-03-04T18:17:59Z'
+    type: PushEvent
+  - date: '2022-03-04T18:01:26Z'
+    type: ReleaseEvent
+  - date: '2022-03-04T18:01:22Z'
+    type: PushEvent
+  - date: '2022-03-04T18:01:22Z'
+    type: CreateEvent
+  - date: '2022-03-04T18:00:51Z'
+    type: PushEvent
+  - date: '2022-03-04T14:13:11Z'
+    type: PushEvent
+  - date: '2022-03-04T01:02:00Z'
+    type: ReleaseEvent
+  - date: '2022-03-04T01:01:58Z'
+    type: PushEvent
+  - date: '2022-03-04T01:01:58Z'
+    type: CreateEvent
+  - date: '2022-03-04T01:01:18Z'
+    type: PushEvent
+  - date: '2022-03-04T00:13:40Z'
+    type: ReleaseEvent
+  - date: '2022-03-03T22:25:46Z'
+    type: CreateEvent
+  - date: '2022-03-03T22:25:46Z'
+    type: PushEvent
+  - date: '2022-03-03T22:24:52Z'
+    type: PushEvent
+  - date: '2022-03-03T22:02:31Z'
+    type: CreateEvent
+  - date: '2022-03-03T22:02:31Z'
+    type: PushEvent
+  - date: '2022-03-03T22:01:31Z'
     type: PushEvent
 latestCommit:
-  message: 'fix: disable capitalized comments rule'
+  message: 'feat: expose compileLatex function'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/c8dd5047bfe0548048b6d37b74a641f064ac2dc7
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/3e742ce82fa2ee8683e11dab2658dce759584f24
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
