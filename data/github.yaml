@@ -49,8 +49,6 @@ events:
     type: CreateEvent
   - date: '2022-03-04T01:01:18Z'
     type: PushEvent
-  - date: '2022-03-04T00:13:40Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: use stdio inherit'
   url: >-
