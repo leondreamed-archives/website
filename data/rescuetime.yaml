@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5039
+    timeSpent: 5963
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 4428
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2803
+    timeSpent: 4437
   - category: Uncategorized
     name: arras.io
     productivity: 0
-    timeSpent: 2528
+    timeSpent: 4185
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 3016
