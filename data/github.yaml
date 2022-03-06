@@ -29,12 +29,10 @@ events:
     type: PushEvent
   - date: '2022-03-05T01:14:28Z'
     type: CreateEvent
-  - date: '2022-03-05T01:13:49Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: compiling multiple at once'''
+  message: 1.1.3
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/9dbf8697d6884b3aba5e7d37c3a576200dacee5d
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/28bf4236b52272d8a7d9018ef9755bb28a3e49eb
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
