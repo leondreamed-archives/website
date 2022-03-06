@@ -35,8 +35,6 @@ events:
     type: PushEvent
   - date: '2022-03-04T18:19:02Z'
     type: ReleaseEvent
-  - date: '2022-03-04T18:18:57Z'
-    type: CreateEvent
 latestCommit:
   message: 'feat: use random temp folder'
   url: >-
