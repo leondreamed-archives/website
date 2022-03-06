@@ -41,12 +41,10 @@ events:
     type: CreateEvent
   - date: '2022-03-04T18:00:51Z'
     type: PushEvent
-  - date: '2022-03-04T14:13:11Z'
-    type: PushEvent
 latestCommit:
-  message: zoom
+  message: 'refactor: use pnpm'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/067ddd89ae6bc6e84357f1f49a0acd0913449969
+    https://api.github.com/repos/leonzalion/lion-system/commits/e83112258995ba4d4c45fdfea8f90b1e6d519b95
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/lion-system
+    name: leonzalion/lion-system

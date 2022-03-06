@@ -10,12 +10,12 @@ topActivities:
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 4373
+    timeSpent: 4428
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2735
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 1353
+    timeSpent: 2803
+  - category: Uncategorized
+    name: arras.io
+    productivity: 0
+    timeSpent: 2528
