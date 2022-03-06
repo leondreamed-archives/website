@@ -1,4 +1,20 @@
 events:
+  - date: '2022-03-06T19:49:32Z'
+    type: ReleaseEvent
+  - date: '2022-03-06T19:49:07Z'
+    type: PushEvent
+  - date: '2022-03-06T19:49:06Z'
+    type: CreateEvent
+  - date: '2022-03-06T19:48:04Z'
+    type: PushEvent
+  - date: '2022-03-06T19:33:29Z'
+    type: PushEvent
+  - date: '2022-03-06T19:27:46Z'
+    type: PushEvent
+  - date: '2022-03-06T19:11:39Z'
+    type: PushEvent
+  - date: '2022-03-06T19:10:41Z'
+    type: PushEvent
   - date: '2022-03-06T18:56:31Z'
     type: PushEvent
   - date: '2022-03-06T17:26:17Z'
@@ -17,22 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-06T00:39:33Z'
     type: PushEvent
-  - date: '2022-03-05T20:43:59Z'
-    type: ReleaseEvent
-  - date: '2022-03-05T20:43:57Z'
-    type: PushEvent
-  - date: '2022-03-05T20:43:57Z'
-    type: CreateEvent
-  - date: '2022-03-05T20:42:44Z'
-    type: PushEvent
-  - date: '2022-03-05T20:35:35Z'
-    type: PushEvent
-  - date: '2022-03-05T20:34:23Z'
-    type: PushEvent
 latestCommit:
-  message: Update readme.md
+  message: vscode
   url: >-
-    https://api.github.com/repos/leonzalion/mac-sudo-prompt/commits/747929bd12fa36eb0d46e3eb242826331f94c28d
+    https://api.github.com/repos/leonzalion/macos-configs/commits/98409953aef71eb53a6f423c5ee7a1904b1dece3
   repo:
-    url: https://api.github.com/repos/leonzalion/mac-sudo-prompt
-    name: leonzalion/mac-sudo-prompt
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
