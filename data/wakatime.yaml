@@ -1,98 +1,82 @@
-dailyAverage: 30641
-totalSeconds: 214486.041491
+dailyAverage: 28994
+totalSeconds: 202957.302636
 languages:
   - name: TeX
-    totalSeconds: 84113.169134
+    totalSeconds: 95287.535723
   - name: TypeScript
-    totalSeconds: 51201.993368
+    totalSeconds: 36158.480846
   - name: sh
-    totalSeconds: 25092.20303
+    totalSeconds: 24943.567601
   - name: Python
-    totalSeconds: 23125.095801
+    totalSeconds: 18847.693446
   - name: Vue.js
-    totalSeconds: 12584.620655
+    totalSeconds: 12659.132024
   - name: HTML
-    totalSeconds: 6561.218348
+    totalSeconds: 7505.229627
   - name: Other
-    totalSeconds: 3929.848295
+    totalSeconds: 3012.37109
   - name: JSON
-    totalSeconds: 3770.754304
+    totalSeconds: 2186.200187
   - name: JavaScript
-    totalSeconds: 1953.411069
-  - name: Markdown
-    totalSeconds: 1943.001965
+    totalSeconds: 1863.330775
   - name: Text
     totalSeconds: 1448.501329
   - name: BibTeX
     totalSeconds: 962.354444
-  - name: CSV
-    totalSeconds: 870.210501
   - name: Git Config
-    totalSeconds: 429.240566
+    totalSeconds: 426.432285
   - name: YAML
-    totalSeconds: 238.604545
+    totalSeconds: 243.436309
+  - name: Markdown
+    totalSeconds: 159.633481
   - name: Batchfile
-    totalSeconds: 83.857447
+    totalSeconds: 122.576074
   - name: Bash
     totalSeconds: 66.877354
+  - name: CSV
+    totalSeconds: 34.067998
   - name: CSS
-    totalSeconds: 35.585949
+    totalSeconds: 31.945698
+  - name: SQL
+    totalSeconds: 6.115853
   - name: Puppet
     totalSeconds: 2.16859
   - name: Pawn
     totalSeconds: 2.022992
-  - name: INI
-    totalSeconds: 1.1501
 projects:
   - name: math-ia
-    totalSeconds: 133375.048807
+    totalSeconds: 111147.205719
   - name: timeblocker
-    totalSeconds: 51098.031901
+    totalSeconds: 65169.920654
   - name: leonzalion
-    totalSeconds: 12551.701093
+    totalSeconds: 12575.483775
   - name: latex-workflow
     totalSeconds: 11952.198479
   - name: lion-system
     totalSeconds: 2533.642116
-  - name: lionecs
-    totalSeconds: 1798.758033
-  - name: configs
-    totalSeconds: 1111.167417
   - name: chem
     totalSeconds: 733.482405
   - name: TypeRacerStats
     totalSeconds: 700.168422
-  - name: lion-architecture
-    totalSeconds: 301.61339
-  - name: simple-vue-icon
-    totalSeconds: 244.72175
+  - name: configs
+    totalSeconds: 215.237425
   - name: pnpm
     totalSeconds: 210.616484
   - name: black
     totalSeconds: 203.276425
-  - name: lion-git-hooks
-    totalSeconds: 196.290818
-  - name: succ-js
-    totalSeconds: 194.756883
-  - name: create-project
-    totalSeconds: 189.572524
-  - name: yabai-master-stack-plugin
-    totalSeconds: 185.883777
-  - name: sync-index
-    totalSeconds: 163.845344
   - name: vpcc-web-dev
     totalSeconds: 162.702936
   - name: hashed-out
     totalSeconds: 138.709029
   - name: Kevin-RPG-Game
     totalSeconds: 115.480894
-  - name: inquirer-press-to-continue
-    totalSeconds: 114.23625
-  - name: nanoid-nice
-    totalSeconds: 88.199463
+  - name: leonzalion-google-workspace
+    totalSeconds: 53.962466
   - name: pythontex
     totalSeconds: 36.880942
   - name: code
     totalSeconds: 9.107219
+  - name: create-project
+    totalSeconds: 5.801351
   - name: Unknown Project
     totalSeconds: 5.796985

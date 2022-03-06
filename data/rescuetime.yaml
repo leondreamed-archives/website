@@ -1,21 +1,21 @@
 topActivities:
-  - category: Games
-    name: lichess.org
-    productivity: -2
-    timeSpent: 10378
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5963
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 4437
-  - category: Uncategorized
-    name: arras.io
-    productivity: 0
-    timeSpent: 4185
-  - category: General Software Development
-    name: Github
+    timeSpent: 2065
+  - category: Writing
+    name: microsoft word
     productivity: 2
-    timeSpent: 3016
+    timeSpent: 925
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 582
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 482
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 322
