@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-06T05:47:41Z'
     type: PushEvent
-  - date: '2022-03-06T00:39:33Z'
-    type: PushEvent
 latestCommit:
-  message: vscode
+  message: 'test: added fixuter'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/98409953aef71eb53a6f423c5ee7a1904b1dece3
+    https://api.github.com/repos/leonzalion/configs/commits/f60d292c8501e313970491541e3dfdf537d5e23b
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
