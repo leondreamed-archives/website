@@ -3,19 +3,19 @@ topActivities:
     name: lichess.org
     productivity: -2
     timeSpent: 7301
-  - category: Instant Message
-    name: hangouts.google.com
-    productivity: -1
-    timeSpent: 3670
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3663
+    timeSpent: 5029
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 3691
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2636
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 391
+    timeSpent: 2661
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 1352
