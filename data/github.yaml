@@ -31,12 +31,10 @@ events:
     type: CreateEvent
   - date: '2022-03-05T01:13:49Z'
     type: PushEvent
-  - date: '2022-03-05T01:01:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: use random temp folder'
+  message: 'fix: compiling multiple at once'''
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/d351c0a8f22725795e2815cb5066a41acbc440db
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/9dbf8697d6884b3aba5e7d37c3a576200dacee5d
   repo:
     url: https://api.github.com/repos/leonzalion/latex-workflow
     name: leonzalion/latex-workflow
