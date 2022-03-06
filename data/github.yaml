@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-06T00:39:33Z'
+    type: PushEvent
   - date: '2022-03-05T20:43:59Z'
     type: ReleaseEvent
   - date: '2022-03-05T20:43:57Z'
@@ -41,14 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-04T14:13:11Z'
     type: PushEvent
-  - date: '2022-03-04T01:02:00Z'
-    type: ReleaseEvent
-  - date: '2022-03-04T01:01:58Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.1
+  message: zoom
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/f7da8b13428331d822704855473746ebd2de3385
+    https://api.github.com/repos/leonzalion/macos-configs/commits/067ddd89ae6bc6e84357f1f49a0acd0913449969
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
