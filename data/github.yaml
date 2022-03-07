@@ -43,12 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-07T05:08:06Z'
     type: CreateEvent
-  - date: '2022-03-07T05:08:06Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.3
+  message: 'fix: cloning'
   url: >-
-    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/e4d33224807a82e2ff1b409bdcd5181bff87d54b
+    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/450a706095de1c572ffeeddb8e32570c2e48b4f4
   repo:
     url: https://api.github.com/repos/leonzalion/deep-clone-fn
     name: leonzalion/deep-clone-fn
