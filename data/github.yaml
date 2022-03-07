@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-07T15:34:53Z'
+    type: PushEvent
   - date: '2022-03-07T05:36:49Z'
     type: ReleaseEvent
   - date: '2022-03-07T05:36:43Z'
@@ -51,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-03-07T03:31:03Z'
     type: ReleaseEvent
-  - date: '2022-03-07T03:30:59Z'
-    type: CreateEvent
-  - date: '2022-03-07T03:30:59Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.1
+  message: 'fix: add main property'
   url: >-
-    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/9394415f561f9b1a883587ea7589ed9ddb3ee3d9
+    https://api.github.com/repos/leonzalion/create-project/commits/cc100df0f1e03745ba90fba8278c660cc5ebae72
   repo:
-    url: https://api.github.com/repos/leonzalion/deep-clone-fn
-    name: leonzalion/deep-clone-fn
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
