@@ -53,8 +53,6 @@ events:
     type: PushEvent
   - date: '2022-03-06T23:49:49Z'
     type: PushEvent
-  - date: '2022-03-06T23:43:18Z'
-    type: IssuesEvent
 latestCommit:
   message: 'refactor: use vitest'
   url: >-
