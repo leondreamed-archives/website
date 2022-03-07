@@ -47,8 +47,6 @@ events:
     type: PushEvent
   - date: '2022-03-07T05:07:20Z'
     type: PushEvent
-  - date: '2022-03-07T03:43:31Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'test: passing tests'
   url: >-
