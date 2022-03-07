@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-07T01:34:12Z'
+    type: WatchEvent
+  - date: '2022-03-07T01:33:58Z'
+    type: PushEvent
   - date: '2022-03-07T01:07:23Z'
     type: WatchEvent
   - date: '2022-03-07T00:53:45Z'
@@ -51,16 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-06T23:43:18Z'
     type: IssuesEvent
-  - date: '2022-03-06T23:43:13Z'
-    type: ReleaseEvent
-  - date: '2022-03-06T23:43:09Z'
-    type: CreateEvent
-  - date: '2022-03-06T23:43:09Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.5
+  message: 'refactor: use vitest'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/f9651e8c390d2adc894c53425ea04551de667382
+    https://api.github.com/repos/leonzalion/js-jsonl/commits/3f0307e42755501b77251ea7f66ca6bdafe3e00d
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/js-jsonl
+    name: leonzalion/js-jsonl
