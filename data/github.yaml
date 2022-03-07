@@ -57,8 +57,6 @@ events:
     type: PushEvent
   - date: '2022-03-07T03:30:22Z'
     type: PushEvent
-  - date: '2022-03-07T03:29:06Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: add main property'
   url: >-
