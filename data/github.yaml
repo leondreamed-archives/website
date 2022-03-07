@@ -1,62 +1,68 @@
 events:
-  - date: '2022-03-07T01:34:12Z'
-    type: WatchEvent
-  - date: '2022-03-07T01:33:58Z'
-    type: PushEvent
-  - date: '2022-03-07T01:07:23Z'
-    type: WatchEvent
-  - date: '2022-03-07T00:53:45Z'
-    type: WatchEvent
-  - date: '2022-03-07T00:29:32Z'
+  - date: '2022-03-07T05:36:49Z'
     type: ReleaseEvent
-  - date: '2022-03-07T00:29:28Z'
+  - date: '2022-03-07T05:36:43Z'
+    type: PushEvent
+  - date: '2022-03-07T05:36:42Z'
     type: CreateEvent
-  - date: '2022-03-07T00:29:28Z'
+  - date: '2022-03-07T05:35:43Z'
     type: PushEvent
-  - date: '2022-03-07T00:28:56Z'
+  - date: '2022-03-07T05:35:14Z'
     type: PushEvent
-  - date: '2022-03-07T00:18:07Z'
+  - date: '2022-03-07T05:34:26Z'
     type: PushEvent
-  - date: '2022-03-07T00:17:46Z'
-    type: PushEvent
-  - date: '2022-03-07T00:14:48Z'
+  - date: '2022-03-07T05:34:22Z'
     type: ReleaseEvent
-  - date: '2022-03-07T00:14:42Z'
+  - date: '2022-03-07T05:34:17Z'
     type: CreateEvent
-  - date: '2022-03-07T00:14:42Z'
+  - date: '2022-03-07T05:34:16Z'
     type: PushEvent
-  - date: '2022-03-07T00:13:39Z'
+  - date: '2022-03-07T05:33:24Z'
     type: PushEvent
-  - date: '2022-03-07T00:12:25Z'
-    type: IssuesEvent
-  - date: '2022-03-07T00:12:03Z'
-    type: PushEvent
-  - date: '2022-03-07T00:11:11Z'
-    type: PushEvent
-  - date: '2022-03-07T00:09:32Z'
+  - date: '2022-03-07T05:32:03Z'
+    type: CreateEvent
+  - date: '2022-03-07T05:31:39Z'
+    type: CreateEvent
+  - date: '2022-03-07T05:27:56Z'
     type: ReleaseEvent
-  - date: '2022-03-07T00:09:27Z'
+  - date: '2022-03-07T05:27:49Z'
     type: CreateEvent
-  - date: '2022-03-07T00:09:27Z'
+  - date: '2022-03-07T05:27:50Z'
     type: PushEvent
-  - date: '2022-03-07T00:08:40Z'
+  - date: '2022-03-07T05:27:00Z'
     type: PushEvent
-  - date: '2022-03-07T00:06:51Z'
-    type: PushEvent
-  - date: '2022-03-07T00:06:15Z'
+  - date: '2022-03-07T05:08:12Z'
     type: ReleaseEvent
-  - date: '2022-03-07T00:06:11Z'
+  - date: '2022-03-07T05:08:06Z'
     type: CreateEvent
-  - date: '2022-03-07T00:06:10Z'
+  - date: '2022-03-07T05:08:06Z'
     type: PushEvent
-  - date: '2022-03-07T00:05:26Z'
+  - date: '2022-03-07T05:07:20Z'
     type: PushEvent
-  - date: '2022-03-06T23:49:49Z'
+  - date: '2022-03-07T03:43:31Z'
+    type: ReleaseEvent
+  - date: '2022-03-07T03:43:28Z'
     type: PushEvent
+  - date: '2022-03-07T03:43:28Z'
+    type: CreateEvent
+  - date: '2022-03-07T03:42:37Z'
+    type: PushEvent
+  - date: '2022-03-07T03:31:05Z'
+    type: PushEvent
+  - date: '2022-03-07T03:31:03Z'
+    type: ReleaseEvent
+  - date: '2022-03-07T03:30:59Z'
+    type: CreateEvent
+  - date: '2022-03-07T03:30:59Z'
+    type: PushEvent
+  - date: '2022-03-07T03:30:22Z'
+    type: PushEvent
+  - date: '2022-03-07T03:29:06Z'
+    type: ReleaseEvent
 latestCommit:
-  message: 'refactor: use vitest'
+  message: 'fix: add main property'
   url: >-
-    https://api.github.com/repos/leonzalion/js-jsonl/commits/3f0307e42755501b77251ea7f66ca6bdafe3e00d
+    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/8ac1993179bf79c59e64a9fd14e8a77ffddb9d66
   repo:
-    url: https://api.github.com/repos/leonzalion/js-jsonl
-    name: leonzalion/js-jsonl
+    url: https://api.github.com/repos/leonzalion/deep-clone-fn
+    name: leonzalion/deep-clone-fn
