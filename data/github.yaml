@@ -45,12 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-03-07T05:08:06Z'
     type: PushEvent
-  - date: '2022-03-07T05:07:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: passing tests'
+  message: 1.0.3
   url: >-
-    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/20a00e55527a374388e87ba5fecdac6168cf1f22
+    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/e4d33224807a82e2ff1b409bdcd5181bff87d54b
   repo:
     url: https://api.github.com/repos/leonzalion/deep-clone-fn
     name: leonzalion/deep-clone-fn
