@@ -45,12 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-03-08T00:57:27Z'
     type: PushEvent
-  - date: '2022-03-08T00:56:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update lockfile'
+  message: 1.1.8
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/76ac1f822320682a77a22c5fa14baa614bdd77a0
+    https://api.github.com/repos/leonzalion/configs/commits/69fcdb949a2988ae3107946a72763b2614abcf6d
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
