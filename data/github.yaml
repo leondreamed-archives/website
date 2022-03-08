@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T01:07:53Z'
     type: PushEvent
-  - date: '2022-03-08T01:02:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: build project'
+  message: 'fix: overrides'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/29ba41302174b2b1c2d9acf6756fef89cdd20a29
+    https://api.github.com/repos/leonzalion/configs/commits/b1a0e8c3c833f8838dfffa58d7d95842bf8ca97c
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
