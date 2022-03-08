@@ -1,79 +1,97 @@
-dailyAverage: 29796
-totalSeconds: 208569.610522
+dailyAverage: 32130
+totalSeconds: 224912.097139
 languages:
   - name: TeX
-    totalSeconds: 79304.554031
+    totalSeconds: 76908.781246
   - name: TypeScript
-    totalSeconds: 41951.100408
+    totalSeconds: 49166.429516
   - name: sh
-    totalSeconds: 34129.380096
+    totalSeconds: 42930.726718
   - name: Vue.js
-    totalSeconds: 16120.162827
+    totalSeconds: 19760.262927
   - name: Python
-    totalSeconds: 15526.872076
-  - name: HTML
-    totalSeconds: 7559.776224
+    totalSeconds: 14001.196076
   - name: JSON
-    totalSeconds: 6316.408484
+    totalSeconds: 6666.10297
   - name: Other
-    totalSeconds: 4255.223191
-  - name: JavaScript
-    totalSeconds: 3304.977815
-  - name: Text
-    totalSeconds: 1448.501329
-  - name: BibTeX
-    totalSeconds: 962.354444
+    totalSeconds: 5021.730397
   - name: Markdown
-    totalSeconds: 884.070584
+    totalSeconds: 4472.304737
+  - name: JavaScript
+    totalSeconds: 4441.289873
+  - name: HTML
+    totalSeconds: 3099.138174
+  - name: BibTeX
+    totalSeconds: 1764.959242
+  - name: Text
+    totalSeconds: 611.82008
   - name: Git Config
-    totalSeconds: 406.87048
+    totalSeconds: 421.465192
   - name: YAML
-    totalSeconds: 256.953625
+    totalSeconds: 306.769963
   - name: CSS
     totalSeconds: 202.058818
   - name: Batchfile
     totalSeconds: 122.576074
   - name: Bash
-    totalSeconds: 66.877354
+    totalSeconds: 27.924532
   - name: SQL
     totalSeconds: 6.115853
+  - name: INI
+    totalSeconds: 2.175148
 projects:
   - name: math-ia
-    totalSeconds: 79084.570768
+    totalSeconds: 72868.477136
   - name: timeblocker
-    totalSeconds: 65182.587889
+    totalSeconds: 60998.601372
   - name: leonzalion
-    totalSeconds: 24240.11277
-  - name: latex-workflow
-    totalSeconds: 11060.235922
+    totalSeconds: 29363.685356
   - name: configs
-    totalSeconds: 11044.599765
+    totalSeconds: 11934.21565
+  - name: latex-workflow
+    totalSeconds: 7403.409918
+  - name: inquirer-press-to-continue
+    totalSeconds: 6662.065384
   - name: deep-clone-fn
-    totalSeconds: 5272.811847
+    totalSeconds: 6186.664371
+  - name: reactive-emails
+    totalSeconds: 6007.681748
   - name: react
-    totalSeconds: 4834.452531
+    totalSeconds: 4835.707752
+  - name: bootstrap-macos
+    totalSeconds: 4408.575579
+  - name: chem-ia
+    totalSeconds: 2790.526345
   - name: lion-system
     totalSeconds: 2550.149073
   - name: create-project
-    totalSeconds: 2196.666421
+    totalSeconds: 2279.926005
   - name: succ-js
     totalSeconds: 2152.123749
+  - name: vite-electron-builder
+    totalSeconds: 1514.699053
+  - name: vitest-test
+    totalSeconds: 1232.028929
   - name: lion-git-hooks
     totalSeconds: 1059.886229
   - name: nanoid-nice
     totalSeconds: 770.182611
   - name: chem
-    totalSeconds: 722.308524
+    totalSeconds: 746.259545
+  - name: vitest-mock-process
+    totalSeconds: 580.193337
+  - name: lionecs
+    totalSeconds: 508.193733
+  - name: simple-vue-icon
+    totalSeconds: 455.737391
+  - name: lionp
+    totalSeconds: 370.392514
   - name: vitest
     totalSeconds: 348.225173
-  - name: lionp
-    totalSeconds: 340.300692
+  - name: mimic-fn
+    totalSeconds: 283.270992
   - name: MountEFI
     totalSeconds: 244.971339
-  - name: mimic-fn
-    totalSeconds: 240.69031
-  - name: inquirer-press-to-continue
-    totalSeconds: 238.536913
   - name: js-jsonl
     totalSeconds: 227.688054
   - name: pnpm
@@ -81,13 +99,17 @@ projects:
   - name: black
     totalSeconds: 203.276425
   - name: vpcc-web-dev
-    totalSeconds: 162.702936
-  - name: hashed-out
-    totalSeconds: 138.709029
+    totalSeconds: 190.847698
   - name: Terminal
     totalSeconds: 119.179013
+  - name: liontypes
+    totalSeconds: 101.398033
+  - name: Inquirer.js
+    totalSeconds: 84.443328
   - name: jest-mock-process
     totalSeconds: 68.520806
+  - name: node-mock-stdin
+    totalSeconds: 59.494482
   - name: leonzalion-google-workspace
     totalSeconds: 53.962466
   - name: pythontex
@@ -98,5 +120,7 @@ projects:
     totalSeconds: 5.796985
   - name: yabai-master-stack-plugin
     totalSeconds: 3.247643
+  - name: tabulo-rewrite
+    totalSeconds: 1.784489
   - name: vite-typescript-electron
     totalSeconds: 1.733185
