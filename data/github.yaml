@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-03-08T01:08:38Z'
     type: PushEvent
-  - date: '2022-03-08T01:07:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: overrides'
+  message: 1.1.9
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/b1a0e8c3c833f8838dfffa58d7d95842bf8ca97c
+    https://api.github.com/repos/leonzalion/configs/commits/6367e515cf3a866326ff44264a3b10a1547176a0
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
