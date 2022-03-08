@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-08T02:16:21Z'
+    type: PushEvent
+  - date: '2022-03-08T02:09:05Z'
+    type: PushEvent
+  - date: '2022-03-08T02:08:12Z'
+    type: PushEvent
   - date: '2022-03-08T01:23:50Z'
     type: ReleaseEvent
   - date: '2022-03-08T01:23:37Z'
@@ -51,16 +57,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:26:54Z'
     type: CreateEvent
-  - date: '2022-03-08T00:26:29Z'
-    type: CreateEvent
-  - date: '2022-03-07T23:14:14Z'
-    type: PushEvent
-  - date: '2022-03-07T23:05:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lint'
+  message: 'docs: explain naming'
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/f91fd7fef38a1ccdabd822dfb6ebec1081827507
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/e79755735fa356c23167e5a71b998f7240e1c343
   repo:
-    url: https://api.github.com/repos/leonzalion/simple-vue-icon
-    name: leonzalion/simple-vue-icon
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
