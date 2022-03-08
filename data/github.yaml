@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:50:44Z'
     type: PushEvent
-  - date: '2022-03-08T00:31:35Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: format'
+  message: 'fix: naming convention'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/2f3a7be8cde55200821563578068a578b7b8ebae
+    https://api.github.com/repos/leonzalion/configs/commits/07ea97809d4c3a28181110fdf3b50f7ca5d11842
   repo:
-    url: https://api.github.com/repos/leonzalion/reactive-emails
-    name: leonzalion/reactive-emails
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs

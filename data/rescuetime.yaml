@@ -3,19 +3,19 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 867
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 424
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 138
+    timeSpent: 151
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
     timeSpent: 125
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 71
-  - category: Uncategorized
-    name: authy desktop
-    productivity: 0
-    timeSpent: 63
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 78
