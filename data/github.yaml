@@ -43,12 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-08T00:57:28Z'
     type: CreateEvent
-  - date: '2022-03-08T00:57:27Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.8
+  message: 'feat: add implementation'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/69fcdb949a2988ae3107946a72763b2614abcf6d
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/77d23957ecc01a60135028f24600b6b95218d10c
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
