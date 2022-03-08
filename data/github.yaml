@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T01:02:12Z'
     type: PushEvent
-  - date: '2022-03-08T00:58:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add implementation'
+  message: 'test: build project'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/77d23957ecc01a60135028f24600b6b95218d10c
+    https://api.github.com/repos/leonzalion/configs/commits/29ba41302174b2b1c2d9acf6756fef89cdd20a29
   repo:
-    url: https://api.github.com/repos/leonzalion/reactive-emails
-    name: leonzalion/reactive-emails
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
