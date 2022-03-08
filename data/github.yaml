@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:56:37Z'
     type: PushEvent
-  - date: '2022-03-08T00:56:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: make tests more efficient'
+  message: 'chore: update lockfile'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/38e03cf118b5cbf59df5640f8d545590fefce6e4
+    https://api.github.com/repos/leonzalion/configs/commits/76ac1f822320682a77a22c5fa14baa614bdd77a0
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
