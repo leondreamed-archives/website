@@ -1,4 +1,18 @@
 events:
+  - date: '2022-03-08T02:55:26Z'
+    type: PushEvent
+  - date: '2022-03-08T02:41:04Z'
+    type: PushEvent
+  - date: '2022-03-08T02:37:27Z'
+    type: CreateEvent
+  - date: '2022-03-08T02:35:42Z'
+    type: CreateEvent
+  - date: '2022-03-08T02:18:35Z'
+    type: PushEvent
+  - date: '2022-03-08T02:18:35Z'
+    type: PullRequestEvent
+  - date: '2022-03-08T02:18:32Z'
+    type: IssueCommentEvent
   - date: '2022-03-08T02:16:21Z'
     type: PushEvent
   - date: '2022-03-08T02:09:05Z'
@@ -41,26 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:30:47Z'
     type: PushEvent
-  - date: '2022-03-08T00:30:25Z'
-    type: PushEvent
-  - date: '2022-03-08T00:30:10Z'
-    type: PushEvent
-  - date: '2022-03-08T00:29:46Z'
-    type: PushEvent
-  - date: '2022-03-08T00:29:22Z'
-    type: PushEvent
-  - date: '2022-03-08T00:28:33Z'
-    type: PushEvent
-  - date: '2022-03-08T00:28:09Z'
-    type: PushEvent
-  - date: '2022-03-08T00:27:55Z'
-    type: PushEvent
-  - date: '2022-03-08T00:26:54Z'
-    type: CreateEvent
 latestCommit:
-  message: 'docs: explain naming'
+  message: ' fix: grammar'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/e79755735fa356c23167e5a71b998f7240e1c343
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/a007e709a2b7bc7f0ecbc006170f1ea0698a5300
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
