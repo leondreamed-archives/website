@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:56:11Z'
     type: PushEvent
-  - date: '2022-03-08T00:50:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: naming convention'
+  message: 'fix: make tests more efficient'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/07ea97809d4c3a28181110fdf3b50f7ca5d11842
+    https://api.github.com/repos/leonzalion/configs/commits/38e03cf118b5cbf59df5640f8d545590fefce6e4
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
