@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-03-08T00:58:45Z'
     type: PushEvent
-  - date: '2022-03-08T00:57:38Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'feat: add implementation'
   url: >-
