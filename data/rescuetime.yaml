@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1901
+    timeSpent: 2822
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 987
+    timeSpent: 1149
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 492
-  - category: Engineering & Technology
-    name: blog.rust-lang.org
-    productivity: 2
-    timeSpent: 275
+    timeSpent: 785
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 243
+    timeSpent: 624
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 384
