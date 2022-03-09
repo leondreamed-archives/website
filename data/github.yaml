@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-09T15:34:23Z'
+    type: IssuesEvent
   - date: '2022-03-09T13:03:36Z'
     type: CreateEvent
   - date: '2022-03-09T13:03:03Z'
@@ -17,14 +19,10 @@ events:
     type: PullRequestEvent
   - date: '2022-03-08T02:18:32Z'
     type: IssueCommentEvent
-  - date: '2022-03-08T02:16:21Z'
-    type: PushEvent
-  - date: '2022-03-08T02:09:05Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: fix'
+  message: Fix stale docs
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/94d164bd8cf21c984fd329bda7f68bbf9f14f6d1
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/819bad8e9e7e80a1223f68a755f19e7528acfe04
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
