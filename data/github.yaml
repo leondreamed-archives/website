@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-09T16:26:02Z'
+    type: PushEvent
   - date: '2022-03-09T15:34:23Z'
     type: IssuesEvent
   - date: '2022-03-09T13:03:36Z'
@@ -17,8 +19,6 @@ events:
     type: PushEvent
   - date: '2022-03-08T02:18:35Z'
     type: PullRequestEvent
-  - date: '2022-03-08T02:18:32Z'
-    type: IssueCommentEvent
 latestCommit:
   message: Fix stale docs
   url: >-
