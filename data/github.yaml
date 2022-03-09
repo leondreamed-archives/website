@@ -17,8 +17,6 @@ events:
     type: CreateEvent
   - date: '2022-03-08T02:18:35Z'
     type: PushEvent
-  - date: '2022-03-08T02:18:35Z'
-    type: PullRequestEvent
 latestCommit:
   message: Fix stale docs
   url: >-
