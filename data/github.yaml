@@ -13,8 +13,6 @@ events:
     type: PushEvent
   - date: '2022-03-08T02:37:27Z'
     type: CreateEvent
-  - date: '2022-03-08T02:35:42Z'
-    type: CreateEvent
 latestCommit:
   message: 'refactor: modifications'
   url: >-
