@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-09T20:52:24Z'
+    type: PushEvent
+  - date: '2022-03-09T20:52:23Z'
+    type: CreateEvent
+  - date: '2022-03-09T20:51:36Z'
+    type: PushEvent
+  - date: '2022-03-09T20:50:49Z'
+    type: PushEvent
   - date: '2022-03-09T16:26:02Z'
     type: PushEvent
   - date: '2022-03-09T15:34:23Z'
@@ -7,16 +15,10 @@ events:
     type: CreateEvent
   - date: '2022-03-09T13:03:03Z'
     type: CreateEvent
-  - date: '2022-03-08T02:55:26Z'
-    type: PushEvent
-  - date: '2022-03-08T02:41:04Z'
-    type: PushEvent
-  - date: '2022-03-08T02:37:27Z'
-    type: CreateEvent
 latestCommit:
-  message: 'refactor: modifications'
+  message: 'feat: add errors'
   url: >-
-    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/ee14e3906914d40cb38cd27f07eccf2d630cd002
+    https://api.github.com/repos/leonzalion/parse-applescript/commits/6eeaf8188afd6070f8b55094da2a8938827e2c4c
   repo:
-    url: https://api.github.com/repos/leonzalion/vite-electron-builder
-    name: leonzalion/vite-electron-builder
+    url: https://api.github.com/repos/leonzalion/parse-applescript
+    name: leonzalion/parse-applescript
