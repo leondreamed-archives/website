@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 11069
+    timeSpent: 930
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3409
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2567
-  - category: General Software Development
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 1514
-  - category: Search
-    name: google.com
+    timeSpent: 461
+  - category: Instant Message
+    name: hangouts.google.com
+    productivity: -1
+    timeSpent: 428
+  - category: General Utilities
+    name: System Preferences
     productivity: 1
-    timeSpent: 1389
+    timeSpent: 294
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 289

@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-09T13:03:36Z'
+    type: CreateEvent
+  - date: '2022-03-09T13:03:03Z'
+    type: CreateEvent
   - date: '2022-03-08T02:55:26Z'
     type: PushEvent
   - date: '2022-03-08T02:41:04Z'
@@ -19,16 +23,10 @@ events:
     type: PushEvent
   - date: '2022-03-08T02:08:12Z'
     type: PushEvent
-  - date: '2022-03-08T01:23:50Z'
-    type: ReleaseEvent
-  - date: '2022-03-08T01:23:37Z'
-    type: PushEvent
-  - date: '2022-03-08T01:23:37Z'
-    type: CreateEvent
 latestCommit:
-  message: 0.0.1
+  message: 'docs: improve spec'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/638385822920180ce0fbcc3da1b96aca06be57c6
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/88a4c8ad97eb0e4da81aff2d062129357f5dd0e7
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
