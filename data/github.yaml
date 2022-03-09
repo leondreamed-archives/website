@@ -31,12 +31,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-08T01:08:38Z'
     type: CreateEvent
-  - date: '2022-03-08T01:08:38Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.9
+  message: 'chore: update configs'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/6367e515cf3a866326ff44264a3b10a1547176a0
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/3203437bcc1c1aeeda9ebe43445854597fc33eb5
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
