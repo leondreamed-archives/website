@@ -27,8 +27,6 @@ events:
     type: CreateEvent
   - date: '2022-03-08T01:23:04Z'
     type: PushEvent
-  - date: '2022-03-08T01:08:43Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'chore: update configs'
   url: >-
