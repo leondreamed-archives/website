@@ -15,12 +15,10 @@ events:
     type: CreateEvent
   - date: '2022-03-08T02:35:42Z'
     type: CreateEvent
-  - date: '2022-03-08T02:18:35Z'
-    type: PushEvent
 latestCommit:
-  message: Fix stale docs
+  message: 'refactor: modifications'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/819bad8e9e7e80a1223f68a755f19e7528acfe04
+    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/ee14e3906914d40cb38cd27f07eccf2d630cd002
   repo:
-    url: https://api.github.com/repos/leonzalion/reactive-emails
-    name: leonzalion/reactive-emails
+    url: https://api.github.com/repos/leonzalion/vite-electron-builder
+    name: leonzalion/vite-electron-builder
