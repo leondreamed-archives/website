@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-09T23:56:24Z'
     type: PublicEvent
-  - date: '2022-03-09T23:07:04Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: karabiner'
+  message: 'feat: zshrc'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/51c7eb1ac296a241d5f25a2123708ffd02b9062a
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/45e9870bd3a4cc3741e017d98539aa8144478a20
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
