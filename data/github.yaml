@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-03-10T06:55:42Z'
     type: PushEvent
-  - date: '2022-03-10T06:54:11Z'
-    type: PullRequestEvent
 latestCommit:
   message: 'docs: update code style'
   url: >-
