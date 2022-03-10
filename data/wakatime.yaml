@@ -1,36 +1,36 @@
-dailyAverage: 32221
-totalSeconds: 225545.578507
+dailyAverage: 31659
+totalSeconds: 221611.386289
 languages:
-  - name: TeX
-    totalSeconds: 65479.345225
   - name: TypeScript
-    totalSeconds: 59510.200055
+    totalSeconds: 72524.45715
+  - name: TeX
+    totalSeconds: 54575.806905
   - name: sh
-    totalSeconds: 47763.04209
-  - name: Python
-    totalSeconds: 13474.789437
+    totalSeconds: 49924.787867
   - name: Vue.js
     totalSeconds: 11315.470347
   - name: JSON
-    totalSeconds: 6791.937503
+    totalSeconds: 6775.042211
   - name: JavaScript
     totalSeconds: 5581.618709
+  - name: Python
+    totalSeconds: 5123.957177
   - name: Other
-    totalSeconds: 4762.194028
+    totalSeconds: 4618.968231
   - name: Markdown
-    totalSeconds: 4489.956274
+    totalSeconds: 4538.282077
   - name: Rust
     totalSeconds: 4404.417333
   - name: HTML
     totalSeconds: 3099.138174
   - name: BibTeX
     totalSeconds: 1764.959242
-  - name: Text
-    totalSeconds: 611.82008
+  - name: AppleScript
+    totalSeconds: 724.171907
   - name: Git Config
     totalSeconds: 421.465192
   - name: YAML
-    totalSeconds: 306.688016
+    totalSeconds: 307.081168
   - name: CSS
     totalSeconds: 202.058818
   - name: TOML
@@ -46,16 +46,18 @@ languages:
   - name: INI
     totalSeconds: 2.175148
 projects:
-  - name: math-ia
-    totalSeconds: 62554.108127
   - name: timeblocker
-    totalSeconds: 42019.955289
+    totalSeconds: 41230.721825
+  - name: math-ia
+    totalSeconds: 37889.556518
   - name: leonzalion
-    totalSeconds: 33860.542351
+    totalSeconds: 33392.192187
   - name: bootstrap-macos
-    totalSeconds: 23922.618377
+    totalSeconds: 31607.338351
+  - name: parse-applescript
+    totalSeconds: 14264.861157
   - name: configs
-    totalSeconds: 11934.21565
+    totalSeconds: 12013.95787
   - name: latex-workflow
     totalSeconds: 7403.409918
   - name: inquirer-press-to-continue
@@ -110,8 +112,6 @@ projects:
     totalSeconds: 227.688054
   - name: pnpm
     totalSeconds: 210.616484
-  - name: black
-    totalSeconds: 203.276425
   - name: vpcc-web-dev
     totalSeconds: 190.847698
   - name: liontypes
@@ -128,6 +128,8 @@ projects:
     totalSeconds: 29.684555
   - name: hashed-out
     totalSeconds: 19.635403
+  - name: phone-call-pass
+    totalSeconds: 18.670296
   - name: code
     totalSeconds: 9.107219
   - name: Unknown Project
