@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-10T21:40:53Z'
+    type: PushEvent
+  - date: '2022-03-10T21:38:14Z'
+    type: IssuesEvent
+  - date: '2022-03-10T21:38:14Z'
+    type: IssueCommentEvent
   - date: '2022-03-10T20:57:21Z'
     type: PushEvent
   - date: '2022-03-10T19:44:41Z'
@@ -35,18 +41,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T06:54:11Z'
     type: PullRequestEvent
-  - date: '2022-03-10T06:50:51Z'
-    type: PushEvent
-  - date: '2022-03-10T06:50:12Z'
-    type: PushEvent
-  - date: '2022-03-10T06:48:37Z'
-    type: PushEvent
-  - date: '2022-03-10T06:47:47Z'
-    type: ForkEvent
 latestCommit:
-  message: 'feat: ability to resolve a value from condition callback'
+  message: 'docs: update code style'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/206e3286c6eef0549cad34a3abc637581bc6aa1d
+    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/23d6dcd637c7fdd06929aa4e5a796784a4e84c80
   repo:
     url: https://api.github.com/repos/leonzalion/p-wait-for-1
     name: leonzalion/p-wait-for-1
