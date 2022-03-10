@@ -49,12 +49,10 @@ events:
     type: PublicEvent
   - date: '2022-03-09T23:07:04Z'
     type: PushEvent
-  - date: '2022-03-09T23:05:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: allow system software'
+  message: 'fix: karabiner'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/1e27733b4ce08c6177344daa77a6dd9dbe66e181
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/51c7eb1ac296a241d5f25a2123708ffd02b9062a
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
