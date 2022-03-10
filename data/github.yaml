@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-10T15:27:11Z'
+    type: PushEvent
   - date: '2022-03-10T07:46:40Z'
     type: PushEvent
   - date: '2022-03-10T07:38:01Z'
@@ -45,8 +47,6 @@ events:
     type: CreateEvent
   - date: '2022-03-10T05:28:08Z'
     type: PushEvent
-  - date: '2022-03-09T23:56:24Z'
-    type: PublicEvent
 latestCommit:
   message: 'feat: zshrc'
   url: >-
