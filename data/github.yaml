@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-10T19:44:41Z'
+    type: WatchEvent
   - date: '2022-03-10T18:26:17Z'
     type: PushEvent
   - date: '2022-03-10T16:21:12Z'
@@ -43,14 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T06:45:23Z'
     type: PushEvent
-  - date: '2022-03-10T06:39:40Z'
-    type: PushEvent
-  - date: '2022-03-10T06:31:57Z'
-    type: CreateEvent
 latestCommit:
-  message: 'docs: add resolve callback'
+  message: 'docs: add usage examples of resolve callback'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for/commits/03ec59132b130412c2e1fc5a45156c532e6b2676
+    https://api.github.com/repos/leonzalion/p-wait-for/commits/e451ce24bfe86856565b709dbf0c2b6b927156ba
   repo:
     url: https://api.github.com/repos/leonzalion/p-wait-for
     name: leonzalion/p-wait-for
