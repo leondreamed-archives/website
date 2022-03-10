@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 8848
+    timeSpent: 11266
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2317
+    timeSpent: 2374
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1238
-  - category: Uncategorized
-    name: espanso.org
-    productivity: 0
-    timeSpent: 370
+    timeSpent: 1243
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 336
+    timeSpent: 381
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 381
