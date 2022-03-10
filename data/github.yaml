@@ -31,8 +31,6 @@ events:
     type: PushEvent
   - date: '2022-03-09T15:34:23Z'
     type: IssuesEvent
-  - date: '2022-03-09T13:03:36Z'
-    type: CreateEvent
 latestCommit:
   message: 'feat: add errors'
   url: >-
