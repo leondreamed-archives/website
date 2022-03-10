@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-10T18:26:17Z'
+    type: PushEvent
   - date: '2022-03-10T16:21:12Z'
     type: PushEvent
   - date: '2022-03-10T15:27:11Z'
@@ -45,14 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T06:31:57Z'
     type: CreateEvent
-  - date: '2022-03-10T06:31:52Z'
-    type: CreateEvent
-  - date: '2022-03-10T05:28:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: zshrc'
+  message: 'docs: add resolve callback'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/45e9870bd3a4cc3741e017d98539aa8144478a20
+    https://api.github.com/repos/leonzalion/p-wait-for/commits/03ec59132b130412c2e1fc5a45156c532e6b2676
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/p-wait-for
+    name: leonzalion/p-wait-for
