@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T06:56:52Z'
     type: PushEvent
-  - date: '2022-03-10T06:55:42Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: update code style'
+  message: 'docs: grammar change'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/23d6dcd637c7fdd06929aa4e5a796784a4e84c80
+    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/1ea1f91cebd32bd3f13584d978c3c8b2614c0bdc
   repo:
     url: https://api.github.com/repos/leonzalion/p-wait-for-1
     name: leonzalion/p-wait-for-1
