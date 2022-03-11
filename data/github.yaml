@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-11T02:56:40Z'
+    type: PushEvent
+  - date: '2022-03-11T02:23:46Z'
+    type: CreateEvent
+  - date: '2022-03-11T02:23:26Z'
+    type: CreateEvent
   - date: '2022-03-10T21:40:53Z'
     type: PushEvent
   - date: '2022-03-10T21:38:14Z'
@@ -25,18 +31,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T07:25:30Z'
     type: PushEvent
-  - date: '2022-03-10T07:24:26Z'
-    type: PushEvent
-  - date: '2022-03-10T07:24:02Z'
-    type: PushEvent
-  - date: '2022-03-10T07:14:20Z'
-    type: PushEvent
-  - date: '2022-03-10T07:07:38Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: scroll direction'
+  message: 'refactor: rename bootstrap-scripts folder'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/a2011c61e312d70b6bbd309cd56a79578093f3fc
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/6838868c009a526b7e7a79d3d3562002e047a634
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
