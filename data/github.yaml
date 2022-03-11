@@ -1,4 +1,20 @@
 events:
+  - date: '2022-03-11T19:47:57Z'
+    type: PushEvent
+  - date: '2022-03-11T19:39:53Z'
+    type: PushEvent
+  - date: '2022-03-11T19:14:06Z'
+    type: ReleaseEvent
+  - date: '2022-03-11T19:14:02Z'
+    type: PushEvent
+  - date: '2022-03-11T19:14:01Z'
+    type: CreateEvent
+  - date: '2022-03-11T19:12:37Z'
+    type: PushEvent
+  - date: '2022-03-11T19:12:12Z'
+    type: PushEvent
+  - date: '2022-03-11T19:06:30Z'
+    type: PushEvent
   - date: '2022-03-11T17:01:25Z'
     type: PushEvent
   - date: '2022-03-11T16:41:27Z'
@@ -29,28 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:27:19Z'
     type: PushEvent
-  - date: '2022-03-11T05:26:00Z'
-    type: PushEvent
-  - date: '2022-03-11T05:25:18Z'
-    type: PushEvent
-  - date: '2022-03-11T05:25:17Z'
-    type: CreateEvent
-  - date: '2022-03-11T05:24:44Z'
-    type: PushEvent
-  - date: '2022-03-11T05:23:39Z'
-    type: PushEvent
-  - date: '2022-03-11T05:17:08Z'
-    type: PushEvent
-  - date: '2022-03-11T05:16:07Z'
-    type: PushEvent
-  - date: '2022-03-11T05:13:35Z'
-    type: PushEvent
-  - date: '2022-03-11T05:12:34Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: options'
+  message: 'feat: add update notifier'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/95731543921d7a094286b624aa1de74cabcfc0fb
+    https://api.github.com/repos/leonzalion/configs/commits/d5cfedf2407afa31945059fcc803a11520a93e10
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
