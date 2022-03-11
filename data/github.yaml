@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-10T07:07:38Z'
     type: PushEvent
-  - date: '2022-03-10T06:57:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: scope package'
+  message: 'feat: scroll direction'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for/commits/3268bb1511a949916cf9ab5b93bc1a125d65efa7
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/a2011c61e312d70b6bbd309cd56a79578093f3fc
   repo:
-    url: https://api.github.com/repos/leonzalion/p-wait-for
-    name: leonzalion/p-wait-for
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
