@@ -53,8 +53,6 @@ events:
     type: PushEvent
   - date: '2022-03-11T02:23:46Z'
     type: CreateEvent
-  - date: '2022-03-11T02:23:26Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: bug fixes'
   url: >-
