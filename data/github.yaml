@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:08:46Z'
     type: PushEvent
-  - date: '2022-03-11T05:08:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: disable tests'
+  message: 'chore: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/602a62393276578abc3278b42f616cbd89ae1351
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/9189ed7933877136e0cf98a4334c0eec69f0853a
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
     name: leonzalion/inquirer-super-checkbox-prompt
