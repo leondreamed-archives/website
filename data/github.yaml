@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:12:34Z'
     type: PushEvent
-  - date: '2022-03-11T05:08:46Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: prettier'
+  message: 'fix: options'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/9189ed7933877136e0cf98a4334c0eec69f0853a
+    https://api.github.com/repos/leonzalion/lionp/commits/95731543921d7a094286b624aa1de74cabcfc0fb
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
-    name: leonzalion/inquirer-super-checkbox-prompt
+    url: https://api.github.com/repos/leonzalion/lionp
+    name: leonzalion/lionp
