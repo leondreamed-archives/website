@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:34:31Z'
     type: CreateEvent
-  - date: '2022-03-11T05:33:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: downgrade npm name'
+  message: 1.0.21
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/d6963995c79b1890e994ed7076da278dcbab0f1d
+    https://api.github.com/repos/leonzalion/lionp/commits/4acf9fe1ae5ae10e38803246da41751beec4e928
   repo:
     url: https://api.github.com/repos/leonzalion/lionp
     name: leonzalion/lionp
