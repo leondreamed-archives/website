@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:34:31Z'
     type: PushEvent
-  - date: '2022-03-11T05:34:31Z'
-    type: CreateEvent
 latestCommit:
   message: 1.0.21
   url: >-
