@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-11T15:29:45Z'
+    type: PushEvent
+  - date: '2022-03-11T15:26:24Z'
+    type: PushEvent
   - date: '2022-03-11T12:40:22Z'
     type: PushEvent
   - date: '2022-03-11T12:25:10Z'
@@ -49,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T03:03:35Z'
     type: PushEvent
-  - date: '2022-03-11T02:56:40Z'
-    type: PushEvent
-  - date: '2022-03-11T02:23:46Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: bug fixes'
+  message: 'fix: typings'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/5cff845e08c2c852478c68b6ccb11da1898ae905
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/9732e98082382c4c07fb5835f5757aede0e8a3fd
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
     name: leonzalion/inquirer-super-checkbox-prompt
