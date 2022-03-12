@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:35:47Z'
     type: CreateEvent
-  - date: '2022-03-11T05:35:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update linop'
+  message: 0.0.1
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/d3d494b8ecebe8f3672da2c8dcbebf2bc5c25c22
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/1e7564681da8c120949ceeec7cbffcb8aef5db75
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
     name: leonzalion/inquirer-super-checkbox-prompt
