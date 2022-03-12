@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-12T13:01:39Z'
+    type: PushEvent
+  - date: '2022-03-12T12:58:29Z'
+    type: PushEvent
+  - date: '2022-03-12T03:34:21Z'
+    type: PushEvent
   - date: '2022-03-12T02:42:03Z'
     type: PushEvent
   - date: '2022-03-12T02:08:18Z'
@@ -27,14 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T15:26:24Z'
     type: PushEvent
-  - date: '2022-03-11T12:40:22Z'
-    type: PushEvent
-  - date: '2022-03-11T12:25:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add a few more todo bootstrappers'
+  message: 'feat: bunch more bootstrap ideas'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/aad64fc88507cee6f2528bb77a595f5e38f5b5b0
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/7898c54ec1346379d79fff7cf2b56b8114af1eb4
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
