@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-12T02:08:18Z'
+    type: PushEvent
   - date: '2022-03-11T19:47:57Z'
     type: PushEvent
   - date: '2022-03-11T19:39:53Z'
@@ -31,14 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-11T05:38:18Z'
     type: PushEvent
-  - date: '2022-03-11T05:35:47Z'
-    type: PushEvent
-  - date: '2022-03-11T05:35:47Z'
-    type: CreateEvent
 latestCommit:
-  message: 0.0.1
+  message: 'feat: use super checkbox'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/1e7564681da8c120949ceeec7cbffcb8aef5db75
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/a80fe0d246c4507626014906c20222949d2ed290
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
-    name: leonzalion/inquirer-super-checkbox-prompt
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
