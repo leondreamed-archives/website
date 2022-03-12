@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-12T19:15:49Z'
+    type: WatchEvent
   - date: '2022-03-12T18:39:14Z'
     type: WatchEvent
   - date: '2022-03-12T17:24:29Z'
@@ -41,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-12T02:42:03Z'
     type: PushEvent
-  - date: '2022-03-12T02:08:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: fixes'
+  message: 'fix: main'
   url: >-
-    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/83aad4e05777ab5bb4ef2725f5ff7bd3bedf006a
+    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/268e83c7446fe84e18bdf009fbe47f00edf29488
   repo:
     url: https://api.github.com/repos/leonzalion/vite-electron-builder
     name: leonzalion/vite-electron-builder
