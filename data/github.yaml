@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-03-12T02:08:18Z'
     type: PushEvent
-  - date: '2022-03-11T19:47:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: flatten bootstrappers a bit'
+  message: 'fix: fixes'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/253604c05e722554a3588e9030fcdff5a608505d
+    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/83aad4e05777ab5bb4ef2725f5ff7bd3bedf006a
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/vite-electron-builder
+    name: leonzalion/vite-electron-builder
