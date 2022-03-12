@@ -1,4 +1,18 @@
 events:
+  - date: '2022-03-12T21:53:50Z'
+    type: ReleaseEvent
+  - date: '2022-03-12T21:53:44Z'
+    type: PushEvent
+  - date: '2022-03-12T21:53:44Z'
+    type: CreateEvent
+  - date: '2022-03-12T21:53:10Z'
+    type: PushEvent
+  - date: '2022-03-12T21:34:14Z'
+    type: PushEvent
+  - date: '2022-03-12T21:33:45Z'
+    type: CreateEvent
+  - date: '2022-03-12T21:33:09Z'
+    type: CreateEvent
   - date: '2022-03-12T19:15:49Z'
     type: WatchEvent
   - date: '2022-03-12T18:39:14Z'
@@ -29,22 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-12T13:06:22Z'
     type: PushEvent
-  - date: '2022-03-12T13:06:22Z'
-    type: CreateEvent
-  - date: '2022-03-12T13:05:47Z'
-    type: PushEvent
-  - date: '2022-03-12T13:05:25Z'
-    type: PushEvent
-  - date: '2022-03-12T13:01:39Z'
-    type: PushEvent
-  - date: '2022-03-12T12:58:29Z'
-    type: PushEvent
-  - date: '2022-03-12T03:34:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: modules'
+  message: 1.0.56
   url: >-
-    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/50732ba6285e916dfb57204f90dcaf8740e9e91f
+    https://api.github.com/repos/leonzalion/create-project/commits/d11c640d3d1c9f02907442bc5d2d492d650443da
   repo:
-    url: https://api.github.com/repos/leonzalion/vite-electron-builder
-    name: leonzalion/vite-electron-builder
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
