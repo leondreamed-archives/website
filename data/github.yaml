@@ -37,12 +37,10 @@ events:
     type: CreateEvent
   - date: '2022-03-11T05:35:13Z'
     type: PushEvent
-  - date: '2022-03-11T05:34:31Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.21
+  message: 'chore: update linop'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/4acf9fe1ae5ae10e38803246da41751beec4e928
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/d3d494b8ecebe8f3672da2c8dcbebf2bc5c25c22
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
+    name: leonzalion/inquirer-super-checkbox-prompt
