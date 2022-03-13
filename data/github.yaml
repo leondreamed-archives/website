@@ -1,4 +1,26 @@
 events:
+  - date: '2022-03-13T07:12:02Z'
+    type: PushEvent
+  - date: '2022-03-13T07:10:23Z'
+    type: PushEvent
+  - date: '2022-03-13T06:45:48Z'
+    type: PushEvent
+  - date: '2022-03-13T06:40:42Z'
+    type: ReleaseEvent
+  - date: '2022-03-13T06:40:42Z'
+    type: CreateEvent
+  - date: '2022-03-13T06:40:37Z'
+    type: PushEvent
+  - date: '2022-03-13T06:39:40Z'
+    type: PushEvent
+  - date: '2022-03-13T06:37:13Z'
+    type: CreateEvent
+  - date: '2022-03-13T06:37:13Z'
+    type: ReleaseEvent
+  - date: '2022-03-13T06:37:08Z'
+    type: PushEvent
+  - date: '2022-03-13T06:36:07Z'
+    type: PushEvent
   - date: '2022-03-13T00:39:20Z'
     type: PushEvent
   - date: '2022-03-13T00:32:38Z'
@@ -27,34 +49,10 @@ events:
     type: PushEvent
   - date: '2022-03-12T23:04:54Z'
     type: PushEvent
-  - date: '2022-03-12T22:51:13Z'
-    type: PushEvent
-  - date: '2022-03-12T22:50:41Z'
-    type: ReleaseEvent
-  - date: '2022-03-12T22:50:36Z'
-    type: PushEvent
-  - date: '2022-03-12T22:50:35Z'
-    type: CreateEvent
-  - date: '2022-03-12T22:50:34Z'
-    type: PushEvent
-  - date: '2022-03-12T22:49:58Z'
-    type: PushEvent
-  - date: '2022-03-12T22:46:51Z'
-    type: PushEvent
-  - date: '2022-03-12T22:43:08Z'
-    type: ReleaseEvent
-  - date: '2022-03-12T22:43:05Z'
-    type: PushEvent
-  - date: '2022-03-12T22:43:04Z'
-    type: CreateEvent
-  - date: '2022-03-12T22:41:28Z'
-    type: PushEvent
-  - date: '2022-03-12T22:40:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: test file'
+  message: 'fix: release script'
   url: >-
-    https://api.github.com/repos/leonzalion/js-jsonl/commits/acacfca366a51e01c779709ce0488a624727a52a
+    https://api.github.com/repos/leonzalion/jslatex/commits/7a49d7158aea0c7333da478fe76848fe8367dde6
   repo:
-    url: https://api.github.com/repos/leonzalion/js-jsonl
-    name: leonzalion/js-jsonl
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
