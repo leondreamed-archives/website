@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T00:39:20Z'
     type: PushEvent
-  - date: '2022-03-13T00:32:38Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update lionp'
+  message: 'chore: bacc to version 0.0.0'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/b683e0ff5c97b43fc65cb2000818977fbd89a6d6
+    https://api.github.com/repos/leonzalion/jslatex/commits/b9ab8f4604d8b6fbb52c2469893b3f9913b35de6
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
