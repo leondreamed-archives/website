@@ -45,12 +45,10 @@ events:
     type: ForkEvent
   - date: '2022-03-12T23:38:54Z'
     type: PushEvent
-  - date: '2022-03-12T23:29:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: release script'
+  message: 'chore: add lionp'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/a3f49ef9df4babd602c95b9f89f0ee14ea640c59
+    https://api.github.com/repos/leonzalion/jslatex/commits/5e17f23f05dc67fd5bdc51c34ee65308c5e45d15
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
