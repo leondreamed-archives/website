@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-13T17:28:05Z'
+    type: PushEvent
+  - date: '2022-03-13T17:26:25Z'
+    type: PushEvent
+  - date: '2022-03-13T17:23:45Z'
+    type: PushEvent
   - date: '2022-03-13T16:32:05Z'
     type: PushEvent
   - date: '2022-03-13T07:12:02Z'
@@ -37,16 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T00:23:24Z'
     type: PushEvent
-  - date: '2022-03-13T00:21:49Z'
-    type: PushEvent
-  - date: '2022-03-13T00:19:47Z'
-    type: PushEvent
-  - date: '2022-03-13T00:10:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: add test'
+  message: 'chore: reorder properties in package json'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/2ff1f64491855b2e13f64daaa9f43b824527f320
+    https://api.github.com/repos/leonzalion/jslatex/commits/86a9cc0e94512176839fa2c80a2a09b3085bba68
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
