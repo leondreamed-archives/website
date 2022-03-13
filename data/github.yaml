@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-12T23:50:57Z'
+    type: ForkEvent
+  - date: '2022-03-12T23:38:54Z'
+    type: PushEvent
+  - date: '2022-03-12T23:29:22Z'
+    type: PushEvent
+  - date: '2022-03-12T23:04:54Z'
+    type: PushEvent
   - date: '2022-03-12T22:51:13Z'
     type: PushEvent
   - date: '2022-03-12T22:50:41Z'
@@ -47,20 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-12T21:53:50Z'
     type: ReleaseEvent
-  - date: '2022-03-12T21:53:44Z'
-    type: PushEvent
-  - date: '2022-03-12T21:53:44Z'
-    type: CreateEvent
-  - date: '2022-03-12T21:53:10Z'
-    type: PushEvent
-  - date: '2022-03-12T21:34:14Z'
-    type: PushEvent
-  - date: '2022-03-12T21:33:45Z'
-    type: CreateEvent
 latestCommit:
-  message: 'refactor: rename'
+  message: 'feat: compiler bin'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/61aceaac272fdce31ef7c66de99af0978626dce4
+    https://api.github.com/repos/leonzalion/jslatex/commits/24c85d5b9f5f5a7fae31d9f1f10e2504eb064172
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
