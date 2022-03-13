@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-13T20:17:30Z'
+    type: PushEvent
   - date: '2022-03-13T18:17:44Z'
     type: PushEvent
   - date: '2022-03-13T17:28:05Z'
@@ -35,14 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T00:32:38Z'
     type: PushEvent
-  - date: '2022-03-13T00:32:01Z'
-    type: ReleaseEvent
-  - date: '2022-03-13T00:30:20Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.22
+  message: 'chore: update lionp'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/48cc716666838710da5a6c46706b51bcc88d26cd
+    https://api.github.com/repos/leonzalion/jslatex/commits/b683e0ff5c97b43fc65cb2000818977fbd89a6d6
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
