@@ -1,4 +1,14 @@
 events:
+  - date: '2022-03-14T15:56:54Z'
+    type: PushEvent
+  - date: '2022-03-14T15:50:20Z'
+    type: PushEvent
+  - date: '2022-03-14T15:50:04Z'
+    type: PushEvent
+  - date: '2022-03-14T15:44:42Z'
+    type: PushEvent
+  - date: '2022-03-14T15:16:33Z'
+    type: PushEvent
   - date: '2022-03-14T12:01:49Z'
     type: PushEvent
   - date: '2022-03-14T11:59:05Z'
@@ -37,16 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T00:03:12Z'
     type: PushEvent
-  - date: '2022-03-13T23:49:50Z'
-    type: PushEvent
-  - date: '2022-03-13T23:29:24Z'
-    type: PushEvent
-  - date: '2022-03-13T22:23:59Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: remove server'
+  message: 'fix: vite'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/96e2f675af6523f1fedaf0274b56f1585702a1aa
+    https://api.github.com/repos/leonzalion/jslatex/commits/c46788fef07c231dfb770f1a5175e1f54feddc8f
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
