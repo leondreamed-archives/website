@@ -1,4 +1,14 @@
 events:
+  - date: '2022-03-14T20:37:57Z'
+    type: PushEvent
+  - date: '2022-03-14T20:12:39Z'
+    type: DeleteEvent
+  - date: '2022-03-14T20:12:05Z'
+    type: PushEvent
+  - date: '2022-03-14T20:10:25Z'
+    type: PushEvent
+  - date: '2022-03-14T20:04:20Z'
+    type: PushEvent
   - date: '2022-03-14T19:25:00Z'
     type: PushEvent
   - date: '2022-03-14T19:24:17Z'
@@ -33,22 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T11:53:03Z'
     type: PushEvent
-  - date: '2022-03-14T11:51:35Z'
-    type: PushEvent
-  - date: '2022-03-14T11:51:19Z'
-    type: PushEvent
-  - date: '2022-03-14T11:29:50Z'
-    type: PushEvent
-  - date: '2022-03-14T11:28:47Z'
-    type: PushEvent
-  - date: '2022-03-14T11:20:07Z'
-    type: PushEvent
-  - date: '2022-03-14T10:47:19Z'
-    type: WatchEvent
 latestCommit:
-  message: 'feat: zsh plugin utilities'
+  message: 'feat: add message to cli'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/e6e699dc8e4dd4a0aa951f0c3883c80956aa25e6
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/80c863d0d19e7d0d1596f129b464147074990562
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
