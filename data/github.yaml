@@ -1,4 +1,30 @@
 events:
+  - date: '2022-03-14T12:01:49Z'
+    type: PushEvent
+  - date: '2022-03-14T11:59:05Z'
+    type: PushEvent
+  - date: '2022-03-14T11:54:08Z'
+    type: PushEvent
+  - date: '2022-03-14T11:53:03Z'
+    type: PushEvent
+  - date: '2022-03-14T11:51:35Z'
+    type: PushEvent
+  - date: '2022-03-14T11:51:19Z'
+    type: PushEvent
+  - date: '2022-03-14T11:29:50Z'
+    type: PushEvent
+  - date: '2022-03-14T11:28:47Z'
+    type: PushEvent
+  - date: '2022-03-14T11:20:07Z'
+    type: PushEvent
+  - date: '2022-03-14T10:47:19Z'
+    type: WatchEvent
+  - date: '2022-03-14T10:40:08Z'
+    type: PushEvent
+  - date: '2022-03-14T10:26:33Z'
+    type: PushEvent
+  - date: '2022-03-14T10:22:08Z'
+    type: PushEvent
   - date: '2022-03-14T01:29:35Z'
     type: PushEvent
   - date: '2022-03-14T01:26:22Z'
@@ -19,22 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T20:17:30Z'
     type: PushEvent
-  - date: '2022-03-13T18:17:44Z'
-    type: PushEvent
-  - date: '2022-03-13T17:28:05Z'
-    type: PushEvent
-  - date: '2022-03-13T17:26:25Z'
-    type: PushEvent
-  - date: '2022-03-13T17:23:45Z'
-    type: PushEvent
-  - date: '2022-03-13T16:32:05Z'
-    type: PushEvent
-  - date: '2022-03-13T07:12:02Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.1
+  message: 'feat: updates'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/51d6bfc9945c61539b1eb6bdb76f73274ffd6440
+    https://api.github.com/repos/leonzalion/jslatex/commits/b8af680a6b669fe939dc7a3e88ad185774f666a2
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
