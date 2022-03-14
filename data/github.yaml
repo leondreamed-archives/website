@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T07:12:02Z'
     type: PushEvent
-  - date: '2022-03-13T07:10:23Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: icon'
+  message: 0.0.1
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/c758db3ce7da261b49b6a423d8c752312c136969
+    https://api.github.com/repos/leonzalion/jslatex/commits/51d6bfc9945c61539b1eb6bdb76f73274ffd6440
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
