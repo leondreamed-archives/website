@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-14T18:52:52Z'
+    type: PushEvent
+  - date: '2022-03-14T18:51:58Z'
+    type: PushEvent
+  - date: '2022-03-14T18:51:35Z'
+    type: PushEvent
+  - date: '2022-03-14T18:39:23Z'
+    type: PushEvent
   - date: '2022-03-14T15:56:54Z'
     type: PushEvent
   - date: '2022-03-14T15:50:20Z'
@@ -35,18 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T10:22:08Z'
     type: PushEvent
-  - date: '2022-03-14T01:29:35Z'
-    type: PushEvent
-  - date: '2022-03-14T01:26:22Z'
-    type: PushEvent
-  - date: '2022-03-14T00:50:47Z'
-    type: PushEvent
-  - date: '2022-03-14T00:35:04Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: regions'
+  message: 'fix: brew bootstrapper'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/70ca900ec3a2b9b725c6345bea65732ad33379fa
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/c818cd09e3635389bccf464ad571392789fd51be
   repo:
-    url: https://api.github.com/repos/leonzalion/jslatex
-    name: leonzalion/jslatex
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
