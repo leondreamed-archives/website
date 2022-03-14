@@ -1,4 +1,14 @@
 events:
+  - date: '2022-03-14T01:26:22Z'
+    type: PushEvent
+  - date: '2022-03-14T00:50:47Z'
+    type: PushEvent
+  - date: '2022-03-14T00:35:04Z'
+    type: PushEvent
+  - date: '2022-03-14T00:07:03Z'
+    type: PushEvent
+  - date: '2022-03-14T00:03:12Z'
+    type: PushEvent
   - date: '2022-03-13T23:49:50Z'
     type: PushEvent
   - date: '2022-03-13T23:29:24Z'
@@ -25,22 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T06:40:42Z'
     type: ReleaseEvent
-  - date: '2022-03-13T06:40:42Z'
-    type: CreateEvent
-  - date: '2022-03-13T06:40:37Z'
-    type: PushEvent
-  - date: '2022-03-13T06:39:40Z'
-    type: PushEvent
-  - date: '2022-03-13T06:37:13Z'
-    type: CreateEvent
-  - date: '2022-03-13T06:37:13Z'
-    type: ReleaseEvent
-  - date: '2022-03-13T06:37:08Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.23
+  message: 'fix: don''t create github release on repo root'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/15686df361f3fa48b04720555a781fe3cb47d2c2
+    https://api.github.com/repos/leonzalion/lionp/commits/34bb79030815f5370d83fd1e8438a9ebc2f2dabe
   repo:
     url: https://api.github.com/repos/leonzalion/lionp
     name: leonzalion/lionp
