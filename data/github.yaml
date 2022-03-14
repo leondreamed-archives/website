@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-14T21:31:59Z'
+    type: PushEvent
+  - date: '2022-03-14T21:31:16Z'
+    type: PushEvent
+  - date: '2022-03-14T21:16:02Z'
+    type: PushEvent
   - date: '2022-03-14T20:37:57Z'
     type: PushEvent
   - date: '2022-03-14T20:12:39Z'
@@ -35,18 +41,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T15:16:33Z'
     type: PushEvent
-  - date: '2022-03-14T12:01:49Z'
-    type: PushEvent
-  - date: '2022-03-14T11:59:05Z'
-    type: PushEvent
-  - date: '2022-03-14T11:54:08Z'
-    type: PushEvent
-  - date: '2022-03-14T11:53:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add message to cli'
+  message: 'fix: multiline syntax highlighting'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/80c863d0d19e7d0d1596f129b464147074990562
+    https://api.github.com/repos/leonzalion/jslatex/commits/0f4adef12055fa745cb0ff420a62255f24d75164
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
