@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T00:07:03Z'
     type: PushEvent
-  - date: '2022-03-14T00:03:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: vite'
+  message: 'fix: vite modifications'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/c46788fef07c231dfb770f1a5175e1f54feddc8f
+    https://api.github.com/repos/leonzalion/jslatex/commits/738b1237f8fd862ecd27d5ef5edd082f4d489729
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
