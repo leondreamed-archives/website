@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-14T01:29:35Z'
+    type: PushEvent
   - date: '2022-03-14T01:26:22Z'
     type: PushEvent
   - date: '2022-03-14T00:50:47Z'
@@ -31,14 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-13T07:10:23Z'
     type: PushEvent
-  - date: '2022-03-13T06:45:48Z'
-    type: PushEvent
-  - date: '2022-03-13T06:40:42Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: don''t create github release on repo root'
+  message: 'feat: icon'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/34bb79030815f5370d83fd1e8438a9ebc2f2dabe
+    https://api.github.com/repos/leonzalion/jslatex/commits/c758db3ce7da261b49b6a423d8c752312c136969
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
