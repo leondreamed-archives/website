@@ -1,4 +1,10 @@
 events:
+  - date: '2022-03-15T19:19:34Z'
+    type: PushEvent
+  - date: '2022-03-15T19:11:24Z'
+    type: PushEvent
+  - date: '2022-03-15T19:09:21Z'
+    type: PushEvent
   - date: '2022-03-15T18:43:26Z'
     type: PushEvent
   - date: '2022-03-15T18:42:06Z'
@@ -49,16 +55,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-15T17:06:25Z'
     type: CreateEvent
-  - date: '2022-03-15T17:06:24Z'
-    type: PushEvent
-  - date: '2022-03-15T17:05:48Z'
-    type: PushEvent
-  - date: '2022-03-15T16:52:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update readme'
+  message: 'chore: update jslatex'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/f01913666fb29c1389679a5d34a48899f084ee88
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/d89f4b52b6301edc09076c5777e14dc72069ab27
   repo:
-    url: https://api.github.com/repos/leonzalion/jslatex
-    name: leonzalion/jslatex
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
