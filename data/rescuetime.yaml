@@ -11,11 +11,11 @@ topActivities:
     name: support.apple.com
     productivity: 1
     timeSpent: 35
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 23
   - category: Browsers
     name: Safari
     productivity: 0
     timeSpent: 12
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 11

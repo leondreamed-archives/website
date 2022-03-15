@@ -1,4 +1,34 @@
 events:
+  - date: '2022-03-15T18:43:26Z'
+    type: PushEvent
+  - date: '2022-03-15T18:42:06Z'
+    type: PushEvent
+  - date: '2022-03-15T18:40:57Z'
+    type: WatchEvent
+  - date: '2022-03-15T18:40:33Z'
+    type: PushEvent
+  - date: '2022-03-15T18:37:50Z'
+    type: PushEvent
+  - date: '2022-03-15T18:37:01Z'
+    type: PushEvent
+  - date: '2022-03-15T18:32:00Z'
+    type: PushEvent
+  - date: '2022-03-15T18:27:12Z'
+    type: PushEvent
+  - date: '2022-03-15T18:01:13Z'
+    type: PushEvent
+  - date: '2022-03-15T17:51:56Z'
+    type: PushEvent
+  - date: '2022-03-15T17:50:58Z'
+    type: PushEvent
+  - date: '2022-03-15T17:46:29Z'
+    type: PushEvent
+  - date: '2022-03-15T17:41:44Z'
+    type: PushEvent
+  - date: '2022-03-15T17:39:37Z'
+    type: PushEvent
+  - date: '2022-03-15T17:39:15Z'
+    type: PushEvent
   - date: '2022-03-15T17:33:56Z'
     type: ReleaseEvent
   - date: '2022-03-15T17:33:56Z'
@@ -25,40 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T16:52:22Z'
     type: PushEvent
-  - date: '2022-03-15T16:51:12Z'
-    type: PushEvent
-  - date: '2022-03-15T16:49:44Z'
-    type: PushEvent
-  - date: '2022-03-15T16:31:19Z'
-    type: CreateEvent
-  - date: '2022-03-15T16:20:22Z'
-    type: PushEvent
-  - date: '2022-03-15T16:17:27Z'
-    type: PushEvent
-  - date: '2022-03-15T16:13:50Z'
-    type: PushEvent
-  - date: '2022-03-15T16:02:07Z'
-    type: PushEvent
-  - date: '2022-03-15T16:01:02Z'
-    type: ReleaseEvent
-  - date: '2022-03-15T16:00:52Z'
-    type: CreateEvent
-  - date: '2022-03-15T16:00:52Z'
-    type: PushEvent
-  - date: '2022-03-15T16:00:31Z'
-    type: PushEvent
-  - date: '2022-03-15T15:39:58Z'
-    type: PushEvent
-  - date: '2022-03-15T15:39:22Z'
-    type: PushEvent
-  - date: '2022-03-15T15:38:43Z'
-    type: PushEvent
-  - date: '2022-03-15T15:25:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: support for starting ejs tag on same line as js'
+  message: 'chore: update readme'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/968fda41798717d8a82d5838c2e6fcb20774fef1
+    https://api.github.com/repos/leonzalion/jslatex/commits/f01913666fb29c1389679a5d34a48899f084ee88
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
