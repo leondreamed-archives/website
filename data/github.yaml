@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-15T21:50:49Z'
+    type: PushEvent
+  - date: '2022-03-15T21:50:25Z'
+    type: PushEvent
   - date: '2022-03-15T19:19:34Z'
     type: PushEvent
   - date: '2022-03-15T19:11:24Z'
@@ -47,16 +51,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T17:15:53Z'
     type: PushEvent
-  - date: '2022-03-15T17:14:02Z'
-    type: PushEvent
-  - date: '2022-03-15T17:08:59Z'
-    type: PushEvent
-  - date: '2022-03-15T17:06:25Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'chore: update jslatex'
+  message: 'fix: simplify'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/d89f4b52b6301edc09076c5777e14dc72069ab27
+    https://api.github.com/repos/leonzalion-archives/chem/commits/3e6ba7dafe5bd07ce6a47938b74c42325859fc35
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion-archives/chem
+    name: leonzalion-archives/chem
