@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T17:28:10Z'
     type: PushEvent
-  - date: '2022-03-15T17:15:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: simplify'
+  message: 'fix: set pyenv python version globally'
   url: >-
-    https://api.github.com/repos/leonzalion-archives/chem/commits/3e6ba7dafe5bd07ce6a47938b74c42325859fc35
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/9b88bb17da41e48a7c1c99b3f3b7d0da1d0559cd
   repo:
-    url: https://api.github.com/repos/leonzalion-archives/chem
-    name: leonzalion-archives/chem
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
