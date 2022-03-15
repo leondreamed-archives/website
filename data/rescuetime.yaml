@@ -2,20 +2,20 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 56
+    timeSpent: 132
   - category: Intelligence
     name: wakatime.com
     productivity: 2
-    timeSpent: 15
+    timeSpent: 42
+  - category: Search
+    name: support.apple.com
+    productivity: 1
+    timeSpent: 35
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 12
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
     timeSpent: 11
-  - category: Browsers
-    name: Firefox
-    productivity: 0
-    timeSpent: 9
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 5

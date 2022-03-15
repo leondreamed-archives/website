@@ -1,4 +1,28 @@
 events:
+  - date: '2022-03-15T17:33:56Z'
+    type: ReleaseEvent
+  - date: '2022-03-15T17:33:56Z'
+    type: CreateEvent
+  - date: '2022-03-15T17:33:54Z'
+    type: PushEvent
+  - date: '2022-03-15T17:32:51Z'
+    type: PushEvent
+  - date: '2022-03-15T17:28:10Z'
+    type: PushEvent
+  - date: '2022-03-15T17:15:53Z'
+    type: PushEvent
+  - date: '2022-03-15T17:14:02Z'
+    type: PushEvent
+  - date: '2022-03-15T17:08:59Z'
+    type: PushEvent
+  - date: '2022-03-15T17:06:25Z'
+    type: ReleaseEvent
+  - date: '2022-03-15T17:06:25Z'
+    type: CreateEvent
+  - date: '2022-03-15T17:06:24Z'
+    type: PushEvent
+  - date: '2022-03-15T17:05:48Z'
+    type: PushEvent
   - date: '2022-03-15T16:52:22Z'
     type: PushEvent
   - date: '2022-03-15T16:51:12Z'
@@ -31,32 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T15:25:12Z'
     type: PushEvent
-  - date: '2022-03-15T14:33:29Z'
-    type: PushEvent
-  - date: '2022-03-15T14:32:27Z'
-    type: PushEvent
-  - date: '2022-03-15T13:58:50Z'
-    type: PushEvent
-  - date: '2022-03-15T13:45:26Z'
-    type: ReleaseEvent
-  - date: '2022-03-15T13:42:43Z'
-    type: CreateEvent
-  - date: '2022-03-15T13:42:43Z'
-    type: PushEvent
-  - date: '2022-03-15T13:42:33Z'
-    type: PushEvent
-  - date: '2022-03-15T13:41:36Z'
-    type: PushEvent
-  - date: '2022-03-15T13:37:21Z'
-    type: PushEvent
-  - date: '2022-03-15T13:10:51Z'
-    type: PushEvent
-  - date: '2022-03-15T13:07:00Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: more bootstrappers'
+  message: 'fix: support for starting ejs tag on same line as js'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/0599b817b6e050602ca16b6676b9e230dc804a40
+    https://api.github.com/repos/leonzalion/jslatex/commits/968fda41798717d8a82d5838c2e6fcb20774fef1
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
