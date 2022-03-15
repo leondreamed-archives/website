@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 26377
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 7475
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 6168
-  - category: General Software Development
-    name: code.visualstudio.com
+    timeSpent: 56
+  - category: Intelligence
+    name: wakatime.com
     productivity: 2
-    timeSpent: 747
-  - category: Search
-    name: google.com
+    timeSpent: 15
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 11
+  - category: Browsers
+    name: Firefox
+    productivity: 0
+    timeSpent: 9
+  - category: Internet Utilities
+    name: Blank Web Browser
     productivity: 1
-    timeSpent: 726
+    timeSpent: 5
