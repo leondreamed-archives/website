@@ -1,4 +1,28 @@
 events:
+  - date: '2022-03-15T16:52:22Z'
+    type: PushEvent
+  - date: '2022-03-15T16:51:12Z'
+    type: PushEvent
+  - date: '2022-03-15T16:49:44Z'
+    type: PushEvent
+  - date: '2022-03-15T16:31:19Z'
+    type: CreateEvent
+  - date: '2022-03-15T16:20:22Z'
+    type: PushEvent
+  - date: '2022-03-15T16:17:27Z'
+    type: PushEvent
+  - date: '2022-03-15T16:13:50Z'
+    type: PushEvent
+  - date: '2022-03-15T16:02:07Z'
+    type: PushEvent
+  - date: '2022-03-15T16:01:02Z'
+    type: ReleaseEvent
+  - date: '2022-03-15T16:00:52Z'
+    type: CreateEvent
+  - date: '2022-03-15T16:00:52Z'
+    type: PushEvent
+  - date: '2022-03-15T16:00:31Z'
+    type: PushEvent
   - date: '2022-03-15T15:39:58Z'
     type: PushEvent
   - date: '2022-03-15T15:39:22Z'
@@ -29,26 +53,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T13:07:00Z'
     type: PushEvent
-  - date: '2022-03-15T12:49:13Z'
-    type: PushEvent
-  - date: '2022-03-15T01:46:02Z'
-    type: PushEvent
-  - date: '2022-03-15T01:14:24Z'
-    type: PushEvent
-  - date: '2022-03-15T01:11:40Z'
-    type: WatchEvent
-  - date: '2022-03-15T00:05:22Z'
-    type: PushEvent
-  - date: '2022-03-15T00:01:26Z'
-    type: PushEvent
-  - date: '2022-03-14T23:58:11Z'
-    type: PushEvent
-  - date: '2022-03-14T23:56:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: github ssh'
+  message: 'feat: more bootstrappers'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/98cbbec8ef6553ae6a4809d0b055c57432e68cd2
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/0599b817b6e050602ca16b6676b9e230dc804a40
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
