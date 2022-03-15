@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 611
+    timeSpent: 653
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 174
+    timeSpent: 182
   - category: Intelligence
     name: wakatime.com
     productivity: 2
