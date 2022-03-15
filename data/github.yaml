@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-15T01:46:02Z'
+    type: PushEvent
   - date: '2022-03-15T01:14:24Z'
     type: PushEvent
   - date: '2022-03-15T01:11:40Z'
@@ -45,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-14T19:05:15Z'
     type: PushEvent
-  - date: '2022-03-14T19:01:23Z'
-    type: PushEvent
 latestCommit:
   message: 'fix: release script'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/e72fc6673cd3dc9753d53264664a054b8cfeb9f2
+    https://api.github.com/repos/leonzalion/jslatex/commits/be1ac85f8714959748b8715ab087b374a179f818
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
