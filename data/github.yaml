@@ -45,12 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-03-15T17:33:54Z'
     type: PushEvent
-  - date: '2022-03-15T17:32:51Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: idk'
+  message: 1.1.5
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/0113e7ba6ae821f7dfa1c78fbbdb3ed9275d0e53
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/35f322e700ab0b5e5cf82aa64741483b2f70ce94
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
