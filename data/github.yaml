@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T17:32:51Z'
     type: PushEvent
-  - date: '2022-03-15T17:28:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: set pyenv python version globally'
+  message: 'fix: idk'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/9b88bb17da41e48a7c1c99b3f3b7d0da1d0559cd
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/0113e7ba6ae821f7dfa1c78fbbdb3ed9275d0e53
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
