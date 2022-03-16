@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-03-15T17:39:15Z'
     type: PushEvent
-  - date: '2022-03-15T17:33:56Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'test: snapshots'
   url: >-
