@@ -1,4 +1,38 @@
 events:
+  - date: '2022-03-16T23:00:11Z'
+    type: PushEvent
+  - date: '2022-03-16T22:59:29Z'
+    type: PushEvent
+  - date: '2022-03-16T22:58:55Z'
+    type: PushEvent
+  - date: '2022-03-16T22:57:59Z'
+    type: PushEvent
+  - date: '2022-03-16T22:53:33Z'
+    type: PushEvent
+  - date: '2022-03-16T22:36:31Z'
+    type: PushEvent
+  - date: '2022-03-16T22:33:29Z'
+    type: ReleaseEvent
+  - date: '2022-03-16T22:33:29Z'
+    type: CreateEvent
+  - date: '2022-03-16T22:33:26Z'
+    type: PushEvent
+  - date: '2022-03-16T22:32:56Z'
+    type: PushEvent
+  - date: '2022-03-16T22:27:26Z'
+    type: CreateEvent
+  - date: '2022-03-16T22:27:26Z'
+    type: ReleaseEvent
+  - date: '2022-03-16T22:27:22Z'
+    type: PushEvent
+  - date: '2022-03-16T22:26:47Z'
+    type: PushEvent
+  - date: '2022-03-16T22:25:38Z'
+    type: PushEvent
+  - date: '2022-03-16T22:01:55Z'
+    type: PushEvent
+  - date: '2022-03-16T22:01:24Z'
+    type: PushEvent
   - date: '2022-03-16T21:59:12Z'
     type: PushEvent
   - date: '2022-03-16T21:58:22Z'
@@ -23,42 +57,10 @@ events:
     type: PushEvent
   - date: '2022-03-16T21:08:59Z'
     type: PushEvent
-  - date: '2022-03-16T20:50:29Z'
-    type: PushEvent
-  - date: '2022-03-16T20:49:41Z'
-    type: IssuesEvent
-  - date: '2022-03-16T20:47:58Z'
-    type: PushEvent
-  - date: '2022-03-16T20:43:49Z'
-    type: PushEvent
-  - date: '2022-03-16T20:42:55Z'
-    type: CreateEvent
-  - date: '2022-03-16T20:42:42Z'
-    type: CreateEvent
-  - date: '2022-03-16T20:29:38Z'
-    type: WatchEvent
-  - date: '2022-03-16T20:17:45Z'
-    type: PushEvent
-  - date: '2022-03-16T20:17:37Z'
-    type: PushEvent
-  - date: '2022-03-16T20:15:17Z'
-    type: PushEvent
-  - date: '2022-03-16T20:13:30Z'
-    type: PushEvent
-  - date: '2022-03-16T20:12:56Z'
-    type: PushEvent
-  - date: '2022-03-16T20:01:33Z'
-    type: PushEvent
-  - date: '2022-03-16T20:01:28Z'
-    type: PushEvent
-  - date: '2022-03-16T19:59:54Z'
-    type: PushEvent
-  - date: '2022-03-16T19:58:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: export grammar'
+  message: rescuetime
   url: >-
-    https://api.github.com/repos/leonzalion/vscode-ejs/commits/6ebab22e8701c921258fff268447d892ae1e609a
+    https://api.github.com/repos/leonzalion/macos-configs/commits/31dfe2cbb0446329d1267e1a30ced7ecfa793c58
   repo:
-    url: https://api.github.com/repos/leonzalion/vscode-ejs
-    name: leonzalion/vscode-ejs
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
