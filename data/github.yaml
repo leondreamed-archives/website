@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-16T13:51:31Z'
+    type: CreateEvent
+  - date: '2022-03-16T13:50:57Z'
+    type: DeleteEvent
+  - date: '2022-03-16T13:50:49Z'
+    type: CreateEvent
+  - date: '2022-03-16T13:49:39Z'
+    type: CreateEvent
   - date: '2022-03-15T21:50:49Z'
     type: PushEvent
   - date: '2022-03-15T21:50:25Z'
@@ -29,20 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-15T17:51:56Z'
     type: PushEvent
-  - date: '2022-03-15T17:50:58Z'
-    type: PushEvent
-  - date: '2022-03-15T17:46:29Z'
-    type: PushEvent
-  - date: '2022-03-15T17:41:44Z'
-    type: PushEvent
-  - date: '2022-03-15T17:39:37Z'
-    type: PushEvent
-  - date: '2022-03-15T17:39:15Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: snapshots'
+  message: 'docs: link to extension'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/0a08d9963f7f0498cb4b19178de15c1c7e2f4200
+    https://api.github.com/repos/leonzalion/jslatex/commits/8f8bb99ead61ff9ffa863b219385e57d26151405
   repo:
     url: https://api.github.com/repos/leonzalion/jslatex
     name: leonzalion/jslatex
