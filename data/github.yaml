@@ -1,4 +1,32 @@
 events:
+  - date: '2022-03-16T20:50:29Z'
+    type: PushEvent
+  - date: '2022-03-16T20:49:41Z'
+    type: IssuesEvent
+  - date: '2022-03-16T20:47:58Z'
+    type: PushEvent
+  - date: '2022-03-16T20:43:49Z'
+    type: PushEvent
+  - date: '2022-03-16T20:42:55Z'
+    type: CreateEvent
+  - date: '2022-03-16T20:42:42Z'
+    type: CreateEvent
+  - date: '2022-03-16T20:29:38Z'
+    type: WatchEvent
+  - date: '2022-03-16T20:17:45Z'
+    type: PushEvent
+  - date: '2022-03-16T20:17:37Z'
+    type: PushEvent
+  - date: '2022-03-16T20:15:17Z'
+    type: PushEvent
+  - date: '2022-03-16T20:13:30Z'
+    type: PushEvent
+  - date: '2022-03-16T20:12:56Z'
+    type: PushEvent
+  - date: '2022-03-16T20:01:33Z'
+    type: PushEvent
+  - date: '2022-03-16T20:01:28Z'
+    type: PushEvent
   - date: '2022-03-16T19:59:54Z'
     type: PushEvent
   - date: '2022-03-16T19:58:44Z'
@@ -27,38 +55,10 @@ events:
     type: PushEvent
   - date: '2022-03-16T18:22:43Z'
     type: CreateEvent
-  - date: '2022-03-16T18:22:45Z'
-    type: ReleaseEvent
-  - date: '2022-03-16T18:22:43Z'
-    type: PushEvent
-  - date: '2022-03-16T18:22:08Z'
-    type: PushEvent
-  - date: '2022-03-16T18:21:37Z'
-    type: PushEvent
-  - date: '2022-03-16T18:21:19Z'
-    type: PushEvent
-  - date: '2022-03-16T18:20:31Z'
-    type: PushEvent
-  - date: '2022-03-16T18:19:34Z'
-    type: PushEvent
-  - date: '2022-03-16T18:18:24Z'
-    type: PushEvent
-  - date: '2022-03-16T18:17:52Z'
-    type: PushEvent
-  - date: '2022-03-16T18:16:08Z'
-    type: PushEvent
-  - date: '2022-03-16T18:13:49Z'
-    type: PushEvent
-  - date: '2022-03-16T18:12:12Z'
-    type: PushEvent
-  - date: '2022-03-16T17:49:15Z'
-    type: CreateEvent
-  - date: '2022-03-16T17:49:14Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'feat: generalize repository'
+  message: 'chore: update configs'
   url: >-
-    https://api.github.com/repos/leonzalion/vscode-ejs/commits/c23f8b9446d2d47f0bba343b466e675fbae455e0
+    https://api.github.com/repos/leonzalion/vscode-ejs/commits/b3f6b13bfb96edcdf489c433f43f8f2dd0d127ea
   repo:
     url: https://api.github.com/repos/leonzalion/vscode-ejs
     name: leonzalion/vscode-ejs
