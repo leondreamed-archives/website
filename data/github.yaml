@@ -43,12 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-15T17:33:56Z'
     type: CreateEvent
-  - date: '2022-03-15T17:33:54Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.5
+  message: 'test: snapshots'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/35f322e700ab0b5e5cf82aa64741483b2f70ce94
+    https://api.github.com/repos/leonzalion/jslatex/commits/0a08d9963f7f0498cb4b19178de15c1c7e2f4200
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
