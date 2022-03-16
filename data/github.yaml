@@ -1,4 +1,18 @@
 events:
+  - date: '2022-03-16T19:59:54Z'
+    type: PushEvent
+  - date: '2022-03-16T19:58:44Z'
+    type: PushEvent
+  - date: '2022-03-16T19:53:09Z'
+    type: PushEvent
+  - date: '2022-03-16T19:47:44Z'
+    type: PushEvent
+  - date: '2022-03-16T19:12:06Z'
+    type: PushEvent
+  - date: '2022-03-16T19:07:31Z'
+    type: PushEvent
+  - date: '2022-03-16T19:06:24Z'
+    type: PushEvent
   - date: '2022-03-16T18:40:52Z'
     type: CreateEvent
   - date: '2022-03-16T18:40:40Z'
@@ -41,26 +55,10 @@ events:
     type: CreateEvent
   - date: '2022-03-16T17:49:14Z'
     type: ReleaseEvent
-  - date: '2022-03-16T17:49:13Z'
-    type: PushEvent
-  - date: '2022-03-16T17:48:45Z'
-    type: PushEvent
-  - date: '2022-03-16T17:46:34Z'
-    type: ReleaseEvent
-  - date: '2022-03-16T17:46:34Z'
-    type: CreateEvent
-  - date: '2022-03-16T17:46:31Z'
-    type: PushEvent
-  - date: '2022-03-16T17:46:13Z'
-    type: PushEvent
-  - date: '2022-03-16T17:28:09Z'
-    type: PushEvent
-  - date: '2022-03-16T17:25:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: update'
+  message: 'feat: generalize repository'
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/8b33de3e4edbe7fdd74d8c4999394cd1a7deb202
+    https://api.github.com/repos/leonzalion/vscode-ejs/commits/c23f8b9446d2d47f0bba343b466e675fbae455e0
   repo:
-    url: https://api.github.com/repos/leonzalion/jslatex
-    name: leonzalion/jslatex
+    url: https://api.github.com/repos/leonzalion/vscode-ejs
+    name: leonzalion/vscode-ejs
