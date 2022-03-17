@@ -45,8 +45,6 @@ events:
     type: PushEvent
   - date: '2022-03-17T00:51:17Z'
     type: PushEvent
-  - date: '2022-03-17T00:46:51Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'chore: upgrade deps'
   url: >-
