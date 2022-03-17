@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T00:58:07Z'
     type: PushEvent
-  - date: '2022-03-17T00:51:17Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: upgrade deps'
+  message: 'fix: remove engine requirements'
   url: >-
-    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/bcb01245e5a5fb776fbc76d0d71bc90f9ed0a3a0
+    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/73d235bb031a84485f481b81b8b6f1439a51cd77
   repo:
     url: https://api.github.com/repos/leonzalion/vite-electron-builder
     name: leonzalion/vite-electron-builder
