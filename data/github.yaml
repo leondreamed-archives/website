@@ -51,12 +51,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-17T00:22:34Z'
     type: CreateEvent
-  - date: '2022-03-17T00:22:24Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.8
+  message: 'fix: top-level await scripts bug'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/f07ac39dc8da9e188722ca7c43d53ac9ff9672b3
+    https://api.github.com/repos/leonzalion/create-project/commits/91d8280ad52151033111733fe762aed745eafce6
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
