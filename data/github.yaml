@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T00:46:51Z'
     type: ReleaseEvent
-  - date: '2022-03-17T00:46:50Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.2
+  message: 'chore: upgrade deps'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/0ef92aa2a4144aaa9933f91530087830bb2d4457
+    https://api.github.com/repos/leonzalion/vite-electron-builder/commits/bcb01245e5a5fb776fbc76d0d71bc90f9ed0a3a0
   repo:
-    url: https://api.github.com/repos/leonzalion/reactive-emails
-    name: leonzalion/reactive-emails
+    url: https://api.github.com/repos/leonzalion/vite-electron-builder
+    name: leonzalion/vite-electron-builder
