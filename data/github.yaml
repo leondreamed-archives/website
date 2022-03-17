@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-17T01:50:05Z'
+    type: PushEvent
+  - date: '2022-03-17T01:39:52Z'
+    type: PushEvent
   - date: '2022-03-17T01:23:14Z'
     type: PushEvent
   - date: '2022-03-17T00:58:07Z'
@@ -53,16 +57,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-17T00:12:04Z'
     type: PushEvent
-  - date: '2022-03-17T00:11:45Z'
-    type: PushEvent
-  - date: '2022-03-17T00:10:31Z'
-    type: PushEvent
-  - date: '2022-03-17T00:07:38Z'
-    type: CreateEvent
 latestCommit:
-  message: 'feat: accept ets options'
+  message: 0.1.1
   url: >-
-    https://api.github.com/repos/leonzalion/jslatex/commits/42ec0737ebb63829f0100f9b34251a3cf82587c0
+    https://api.github.com/repos/leonzalion/ets/commits/0f6ac8281f3a96fc24952124d2c37d792ec075c3
   repo:
-    url: https://api.github.com/repos/leonzalion/jslatex
-    name: leonzalion/jslatex
+    url: https://api.github.com/repos/leonzalion/ets
+    name: leonzalion/ets
