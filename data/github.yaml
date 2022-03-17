@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-17T16:05:12Z'
+    type: ReleaseEvent
+  - date: '2022-03-17T16:05:12Z'
+    type: CreateEvent
+  - date: '2022-03-17T16:05:09Z'
+    type: PushEvent
+  - date: '2022-03-17T16:04:38Z'
+    type: PushEvent
   - date: '2022-03-17T12:35:21Z'
     type: PullRequestEvent
   - date: '2022-03-17T12:34:27Z'
@@ -41,20 +49,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-17T00:46:50Z'
     type: PushEvent
-  - date: '2022-03-17T00:46:49Z'
-    type: CreateEvent
-  - date: '2022-03-17T00:46:18Z'
-    type: PushEvent
-  - date: '2022-03-17T00:41:00Z'
-    type: PushEvent
-  - date: '2022-03-17T00:22:34Z'
-    type: ReleaseEvent
-  - date: '2022-03-17T00:22:34Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: top-level await scripts bug'
+  message: 0.0.2
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/91d8280ad52151033111733fe762aed745eafce6
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/0ef92aa2a4144aaa9933f91530087830bb2d4457
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
