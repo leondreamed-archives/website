@@ -55,12 +55,10 @@ events:
     type: CreateEvent
   - date: '2022-03-17T00:12:08Z'
     type: ReleaseEvent
-  - date: '2022-03-17T00:12:04Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.1
+  message: 'chore: update ets'
   url: >-
-    https://api.github.com/repos/leonzalion/ets/commits/0f6ac8281f3a96fc24952124d2c37d792ec075c3
+    https://api.github.com/repos/leonzalion/jslatex/commits/52db18dea1fb0c786df53936436ca82ef6cd47cc
   repo:
-    url: https://api.github.com/repos/leonzalion/ets
-    name: leonzalion/ets
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
