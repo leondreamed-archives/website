@@ -1,4 +1,16 @@
 events:
+  - date: '2022-03-18T21:42:30Z'
+    type: PushEvent
+  - date: '2022-03-18T21:42:04Z'
+    type: ReleaseEvent
+  - date: '2022-03-18T21:42:04Z'
+    type: CreateEvent
+  - date: '2022-03-18T21:41:56Z'
+    type: PushEvent
+  - date: '2022-03-18T21:40:40Z'
+    type: PushEvent
+  - date: '2022-03-18T21:35:52Z'
+    type: PushEvent
   - date: '2022-03-18T20:55:42Z'
     type: PushEvent
   - date: '2022-03-18T20:34:34Z'
@@ -31,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T13:28:07Z'
     type: PushEvent
-  - date: '2022-03-18T00:31:14Z'
-    type: PushEvent
 latestCommit:
-  message: changes
+  message: 'feat: puppeteer'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/cc1117dd825a91e110706fee3ae9a30905755d33
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/a3863893a0a2b93885636129016c439757196bd2
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
