@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T10:20:18Z'
     type: PushEvent
-  - date: '2022-03-17T10:19:41Z'
-    type: PushEvent
 latestCommit:
-  message: uncomment perl exports
+  message: 'fix: set git config globally'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/ce2ffb4d9c054596af61d39732564c8e1461f75f
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/fbd1b9f5b5a649833dc79690fb21736bc63d05bd
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
