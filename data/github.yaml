@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T10:20:59Z'
     type: PushEvent
-  - date: '2022-03-17T10:20:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: set git config globally'
+  message: 'fix: install git lfs'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/fbd1b9f5b5a649833dc79690fb21736bc63d05bd
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/17167cd204c260e1bb264c6941bb1990a09f2601
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
