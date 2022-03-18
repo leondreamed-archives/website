@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-18T00:31:14Z'
+    type: PushEvent
   - date: '2022-03-17T20:49:32Z'
     type: PushEvent
   - date: '2022-03-17T20:46:59Z'
@@ -37,14 +39,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T10:19:41Z'
     type: PushEvent
-  - date: '2022-03-17T10:18:57Z'
-    type: PushEvent
-  - date: '2022-03-17T10:16:49Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: latex fonts'
+  message: uncomment perl exports
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/acd17dff6bb7902c6d9370e69a236897daf88812
+    https://api.github.com/repos/leonzalion/macos-configs/commits/ce2ffb4d9c054596af61d39732564c8e1461f75f
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
