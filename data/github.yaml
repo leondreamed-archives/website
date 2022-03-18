@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-18T16:10:55Z'
+    type: PushEvent
   - date: '2022-03-18T15:53:33Z'
     type: PushEvent
   - date: '2022-03-18T14:33:03Z'
@@ -23,14 +25,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T16:04:38Z'
     type: PushEvent
-  - date: '2022-03-17T12:35:21Z'
-    type: PullRequestEvent
-  - date: '2022-03-17T12:34:27Z'
-    type: PushEvent
 latestCommit:
-  message: Rename joshgone.py to joshgone.js
+  message: 'feat: use sf instead of sigfig'
   url: >-
-    https://api.github.com/repos/leonzalion/joshgone/commits/d9db5bb99f0d7cf8029352d53d7e4451fcd3a4a6
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/a82652c0c62a994f05f364a201912c5a4a0f6352
   repo:
-    url: https://api.github.com/repos/leonzalion/joshgone
-    name: leonzalion/joshgone
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
