@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T10:16:49Z'
     type: PushEvent
-  - date: '2022-03-17T10:15:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: latexindent'
+  message: 'fix: latex fonts'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/b0b7e96ece8bb8037ee1fea9af5f8806c83829e4
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/acd17dff6bb7902c6d9370e69a236897daf88812
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
