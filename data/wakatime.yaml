@@ -1,89 +1,83 @@
-dailyAverage: 43395
-totalSeconds: 303762.176734
+dailyAverage: 44470
+totalSeconds: 311290.7136
 languages:
   - name: TypeScript
-    totalSeconds: 159512.119132
+    totalSeconds: 129493.340203
   - name: sh
-    totalSeconds: 76859.875088
-  - name: JSON
-    totalSeconds: 18651.43951
+    totalSeconds: 76787.731691
   - name: TeX
-    totalSeconds: 17442.720889
+    totalSeconds: 50063.26763
+  - name: JSON
+    totalSeconds: 19280.070081
   - name: Other
-    totalSeconds: 13982.286763
-  - name: Markdown
-    totalSeconds: 8856.766994
+    totalSeconds: 14449.464793
   - name: JavaScript
-    totalSeconds: 8682.29221
+    totalSeconds: 12053.648074
+  - name: Markdown
+    totalSeconds: 9616.941327
   - name: YAML
-    totalSeconds: 6034.644329
+    totalSeconds: 6100.554623
   - name: EJS
-    totalSeconds: 2800.778565
+    totalSeconds: 2891.922006
   - name: PHP
     totalSeconds: 2248.175192
   - name: Text
     totalSeconds: 1106.206728
   - name: BibTeX
-    totalSeconds: 451.539731
-  - name: HTML
-    totalSeconds: 377.203789
+    totalSeconds: 452.431234
+  - name: Python
+    totalSeconds: 328.707078
   - name: Vue.js
-    totalSeconds: 154.481816
+    totalSeconds: 179.975676
+  - name: HTML
+    totalSeconds: 162.193658
   - name: reStructuredText
     totalSeconds: 133.021589
   - name: Swift
     totalSeconds: 119.141651
   - name: XML
     totalSeconds: 104.003912
-  - name: Git Config
-    totalSeconds: 94.370412
   - name: ERB
     totalSeconds: 63.774892
+  - name: Git Config
+    totalSeconds: 50.749477
   - name: INI
-    totalSeconds: 37.275001
-  - name: Batchfile
-    totalSeconds: 13.884325
+    totalSeconds: 44.484548
   - name: CSS
     totalSeconds: 8.09924
-  - name: Python
-    totalSeconds: 5.923775
   - name: Perl
-    totalSeconds: 4.437964
+    totalSeconds: 2.27309
 projects:
   - name: jslatex
-    totalSeconds: 81856.206863
-  - name: bootstrap-macos
-    totalSeconds: 49826.310694
+    totalSeconds: 81863.208975
   - name: leonzalion
-    totalSeconds: 43032.940348
+    totalSeconds: 44908.344348
+  - name: chem-ia
+    totalSeconds: 35697.028061
   - name: ets
-    totalSeconds: 27846.303858
+    totalSeconds: 29498.890907
+  - name: bootstrap-macos
+    totalSeconds: 28965.45018
   - name: vite-electron-builder
-    totalSeconds: 16244.863417
+    totalSeconds: 16253.219935
   - name: test
     totalSeconds: 12244.891066
   - name: latex-workflow
-    totalSeconds: 10020.16069
+    totalSeconds: 10074.306781
   - name: sigfig
     totalSeconds: 8982.303124
-  - name: inquirer-super-checkbox-prompt
-    totalSeconds: 8247.789445
   - name: lionp
     totalSeconds: 8210.303014
   - name: chem
-    totalSeconds: 6084.537673
+    totalSeconds: 8169.861627
   - name: vscode-ejs
     totalSeconds: 5735.388697
-  - name: chem-ia
-    totalSeconds: 3753.518406
+  - name: reactive-emails
+    totalSeconds: 4361.215831
   - name: cli
     totalSeconds: 2875.815764
   - name: vscode-ets
     totalSeconds: 2833.288681
-  - name: p-wait-for
-    totalSeconds: 2788.011463
-  - name: timeblocker
-    totalSeconds: 2783.544009
   - name: LaTeX-Workshop
     totalSeconds: 2566.209851
   - name: latex-ejs
@@ -94,20 +88,24 @@ projects:
     totalSeconds: 2062.006516
   - name: lion-system
     totalSeconds: 1974.975278
+  - name: inquirer-super-checkbox-prompt
+    totalSeconds: 1828.443206
+  - name: leonzalion-google-workspace
+    totalSeconds: 1313.613784
   - name: create-project
-    totalSeconds: 1638.025482
-  - name: p-wait-for-1
-    totalSeconds: 1104.533642
+    totalSeconds: 1094.76317
   - name: npm-name
     totalSeconds: 1090.081715
+  - name: todo
+    totalSeconds: 981.143582
   - name: configs
     totalSeconds: 962.301638
   - name: language-tools
     totalSeconds: 894.882369
-  - name: todo
-    totalSeconds: 719.113106
   - name: vetur
     totalSeconds: 689.830454
+  - name: math-ia
+    totalSeconds: 621.789801
   - name: LaTeX-Utilities
     totalSeconds: 535.86447
   - name: vitest-dynamic-import-eval
@@ -116,48 +114,34 @@ projects:
     totalSeconds: 508.331656
   - name: vscode-html-languageservice
     totalSeconds: 490.221432
-  - name: inquirer-autocomplete-checkbox-prompt
-    totalSeconds: 468.639949
-  - name: reactive-emails
-    totalSeconds: 402.520456
   - name: lionecs
     totalSeconds: 387.137232
-  - name: math-ia
-    totalSeconds: 383.598866
   - name: ejs
     totalSeconds: 377.101836
   - name: outdent
     totalSeconds: 311.728295
   - name: pnpm
     totalSeconds: 301.54458
-  - name: inquirer-checkbox-plus-prompt
-    totalSeconds: 277.107795
   - name: languagetools
     totalSeconds: 193.903183
+  - name: timeblocker
+    totalSeconds: 150.706965
   - name: assets
     totalSeconds: 132.582969
   - name: fundamental-particles-project
     totalSeconds: 121.64223
-  - name: inquirer-press-to-continue
-    totalSeconds: 121.070372
-  - name: leonzalion-google-workspace
-    totalSeconds: 98.654191
   - name: js-jsonl
     totalSeconds: 68.916036
   - name: vite-dynamic-import-eval
     totalSeconds: 68.479403
   - name: Terminal
-    totalSeconds: 65.075011
+    totalSeconds: 66.533204
   - name: RunningMacOSInAVirtualMachineOnAppleSiliconMacs
     totalSeconds: 61.269275
   - name: vite
     totalSeconds: 56.421416
-  - name: deep-clone-fn
-    totalSeconds: 46.163608
   - name: vscode-ets-old
     totalSeconds: 44.604289
-  - name: Inquirer.js
-    totalSeconds: 43.884158
   - name: vscode-ruby-syntax
     totalSeconds: 41.495843
   - name: .oh-my-zsh
@@ -166,11 +150,13 @@ projects:
     totalSeconds: 20.141241
   - name: rollup
     totalSeconds: 19.475005
-  - name: inquirer-checkbox-autocomplete-prompt
-    totalSeconds: 4.765247
   - name: playground
     totalSeconds: 4.65767
   - name: tabulo-rewrite
     totalSeconds: 4.097275
+  - name: inquirer-press-to-continue
+    totalSeconds: 3.081567
+  - name: react
+    totalSeconds: 1.451721
   - name: ee
     totalSeconds: 0.382686

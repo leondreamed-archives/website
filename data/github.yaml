@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-17T10:36:23Z'
     type: PushEvent
-  - date: '2022-03-17T10:20:59Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: install git lfs'
+  message: 'refactor: use global sigfig'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/17167cd204c260e1bb264c6941bb1990a09f2601
+    https://api.github.com/repos/leonzalion-archives/chem/commits/de5277ebb2a1fb19e20ef3eea4e9716e9bdbf308
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion-archives/chem
+    name: leonzalion-archives/chem
