@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T23:15:24Z'
     type: PushEvent
-  - date: '2022-03-18T22:43:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add ds store to gitignore'
+  message: 'fix: add build resources'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/b6931476bf410ffff1e4ceaf84020efa534980f6
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/06ef3c3180446922b1df3f1b4b29a3a6e7efeee2
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
