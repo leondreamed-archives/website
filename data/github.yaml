@@ -1,4 +1,16 @@
 events:
+  - date: '2022-03-19T14:37:03Z'
+    type: PushEvent
+  - date: '2022-03-19T14:32:06Z'
+    type: PushEvent
+  - date: '2022-03-19T14:11:47Z'
+    type: IssueCommentEvent
+  - date: '2022-03-19T14:11:18Z'
+    type: PullRequestEvent
+  - date: '2022-03-19T14:11:14Z'
+    type: PushEvent
+  - date: '2022-03-19T14:11:08Z'
+    type: ForkEvent
   - date: '2022-03-19T01:45:15Z'
     type: PushEvent
   - date: '2022-03-19T01:44:44Z'
@@ -31,22 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T21:42:04Z'
     type: ReleaseEvent
-  - date: '2022-03-18T21:42:04Z'
-    type: CreateEvent
-  - date: '2022-03-18T21:41:56Z'
-    type: PushEvent
-  - date: '2022-03-18T21:40:40Z'
-    type: PushEvent
-  - date: '2022-03-18T21:35:52Z'
-    type: PushEvent
-  - date: '2022-03-18T20:55:42Z'
-    type: PushEvent
-  - date: '2022-03-18T20:34:34Z'
-    type: PushEvent
 latestCommit:
-  message: espanso
+  message: 'chore: update jslatex'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/aac253984c2b57cb8b8f171762fdf0f5b80ceb8a
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/3ed11dbabc14989fd67c0fe5d280bb8394d6fa78
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
