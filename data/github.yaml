@@ -1,4 +1,14 @@
 events:
+  - date: '2022-03-19T00:43:10Z'
+    type: PushEvent
+  - date: '2022-03-19T00:42:35Z'
+    type: PushEvent
+  - date: '2022-03-19T00:41:08Z'
+    type: PushEvent
+  - date: '2022-03-19T00:40:58Z'
+    type: PushEvent
+  - date: '2022-03-19T00:19:52Z'
+    type: PushEvent
   - date: '2022-03-18T23:56:03Z'
     type: PushEvent
   - date: '2022-03-18T23:55:26Z'
@@ -39,20 +49,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-18T19:16:51Z'
     type: CreateEvent
-  - date: '2022-03-18T19:16:49Z'
-    type: PushEvent
-  - date: '2022-03-18T19:16:06Z'
-    type: PushEvent
-  - date: '2022-03-18T19:15:06Z'
-    type: PushEvent
-  - date: '2022-03-18T19:14:16Z'
-    type: PushEvent
-  - date: '2022-03-18T19:14:09Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: remove tailwindcss'
+  message: 'feat: automation now works'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/9d0c6920e5acb44096c791e93c1a96c157207922
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/0f8cdd9ef3d17aec6576d42834943a9d998476fb
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
