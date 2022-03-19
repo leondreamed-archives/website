@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T22:13:11Z'
     type: PushEvent
-  - date: '2022-03-18T21:42:30Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update jslatex'
+  message: 'feat: integrated into electron'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/3ed11dbabc14989fd67c0fe5d280bb8394d6fa78
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/757ab9c436ee67912bb4abed25578acbc40c5c19
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/reactive-emails
+    name: leonzalion/reactive-emails
