@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T20:16:20Z'
     type: PushEvent
-  - date: '2022-03-18T20:05:33Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: working'
+  message: 'fix: remove network idle'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/183dc90b257fd17a5ccd721f469b3f656fd8f2b1
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/33ef0ed29ab56c288a309ce6b413b352dd5743bf
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
