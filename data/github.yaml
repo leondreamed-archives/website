@@ -41,8 +41,6 @@ events:
     type: PushEvent
   - date: '2022-03-18T21:42:30Z'
     type: PushEvent
-  - date: '2022-03-18T21:42:04Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'chore: update jslatex'
   url: >-
