@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-19T01:45:15Z'
+    type: PushEvent
+  - date: '2022-03-19T01:44:44Z'
+    type: PushEvent
   - date: '2022-03-19T00:43:10Z'
     type: PushEvent
   - date: '2022-03-19T00:42:35Z'
@@ -43,16 +47,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T20:05:33Z'
     type: PushEvent
-  - date: '2022-03-18T19:37:34Z'
-    type: PushEvent
-  - date: '2022-03-18T19:16:50Z'
-    type: ReleaseEvent
-  - date: '2022-03-18T19:16:51Z'
-    type: CreateEvent
 latestCommit:
-  message: 'feat: automation now works'
+  message: 'feat: working'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/0f8cdd9ef3d17aec6576d42834943a9d998476fb
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/183dc90b257fd17a5ccd721f469b3f656fd8f2b1
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
