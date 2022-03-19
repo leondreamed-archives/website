@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T20:34:34Z'
     type: PushEvent
-  - date: '2022-03-18T20:16:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: remove network idle'
+  message: espanso
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/33ef0ed29ab56c288a309ce6b413b352dd5743bf
+    https://api.github.com/repos/leonzalion/macos-configs/commits/aac253984c2b57cb8b8f171762fdf0f5b80ceb8a
   repo:
-    url: https://api.github.com/repos/leonzalion/reactive-emails
-    name: leonzalion/reactive-emails
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
