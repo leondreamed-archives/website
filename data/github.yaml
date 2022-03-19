@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-19T22:14:22Z'
+    type: WatchEvent
   - date: '2022-03-19T14:37:03Z'
     type: PushEvent
   - date: '2022-03-19T14:32:06Z'
@@ -29,14 +31,10 @@ events:
     type: PushEvent
   - date: '2022-03-18T23:55:26Z'
     type: PushEvent
-  - date: '2022-03-18T23:45:18Z'
-    type: PushEvent
-  - date: '2022-03-18T23:15:24Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add build resources'
+  message: 'fix: lint issues'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/06ef3c3180446922b1df3f1b4b29a3a6e7efeee2
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/4f4939ab6a8c7b159beadb00598007f0fad6474c
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
