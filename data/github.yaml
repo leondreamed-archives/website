@@ -39,8 +39,6 @@ events:
     type: CreateEvent
   - date: '2022-03-20T06:08:30Z'
     type: PushEvent
-  - date: '2022-03-19T23:49:14Z'
-    type: WatchEvent
 latestCommit:
   message: 'chore: update eslint config'
   url: >-
