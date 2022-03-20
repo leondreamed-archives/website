@@ -10,12 +10,14 @@ type RunDavinciScriptProps = {
 	envVars?: Record<string, string>;
 	execaOptions?: ExecaOptions;
 	waitForServerStart?: boolean;
+	silent?: boolean;
 };
 export async function runDavinciScript({
 	scriptPath,
 	envVars,
 	execaOptions,
 	waitForServerStart = true,
+	silent,
 }: RunDavinciScriptProps) {
 	let davinciProcessPid: number | undefined;
 	if (waitForServerStart) {
@@ -41,21 +43,23 @@ export async function runDavinciScript({
 		}
 	);
 
-	// Excludes some weird "Exception ignored in:" message from the output
-	// that only appears when using Python 3 with DaVinci
-	scriptProcess.stdout?.on('data', (data: Buffer) => {
-		const dataString = data.toString();
-		if (!dataString.includes('Exception ignored in:')) {
-			logDebug(() => dataString);
-		}
-	});
+	if (!silent) {
+		// Excludes some weird "Exception ignored in:" message from the output
+		// that only appears when using Python 3 with DaVinci
+		scriptProcess.stdout?.on('data', (data: Buffer) => {
+			const dataString = data.toString();
+			if (!dataString.includes('Exception ignored in:')) {
+				logDebug(() => dataString);
+			}
+		});
 
-	scriptProcess.stderr?.on('data', (data: Buffer) => {
-		const dataString = data.toString();
-		if (!dataString.includes('Exception ignored in:')) {
-			logDebug(() => dataString);
-		}
-	});
+		scriptProcess.stderr?.on('data', (data: Buffer) => {
+			const dataString = data.toString();
+			if (!dataString.includes('Exception ignored in:')) {
+				logDebug(() => dataString);
+			}
+		});
+	}
 
 	const result = await scriptProcess;
 
