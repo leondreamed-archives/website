@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-20T21:46:43Z'
+    type: PushEvent
   - date: '2022-03-20T20:56:12Z'
     type: PushEvent
   - date: '2022-03-20T20:20:41Z'
@@ -39,14 +41,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T06:24:47Z'
     type: PushEvent
-  - date: '2022-03-20T06:13:13Z'
-    type: PushEvent
-  - date: '2022-03-20T06:09:10Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'chore: update template'
+  message: 'fix: turn off new-cap'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/9013bbd858c61d6a957b5b71a9046295b61e48d1
+    https://api.github.com/repos/leonzalion/configs/commits/743b9bfe467f50c07b612e79344f388252f65201
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
