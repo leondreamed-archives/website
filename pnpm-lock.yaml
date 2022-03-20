@@ -95,7 +95,6 @@ importers:
       '@types/js-yaml': ^4.0.5
       '@types/tmp': ^0.2.3
       aws-sdk: ^2.1070.0
-      delay: ^5.0.0
       desm: ^1.2.0
       dotenv: ^15.0.0
       execa: ^6.0.0
@@ -110,7 +109,6 @@ importers:
       tmp-promise: ^3.0.3
     dependencies:
       aws-sdk: 2.1070.0
-      delay: 5.0.0
       desm: 1.2.0
       dotenv: 15.0.0
       execa: 6.0.0
@@ -2998,11 +2996,6 @@ packages:
   /defined/1.0.0:
     resolution: {integrity: sha1-yY2bzvdWdBiOEQlpFRGZ45sfppM=}
     dev: true
-
-  /delay/5.0.0:
-    resolution: {integrity: sha512-ReEBKkIfe4ya47wlPYf/gu5ib6yUG0/Aez0JQZQz94kiWtRQvZIQbTiehsnwHvLSWJnQdhVeqYue7Id1dKr0qw==}
-    engines: {node: '>=10'}
-    dev: false
 
   /delayed-stream/1.0.0:
     resolution: {integrity: sha1-3zrhmayt+31ECqrgsp4icrJOxhk=}
@@ -8412,12 +8405,15 @@ packages:
     hasBin: true
     dependencies:
       '@eslint/eslintrc': 1.2.1
+      '@typescript-eslint/eslint-plugin': 5.15.0_f2c49ce7d0e93ebcfdb4b7d25b131b28
+      '@typescript-eslint/parser': 5.15.0_eslint@8.11.0+typescript@4.6.2
       arrify: 3.0.0
       cosmiconfig: 7.0.1
       define-lazy-prop: 3.0.0
       eslint: 8.11.0
       eslint-config-prettier: 8.5.0_eslint@8.11.0
       eslint-config-xo: 0.40.0_eslint@8.11.0
+      eslint-config-xo-typescript: 0.50.0_e21934fc1887d480d46bdd084e788a81
       eslint-formatter-pretty: 4.1.0
       eslint-import-resolver-webpack: 0.13.2_0681d70744620d3a95d8cb23ff3c118d
       eslint-plugin-ava: 13.2.0_eslint@8.11.0

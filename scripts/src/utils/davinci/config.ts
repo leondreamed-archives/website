@@ -26,6 +26,7 @@ export async function startFusionServer(): Promise<number | undefined> {
 	// running the command from a TTY (because DaVinci changes its output)
 	// otherwise that hides when the FusionScript Server starts which we
 	// need to know so that we know when to run our DaVinci script
+	logDebug(() => `Running script -q /dev/null ${resolveExecutablePath} -nogui`);
 	const davinciProcess = execa('script', [
 		'-q',
 		'/dev/null',
@@ -50,7 +51,7 @@ export async function startFusionServer(): Promise<number | undefined> {
 		});
 	});
 
-	logDebug(() => davinciProcessPid);
+	logDebug(() => `Davinci Process ID: ${davinciProcessPid}`);
 
 	// TODO: Find a better way to guarantee that Fusion Server started
 	await setTimeout(2000);
