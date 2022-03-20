@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-20T20:56:12Z'
+    type: PushEvent
+  - date: '2022-03-20T20:20:41Z'
+    type: WatchEvent
   - date: '2022-03-20T19:56:52Z'
     type: WatchEvent
   - date: '2022-03-20T19:29:59Z'
@@ -39,16 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T06:09:10Z'
     type: ReleaseEvent
-  - date: '2022-03-20T06:09:05Z'
-    type: PushEvent
-  - date: '2022-03-20T06:09:05Z'
-    type: CreateEvent
-  - date: '2022-03-20T06:08:30Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update eslint config'
+  message: 'chore: update template'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/94494518f56bd903b3fd4af6025b861a77867b1a
+    https://api.github.com/repos/leonzalion/create-project/commits/9013bbd858c61d6a957b5b71a9046295b61e48d1
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
