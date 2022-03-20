@@ -1,5 +1,4 @@
 const path = require('path');
-const createAliases = require('@leonzalion/configs/eslint/alias');
 
 module.exports = {
 	extends: '../.eslintrc.cjs',
@@ -27,5 +26,4 @@ module.exports = {
 			},
 		},
 	],
-	settings: createAliases({ '~': './src', '~test': './test' }),
 };

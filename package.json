@@ -1,10 +1,10 @@
 {
 	"name": "website",
 	"private": true,
-	"prettier": "@leonzalion/configs/prettier",
+	"prettier": "@leonzalion/configs/prettier.cjs",
 	"commitlint": {
 		"extends": [
-			"@leonzalion/configs/commitlint"
+			"@leonzalion/configs/commitlint.cjs"
 		]
 	},
 	"scripts": {
@@ -15,9 +15,9 @@
 		"import-compositions": "pnpm import-compositions --filter=./scripts",
 		"update-stats": "pnpm start --filter=./update-stats",
 		"prepare": "lion-git-hooks",
-		"test": "pnpm recursive test",
-		"lint": "pnpm recursive lint",
-		"prettier": "pnpm recursive prettier",
+		"test": "pnpm recursive run test",
+		"lint": "pnpm recursive run lint",
+		"prettier": "pnpm recursive run prettier",
 		"tc": "pnpm recursive tc"
 	},
 	"devDependencies": {

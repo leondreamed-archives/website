@@ -14,7 +14,7 @@ export async function getWakatimeData(): Promise<WakatimeData> {
 		'https://wakatime.com/api/v1/users/leonzalion/stats/last_7_days',
 		{
 			headers: {
-				// eslint-disable-next-line @typescript-eslint/naming-convention
+				 
 				Authorization: `Basic ${Buffer.from(
 					process.env.WAKATIME_API_KEY
 				).toString('base64')}`,

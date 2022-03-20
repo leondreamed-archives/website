@@ -1,5 +1,3 @@
-/* eslint-disable @typescript-eslint/naming-convention */
-
 import fs from 'node:fs';
 import path from 'node:path';
 import onetime from 'onetime';
@@ -151,5 +149,5 @@ export const getWebmVideoPath = (composition: DavinciComposition) =>
  * into the DaVinci project specified in the configs/davinci.yaml
  */
 export async function importCompositions() {
-	
+	// todo
 }

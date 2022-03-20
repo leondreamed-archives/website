@@ -1,18 +1,26 @@
 import process from 'node:process';
 import type { Buffer } from 'node:buffer';
+import type { Options as ExecaOptions } from 'execa';
 import { execa } from 'execa';
 import { logDebug } from '../log.js';
 import { startFusionServer } from './config.js';
 
 type RunDavinciScriptProps = {
 	scriptPath: string;
-	envVars: Record<string, string>;
+	envVars?: Record<string, string>;
+	execaOptions?: ExecaOptions;
+	waitForServerStart?: boolean;
 };
 export async function runDavinciScript({
 	scriptPath,
 	envVars,
+	execaOptions,
+	waitForServerStart = true,
 }: RunDavinciScriptProps) {
-	const davinciProcessPid = await startFusionServer();
+	let davinciProcessPid: number | undefined;
+	if (waitForServerStart) {
+		davinciProcessPid = await startFusionServer();
+	}
 
 	const fuscriptPath =
 		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
@@ -29,6 +37,7 @@ export async function runDavinciScript({
 					.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
 				...envVars,
 			},
+			...execaOptions,
 		}
 	);
 
@@ -48,10 +57,12 @@ export async function runDavinciScript({
 		}
 	});
 
-	await scriptProcess;
+	const result = await scriptProcess;
 
-	// Don't kill the Fusion server if it was already started before this script was run
-	if (davinciProcessPid !== undefined) {
+	// Don't kill the Fusion server if we never waited for it to start or if it was already started before this script was run
+	if (waitForServerStart && davinciProcessPid !== undefined) {
 		process.kill(davinciProcessPid);
 	}
+
+	return result;
 }

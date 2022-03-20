@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/naming-convention */
+ 
 
 import 'dotenv/config.js';
 import process from 'node:process';

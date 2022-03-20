@@ -1,12 +1,26 @@
 import path from 'node:path';
 import fs from 'node:fs';
 import type { Buffer } from 'node:buffer';
-import { setTimeout } from 'node:timers/promises';
 import { execa } from 'execa';
 import yaml from 'js-yaml';
+import pWaitFor from 'p-wait-for';
 import type { DavinciConfig } from '../../types/davinci.js';
-import { getRootPath } from '../paths.js';
+import { getDavinciPythonScriptPath, getRootPath } from '../paths.js';
 import { logDebug } from '../log.js';
+import { runDavinciScript } from './script.js';
+
+export async function waitForReadyFusionServer() {
+	await pWaitFor(
+		async () => {
+			const result = await runDavinciScript({
+				scriptPath: getDavinciPythonScriptPath('check-is-fusion-ready'),
+				waitForServerStart: false,
+			});
+			return result.stdout.includes('True');
+		},
+		{ interval: 1000 }
+	);
+}
 
 export function getDavinciConfig(): DavinciConfig {
 	const projectDir = getRootPath();
@@ -51,10 +65,9 @@ export async function startFusionServer(): Promise<number | undefined> {
 		});
 	});
 
-	logDebug(() => `Davinci Process ID: ${davinciProcessPid}`);
+	logDebug(() => `Davinci Process ID: ${davinciProcessPid ?? 'undefined'}`);
 
-	// TODO: Find a better way to guarantee that Fusion Server started
-	await setTimeout(2000);
+	await waitForReadyFusionServer();
 
 	return davinciProcessPid;
 }
@@ -65,6 +78,8 @@ export function getProjectName() {
 	if (projectName === undefined) {
 		throw new Error('Could not find projectName in configs/davinci.yaml');
 	}
+
+	logDebug(() => `Project name: ${projectName}`);
 
 	return projectName;
 }
