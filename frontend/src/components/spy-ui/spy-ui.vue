@@ -6,13 +6,10 @@ import HeaderTabs from './header-tabs.vue';
 import RadarLinks from './radar-links.vue';
 import StyledBorder from '~/components/spy-ui/styled-border.vue';
 import WorldMap from '~/components/spy-ui/world-map.vue';
-import { ComponentType } from '~/types/component';
-import { useInnerWindowSize } from '~/utils/window';
+import { uiHeight, uiWidth } from '~/utils/ui';
 
-const windowSize = useInnerWindowSize();
-
-const projectionBox = ref<ComponentType<typeof ProjectionBox>>();
-const scrollDownArrows = ref<ComponentType<typeof ScrollDownArrows>>();
+const projectionBox = ref<InstanceType<typeof ProjectionBox>>();
+const scrollDownArrows = ref<InstanceType<typeof ScrollDownArrows>>();
 
 onMounted(async () => {
 	await projectionBox.value?.playProjectionBoxAnimation();
@@ -21,12 +18,11 @@ onMounted(async () => {
 </script>
 
 <template>
-	<div class="bg-black column min-h-full">
-		<svg
-			:width="windowSize.width.value"
-			:height="windowSize.height.value"
-			:viewBox="`0 0 ${windowSize.width.value} ${windowSize.height.value}`"
-		>
+	<div
+		:style="{ height: `${uiHeight}px`, width: `${uiWidth}px` }"
+		class="bg-black column"
+	>
+		<svg :width="uiWidth" :height="uiHeight">
 			<StyledBorder />
 			<HeaderTabs />
 			<RadarLinks />

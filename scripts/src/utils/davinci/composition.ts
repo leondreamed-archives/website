@@ -145,3 +145,11 @@ export const getHevcVideoPath = (composition: DavinciComposition) =>
 
 export const getWebmVideoPath = (composition: DavinciComposition) =>
 	path.join(getFrontendVideosPath(), `${composition.name}-webm.webm`);
+
+/**
+ * Takes the composition files from the assets folder and imports them
+ * into the DaVinci project specified in the configs/davinci.yaml
+ */
+export async function importCompositions() {
+	
+}
