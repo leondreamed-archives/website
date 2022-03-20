@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import anime from 'animejs';
 import { ref, computed } from 'vue';
-import { useInnerWindowSize } from '~/utils/window';
+import { uiHeight, uiWidth } from '~/utils';
 
 const scrollDownArrows = ref();
 const opacityAnimationStarted = ref(false);
@@ -41,15 +41,11 @@ defineExpose({
 	playScrollDownArrowsAnimation,
 });
 
-const windowSize = useInnerWindowSize();
-
 const arrowsPaddingBottom = 80;
 const arrowsWidth = 30;
 const arrowsHeight = 50;
-const arrowsX = computed(() => windowSize.width.value / 2);
-const arrowsY = computed(
-	() => windowSize.height.value - arrowsHeight - arrowsPaddingBottom
-);
+const arrowsX = computed(() => uiWidth / 2);
+const arrowsY = computed(() => uiHeight - arrowsHeight - arrowsPaddingBottom);
 </script>
 
 <template>

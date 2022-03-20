@@ -2,7 +2,6 @@
 import { mdiLinkedin, mdiGithub } from '@mdi/js';
 import { computed } from 'vue';
 import RadarLink from './radar-link.vue';
-import { useInnerWindowSize } from '~/utils/window';
 
 const links = [
 	{
@@ -17,13 +16,12 @@ const links = [
 	},
 ];
 
-const windowSize = useInnerWindowSize();
 const linkGap = 30;
 const linkSize = 70;
 const numLinks = links.length;
 const totalLinksWidth = linkSize * numLinks + linkGap * (numLinks - 1);
 const firstLinkLeftBound = computed(
-	() => windowSize.width.value / 2 - totalLinksWidth / 2
+	() => 1280 / 2 - totalLinksWidth / 2
 );
 const linkY = 100;
 

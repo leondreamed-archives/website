@@ -5,6 +5,10 @@ import SpyUi from '~/components/spy-ui/spy-ui.vue';
 <template>
 	<div class="bg-gray-200 column min-h-full">
 		<SpyUi ref="spyUi" />
-		<div v-for="n in 200" :key="n">some stuff about me</div>
+		<h1>Hi, I'm Leon!</h1>
+		<p>
+			I'm a software developer building tools to help make people more
+			productive!
+		</p>
 	</div>
 </template>

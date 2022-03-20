@@ -1,16 +1,14 @@
 import { computed } from 'vue';
-import { useInnerWindowSize } from '~/utils/window';
+import { uiHeight, uiWidth } from './ui';
 
 export const worldMapPadding = 100;
 export const worldMapAspectRatio = 980 / 504;
 
-export const windowSize = useInnerWindowSize();
-
 export const worldMapMaxHeight = computed(
-	() => windowSize.height.value - 2 * worldMapPadding
+	() => uiHeight - 2 * worldMapPadding
 );
 export const worldMapMaxWidth = computed(
-	() => windowSize.width.value - 2 * worldMapPadding
+	() => uiWidth - 2 * worldMapPadding
 );
 
 export const worldMapWidth = computed(() =>

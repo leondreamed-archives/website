@@ -12,7 +12,7 @@
 
 The animated effects are stored in DaVinci Resolve Project Files which are synced to the website via a script (TODO: set up a script in DaVinci that autosaves the file to the `website` repository).
 
-The videos in the project files should be exported from DaVinci Resolve into the website's `public/videos` folder. (TODO: see if there's a way to export to Apple ProRes 4444 directly from DaVinci to save time instead of converting the videos to the intermediary format).
+The videos in the project files should be exported from DaVinci Resolve into the website's `public/videos` folder.
 
 ## Stats
 
@@ -25,5 +25,9 @@ The videos in the project files should be exported from DaVinci Resolve into the
 ## DaVinci Flow
 
 1. All Fusion compositions are stored in one project.
-2. When the compositions are updated,
-3.
+2. When the compositions are updated, TODO
+
+## TODO
+
+[] Add a script to import composition files from the `assets/` folder
+[] Add a pre-push script to update the composition files (or at least check for updates)

@@ -1,18 +1,15 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import anime from 'animejs';
-import { uiColor } from '~/utils/ui';
-import { useInnerWindowSize } from '~/utils/window';
-
-const windowSize = useInnerWindowSize();
+import { uiColor, uiWidth, uiHeight } from '~/utils/ui';
 
 const glowingBorderPadding = 50;
 
 const glowingBorderPath = computed(() => {
 	const padding = glowingBorderPadding;
 
-	const width = windowSize.width.value - 2 * padding;
-	const height = windowSize.height.value - 2 * padding;
+	const width = uiWidth - 2 * padding;
+	const height = uiHeight - 2 * padding;
 
 	const triangleCornerSize = Math.min(
 		Math.max((1 / 50) * width, (1 / 50) * height),
