@@ -25,7 +25,6 @@ export async function runDavinciScript({
 		{
 			stdio: 'pipe',
 			env: {
-				// eslint-disable-next-line @typescript-eslint/naming-convention
 				PYTHONPATH: `${process.env
 					.PYTHONPATH!}:/Library/Application Support/Blackmagic Design/DaVinci Resolve/Developer/Scripting/Modules`,
 				...envVars,
@@ -36,6 +35,13 @@ export async function runDavinciScript({
 	// Excludes some weird "Exception ignored in:" message from the output
 	// that only appears when using Python 3 with DaVinci
 	scriptProcess.stdout?.on('data', (data: Buffer) => {
+		const dataString = data.toString();
+		if (!dataString.includes('Exception ignored in:')) {
+			logDebug(() => dataString);
+		}
+	});
+
+	scriptProcess.stderr?.on('data', (data: Buffer) => {
 		const dataString = data.toString();
 		if (!dataString.includes('Exception ignored in:')) {
 			logDebug(() => dataString);
