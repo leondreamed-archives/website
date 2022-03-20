@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 17856
+    timeSpent: 18435
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
@@ -10,7 +10,7 @@ topActivities:
   - category: Uncategorized
     name: speedtyper.dev
     productivity: 0
-    timeSpent: 2998
+    timeSpent: 3493
   - category: General Software Development
     name: Github
     productivity: 2

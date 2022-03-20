@@ -25,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-03-19T00:41:08Z'
     type: PushEvent
-  - date: '2022-03-19T00:40:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: automation works!'
+  message: 'chore: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/reactive-emails/commits/017e7c0cf01f5e080769a1b8d63d0e7872303ecf
+    https://api.github.com/repos/leonzalion/reactive-emails/commits/262ec14a98e15641a9f963cb28b0c4da86a8f649
   repo:
     url: https://api.github.com/repos/leonzalion/reactive-emails
     name: leonzalion/reactive-emails
