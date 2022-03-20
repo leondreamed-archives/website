@@ -1,4 +1,4 @@
-/* eslint-disable @typescript-eslint/naming-convention */
+ 
 
 import process from 'node:process';
 import { Buffer } from 'node:buffer';
