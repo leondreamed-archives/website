@@ -15,6 +15,7 @@ export async function waitForReadyFusionServer() {
 			const result = await runDavinciScript({
 				scriptPath: getDavinciPythonScriptPath('check-is-fusion-ready'),
 				waitForServerStart: false,
+				silent: true,
 			});
 			return result.stdout.includes('True');
 		},
@@ -66,6 +67,8 @@ export async function startFusionServer(): Promise<number | undefined> {
 	});
 
 	logDebug(() => `Davinci Process ID: ${davinciProcessPid ?? 'undefined'}`);
+
+	logDebug(() => 'Waiting for the Fusion Server to be ready...');
 
 	await waitForReadyFusionServer();
 
