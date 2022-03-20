@@ -27,7 +27,9 @@ export async function runDavinciScript({
 	const fuscriptPath =
 		'/Applications/DaVinci Resolve/DaVinci Resolve.app/Contents/Libraries/Fusion/fuscript';
 
-	logDebug(() => 'Running the DaVinci script...');
+	if (!silent) {
+		logDebug(() => 'Running the DaVinci script...');
+	}
 
 	const scriptProcess = execa(
 		'script',
