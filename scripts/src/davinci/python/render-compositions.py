@@ -48,8 +48,8 @@ import time
 # Waiting until all projects finish rendering (TODO: print render job status using project.GetRenderJobStatus(idx))
 
 def waitForRenders():
-	mustend = time.time() + 180 # 3 minute timeout
-	while time.time() < mustend:
+	must_end = time.time() + 180 # 3 minute timeout
+	while time.time() < must_end:
 		if not project.IsRenderingInProgress(): return True
 		time.sleep(0.25)
 	return False

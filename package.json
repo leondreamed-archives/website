@@ -21,18 +21,18 @@
 		"tc": "pnpm recursive tc"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^15.0.0",
-		"@leonzalion/configs": "^1.0.64",
-		"@types/jest": "^27.4.0",
-		"@types/node": "^17.0.10",
-		"eslint": "^8.7.0",
+		"@commitlint/cli": "^16.2.3",
+		"@leonzalion/configs": "^1.1.14",
+		"@types/jest": "^27.4.1",
+		"@types/node": "^17.0.21",
+		"eslint": "^8.11.0",
 		"is-ci": "^3.0.1",
-		"lint-staged": "^12.3.1",
-		"lion-git-hooks": "^1.0.3",
-		"prettier": "^2.5.1",
-		"sync-index": "^1.0.11",
-		"tsc-alias": "^1.5.0",
-		"typescript": "^4.5.5"
+		"lint-staged": "^12.3.7",
+		"lion-git-hooks": "^1.0.7",
+		"prettier": "^2.6.0",
+		"sync-index": "^1.0.13",
+		"tsc-alias": "^1.6.4",
+		"typescript": "^4.6.2"
 	},
 	"lint-staged": {
 		"*.{js,ts,vue}": [
