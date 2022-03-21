@@ -132,7 +132,18 @@ export async function renderCompositions(
 
 export async function updateCompositionVideos() {
 	await startFusionServer();
-	const updatedCompositions = await getChangedCompositions();
+	let updatedCompositions;
+
+	const frontendVideosPath = path.join(getRootPath(), 'frontend/public/videos');
+	// If the `frontend/public` folder is empty, then update all compositions
+	// eslint-disable-next-line no-negated-condition
+	if (!fs.existsSync(frontendVideosPath)) {
+		updatedCompositions = getDavinciCompositions();
+		fs.mkdirSync(frontendVideosPath, { recursive: true });
+	} else {
+		updatedCompositions = await getChangedCompositions();
+	}
+
 	const renderedCompositions = await renderCompositions(updatedCompositions);
 	await convertCompositions(renderedCompositions);
 	return updatedCompositions;
