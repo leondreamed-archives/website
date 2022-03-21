@@ -10,12 +10,12 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 680
+    timeSpent: 1508
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 440
+    timeSpent: 543
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 392
+    timeSpent: 398
