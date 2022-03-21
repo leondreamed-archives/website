@@ -9,6 +9,7 @@ projectManager = resolve.GetProjectManager()
 dirname = os.path.dirname(abspath(getsourcefile(lambda:0)))
 rootPath = os.path.join(dirname, '../../../..')
 
+
 projectName = os.environ['PROJECT_NAME']
 
 project = projectManager.LoadProject(projectName)
@@ -19,7 +20,10 @@ compositionFilesFolder = os.path.join(rootPath, './assets/davinci/composition-fi
 if not os.path.exists(compositionFilesFolder):
 	os.makedirs(compositionFilesFolder)
 
+
 for timelineItem in timelineItems:
 	name = timelineItem.GetName()
 	fusionComp = timelineItem.GetFusionCompByIndex(1)
 	timelineItem.ExportFusionComp(os.path.join(compositionFilesFolder, name + '.comp'), 1)
+
+timeline.Export(os.path.join(compositionFilesFolder, 'timeline.csv'), resolve.EXPORT_TEXT_CSV, resolve.EXPORT_NONE)
