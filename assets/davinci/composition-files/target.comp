@@ -2,10 +2,10 @@ Composition {
 	CurrentTime = 0,
 	RenderRange = { 0, 119 },
 	GlobalRange = { 0, 119 },
-	CurrentID = 74,
+	CurrentID = 78,
 	HiQ = true,
 	PlaybackUpdateMode = 0,
-	Version = "DaVinci Resolve Studio 17.4.2.0009",
+	Version = "DaVinci Resolve Studio 17.4.5.0007",
 	SavedOutputs = 0,
 	HeldTools = 0,
 	DisabledTools = 0,
@@ -24,7 +24,7 @@ Composition {
 				["Gamut.SLogVersion"] = Input { Value = FuID { "SLog2" }, },
 				TopLeftAlpha = Input { Value = 0, },
 			},
-			ViewInfo = OperatorInfo { Pos = { 641.333, 112.803 } },
+			ViewInfo = OperatorInfo { Pos = { 404.667, 24.9394 } },
 		},
 		sOutline1 = sOutline {
 			Inputs = {
@@ -34,7 +34,7 @@ Composition {
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 528.667, 9.78788 } },
+			ViewInfo = OperatorInfo { Pos = { 292.001, -78.0757 } },
 		},
 		sDuplicate2 = sDuplicate {
 			Inputs = {
@@ -45,21 +45,17 @@ Composition {
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 422.667, 9.18181 } },
+			ViewInfo = OperatorInfo { Pos = { 186.001, -78.6818 } },
 		},
-		sDuplicate1 = sDuplicate {
+		sRectangle1 = sRectangle {
 			Inputs = {
-				Copies = Input { Value = 1, },
-				YOffset = Input { Value = -0.25, },
-				Input = Input {
-					SourceOp = "sRectangle1",
-					Source = "Output",
-				},
+				["Translate.Y"] = Input { Value = 0.125, },
+				Width = Input { Value = 0.016, },
+				Height = Input { Value = 0.079, },
 			},
-			ViewInfo = OperatorInfo { Pos = { 322.667, 7.96969 } },
+			ViewInfo = OperatorInfo { Pos = { 87.3336, -110.803 } },
 		},
 		Merge2 = Merge {
-			CtrlWZoom = false,
 			Inputs = {
 				Background = Input {
 					SourceOp = "Background1",
@@ -71,7 +67,18 @@ Composition {
 				},
 				PerformDepthMerge = Input { Value = 0, },
 			},
-			ViewInfo = OperatorInfo { Pos = { 524.667, 147.97 } },
+			ViewInfo = OperatorInfo { Pos = { 288.001, 60.1064 } },
+		},
+		MediaOut1 = Saver {
+			CtrlWZoom = false,
+			Inputs = {
+				Index = Input { Value = "0", },
+				Input = Input {
+					SourceOp = "Merge2",
+					Source = "Output",
+				},
+			},
+			ViewInfo = OperatorInfo { Pos = { 398.001, 60.1064 } },
 		},
 		sRender1 = sRender {
 			Inputs = {
@@ -85,17 +92,7 @@ Composition {
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 312, 120.697 } },
-		},
-		MediaOut1 = Saver {
-			Inputs = {
-				Index = Input { Value = "0", },
-				Input = Input {
-					SourceOp = "Merge2",
-					Source = "Output",
-				},
-			},
-			ViewInfo = OperatorInfo { Pos = { 702.667, 142.833 } },
+			ViewInfo = OperatorInfo { Pos = { 75.3336, 32.8334 } },
 		},
 		sTransform1Rotation = BezierSpline {
 			SplineColor = { Red = 128, Green = 128, Blue = 255 },
@@ -104,6 +101,16 @@ Composition {
 				[0] = { 0, RH = { 6.66666666666667, 225 }, Flags = { Linear = true } },
 				[20] = { 675, LH = { 4.6, 636.299506898351 } }
 			}
+		},
+		sRectangle1_1 = sRectangle {
+			CtrlWZoom = false,
+			Inputs = {
+				["Translate.X"] = Input { Value = -0.125, },
+				Width = Input { Value = 0.016, },
+				Height = Input { Value = 0.079, },
+				Angle = Input { Value = 90, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 189.334, -109.924 } },
 		},
 		sMerge2 = sMerge {
 			Inputs = {
@@ -120,7 +127,14 @@ Composition {
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 399.333, 59.1515 } },
+			ViewInfo = OperatorInfo { Pos = { 162.667, -28.7121 } },
+		},
+		sEllipse1 = sEllipse {
+			Inputs = {
+				Width = Input { Value = 0.173, },
+				Height = Input { Value = 0.173, },
+			},
+			ViewInfo = OperatorInfo { Pos = { 294.001, -107.773 } },
 		},
 		sTransform1 = sTransform {
 			Inputs = {
@@ -141,24 +155,7 @@ Composition {
 					Source = "Output",
 				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 421.333, 98.8788 } },
-		},
-		sEllipse1 = sEllipse {
-			Inputs = {
-				Width = Input { Value = 0.173, },
-				Height = Input { Value = 0.173, },
-			},
-			ViewInfo = OperatorInfo { Pos = { 530.667, -19.9091 } },
-		},
-		sRectangle1_1 = sRectangle {
-			CtrlWZoom = false,
-			Inputs = {
-				["Translate.X"] = Input { Value = -0.125, },
-				Width = Input { Value = 0.016, },
-				Height = Input { Value = 0.079, },
-				Angle = Input { Value = 90, },
-			},
-			ViewInfo = OperatorInfo { Pos = { 426, -22.0606 } },
+			ViewInfo = OperatorInfo { Pos = { 184.667, 11.0152 } },
 		},
 		sTransform1XSize = BezierSpline {
 			SplineColor = { Red = 251, Green = 168, Blue = 44 },
@@ -178,13 +175,16 @@ Composition {
 				[50] = { 0.05, LH = { 40, 0.05 }, Flags = { Linear = true } }
 			}
 		},
-		sRectangle1 = sRectangle {
+		sDuplicate1 = sDuplicate {
 			Inputs = {
-				["Translate.Y"] = Input { Value = 0.125, },
-				Width = Input { Value = 0.016, },
-				Height = Input { Value = 0.079, },
+				Copies = Input { Value = 1, },
+				YOffset = Input { Value = -0.25, },
+				Input = Input {
+					SourceOp = "sRectangle1",
+					Source = "Output",
+				},
 			},
-			ViewInfo = OperatorInfo { Pos = { 324, -22.9394 } },
+			ViewInfo = OperatorInfo { Pos = { 86.0006, -79.8939 } },
 		}
 	},
 	Frames = {
@@ -203,25 +203,10 @@ Composition {
 				DepthPreview = 3,
 				DepthInteractive = 3,
 			},
-			PolyKeyListDlg = {
-				Window = {
-					Left = 1519,
-					Top = 572
-				}
-			},
 			Unsorted = {
 				GlobalEnd = 119
 			},
-			SplineEditor = {
-				AutoSnap = {
-					Keys = 18,
-				},
-				IndependentHandles = true
-			},
 			Paths = {
-			},
-			ActionStrip = {
-				ToolbarName = "Shapes"
 			},
 		}
 	},
