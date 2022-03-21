@@ -31,8 +31,6 @@ events:
     type: WatchEvent
   - date: '2022-03-20T10:39:54Z'
     type: CreateEvent
-  - date: '2022-03-20T10:39:54Z'
-    type: ReleaseEvent
 latestCommit:
   message: changes
   url: >-
