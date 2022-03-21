@@ -23,8 +23,6 @@ events:
     type: PushEvent
   - date: '2022-03-20T19:29:50Z'
     type: PushEvent
-  - date: '2022-03-20T14:48:05Z'
-    type: WatchEvent
 latestCommit:
   message: changes
   url: >-
