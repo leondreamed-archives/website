@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-20T23:40:58Z'
+    type: PushEvent
+  - date: '2022-03-20T23:37:01Z'
+    type: PushEvent
   - date: '2022-03-20T21:46:43Z'
     type: PushEvent
   - date: '2022-03-20T20:56:12Z'
@@ -33,16 +37,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-20T06:26:37Z'
     type: CreateEvent
-  - date: '2022-03-20T06:26:32Z'
-    type: PushEvent
-  - date: '2022-03-20T06:26:27Z'
-    type: PushEvent
-  - date: '2022-03-20T06:25:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: typo'
+  message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/a21c0ae45f23e24a5ff31b7005a1daecd4058a88
+    https://api.github.com/repos/leonzalion/jslatex/commits/3d1bd9548b26d3ca6e38900db296072e8e5af07f
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/jslatex
+    name: leonzalion/jslatex
