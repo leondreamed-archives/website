@@ -23,7 +23,7 @@ timelineItems = timeline.GetItemListInTrack("video", 1)
 # Remove all active render jobs
 project.DeleteAllRenderJobs()
 
-project.SetCurrentRenderFormatAndCodec("mov", "ProRes444")
+project.SetCurrentRenderFormatAndCodec("mov", "ProRes4444")
 
 for timelineItem in timelineItems:
 	name = timelineItem.GetName()
