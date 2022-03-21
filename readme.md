@@ -31,3 +31,4 @@ The videos in the project files should be exported from DaVinci Resolve into the
 
 [] Add a script to import composition files from the `assets/` folder
 [] Add a pre-push script to update the composition files (or at least check for updates)
+[] Export the entire timeline from DaVinci

@@ -23,8 +23,30 @@ else:
 	# Add the compositions into the project's media pool
 	mediaStorage = resolve.GetMediaStorage()
 	compositionFilesFolder = os.path.join(rootPath, './assets/davinci/composition-files')
-	clips = mediaStorage.AddItemListToMediaPool([os.path.abspath(x) for x in os.listdir()])
 
-	# Import the compositions from the media pool into the timeline
 	mediaPool = project.GetMediaPool()
-	mediaPool.CreateTimelineFromClips("Compositions", clips)
+	timeline = mediaPool.CreateEmptyTimeline('empty')
+	timelineItems = timeline.AppendToTimeline([
+		{
+			'startFrame': 1,
+			'endFrame': 150, # 5 seconds * 30 fps
+			'mediaType': 1
+		},
+		{
+			'startFrame': 151,
+			'endFrame': 300,
+			'mediaType': 1
+		},
+		{
+			'startFrame': 301,
+			'endFrame': 450,
+			'mediaType': 1
+		}
+	])
+
+	fusionCompPaths = [
+		os.path.abspath(os.path.join(compositionFilesFolder, x))
+		for x in os.listdir(compositionFilesFolder)
+	]
+	for timelineItem, fusionCompPath in zip(timelineItems, fusionCompPaths):
+		timelineItem.ImportFusionComp(fusionCompPath)

@@ -2,7 +2,7 @@
 	"name": "website-scripts",
 	"type": "module",
 	"scripts": {
-		"update-compositions": "node-ts ./src/davinci/update-compositions.ts",
+		"update-composition-videos": "node-ts ./src/davinci/bin/update-composition-videos.ts",
 		"upload-compositions": "node-ts ./src/s3/upload-compositions.ts",
 		"lint": "eslint --cache --fix .",
 		"prettier": "prettier --write .",
