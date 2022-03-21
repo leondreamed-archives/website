@@ -1,4 +1,12 @@
 events:
+  - date: '2022-03-21T22:29:58Z'
+    type: PushEvent
+  - date: '2022-03-21T22:28:47Z'
+    type: ReleaseEvent
+  - date: '2022-03-21T22:28:34Z'
+    type: CreateEvent
+  - date: '2022-03-21T22:28:34Z'
+    type: PushEvent
   - date: '2022-03-21T20:11:13Z'
     type: PushEvent
   - date: '2022-03-21T01:40:46Z'
@@ -17,18 +25,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T20:56:12Z'
     type: PushEvent
-  - date: '2022-03-20T20:20:41Z'
-    type: WatchEvent
-  - date: '2022-03-20T19:56:52Z'
-    type: WatchEvent
-  - date: '2022-03-20T19:29:59Z'
-    type: PushEvent
-  - date: '2022-03-20T19:29:50Z'
-    type: PushEvent
 latestCommit:
-  message: changes
+  message: 'feat: davinci updates'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/0533c64655b119b7f17663989e25048b08b809c6
+    https://api.github.com/repos/leonzalion/website/commits/972d4d0d7e32955f0cd241bab2277d3922685ffe
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
