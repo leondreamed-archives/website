@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-22T00:45:52Z'
+    type: PushEvent
+  - date: '2022-03-22T00:44:39Z'
+    type: PushEvent
   - date: '2022-03-21T22:29:58Z'
     type: PushEvent
   - date: '2022-03-21T22:28:47Z'
@@ -21,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T23:37:01Z'
     type: PushEvent
-  - date: '2022-03-20T21:46:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: davinci python bootstrapper'
+  message: 'feat: initialize project script'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/148a632fe3190b82b126dcbf932ad63ad2be5564
+    https://api.github.com/repos/leonzalion/website/commits/301cb4082070eda0f73f6b3e17f3659633679c22
   repo:
-    url: https://api.github.com/repos/leonzalion/bootstrap-macos
-    name: leonzalion/bootstrap-macos
+    url: https://api.github.com/repos/leonzalion/website
+    name: leonzalion/website
