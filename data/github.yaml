@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T21:46:43Z'
     type: PushEvent
-  - date: '2022-03-20T20:56:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: davinci updates'
+  message: 'fix: davinci python bootstrapper'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/972d4d0d7e32955f0cd241bab2277d3922685ffe
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/148a632fe3190b82b126dcbf932ad63ad2be5564
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
