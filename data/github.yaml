@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-03-21T01:00:36Z'
     type: PushEvent
-  - date: '2022-03-20T23:40:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: silence'
+  message: 'chore: update davinci'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/9402b31e833dbb6be277388378ee9c82e3a33327
+    https://api.github.com/repos/leonzalion/website/commits/7c9ee9d0f4a1abe9af0c9e0841c23fee2dda724a
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
