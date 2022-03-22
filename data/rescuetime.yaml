@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 2449
+    timeSpent: 2909
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1589
+    timeSpent: 2625
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2499
   - category: Presentation
     name: Google Presentations
     productivity: 2
     timeSpent: 874
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 812
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 735
+    timeSpent: 820
