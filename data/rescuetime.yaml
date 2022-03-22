@@ -2,15 +2,15 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2909
+    timeSpent: 3438
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 2625
+    timeSpent: 3273
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2499
+    timeSpent: 2698
   - category: Presentation
     name: Google Presentations
     productivity: 2
@@ -18,4 +18,4 @@ topActivities:
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 820
+    timeSpent: 860
