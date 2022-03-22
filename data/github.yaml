@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-03-20T23:40:58Z'
     type: PushEvent
-  - date: '2022-03-20T23:37:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: initialize project script'
+  message: 'feat: silence'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/301cb4082070eda0f73f6b3e17f3659633679c22
+    https://api.github.com/repos/leonzalion/website/commits/9402b31e833dbb6be277388378ee9c82e3a33327
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
