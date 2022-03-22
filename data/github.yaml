@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-22T18:44:30Z'
+    type: WatchEvent
   - date: '2022-03-22T00:45:52Z'
     type: PushEvent
   - date: '2022-03-22T00:44:39Z'
@@ -13,12 +15,10 @@ events:
     type: PushEvent
   - date: '2022-03-21T20:11:13Z'
     type: PushEvent
-  - date: '2022-03-21T01:40:46Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: timeline export'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/99931d84bc3ea92de2bd9f456d796f668d54b101
+    https://api.github.com/repos/Vic-Park/vpciclubs.com/commits/a62138aebc5986388177113f037f1773e1c60779
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/Vic-Park/vpciclubs.com
+    name: Vic-Park/vpciclubs.com
