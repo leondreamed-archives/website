@@ -17,12 +17,10 @@ events:
     type: PushEvent
   - date: '2022-03-21T01:21:07Z'
     type: PushEvent
-  - date: '2022-03-21T01:15:26Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: script render'
+  message: 'fix: composition render script'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/a8c9744088166e8b63d8c476b0065c18848d611c
+    https://api.github.com/repos/leonzalion/website/commits/e7556db109f8e62fc1d7f23bdcce823a01408288
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
