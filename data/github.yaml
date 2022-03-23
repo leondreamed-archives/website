@@ -17,12 +17,10 @@ events:
     type: ReleaseEvent
   - date: '2022-03-21T22:28:34Z'
     type: CreateEvent
-  - date: '2022-03-21T22:28:34Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.63
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/5d9aaf6b4f85d81ef4d4b967333c9670d20afb78
+    https://api.github.com/repos/leonzalion/create-project/commits/4e8cd1e58ee3022d916d44ce2267829cfe4ce38f
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
