@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 7534
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 5469
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 5117
+    timeSpent: 8066
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 1707
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 1341
+    timeSpent: 1484
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 901
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 465
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 447
