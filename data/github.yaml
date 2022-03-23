@@ -19,12 +19,10 @@ events:
     type: CreateEvent
   - date: '2022-03-21T22:28:34Z'
     type: PushEvent
-  - date: '2022-03-21T20:11:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 1.0.63
   url: >-
-    https://api.github.com/repos/Vic-Park/vpciclubs.com/commits/a62138aebc5986388177113f037f1773e1c60779
+    https://api.github.com/repos/leonzalion/create-project/commits/5d9aaf6b4f85d81ef4d4b967333c9670d20afb78
   repo:
-    url: https://api.github.com/repos/Vic-Park/vpciclubs.com
-    name: Vic-Park/vpciclubs.com
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
