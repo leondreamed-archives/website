@@ -6,7 +6,7 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 2167
+    timeSpent: 2467
   - category: Video
     name: youtube.com
     productivity: -2
@@ -14,8 +14,8 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1102
+    timeSpent: 1162
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1063
+    timeSpent: 1104
