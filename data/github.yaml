@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-23T22:56:32Z'
+    type: WatchEvent
   - date: '2022-03-22T20:08:14Z'
     type: IssuesEvent
   - date: '2022-03-22T19:45:18Z'
