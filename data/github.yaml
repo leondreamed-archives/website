@@ -11,12 +11,10 @@ events:
     type: PushEvent
   - date: '2022-03-22T00:44:39Z'
     type: PushEvent
-  - date: '2022-03-21T22:29:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: espanso'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/4e8cd1e58ee3022d916d44ce2267829cfe4ce38f
+    https://api.github.com/repos/leonzalion/macos-configs/commits/a947c4707f1a0760cc9bc1d21d6d961bcb1ee68b
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
