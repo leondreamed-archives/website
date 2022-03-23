@@ -7,12 +7,3 @@ events:
     type: WatchEvent
   - date: '2022-03-22T18:44:30Z'
     type: WatchEvent
-  - date: '2022-03-22T00:45:52Z'
-    type: PushEvent
-latestCommit:
-  message: 'chore: espanso gitignore'
-  url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/099b030b846b53b6a25a9133ebf4fd10cab803cc
-  repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
