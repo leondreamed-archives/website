@@ -1,115 +1,97 @@
-dailyAverage: 45013
-totalSeconds: 315088.849912
+dailyAverage: 42959
+totalSeconds: 300710.422527
 languages:
   - name: TeX
-    totalSeconds: 107747.54403
+    totalSeconds: 139582.777361
   - name: sh
-    totalSeconds: 79733.122777
+    totalSeconds: 65049.561243
   - name: TypeScript
-    totalSeconds: 75266.533613
-  - name: Markdown
-    totalSeconds: 13315.1628
+    totalSeconds: 51991.115527
   - name: Python
     totalSeconds: 12881.866906
-  - name: JSON
-    totalSeconds: 6595.426002
+  - name: Markdown
+    totalSeconds: 8913.046546
   - name: JavaScript
-    totalSeconds: 6110.707129
+    totalSeconds: 5297.471375
   - name: Other
-    totalSeconds: 5340.660348
+    totalSeconds: 3996.489797
+  - name: JSON
+    totalSeconds: 3547.119746
   - name: C++
     totalSeconds: 3161.632444
   - name: Text
     totalSeconds: 2276.704413
   - name: HTML
-    totalSeconds: 1882.556003
+    totalSeconds: 1870.881074
   - name: Vue.js
     totalSeconds: 1664.394626
   - name: YAML
-    totalSeconds: 1514.514409
-  - name: EJS
-    totalSeconds: 1335.474271
+    totalSeconds: 1471.363208
+  - name: BibTeX
+    totalSeconds: 1471.143379
   - name: Bash
     totalSeconds: 732.387627
   - name: Rust
     totalSeconds: 506.691047
   - name: CSS
     totalSeconds: 121.192097
-  - name: XML
-    totalSeconds: 104.003912
+  - name: EJS
+    totalSeconds: 91.143441
   - name: Git Config
-    totalSeconds: 85.652628
-  - name: BibTeX
-    totalSeconds: 41.701926
+    totalSeconds: 72.72092
   - name: INI
-    totalSeconds: 9.308162
-  - name: Perl
-    totalSeconds: 2.27309
+    totalSeconds: 7.209547
 projects:
   - name: chem-ia
-    totalSeconds: 109495.186308
+    totalSeconds: 146978.658352
   - name: reactive-emails
-    totalSeconds: 43743.51708
+    totalSeconds: 43340.996624
   - name: leonzalion
-    totalSeconds: 35333.871433
+    totalSeconds: 31898.479448
   - name: website
     totalSeconds: 23247.027894
-  - name: ets
-    totalSeconds: 21530.319475
   - name: pledged
     totalSeconds: 19313.896164
-  - name: sigfig
-    totalSeconds: 8982.303124
-  - name: jslatex
-    totalSeconds: 8182.412863
-  - name: todo
-    totalSeconds: 7636.466204
   - name: timeblocker-ecs
     totalSeconds: 7348.41092
-  - name: vscode-ejs
-    totalSeconds: 5039.528185
-  - name: latex-workflow
-    totalSeconds: 3715.417922
+  - name: todo
+    totalSeconds: 7138.268431
   - name: flip
     totalSeconds: 2928.43127
-  - name: vscode-ets
-    totalSeconds: 2833.288681
+  - name: jslatex
+    totalSeconds: 2565.972583
   - name: chem
     totalSeconds: 2087.713673
-  - name: vite-electron-builder
-    totalSeconds: 1996.574135
   - name: Terminal
-    totalSeconds: 1850.78227
+    totalSeconds: 1848.476261
+  - name: ets
+    totalSeconds: 1655.687724
   - name: vpciclubs.com
     totalSeconds: 1529.803357
   - name: configs
-    totalSeconds: 1404.34135
+    totalSeconds: 1350.990843
   - name: leonzalion-google-workspace
     totalSeconds: 1289.856669
   - name: tabulo-rewrite
     totalSeconds: 1226.095573
   - name: Unknown Project
     totalSeconds: 1216.641957
+  - name: math-ia
+    totalSeconds: 1156.189584
   - name: bootstrap-macos
-    totalSeconds: 1123.632177
+    totalSeconds: 1116.151356
   - name: lionecs
     totalSeconds: 1101.82237
-  - name: math-ia
-    totalSeconds: 1056.823476
+  - name: latex-workflow
+    totalSeconds: 767.315647
   - name: create-project
-    totalSeconds: 812.202685
+    totalSeconds: 702.759054
   - name: git-cliff
     totalSeconds: 528.804921
   - name: entt
     totalSeconds: 528.511375
-  - name: vitest-dynamic-import-eval
-    totalSeconds: 518.918582
-  - name: embedded-ts
-    totalSeconds: 508.331656
   - name: emsdk
     totalSeconds: 442.507708
-  - name: ejs
-    totalSeconds: 360.341405
   - name: yabai-master-stack-plugin
     totalSeconds: 354.762107
   - name: timeblocker
@@ -122,16 +104,14 @@ projects:
     totalSeconds: 148.030618
   - name: fprime
     totalSeconds: 74.463935
-  - name: vite-dynamic-import-eval
-    totalSeconds: 68.479403
-  - name: vscode-ets-old
-    totalSeconds: 44.604289
   - name: ProperTree
     totalSeconds: 43.924999
-  - name: .oh-my-zsh
-    totalSeconds: 40.345869
+  - name: PyBoxCar
+    totalSeconds: 26.788211
   - name: assets
     totalSeconds: 10.709088
+  - name: vite-electron-builder
+    totalSeconds: 8.356518
   - name: MountEFI
     totalSeconds: 5.488318
   - name: react
