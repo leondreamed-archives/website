@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 311
+    timeSpent: 591
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 374
   - category: Communications
     name: discord.com
     productivity: -1
     timeSpent: 290
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 251
   - category: Instant Message
     name: hangouts.google.com
     productivity: -1
-    timeSpent: 230
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 69
-  - category: Intelligence
-    name: wakatime.com
-    productivity: 2
-    timeSpent: 56
+    timeSpent: 242
