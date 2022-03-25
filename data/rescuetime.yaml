@@ -1,12 +1,12 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1871
   - category: Communications
     name: discord.com
     productivity: -1
     timeSpent: 1136
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 943
   - category: General Software Development
     name: Github
     productivity: 2
