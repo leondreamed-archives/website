@@ -1,4 +1,14 @@
 events:
+  - date: '2022-03-26T09:09:43Z'
+    type: PushEvent
+  - date: '2022-03-26T09:05:51Z'
+    type: PushEvent
+  - date: '2022-03-26T09:00:12Z'
+    type: PushEvent
+  - date: '2022-03-26T08:53:56Z'
+    type: PushEvent
+  - date: '2022-03-26T08:51:20Z'
+    type: PushEvent
   - date: '2022-03-25T19:39:28Z'
     type: PushEvent
   - date: '2022-03-25T19:38:53Z'
@@ -17,8 +27,6 @@ events:
     type: CreateEvent
   - date: '2022-03-25T19:32:13Z'
     type: PushEvent
-  - date: '2022-03-25T02:45:28Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: only run hooks on dev branch'
   url: >-
