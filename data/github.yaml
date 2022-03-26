@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-26T18:08:44Z'
+    type: PublicEvent
   - date: '2022-03-26T16:41:37Z'
     type: PushEvent
   - date: '2022-03-26T16:39:06Z'
