@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-26T22:57:41Z'
+    type: WatchEvent
   - date: '2022-03-26T18:08:44Z'
     type: PublicEvent
   - date: '2022-03-26T16:41:37Z'
@@ -37,14 +39,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T09:00:12Z'
     type: PushEvent
-  - date: '2022-03-26T08:53:56Z'
-    type: PushEvent
-  - date: '2022-03-26T08:51:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: simultaneous yabai 3 and yabai 4 support'
+  message: 'refactor: rename'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/a864117310afdf6154850fb67dbcb9e4d91a5af7
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/7e93d96bd270ea15d5976579dda9f07e2bb51246
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
