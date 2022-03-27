@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T15:05:12Z'
     type: PushEvent
-  - date: '2022-03-26T09:09:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bug'
+  message: 'fix: clear unknown state'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/48e09359c020484ed70b9aad157d1a50cad998b4
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/ce46bbb1a655eab0000c7554e7a30ae397ca6d31
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
