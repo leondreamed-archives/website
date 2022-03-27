@@ -29,12 +29,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T16:08:47Z'
     type: PushEvent
-  - date: '2022-03-26T16:07:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: pancake layout'
+  message: 2.1.0-1
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/cccced5d42a5c04131b4f7522dca1f7be1d8488f
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/239cc3027e9d33630bb2cae27be40fe8fb53d815
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
