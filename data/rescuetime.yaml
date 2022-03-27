@@ -6,7 +6,11 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1709
+    timeSpent: 2283
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1584
   - category: Video
     name: youtube.com
     productivity: -2
@@ -15,7 +19,3 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 708
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 317
