@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T16:26:14Z'
     type: PushEvent
-  - date: '2022-03-26T16:20:45Z'
-    type: PushEvent
 latestCommit:
-  message: 2.1.0-3
+  message: 'fix: columnize master windows'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/41202ce073e30fb287a8f74739113171ffa904f4
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/79057913abd64a2687acbb8ae352fe69323b0120
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin

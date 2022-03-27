@@ -2,15 +2,15 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 6164
+    timeSpent: 6232
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 4370
+    timeSpent: 4496
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 2779
+    timeSpent: 2812
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -18,4 +18,4 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1504
+    timeSpent: 1883
