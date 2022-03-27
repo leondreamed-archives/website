@@ -6,7 +6,7 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 9408
+    timeSpent: 10141
   - category: Games
     name: '[unpublished]'
     productivity: -2
@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 3709
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2050
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 3626
