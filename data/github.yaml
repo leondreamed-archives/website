@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T16:20:45Z'
     type: PushEvent
-  - date: '2022-03-26T16:20:00Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: better createstack implementation'
+  message: 2.1.0-3
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/0adcd0bd5738b3ec71753b8f74a1b645fcfd4b88
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/41202ce073e30fb287a8f74739113171ffa904f4
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
