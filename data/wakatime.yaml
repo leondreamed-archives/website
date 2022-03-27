@@ -1,85 +1,91 @@
-dailyAverage: 36200
-totalSeconds: 253400.978067
+dailyAverage: 33433
+totalSeconds: 234030.835009
 languages:
-  - name: TeX
-    totalSeconds: 102314.079974
   - name: TypeScript
-    totalSeconds: 58489.639156
+    totalSeconds: 76126.120425
   - name: sh
-    totalSeconds: 48887.045248
+    totalSeconds: 56901.024997
+  - name: TeX
+    totalSeconds: 54743.466638
   - name: Python
-    totalSeconds: 13498.583273
-  - name: Markdown
-    totalSeconds: 7519.44437
-  - name: Vue.js
-    totalSeconds: 4368.634968
+    totalSeconds: 13551.579233
   - name: Text
-    totalSeconds: 3410.040668
+    totalSeconds: 7156.804592
+  - name: Markdown
+    totalSeconds: 5477.837804
+  - name: Vue.js
+    totalSeconds: 4884.929517
   - name: C++
     totalSeconds: 3161.632444
+  - name: JSON
+    totalSeconds: 2903.366453
   - name: YAML
     totalSeconds: 2871.825454
-  - name: JSON
-    totalSeconds: 2703.999266
   - name: Other
-    totalSeconds: 2577.469554
+    totalSeconds: 2593.715898
   - name: Bash
     totalSeconds: 1840.223736
   - name: HTML
-    totalSeconds: 1698.960649
+    totalSeconds: 1737.197324
   - name: BibTeX
-    totalSeconds: 1470.251876
+    totalSeconds: 1441.995972
   - name: Rust
     totalSeconds: 506.691047
   - name: JavaScript
-    totalSeconds: 402.233974
+    totalSeconds: 406.28078
   - name: CSS
     totalSeconds: 119.149602
+  - name: Git Config
+    totalSeconds: 101.873464
   - name: GraphQL
     totalSeconds: 87.866844
-  - name: Git Config
-    totalSeconds: 41.917147
   - name: Docker
     totalSeconds: 8.758371
+  - name: reStructuredText
+    totalSeconds: 1.393535
+  - name: TOML
+    totalSeconds: 0.816777
 projects:
   - name: chem-ia
-    totalSeconds: 110081.009924
-  - name: precommit
-    totalSeconds: 26243.006925
+    totalSeconds: 61438.822724
+  - name: discord-email-tunnel
+    totalSeconds: 32680.768811
   - name: leonzalion
-    totalSeconds: 23880.491331
+    totalSeconds: 28799.795189
+  - name: precommit
+    totalSeconds: 27648.888274
   - name: website
     totalSeconds: 23247.027894
-  - name: discord-email-tunnel
-    totalSeconds: 19380.558434
   - name: pledged
     totalSeconds: 19314.689183
+  - name: yabai-master-stack-plugin
+    totalSeconds: 14510.164829
   - name: timeblocker-ecs
     totalSeconds: 7348.41092
   - name: todo
-    totalSeconds: 6479.679955
+    totalSeconds: 3678.46728
   - name: flip
     totalSeconds: 2928.43127
   - name: tabulo-rewrite
     totalSeconds: 2172.238101
-  - name: jslatex
-    totalSeconds: 2172.074011
   - name: Terminal
     totalSeconds: 1839.991582
-  - name: math-ia
-    totalSeconds: 1810.849764
   - name: vpciclubs.com
     totalSeconds: 1529.803357
   - name: Unknown Project
     totalSeconds: 1215.411858
   - name: lionecs
     totalSeconds: 1101.82237
+  - name: math-ia
+    totalSeconds: 1017.693253
+  - name: soundit
+    totalSeconds: 774.62196
   - name: leonzalion-google-workspace
     totalSeconds: 675.58564
   - name: bootstrap-macos
     totalSeconds: 567.28259
   - name: create-project
-    totalSeconds: 557.044034
+    totalSeconds: 557.200962
   - name: git-cliff
     totalSeconds: 528.804921
   - name: entt
@@ -89,30 +95,28 @@ projects:
   - name: reactive-emails
     totalSeconds: 435.539784
   - name: lion-system
-    totalSeconds: 406.228731
+    totalSeconds: 428.932678
   - name: timeblocker
     totalSeconds: 282.384046
   - name: vpcc-web-dev
     totalSeconds: 262.488776
+  - name: jslatex
+    totalSeconds: 207.404004
   - name: habitica
     totalSeconds: 188.142332
   - name: configs
     totalSeconds: 88.194441
   - name: fprime
     totalSeconds: 74.463935
-  - name: yabai-master-stack-plugin
-    totalSeconds: 71.189986
   - name: tabulo
     totalSeconds: 60.936134
   - name: PyBoxCar
     totalSeconds: 26.788211
-  - name: latex-workflow
-    totalSeconds: 14.68404
   - name: assets
     totalSeconds: 10.709088
   - name: lion-architecture
     totalSeconds: 5.840001
   - name: ets
-    totalSeconds: 3.23525
+    totalSeconds: 3.395707
   - name: chem
     totalSeconds: 2.389719
