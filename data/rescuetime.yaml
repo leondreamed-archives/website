@@ -1,16 +1,16 @@
 topActivities:
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 8026
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 6232
+    timeSpent: 6258
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 4496
-  - category: Games
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 2812
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
