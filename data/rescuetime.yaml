@@ -1,12 +1,12 @@
 topActivities:
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 2417
   - category: Communications
     name: discord.com
     productivity: -1
     timeSpent: 1709
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 1588
   - category: Video
     name: youtube.com
     productivity: -2
