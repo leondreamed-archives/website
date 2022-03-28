@@ -13,12 +13,10 @@ events:
     type: PublicEvent
   - date: '2022-03-26T16:41:37Z'
     type: PushEvent
-  - date: '2022-03-26T16:39:06Z'
-    type: PushEvent
 latestCommit:
-  message: 2.1.0-5
+  message: 'fix: skip columnizing stack windows if there is no stack'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/56320ccdb4a007ac7e3a0ef488a8d9a77eb72f6e
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/91b68ea8c481eceb339c4603cbe273531142cbdd
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
