@@ -11,12 +11,10 @@ events:
     type: WatchEvent
   - date: '2022-03-26T18:08:44Z'
     type: PublicEvent
-  - date: '2022-03-26T16:41:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: skip columnizing stack windows if there is no stack'
+  message: 'feat: add cargo to path'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/91b68ea8c481eceb339c4603cbe273531142cbdd
+    https://api.github.com/repos/leonzalion/macos-configs/commits/4f3fea16e85cf6b61f191aa9eed3418464d7a0a9
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
