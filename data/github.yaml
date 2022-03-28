@@ -17,8 +17,6 @@ events:
     type: WatchEvent
   - date: '2022-03-27T15:14:14Z'
     type: IssueCommentEvent
-  - date: '2022-03-27T14:21:20Z'
-    type: ForkEvent
 latestCommit:
   message: brew
   url: >-
