@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-28T15:55:16Z'
+    type: PushEvent
+  - date: '2022-03-28T15:52:27Z'
+    type: PushEvent
   - date: '2022-03-28T12:50:36Z'
     type: PushEvent
   - date: '2022-03-28T11:49:24Z'
@@ -11,14 +15,10 @@ events:
     type: IssueCommentEvent
   - date: '2022-03-27T14:21:20Z'
     type: ForkEvent
-  - date: '2022-03-26T23:39:47Z'
-    type: PushEvent
-  - date: '2022-03-26T22:57:41Z'
-    type: WatchEvent
 latestCommit:
-  message: 'feat: add cargo to path'
+  message: brew
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/4f3fea16e85cf6b61f191aa9eed3418464d7a0a9
+    https://api.github.com/repos/leonzalion/macos-configs/commits/dc660f24f54436518e70776a2dc3de06debc1fbd
   repo:
     url: https://api.github.com/repos/leonzalion/macos-configs
     name: leonzalion/macos-configs
