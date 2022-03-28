@@ -15,12 +15,10 @@ events:
     type: PushEvent
   - date: '2022-03-26T16:39:06Z'
     type: PushEvent
-  - date: '2022-03-26T16:38:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: skip moving window to stack if there is no stack'
+  message: 2.1.0-5
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/4f2e14e0051070bd20e1d7bced40c4e2a8d233f5
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/56320ccdb4a007ac7e3a0ef488a8d9a77eb72f6e
   repo:
     url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
     name: leonzalion/yabai-master-stack-plugin
