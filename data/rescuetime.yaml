@@ -1,4 +1,12 @@
 topActivities:
+  - category: Presentation
+    name: Google Presentations
+    productivity: 2
+    timeSpent: 472
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 337
   - category: Email
     name: Gmail
     productivity: 0
@@ -7,15 +15,7 @@ topActivities:
     name: '[unpublished]'
     productivity: 0
     timeSpent: 126
-  - category: Writing
-    name: Google Documents
-    productivity: 2
-    timeSpent: 88
-  - category: Intelligence
-    name: rescuetime.com
-    productivity: 2
-    timeSpent: 56
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 56
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 114
