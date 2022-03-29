@@ -2,7 +2,15 @@ import type { RouteRecordRaw } from 'vue-router';
 
 export const routes: RouteRecordRaw[] = [
 	{
+		path: '/discord',
+		redirect: 'https://discord.gg/cysqhWcv69',
+	},
+	{
 		path: '/',
+		component: async () => import('~/pages/basic-landing-page.vue'),
+	},
+	{
+		path: '/experimental',
 		component: async () => import('~/pages/landing-page.vue'),
 	},
 	{

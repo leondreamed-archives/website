@@ -4,7 +4,6 @@ import svgLoader from 'vite-svg-loader';
 import { join } from 'desm';
 
 export default defineConfig({
-	base: '/website/',
 	resolve: {
 		alias: {
 			'~': join(import.meta.url, './src'),

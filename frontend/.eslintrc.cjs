@@ -1,6 +1,7 @@
 const path = require('path');
+const { defineConfig } = require('eslint-define-config');
 
-module.exports = {
+module.exports = defineConfig({
 	extends: '../.eslintrc.cjs',
 	parserOptions: {
 		project: [path.resolve(__dirname, './tsconfig.eslint.json')],
@@ -13,6 +14,8 @@ module.exports = {
 				js: 'never',
 				ts: 'never',
 				vue: 'always',
+				png: 'always',
+				jpeg: 'always'
 			},
 		],
 	},
@@ -22,8 +25,8 @@ module.exports = {
 			rules: {
 				'@typescript-eslint/no-unsafe-call': 'off',
 				'@typescript-eslint/no-unsafe-assignment': 'off',
-				'@typescript-eslint/consistent-type-imports': 'off'
+				'@typescript-eslint/consistent-type-imports': 'off',
 			},
 		},
 	],
-};
+});
