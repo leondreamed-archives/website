@@ -1,104 +1,100 @@
-dailyAverage: 23666
-totalSeconds: 165665.441783
+dailyAverage: 25504
+totalSeconds: 178528.718288
 languages:
-  - name: TeX
-    totalSeconds: 53322.522457
   - name: TypeScript
-    totalSeconds: 48026.919373
+    totalSeconds: 62763.349716
+  - name: TeX
+    totalSeconds: 47623.949525
   - name: sh
-    totalSeconds: 40592.930861
+    totalSeconds: 45868.895696
   - name: Text
-    totalSeconds: 4883.453753
+    totalSeconds: 4880.100179
   - name: Vue.js
-    totalSeconds: 4090.460593
+    totalSeconds: 4708.142621
   - name: Python
-    totalSeconds: 3979.327458
+    totalSeconds: 3352.02328
   - name: Other
-    totalSeconds: 2230.040803
+    totalSeconds: 2382.805271
   - name: JSON
-    totalSeconds: 2222.21597
-  - name: HTML
-    totalSeconds: 1609.529884
+    totalSeconds: 2281.776543
   - name: YAML
-    totalSeconds: 1521.883517
+    totalSeconds: 1780.42633
   - name: BibTeX
-    totalSeconds: 1441.659339
+    totalSeconds: 1438.560726
   - name: Bash
-    totalSeconds: 1107.836109
-  - name: Markdown
-    totalSeconds: 881.742703
+    totalSeconds: 1247.178107
   - name: JavaScript
-    totalSeconds: 689.5693
+    totalSeconds: 719.01511
   - name: Rust
     totalSeconds: 544.229415
+  - name: HTML
+    totalSeconds: 441.453563
   - name: TOML
     totalSeconds: 291.2645
+  - name: Markdown
+    totalSeconds: 248.018446
   - name: reStructuredText
     totalSeconds: 157.194825
-  - name: CSS
-    totalSeconds: 119.149602
   - name: GraphQL
     totalSeconds: 87.866844
   - name: Git Config
-    totalSeconds: 86.926909
+    totalSeconds: 86.514491
   - name: Docker
     totalSeconds: 8.758371
 projects:
-  - name: chem-ia
-    totalSeconds: 59259.45363
   - name: discord-email-tunnel
-    totalSeconds: 32680.768811
+    totalSeconds: 55073.184782
+  - name: chem-ia
+    totalSeconds: 53381.392617
   - name: precommit
     totalSeconds: 27648.888274
-  - name: leonzalion
-    totalSeconds: 18093.841456
   - name: yabai-master-stack-plugin
     totalSeconds: 14510.164829
+  - name: leonzalion
+    totalSeconds: 12919.969862
   - name: soundit
     totalSeconds: 6039.600078
-  - name: todo
-    totalSeconds: 3045.087276
   - name: vpciclubs.com
-    totalSeconds: 1529.803357
+    totalSeconds: 4454.520134
+  - name: todo
+    totalSeconds: 2111.250615
   - name: math-ia
     totalSeconds: 1007.714104
   - name: tabulo-rewrite
     totalSeconds: 946.142528
-  - name: leonzalion-google-workspace
-    totalSeconds: 722.142464
   - name: git-cliff
     totalSeconds: 663.278406
-  - name: create-project
-    totalSeconds: 486.024968
+  - name: leonzalion-google-workspace
+    totalSeconds: 647.245388
+  - name: Terminal
+    totalSeconds: 471.564045
   - name: lion-system
     totalSeconds: 428.932678
-  - name: vpcc-web-dev
-    totalSeconds: 262.488776
-  - name: jslatex
-    totalSeconds: 197.000456
-  - name: fprime
-    totalSeconds: 74.463935
+  - name: node-html-to-text
+    totalSeconds: 308.615775
+  - name: create-project
+    totalSeconds: 89.78872
   - name: binary-install
     totalSeconds: 71.904716
   - name: tabulo
     totalSeconds: 60.936134
-  - name: website
-    totalSeconds: 43.038542
-  - name: Terminal
-    totalSeconds: 29.319375
   - name: PyBoxCar
     totalSeconds: 26.788211
-  - name: reactive-emails
-    totalSeconds: 19.115206
-  - name: timeblocker
-    totalSeconds: 18.489842
   - name: bootstrap-macos
     totalSeconds: 12.457394
   - name: assets
     totalSeconds: 10.709088
+  - name: timeblocker
+    totalSeconds: 9.548103
+  - name: jslatex
+    totalSeconds: 7.00333
   - name: lion-architecture
     totalSeconds: 5.840001
+  - name: habitica
+    totalSeconds: 2.824866
   - name: pledged
     totalSeconds: 0.793019
   - name: ets
     totalSeconds: 0.295032
+  - name: vpcc-web-dev
+    totalSeconds: 0.17083
