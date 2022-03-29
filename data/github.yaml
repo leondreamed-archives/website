@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-29T01:11:29Z'
+    type: PushEvent
   - date: '2022-03-28T21:50:00Z'
     type: WatchEvent
   - date: '2022-03-28T18:56:53Z'
@@ -15,8 +17,6 @@ events:
     type: CreateEvent
   - date: '2022-03-28T11:49:03Z'
     type: PushEvent
-  - date: '2022-03-27T17:09:54Z'
-    type: WatchEvent
 latestCommit:
   message: brew
   url: >-
