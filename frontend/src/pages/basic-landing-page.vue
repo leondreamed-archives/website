@@ -20,11 +20,10 @@ import '@fontsource/poppins/700.css';
 		/>
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
-
-	<div class="page__container">
-		<div class="profile-image__container">
+	<div class="p-4 h-full w-full column center">
+		<div class="relative">
 			<img
-				class="profile-image profile-image--selfie"
+				class="h-[300px] w-[300px] object-cover object-center rounded-full"
 				:src="selfie"
 				height="500"
 				alt="Profile Picture"
@@ -74,28 +73,6 @@ import '@fontsource/poppins/700.css';
 </template>
 
 <style scoped>
-.page__container {
-	padding: 10px;
-	height: 100vh;
-	width: 100vw;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-}
-
-.profile-image__container {
-	position: relative;
-}
-
-.profile-image {
-	width: 300px;
-	height: 300px;
-	object-fit: cover;
-	object-position: 50% 50%;
-	border-radius: 50%;
-}
-
 .profile-image--selfie:hover ~ .profile-image--lion {
 	opacity: 1;
 }
