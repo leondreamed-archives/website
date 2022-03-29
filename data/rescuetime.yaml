@@ -7,6 +7,10 @@ topActivities:
     name: '[unpublished]'
     productivity: 0
     timeSpent: 126
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 88
   - category: Intelligence
     name: rescuetime.com
     productivity: 2
@@ -14,8 +18,4 @@ topActivities:
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 52
-  - category: General Utilities
-    name: Finder
-    productivity: 2
-    timeSpent: 50
+    timeSpent: 56
