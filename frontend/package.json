@@ -12,6 +12,7 @@
 		"tc": "vue-tsc --noEmit"
 	},
 	"dependencies": {
+		"@fontsource/poppins": "^4.5.5",
 		"@mdi/js": "^6.5.95",
 		"@vueuse/core": "^7.5.5",
 		"animejs": "^3.2.1",
