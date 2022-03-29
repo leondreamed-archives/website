@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-29T22:46:22Z'
+    type: PushEvent
   - date: '2022-03-29T20:47:18Z'
     type: PushEvent
   - date: '2022-03-29T16:48:36Z'
@@ -19,8 +21,6 @@ events:
     type: WatchEvent
   - date: '2022-03-28T18:56:53Z'
     type: PushEvent
-  - date: '2022-03-28T17:40:12Z'
-    type: WatchEvent
 latestCommit:
   message: 'fix: spacing issues'
   url: >-
