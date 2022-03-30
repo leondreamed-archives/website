@@ -1,21 +1,21 @@
 topActivities:
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 9284
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5060
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2142
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 1816
+    timeSpent: 1238
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1810
+    timeSpent: 223
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 199
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 119
+  - category: Calendars
+    name: cold turkey blocker
+    productivity: 0
+    timeSpent: 65
