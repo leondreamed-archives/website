@@ -21,15 +21,15 @@ import '@fontsource/poppins/700.css';
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 	</head>
 	<div class="p-4 h-full w-full column center">
-		<div class="relative">
+		<div class="relative mb-2">
 			<img
-				class="h-[300px] w-[300px] object-cover object-center rounded-full"
+				class="h-[300px] w-[300px] object-cover object-center rounded-full profile-image--selfie"
 				:src="selfie"
 				height="500"
 				alt="Profile Picture"
 			/>
 			<img
-				class="profile-image profile-image--lion"
+				class="h-[300px] w-[300px] object-cover object-center rounded-full profile-image--lion"
 				:src="lionProfile"
 				height="500"
 				alt="Lion Profile Picture"
