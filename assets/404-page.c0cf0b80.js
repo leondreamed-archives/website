@@ -1,0 +1,1 @@
+import{_ as e}from"./index.faf8b37e.js";import{o,f as t}from"./vendor.39e09b14.js";const r={},n={class:"text-center p-8"};function c(s,a){return o(),t("p",n,"404 - Page not Found")}var d=e(r,[["render",c]]);export{d as default};
