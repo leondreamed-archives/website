@@ -2,8 +2,8 @@ import type { RouteRecordRaw } from 'vue-router';
 
 export const routes: RouteRecordRaw[] = [
 	{
-		path: '/discord',
-		component: async () => import('~/pages/discord-page.vue'),
+		path: '/communication',
+		component: async () => import('~/pages/communication-page.vue'),
 	},
 	{
 		path: '/',
