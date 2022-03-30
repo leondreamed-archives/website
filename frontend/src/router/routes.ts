@@ -2,8 +2,8 @@ import type { RouteRecordRaw } from 'vue-router';
 
 export const routes: RouteRecordRaw[] = [
 	{
-		path: '/discord',
-		redirect: 'https://discord.gg/cysqhWcv69',
+		path: '/communication',
+		component: async () => import('~/pages/communication-page.vue'),
 	},
 	{
 		path: '/',
@@ -16,5 +16,9 @@ export const routes: RouteRecordRaw[] = [
 	{
 		path: '/test',
 		component: async () => import('~/pages/test-page.vue'),
+	},
+	{
+		path: '/:catchAll(.*)',
+		component: async () => import('~/pages/404-page.vue'),
 	},
 ];

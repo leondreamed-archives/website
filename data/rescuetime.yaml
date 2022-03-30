@@ -1,21 +1,21 @@
 topActivities:
-  - category: Video Editing
-    name: davinci resolve
-    productivity: 2
-    timeSpent: 10315
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5123
-  - category: Writing
-    name: Google Documents
+    timeSpent: 6169
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 3045
+    timeSpent: 2435
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1840
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 1357
+    timeSpent: 2350
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 1919
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 1791

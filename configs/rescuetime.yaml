@@ -45,7 +45,6 @@ allowList:
       - electron
 
   ## Communication-related sites/apps
-
   - regex:
       - discord
       - mail # includes gmail
@@ -106,7 +105,6 @@ allowList:
       - youtube
       - amazon
       - type
-      - typeracer
       - typing
       - key
       - linkedin
@@ -121,3 +119,4 @@ allowList:
       - davinci
       - resolve
       - blackmagicdesign
+      - vp
