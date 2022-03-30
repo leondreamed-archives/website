@@ -1,4 +1,32 @@
 events:
+  - date: '2022-03-30T18:57:56Z'
+    type: PushEvent
+  - date: '2022-03-30T18:56:54Z'
+    type: PushEvent
+  - date: '2022-03-30T18:49:46Z'
+    type: PushEvent
+  - date: '2022-03-30T18:47:48Z'
+    type: PushEvent
+  - date: '2022-03-30T18:45:44Z'
+    type: PushEvent
+  - date: '2022-03-30T18:45:08Z'
+    type: PushEvent
+  - date: '2022-03-30T18:36:45Z'
+    type: PushEvent
+  - date: '2022-03-30T18:36:43Z'
+    type: WatchEvent
+  - date: '2022-03-30T18:16:17Z'
+    type: PushEvent
+  - date: '2022-03-30T18:13:22Z'
+    type: PullRequestEvent
+  - date: '2022-03-30T18:13:23Z'
+    type: PushEvent
+  - date: '2022-03-30T18:11:04Z'
+    type: IssueCommentEvent
+  - date: '2022-03-30T18:07:56Z'
+    type: PushEvent
+  - date: '2022-03-30T18:00:26Z'
+    type: PushEvent
   - date: '2022-03-30T16:43:51Z'
     type: PushEvent
   - date: '2022-03-30T16:41:22Z'
@@ -23,38 +51,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T14:33:48Z'
     type: PushEvent
-  - date: '2022-03-30T13:56:40Z'
-    type: PushEvent
-  - date: '2022-03-30T13:56:16Z'
-    type: PushEvent
-  - date: '2022-03-30T13:54:43Z'
-    type: PushEvent
-  - date: '2022-03-30T13:53:57Z'
-    type: CreateEvent
-  - date: '2022-03-30T13:53:49Z'
-    type: CreateEvent
-  - date: '2022-03-30T13:49:51Z'
-    type: PushEvent
-  - date: '2022-03-30T13:49:18Z'
-    type: PushEvent
-  - date: '2022-03-30T13:48:34Z'
-    type: PushEvent
-  - date: '2022-03-30T13:48:01Z'
-    type: PushEvent
-  - date: '2022-03-30T13:43:44Z'
-    type: PushEvent
-  - date: '2022-03-30T13:25:00Z'
-    type: PullRequestEvent
-  - date: '2022-03-30T13:23:42Z'
-    type: PushEvent
-  - date: '2022-03-30T13:18:03Z'
-    type: CreateEvent
-  - date: '2022-03-30T13:10:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: docs example'
+  message: 'chore: use custom p-wait-for'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/72623f656c5b77684f1de53b610dada519278b64
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/ab6b5e323771aab182cfceb1cd1e7c46e7f8e1c0
   repo:
-    url: https://api.github.com/repos/leonzalion/p-wait-for-1
-    name: leonzalion/p-wait-for-1
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
