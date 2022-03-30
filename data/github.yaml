@@ -1,4 +1,18 @@
 events:
+  - date: '2022-03-30T02:21:24Z'
+    type: CreateEvent
+  - date: '2022-03-30T02:21:24Z'
+    type: ReleaseEvent
+  - date: '2022-03-30T02:21:20Z'
+    type: PushEvent
+  - date: '2022-03-30T02:20:56Z'
+    type: PushEvent
+  - date: '2022-03-30T01:40:01Z'
+    type: PushEvent
+  - date: '2022-03-30T01:35:51Z'
+    type: PushEvent
+  - date: '2022-03-30T01:30:12Z'
+    type: PushEvent
   - date: '2022-03-30T01:25:38Z'
     type: PushEvent
   - date: '2022-03-30T01:19:14Z'
@@ -31,16 +45,10 @@ events:
     type: PushEvent
   - date: '2022-03-29T20:47:18Z'
     type: PushEvent
-  - date: '2022-03-29T16:48:36Z'
-    type: PushEvent
-  - date: '2022-03-29T16:45:54Z'
-    type: PushEvent
-  - date: '2022-03-29T15:58:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: rebase'
+  message: 'feat: basic landing page'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/084927c9fbd1a21408948c5892fb2237111690af
+    https://api.github.com/repos/leonzalion/website/commits/0302be57a94da037eb71cb834f94063d6c7dbeb9
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/website
+    name: leonzalion/website
