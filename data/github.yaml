@@ -51,12 +51,15 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:11:04Z'
     type: IssueCommentEvent
-  - date: '2022-03-30T18:07:56Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: support replies in general'
+  message: >-
+    feat: Use referenced message content when empty
+
+
+    This allows forwarding messages by other people with minimal effort (no need
+    to duplicated the message text)
   url: >-
-    https://api.github.com/repos/GeeTransit/discord-email-tunnel/commits/db1837817969058d2faced8352b9f2e84f9f6d4e
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/bee21e58d64f63055d9803b9567eea2b0d3e90bc
   repo:
-    url: https://api.github.com/repos/GeeTransit/discord-email-tunnel
-    name: GeeTransit/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
