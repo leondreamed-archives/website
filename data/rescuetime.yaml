@@ -2,20 +2,20 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 6188
+    timeSpent: 7942
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4073
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 977
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 961
+    timeSpent: 4663
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 810
+    timeSpent: 1816
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1557
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1295
