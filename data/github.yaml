@@ -51,8 +51,6 @@ events:
     type: CreateEvent
   - date: '2022-03-30T13:10:07Z'
     type: PushEvent
-  - date: '2022-03-30T13:09:04Z'
-    type: IssueCommentEvent
 latestCommit:
   message: 'fix: docs example'
   url: >-
