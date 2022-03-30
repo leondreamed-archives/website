@@ -18,7 +18,7 @@ export const routes: RouteRecordRaw[] = [
 		component: async () => import('~/pages/test-page.vue'),
 	},
 	{
-		path: '/:catchAll(.*)',
+		path: '/:catchAll(.*)*',
 		component: async () => import('~/pages/404-page.vue'),
 	},
 ];
