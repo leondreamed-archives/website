@@ -1,4 +1,20 @@
 events:
+  - date: '2022-03-30T14:42:37Z'
+    type: PushEvent
+  - date: '2022-03-30T14:40:14Z'
+    type: PushEvent
+  - date: '2022-03-30T14:38:01Z'
+    type: CreateEvent
+  - date: '2022-03-30T14:38:01Z'
+    type: PushEvent
+  - date: '2022-03-30T14:37:28Z'
+    type: PushEvent
+  - date: '2022-03-30T14:36:46Z'
+    type: PushEvent
+  - date: '2022-03-30T14:36:12Z'
+    type: PushEvent
+  - date: '2022-03-30T14:33:48Z'
+    type: PushEvent
   - date: '2022-03-30T13:56:40Z'
     type: PushEvent
   - date: '2022-03-30T13:56:16Z'
@@ -37,24 +53,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T12:33:46Z'
     type: PushEvent
-  - date: '2022-03-30T02:21:24Z'
-    type: CreateEvent
-  - date: '2022-03-30T02:21:24Z'
-    type: ReleaseEvent
-  - date: '2022-03-30T02:21:20Z'
-    type: PushEvent
-  - date: '2022-03-30T02:20:56Z'
-    type: PushEvent
-  - date: '2022-03-30T01:40:01Z'
-    type: PushEvent
-  - date: '2022-03-30T01:35:51Z'
-    type: PushEvent
-  - date: '2022-03-30T01:30:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: tag'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/ee6736761dbed67ac35d664d347d4b82bf76a7f0
+    https://api.github.com/repos/leonzalion/hashed-out/commits/667fabeaf4a0db35633c8f36dfa7574438d30145
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/hashed-out
+    name: leonzalion/hashed-out

@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1238
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 223
+    timeSpent: 2685
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 199
-  - category: Browsers
-    name: Safari
+    timeSpent: 1625
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 119
-  - category: Calendars
-    name: cold turkey blocker
-    productivity: 0
-    timeSpent: 65
+    timeSpent: 1136
+  - category: General Business
+    name: drive.google.com
+    productivity: 2
+    timeSpent: 996
+  - category: General Software Development
+    name: npmjs.com
+    productivity: 2
+    timeSpent: 200
