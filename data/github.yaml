@@ -49,8 +49,6 @@ events:
     type: PullRequestEvent
   - date: '2022-03-30T18:13:23Z'
     type: PushEvent
-  - date: '2022-03-30T18:11:04Z'
-    type: IssueCommentEvent
 latestCommit:
   message: >-
     feat: Use referenced message content when empty
