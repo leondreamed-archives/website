@@ -31,7 +31,7 @@ import communicationMatrix from '~/assets/communication-matrix.png';
 				in the #bot-commands channel, and the bot will send you a Direct
 				Message. You can then DM the bot to send me a message (which will
 				automatically get forwarded to my email). Whenever I reply to the email,
-				the bot will then send that reply as a message to you. I likely won't
+				the bot will then send that reply as a message to you in your DMs. I likely won't
 				respond immediately since I only check my emails around two times a day.
 			</p>
 
