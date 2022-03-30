@@ -1,4 +1,6 @@
 events:
+  - date: '2022-03-30T19:44:31Z'
+    type: PushEvent
   - date: '2022-03-30T18:57:56Z'
     type: PushEvent
   - date: '2022-03-30T18:56:54Z'
@@ -47,14 +49,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T14:36:46Z'
     type: PushEvent
-  - date: '2022-03-30T14:36:12Z'
-    type: PushEvent
-  - date: '2022-03-30T14:33:48Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: use custom p-wait-for'
+  message: 'chore: ignore pnpm.yaml'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/ab6b5e323771aab182cfceb1cd1e7c46e7f8e1c0
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/02b3da23703cef232c0f548caca0ea7dba087303
   repo:
     url: https://api.github.com/repos/leonzalion/applescript-utils
     name: leonzalion/applescript-utils
