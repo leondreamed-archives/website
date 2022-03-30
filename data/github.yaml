@@ -1,4 +1,8 @@
 events:
+  - date: '2022-03-30T16:43:51Z'
+    type: PushEvent
+  - date: '2022-03-30T16:41:22Z'
+    type: PushEvent
   - date: '2022-03-30T16:04:38Z'
     type: CreateEvent
   - date: '2022-03-30T16:03:44Z'
@@ -49,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T13:09:04Z'
     type: IssueCommentEvent
-  - date: '2022-03-30T13:06:11Z'
-    type: PushEvent
-  - date: '2022-03-30T13:04:17Z'
-    type: PullRequestEvent
 latestCommit:
-  message: 'fix: type check bug'
+  message: 'fix: docs example'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/0fcac286820c9fdb0b0fcaac48d22127265bb87a
+    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/72623f656c5b77684f1de53b610dada519278b64
   repo:
     url: https://api.github.com/repos/leonzalion/p-wait-for-1
     name: leonzalion/p-wait-for-1
