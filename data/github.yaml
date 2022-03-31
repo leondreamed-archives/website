@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:56:54Z'
     type: PushEvent
-  - date: '2022-03-30T18:49:46Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: string escaping'
+  message: 'fix: transform pings'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/b6418bf86301de8171a905bffd37f9e6fb88c242
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/5f64e01bdd68676934f4cc332bae1e889c8c35d8
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
