@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:36:43Z'
     type: WatchEvent
-  - date: '2022-03-30T18:16:17Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: update readme'
+  message: 'feat: transform pings into cool colour'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/b4948a91f2ddff1c5f28a678ada6fd40efd4f3dd
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/105fd355f02111d3448f09ed43a46f71c1bce36f
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
