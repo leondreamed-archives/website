@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T20:15:40Z'
     type: PushEvent
-  - date: '2022-03-30T20:12:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: ping spacing issues'
+  message: 'feat: 404 page'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/d9bd2265f4b4263f961dd3d7389c9681cf96f153
+    https://api.github.com/repos/leonzalion/website/commits/608fe7eb21c5eb01145f5c448581b115464033cc
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/website
+    name: leonzalion/website

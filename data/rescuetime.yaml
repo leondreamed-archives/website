@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2683
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 1954
+    timeSpent: 3463
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2894
   - category: Search
     name: www-jstor-org.ezproxy.torontopubliclibrary.ca
     productivity: 1
     timeSpent: 1879
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 957
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
     timeSpent: 942
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 916
