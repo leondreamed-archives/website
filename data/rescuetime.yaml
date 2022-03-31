@@ -6,7 +6,7 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3415
+    timeSpent: 4315
   - category: Other
     name: alacritty
     productivity: 0
@@ -14,7 +14,7 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 2857
+    timeSpent: 2880
   - category: Writing
     name: Google Documents
     productivity: 2
