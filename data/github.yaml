@@ -27,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T20:11:35Z'
     type: PushEvent
-  - date: '2022-03-30T19:44:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: remove merge marker'
+  message: 'fix: ping spacing issues'
   url: >-
-    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/d21a4f6c4d8932ffe1e1844d5d0db57f85f028df
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/d9bd2265f4b4263f961dd3d7389c9681cf96f153
   repo:
-    url: https://api.github.com/repos/leonzalion/p-wait-for-1
-    name: leonzalion/p-wait-for-1
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
