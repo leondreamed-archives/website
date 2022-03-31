@@ -45,8 +45,6 @@ events:
     type: WatchEvent
   - date: '2022-03-30T18:16:17Z'
     type: PushEvent
-  - date: '2022-03-30T18:13:22Z'
-    type: PullRequestEvent
 latestCommit:
   message: 'docs: update readme'
   url: >-
