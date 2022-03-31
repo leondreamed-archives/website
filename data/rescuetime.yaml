@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1994
+    timeSpent: 2213
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 1597
+    timeSpent: 1954
   - category: Search
     name: www-jstor-org.ezproxy.torontopubliclibrary.ca
     productivity: 1
-    timeSpent: 725
+    timeSpent: 1879
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 902
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 474
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 334
+    timeSpent: 521

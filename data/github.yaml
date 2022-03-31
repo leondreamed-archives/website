@@ -29,12 +29,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T19:44:31Z'
     type: PushEvent
-  - date: '2022-03-30T18:57:56Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: add user tag in email'
+  message: 'fix: remove merge marker'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/aad2bffa66f3ae76790864119f626e558d3c85a7
+    https://api.github.com/repos/leonzalion/p-wait-for-1/commits/d21a4f6c4d8932ffe1e1844d5d0db57f85f028df
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/p-wait-for-1
+    name: leonzalion/p-wait-for-1
