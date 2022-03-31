@@ -1,21 +1,21 @@
 topActivities:
-  - category: Video
-    name: youtube.com
+  - category: General News & Opinion
+    name: '[unpublished]'
     productivity: -2
-    timeSpent: 10091
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 6837
+    timeSpent: 1334
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 4315
-  - category: Other
-    name: alacritty
+    timeSpent: 221
+  - category: Intelligence
+    name: wakatime.com
+    productivity: 2
+    timeSpent: 107
+  - category: General Software Development
+    name: snyk.io
+    productivity: 2
+    timeSpent: 73
+  - category: Email
+    name: Gmail
     productivity: 0
-    timeSpent: 2909
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 2880
+    timeSpent: 56

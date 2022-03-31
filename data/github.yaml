@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:45:08Z'
     type: PushEvent
-  - date: '2022-03-30T18:36:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: transform pings into cool colour'
+  message: 'fix: start script'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/105fd355f02111d3448f09ed43a46f71c1bce36f
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/f124da511fa4ff9334a2a64e649c388206e7b7be
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
