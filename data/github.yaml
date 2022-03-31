@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:45:44Z'
     type: PushEvent
-  - date: '2022-03-30T18:45:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: start script'
+  message: 'fix: process import'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/f124da511fa4ff9334a2a64e649c388206e7b7be
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/e1f288015e1e9d2a3c8fadba0d3a9472abc5a83b
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
