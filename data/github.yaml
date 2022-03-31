@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T18:57:56Z'
     type: PushEvent
-  - date: '2022-03-30T18:56:54Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: transform pings'
+  message: 'feat: add user tag in email'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/5f64e01bdd68676934f4cc332bae1e889c8c35d8
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/aad2bffa66f3ae76790864119f626e558d3c85a7
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
