@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1956
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1865
+    timeSpent: 2593
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2348
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1618
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 1492
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1426
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1274
-  - category: General News & Opinion
-    name: reddit.com
-    productivity: -2
-    timeSpent: 896
