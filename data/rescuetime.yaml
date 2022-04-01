@@ -1,21 +1,21 @@
 topActivities:
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 12985
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 3463
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2894
-  - category: Search
-    name: www-jstor-org.ezproxy.torontopubliclibrary.ca
-    productivity: 1
-    timeSpent: 1879
-  - category: Browsers
-    name: Firefox
+    timeSpent: 359
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 185
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 129
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 1089
+    timeSpent: 73
+  - category: General News & Opinion
+    name: reddit.com
+    productivity: -2
+    timeSpent: 62

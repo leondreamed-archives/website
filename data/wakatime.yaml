@@ -1,30 +1,32 @@
-dailyAverage: 23010
-totalSeconds: 161069.993903
+dailyAverage: 20580
+totalSeconds: 144062.03776
 languages:
   - name: TypeScript
-    totalSeconds: 73456.699019
+    totalSeconds: 62089.628555
   - name: sh
-    totalSeconds: 59061.511676
+    totalSeconds: 53941.535105
   - name: Vue.js
-    totalSeconds: 7461.954739
+    totalSeconds: 7570.966718
   - name: Text
-    totalSeconds: 7111.685159
-  - name: Other
-    totalSeconds: 3570.540083
+    totalSeconds: 5978.348904
   - name: Python
     totalSeconds: 3393.595813
+  - name: Other
+    totalSeconds: 3017.132388
   - name: JSON
-    totalSeconds: 2963.016483
+    totalSeconds: 2219.99753
+  - name: Java
+    totalSeconds: 1941.890821
   - name: YAML
-    totalSeconds: 1800.722583
-  - name: Bash
-    totalSeconds: 1797.650886
+    totalSeconds: 1786.148123
   - name: HTML
     totalSeconds: 1464.037015
   - name: JavaScript
     totalSeconds: 1360.212863
+  - name: Bash
+    totalSeconds: 1158.746963
   - name: Markdown
-    totalSeconds: 546.262808
+    totalSeconds: 504.284491
   - name: TOML
     totalSeconds: 291.2645
   - name: reStructuredText
@@ -41,21 +43,21 @@ languages:
     totalSeconds: 1.379022
 projects:
   - name: discord-email-tunnel
-    totalSeconds: 69348.068088
+    totalSeconds: 55569.306736
   - name: precommit
-    totalSeconds: 27656.254537
+    totalSeconds: 22943.245604
   - name: leonzalion
-    totalSeconds: 17010.839751
+    totalSeconds: 18073.095973
   - name: yabai-master-stack-plugin
     totalSeconds: 14612.461141
   - name: website
-    totalSeconds: 7074.138875
+    totalSeconds: 7404.947262
   - name: soundit
     totalSeconds: 6039.600078
+  - name: hashed-out
+    totalSeconds: 4853.062317
   - name: vpciclubs.com
     totalSeconds: 4135.705778
-  - name: hashed-out
-    totalSeconds: 3951.249247
   - name: p-wait-for-1
     totalSeconds: 2946.952345
   - name: applescript-utils
@@ -64,16 +66,12 @@ projects:
     totalSeconds: 1800.415593
   - name: gee-discord-email-tunnel
     totalSeconds: 1157.118238
-  - name: tabulo-rewrite
-    totalSeconds: 946.142528
   - name: math-ia
     totalSeconds: 908.347996
   - name: ti84-formula-program
     totalSeconds: 667.037128
-  - name: leonzalion-google-workspace
-    totalSeconds: 647.245388
-  - name: chem-ia
-    totalSeconds: 579.616107
+  - name: tabulo-rewrite
+    totalSeconds: 614.584836
   - name: Terminal
     totalSeconds: 471.564045
   - name: lion-system
@@ -86,16 +84,20 @@ projects:
     totalSeconds: 318.512043
   - name: node-html-to-text
     totalSeconds: 308.615775
+  - name: leonzalion-google-workspace
+    totalSeconds: 171.056721
   - name: create-project
-    totalSeconds: 142.647847
+    totalSeconds: 140.446906
   - name: ti84-program
     totalSeconds: 136.595932
   - name: git-cliff
     totalSeconds: 134.473485
   - name: binary-install
     totalSeconds: 71.904716
-  - name: tabulo
-    totalSeconds: 60.936134
+  - name: ics-homework
+    totalSeconds: 59.535514
+  - name: genetic-algorithm
+    totalSeconds: 23.48454
   - name: Unknown Project
     totalSeconds: 10.047917
   - name: timeblocker
@@ -104,12 +106,12 @@ projects:
     totalSeconds: 5.840001
   - name: random-words-generator
     totalSeconds: 4.292267
+  - name: chem
+    totalSeconds: 3.801274
   - name: habitica
     totalSeconds: 2.824866
   - name: deep-clone-fn
     totalSeconds: 1.538627
-  - name: pledged
-    totalSeconds: 0.793019
   - name: ets
     totalSeconds: 0.295032
   - name: reactive-emails
