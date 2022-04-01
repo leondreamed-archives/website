@@ -1,24 +1,22 @@
 events:
+  - date: '2022-04-01T13:48:19Z'
+    type: PushEvent
+  - date: '2022-04-01T13:44:17Z'
+    type: CreateEvent
+  - date: '2022-04-01T13:43:58Z'
+    type: PushEvent
+  - date: '2022-04-01T13:09:45Z'
+    type: PushEvent
   - date: '2022-04-01T12:38:54Z'
     type: PushEvent
   - date: '2022-03-31T14:40:04Z'
     type: PushEvent
   - date: '2022-03-30T20:45:37Z'
     type: PushEvent
-  - date: '2022-03-30T20:42:01Z'
-    type: PushEvent
-  - date: '2022-03-30T20:41:30Z'
-    type: PushEvent
-  - date: '2022-03-30T20:40:14Z'
-    type: PushEvent
-  - date: '2022-03-30T20:39:18Z'
-    type: PushEvent
-  - date: '2022-03-30T20:32:40Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: github pages linking'
+  message: 'fix: expose the functions'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/331ef572921b1203696e650cb22e83b6f9790adc
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/728ba46c5bb2f84df2f4baf402148e6a1236c4ba
   repo:
-    url: https://api.github.com/repos/leonzalion/website
-    name: leonzalion/website
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
