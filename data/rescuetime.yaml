@@ -7,15 +7,15 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 2894
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 2148
   - category: Search
     name: www-jstor-org.ezproxy.torontopubliclibrary.ca
     productivity: 1
     timeSpent: 1879
   - category: Browsers
-    name: Safari
+    name: Firefox
     productivity: 0
-    timeSpent: 957
-  - category: General Reference & Learning
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 942
+    timeSpent: 1089

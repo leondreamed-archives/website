@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-03-30T20:17:58Z'
     type: PushEvent
-  - date: '2022-03-30T20:15:40Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: 404 page'
+  message: 'feat: add dmoj to whitelist'
   url: >-
-    https://api.github.com/repos/leonzalion/website/commits/608fe7eb21c5eb01145f5c448581b115464033cc
+    https://api.github.com/repos/leonzalion/website/commits/1ee4dd96793693d7ef53a12b0cd9180c924426fe
   repo:
     url: https://api.github.com/repos/leonzalion/website
     name: leonzalion/website
