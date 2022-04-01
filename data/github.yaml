@@ -17,8 +17,6 @@ events:
     type: PushEvent
   - date: '2022-03-30T20:19:59Z'
     type: PushEvent
-  - date: '2022-03-30T20:19:49Z'
-    type: PushEvent
 latestCommit:
   message: 'fix: catch-all'
   url: >-
