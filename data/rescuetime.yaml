@@ -2,20 +2,20 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3172
+    timeSpent: 3202
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 2988
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2644
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1622
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 1618
+    timeSpent: 2649
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1426
+    timeSpent: 1710
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 1639
