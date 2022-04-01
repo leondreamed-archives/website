@@ -1,4 +1,8 @@
 topActivities:
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 7657
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -7,10 +11,6 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 2894
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 2148
   - category: Search
     name: www-jstor-org.ezproxy.torontopubliclibrary.ca
     productivity: 1
