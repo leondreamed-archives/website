@@ -11,12 +11,10 @@ events:
     type: PushEvent
   - date: '2022-03-31T14:40:04Z'
     type: PushEvent
-  - date: '2022-03-30T20:45:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: expose the functions'
+  message: 'refactor: changes'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/728ba46c5bb2f84df2f4baf402148e6a1236c4ba
+    https://api.github.com/repos/leonzalion/hashed-out/commits/3d70de805ed870e0005d58d43838d8caf4067b65
   repo:
-    url: https://api.github.com/repos/leonzalion/applescript-utils
-    name: leonzalion/applescript-utils
+    url: https://api.github.com/repos/leonzalion/hashed-out
+    name: leonzalion/hashed-out
