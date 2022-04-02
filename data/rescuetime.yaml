@@ -7,6 +7,10 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 2314
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 1301
   - category: Writing
     name: Notion
     productivity: 2
@@ -15,7 +19,3 @@ topActivities:
     name: youtube.com
     productivity: -2
     timeSpent: 953
-  - category: General Reference & Learning
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 844
