@@ -1,4 +1,24 @@
 events:
+  - date: '2022-04-02T22:37:35Z'
+    type: PushEvent
+  - date: '2022-04-02T22:36:55Z'
+    type: PushEvent
+  - date: '2022-04-02T22:35:24Z'
+    type: PushEvent
+  - date: '2022-04-02T22:32:43Z'
+    type: PushEvent
+  - date: '2022-04-02T22:31:45Z'
+    type: PushEvent
+  - date: '2022-04-02T22:31:13Z'
+    type: PushEvent
+  - date: '2022-04-02T22:30:25Z'
+    type: PushEvent
+  - date: '2022-04-02T22:27:33Z'
+    type: PushEvent
+  - date: '2022-04-02T22:27:12Z'
+    type: PushEvent
+  - date: '2022-04-02T22:22:41Z'
+    type: CreateEvent
   - date: '2022-04-02T20:43:46Z'
     type: CreateEvent
   - date: '2022-04-02T20:38:47Z'
@@ -23,24 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-02T14:47:03Z'
     type: PushEvent
-  - date: '2022-04-02T14:46:31Z'
-    type: PushEvent
-  - date: '2022-04-02T14:45:38Z'
-    type: PushEvent
-  - date: '2022-04-02T14:27:05Z'
-    type: PushEvent
-  - date: '2022-04-02T14:26:20Z'
-    type: PushEvent
-  - date: '2022-04-02T14:20:36Z'
-    type: PushEvent
-  - date: '2022-04-02T14:19:59Z'
-    type: PushEvent
-  - date: '2022-04-02T13:05:14Z'
-    type: WatchEvent
 latestCommit:
-  message: 'refactor: move message content to its own function'
+  message: 'fix: formatting'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/42cfde3ab410844c8be75c204abaea37678d0902
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/60a611d975cd8e47d5b27ac0d53c535c1e13008a
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
