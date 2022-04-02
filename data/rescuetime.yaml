@@ -2,7 +2,7 @@ topActivities:
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 9555
+    timeSpent: 11239
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
