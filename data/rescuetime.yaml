@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 4108
+    timeSpent: 4141
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3841
+    timeSpent: 3965
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 2506
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1710
+    timeSpent: 2667
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 2616
