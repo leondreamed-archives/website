@@ -2,7 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2701
+    timeSpent: 5030
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1575
   - category: Video
     name: youtube.com
     productivity: -2
@@ -10,12 +14,8 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 373
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 360
-  - category: Uncategorized
-    name: fireship.io
-    productivity: 0
-    timeSpent: 114
+    timeSpent: 434
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 277
