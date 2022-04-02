@@ -27,12 +27,10 @@ events:
     type: WatchEvent
   - date: '2022-04-01T18:38:17Z'
     type: PushEvent
-  - date: '2022-04-01T16:25:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: twilio updates'
+  message: 'fix: formatting'
   url: >-
-    https://api.github.com/repos/leonzalion/hashed-out/commits/178e313b0e8127698c7ccca526e0830c4caa2957
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/60a611d975cd8e47d5b27ac0d53c535c1e13008a
   repo:
-    url: https://api.github.com/repos/leonzalion/hashed-out
-    name: leonzalion/hashed-out
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
