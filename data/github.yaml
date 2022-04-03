@@ -1,4 +1,34 @@
 events:
+  - date: '2022-04-03T16:49:04Z'
+    type: PushEvent
+  - date: '2022-04-03T16:48:39Z'
+    type: PushEvent
+  - date: '2022-04-03T16:37:31Z'
+    type: PushEvent
+  - date: '2022-04-03T16:33:36Z'
+    type: CreateEvent
+  - date: '2022-04-03T16:21:32Z'
+    type: PushEvent
+  - date: '2022-04-03T16:19:30Z'
+    type: PushEvent
+  - date: '2022-04-03T16:15:23Z'
+    type: PushEvent
+  - date: '2022-04-03T16:13:58Z'
+    type: PushEvent
+  - date: '2022-04-03T16:12:45Z'
+    type: PushEvent
+  - date: '2022-04-03T16:11:58Z'
+    type: PushEvent
+  - date: '2022-04-03T16:11:10Z'
+    type: PushEvent
+  - date: '2022-04-03T16:10:36Z'
+    type: PushEvent
+  - date: '2022-04-03T16:05:01Z'
+    type: PushEvent
+  - date: '2022-04-03T16:03:12Z'
+    type: PushEvent
+  - date: '2022-04-03T16:02:39Z'
+    type: PushEvent
   - date: '2022-04-03T15:59:51Z'
     type: PushEvent
   - date: '2022-04-03T15:59:13Z'
@@ -25,38 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T14:26:56Z'
     type: WatchEvent
-  - date: '2022-04-03T14:23:36Z'
-    type: WatchEvent
-  - date: '2022-04-03T14:17:47Z'
-    type: PushEvent
-  - date: '2022-04-03T13:34:50Z'
-    type: PushEvent
-  - date: '2022-04-03T13:29:45Z'
-    type: PushEvent
-  - date: '2022-04-03T13:04:28Z'
-    type: PushEvent
-  - date: '2022-04-03T12:42:10Z'
-    type: PushEvent
-  - date: '2022-04-03T12:38:42Z'
-    type: WatchEvent
-  - date: '2022-04-03T10:50:19Z'
-    type: PushEvent
-  - date: '2022-04-03T10:49:45Z'
-    type: PushEvent
-  - date: '2022-04-03T10:46:09Z'
-    type: PushEvent
-  - date: '2022-04-03T10:45:32Z'
-    type: PushEvent
-  - date: '2022-04-03T10:43:17Z'
-    type: ReleaseEvent
-  - date: '2022-04-03T10:43:17Z'
-    type: CreateEvent
-  - date: '2022-04-03T10:43:14Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.2
+  message: 'fix: syntax highlighting'
   url: >-
-    https://api.github.com/repos/JSLaTeX/ets/commits/0e130e7045b7252ab164eae2def1b696592ee546
+    https://api.github.com/repos/JSLaTeX/website/commits/087f3dd016778b508b52663a8b26be2b79af100e
   repo:
-    url: https://api.github.com/repos/JSLaTeX/ets
-    name: JSLaTeX/ets
+    url: https://api.github.com/repos/JSLaTeX/website
+    name: JSLaTeX/website
