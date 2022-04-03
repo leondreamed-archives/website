@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-03T17:41:27Z'
+    type: PushEvent
+  - date: '2022-04-03T17:41:14Z'
+    type: PushEvent
+  - date: '2022-04-03T17:40:50Z'
+    type: PushEvent
+  - date: '2022-04-03T17:30:08Z'
+    type: PushEvent
+  - date: '2022-04-03T17:15:34Z'
+    type: PushEvent
+  - date: '2022-04-03T17:14:22Z'
+    type: PushEvent
   - date: '2022-04-03T16:49:04Z'
     type: PushEvent
   - date: '2022-04-03T16:48:39Z'
@@ -43,22 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T15:48:11Z'
     type: PushEvent
-  - date: '2022-04-03T15:47:08Z'
-    type: PushEvent
-  - date: '2022-04-03T15:43:46Z'
-    type: PushEvent
-  - date: '2022-04-03T15:29:24Z'
-    type: PushEvent
-  - date: '2022-04-03T14:58:04Z'
-    type: PushEvent
-  - date: '2022-04-03T14:37:09Z'
-    type: PushEvent
-  - date: '2022-04-03T14:26:56Z'
-    type: WatchEvent
 latestCommit:
-  message: 'fix: syntax highlighting'
+  message: Rename App.vue to app.vue
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/087f3dd016778b508b52663a8b26be2b79af100e
+    https://api.github.com/repos/JSLaTeX/website/commits/702932bfe49ea1a89ae7f9c96b6701fe26002870
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
