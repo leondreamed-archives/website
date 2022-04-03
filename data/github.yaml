@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T16:03:12Z'
     type: PushEvent
-  - date: '2022-04-03T16:02:39Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: use dynamic fs import'
+  message: 0.1.12
   url: >-
-    https://api.github.com/repos/JSLaTeX/compiler/commits/74a2166da35e7e89811517e5daa4ec015547bd48
+    https://api.github.com/repos/JSLaTeX/compiler/commits/e0f94ec4a1b3ac347f613cf1bed5e498f748bc33
   repo:
     url: https://api.github.com/repos/JSLaTeX/compiler
     name: JSLaTeX/compiler
