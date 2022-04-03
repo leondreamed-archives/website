@@ -1,4 +1,38 @@
 events:
+  - date: '2022-04-03T13:04:28Z'
+    type: PushEvent
+  - date: '2022-04-03T12:42:10Z'
+    type: PushEvent
+  - date: '2022-04-03T12:38:42Z'
+    type: WatchEvent
+  - date: '2022-04-03T10:50:19Z'
+    type: PushEvent
+  - date: '2022-04-03T10:49:45Z'
+    type: PushEvent
+  - date: '2022-04-03T10:46:09Z'
+    type: PushEvent
+  - date: '2022-04-03T10:45:32Z'
+    type: PushEvent
+  - date: '2022-04-03T10:43:17Z'
+    type: ReleaseEvent
+  - date: '2022-04-03T10:43:17Z'
+    type: CreateEvent
+  - date: '2022-04-03T10:43:14Z'
+    type: PushEvent
+  - date: '2022-04-03T10:42:37Z'
+    type: PushEvent
+  - date: '2022-04-03T10:31:02Z'
+    type: CreateEvent
+  - date: '2022-04-03T10:31:01Z'
+    type: ReleaseEvent
+  - date: '2022-04-03T10:30:50Z'
+    type: PushEvent
+  - date: '2022-04-03T10:30:05Z'
+    type: PushEvent
+  - date: '2022-04-03T10:29:06Z'
+    type: PushEvent
+  - date: '2022-04-03T10:28:41Z'
+    type: PushEvent
   - date: '2022-04-03T03:03:21Z'
     type: PushEvent
   - date: '2022-04-03T03:02:43Z'
@@ -23,46 +57,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T02:49:49Z'
     type: PushEvent
-  - date: '2022-04-03T02:48:50Z'
-    type: PushEvent
-  - date: '2022-04-03T02:47:42Z'
-    type: PushEvent
-  - date: '2022-04-03T02:47:41Z'
-    type: PushEvent
-  - date: '2022-04-03T02:46:12Z'
-    type: PushEvent
-  - date: '2022-04-03T02:45:31Z'
-    type: PushEvent
-  - date: '2022-04-03T02:45:19Z'
-    type: PushEvent
-  - date: '2022-04-03T02:44:33Z'
-    type: PushEvent
-  - date: '2022-04-03T02:43:03Z'
-    type: PushEvent
-  - date: '2022-04-03T02:43:00Z'
-    type: PushEvent
-  - date: '2022-04-03T02:41:47Z'
-    type: PushEvent
-  - date: '2022-04-03T02:40:37Z'
-    type: PushEvent
-  - date: '2022-04-03T02:39:17Z'
-    type: PushEvent
-  - date: '2022-04-03T02:36:43Z'
-    type: PushEvent
-  - date: '2022-04-03T02:36:15Z'
-    type: PushEvent
-  - date: '2022-04-03T02:35:52Z'
-    type: PushEvent
-  - date: '2022-04-03T02:35:44Z'
-    type: PushEvent
-  - date: '2022-04-03T02:35:05Z'
-    type: PushEvent
-  - date: '2022-04-03T02:34:12Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/3ba7fc9ee152fc5d387644e0a30613ad6261c555
+    https://api.github.com/repos/leonzalion/sigfig/commits/9148d5a9337d62f02cf169fb9e761e9b45bcfcfb
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
-    name: leonzalion/inquirer-super-checkbox-prompt
+    url: https://api.github.com/repos/leonzalion/sigfig
+    name: leonzalion/sigfig
