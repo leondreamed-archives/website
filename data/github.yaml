@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T16:05:01Z'
     type: PushEvent
-  - date: '2022-04-03T16:03:12Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.12
+  message: vscode settings
   url: >-
-    https://api.github.com/repos/JSLaTeX/compiler/commits/e0f94ec4a1b3ac347f613cf1bed5e498f748bc33
+    https://api.github.com/repos/leonzalion/macos-configs/commits/f5eef923fed4fdb1d2a4de0000748cbf17650dcd
   repo:
-    url: https://api.github.com/repos/JSLaTeX/compiler
-    name: JSLaTeX/compiler
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
