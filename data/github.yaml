@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T15:48:21Z'
     type: PushEvent
-  - date: '2022-04-03T15:48:11Z'
-    type: PushEvent
 latestCommit:
-  message: Rename App.vue to app.vue
+  message: Rename README.md to readme.md
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/702932bfe49ea1a89ae7f9c96b6701fe26002870
+    https://api.github.com/repos/JSLaTeX/website/commits/b4a32a366dabb6a5132f77c75dda8f9a3e48374a
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website

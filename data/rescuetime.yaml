@@ -6,16 +6,16 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2872
+    timeSpent: 3822
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2653
+    timeSpent: 2721
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 2240
   - category: General Software Development
     name: localhost:3000
     productivity: 2
     timeSpent: 1771
-  - category: Uncategorized
-    name: jslatex.dev
-    productivity: 0
-    timeSpent: 654
