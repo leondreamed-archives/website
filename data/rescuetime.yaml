@@ -6,7 +6,7 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 8214
+    timeSpent: 8784
   - category: Writing
     name: Notion
     productivity: 2
@@ -14,7 +14,7 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3575
+    timeSpent: 3878
   - category: General Software Development
     name: localhost:3000
     productivity: 2

@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T16:33:36Z'
     type: CreateEvent
-  - date: '2022-04-03T16:21:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: title'
+  message: 'fix: unknown scope'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/333db51ece3794a338238df954bc99372db00a1c
+    https://api.github.com/repos/JSLaTeX/website/commits/8237776b92778603dc7e8e50388a42e0571c769c
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
