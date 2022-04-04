@@ -41,8 +41,6 @@ events:
     type: CreateEvent
   - date: '2022-04-04T01:21:26Z'
     type: CreateEvent
-  - date: '2022-04-04T01:13:06Z'
-    type: WatchEvent
 latestCommit:
   message: Rename readme.md to README.md
   url: >-
