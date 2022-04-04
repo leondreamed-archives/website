@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1075
+    timeSpent: 1200
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 249
-  - category: General Reference & Learning
-    name: classroom.google.com
-    productivity: 2
-    timeSpent: 213
+    timeSpent: 1049
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 104
-  - category: Writing
-    name: Google Documents
+    timeSpent: 556
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 298
+  - category: Project Management
+    name: '[unpublished]'
     productivity: 2
-    timeSpent: 104
+    timeSpent: 260

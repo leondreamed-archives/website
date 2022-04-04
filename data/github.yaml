@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T17:30:08Z'
     type: PushEvent
-  - date: '2022-04-03T17:15:34Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: vite build'
+  message: 'feat: use atom one light theme'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/16a59079f4f2070c571d273189fd6bb84ce5b7c7
+    https://api.github.com/repos/JSLaTeX/website/commits/250cc6d7e69b8e682307f4909a1c710189ead369
   repo:
-    url: https://api.github.com/repos/ReactiveEmails/website
-    name: ReactiveEmails/website
+    url: https://api.github.com/repos/JSLaTeX/website
+    name: JSLaTeX/website
