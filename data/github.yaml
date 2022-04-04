@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-04T12:49:08Z'
     type: PushEvent
-  - date: '2022-04-04T02:59:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: favicons'
+  message: 'feat: features'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/6d18444ce6efd98ff0b2b75b2470085207ee77fb
+    https://api.github.com/repos/ReactiveEmails/website/commits/84481418e8248a6ce119287c9cc22f7f4d1e12e4
   repo:
     url: https://api.github.com/repos/ReactiveEmails/website
     name: ReactiveEmails/website
