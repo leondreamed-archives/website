@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 10761
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 8784
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 6088
-  - category: Other
-    name: alacritty
+    timeSpent: 107
+  - category: Browsers
+    name: Firefox
     productivity: 0
-    timeSpent: 3878
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 1771
+    timeSpent: 27
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 16
+  - category: Browsers
+    name: about:newtab
+    productivity: 0
+    timeSpent: 8
+  - category: Calendars
+    name: cold turkey blocker
+    productivity: 0
+    timeSpent: 2
