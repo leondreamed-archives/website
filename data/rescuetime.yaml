@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 104
-  - category: Browsers
-    name: Firefox
-    productivity: 0
-    timeSpent: 27
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 104

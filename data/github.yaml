@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T17:15:34Z'
     type: PushEvent
-  - date: '2022-04-03T17:14:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: skiplibcheck'
+  message: 'fix: vite build'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/f127c3227b8849b420b259a3ce76b6c676cd496f
+    https://api.github.com/repos/ReactiveEmails/website/commits/16a59079f4f2070c571d273189fd6bb84ce5b7c7
   repo:
     url: https://api.github.com/repos/ReactiveEmails/website
     name: ReactiveEmails/website
