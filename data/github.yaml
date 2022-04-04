@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-04T02:59:20Z'
+    type: PushEvent
   - date: '2022-04-04T01:23:04Z'
     type: PushEvent
   - date: '2022-04-04T01:22:32Z'
@@ -37,14 +39,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T16:48:39Z'
     type: PushEvent
-  - date: '2022-04-03T16:37:31Z'
-    type: PushEvent
-  - date: '2022-04-03T16:33:36Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: unknown scope'
+  message: 'fix: wasm'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/8237776b92778603dc7e8e50388a42e0571c769c
+    https://api.github.com/repos/JSLaTeX/website/commits/ef9d7a74c3f9a8beb7601f9c9a6b3bc5f56f5411
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
