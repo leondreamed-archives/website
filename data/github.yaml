@@ -1,4 +1,24 @@
 events:
+  - date: '2022-04-04T16:56:57Z'
+    type: PushEvent
+  - date: '2022-04-04T16:55:39Z'
+    type: CreateEvent
+  - date: '2022-04-04T16:55:19Z'
+    type: CreateEvent
+  - date: '2022-04-04T16:17:03Z'
+    type: ReleaseEvent
+  - date: '2022-04-04T16:17:03Z'
+    type: CreateEvent
+  - date: '2022-04-04T16:17:00Z'
+    type: PushEvent
+  - date: '2022-04-04T16:16:13Z'
+    type: PushEvent
+  - date: '2022-04-04T16:05:39Z'
+    type: PushEvent
+  - date: '2022-04-04T16:01:17Z'
+    type: PushEvent
+  - date: '2022-04-04T16:00:28Z'
+    type: PushEvent
   - date: '2022-04-04T12:49:08Z'
     type: PushEvent
   - date: '2022-04-04T02:59:20Z'
@@ -17,26 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-03T20:50:32Z'
     type: PushEvent
-  - date: '2022-04-03T20:49:25Z'
-    type: PushEvent
-  - date: '2022-04-03T19:53:58Z'
-    type: PushEvent
-  - date: '2022-04-03T19:48:42Z'
-    type: PushEvent
-  - date: '2022-04-03T19:40:09Z'
-    type: PushEvent
-  - date: '2022-04-03T17:41:27Z'
-    type: PushEvent
-  - date: '2022-04-03T17:41:14Z'
-    type: PushEvent
-  - date: '2022-04-03T17:40:50Z'
-    type: PushEvent
-  - date: '2022-04-03T17:30:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: use atom one light theme'
+  message: 'docs: add readme note'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/250cc6d7e69b8e682307f4909a1c710189ead369
+    https://api.github.com/repos/leonzalion/configs/commits/b8cab66b2826ff2113279b014fc6bb6e4efbe4a4
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
