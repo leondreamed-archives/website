@@ -1,4 +1,14 @@
 events:
+  - date: '2022-04-04T01:23:04Z'
+    type: PushEvent
+  - date: '2022-04-04T01:22:32Z'
+    type: PushEvent
+  - date: '2022-04-04T01:22:18Z'
+    type: CreateEvent
+  - date: '2022-04-04T01:21:26Z'
+    type: CreateEvent
+  - date: '2022-04-04T01:13:06Z'
+    type: WatchEvent
   - date: '2022-04-03T23:07:38Z'
     type: PushEvent
   - date: '2022-04-03T20:50:32Z'
@@ -33,22 +43,10 @@ events:
     type: CreateEvent
   - date: '2022-04-03T16:21:32Z'
     type: PushEvent
-  - date: '2022-04-03T16:19:30Z'
-    type: PushEvent
-  - date: '2022-04-03T16:15:23Z'
-    type: PushEvent
-  - date: '2022-04-03T16:13:58Z'
-    type: PushEvent
-  - date: '2022-04-03T16:12:45Z'
-    type: PushEvent
-  - date: '2022-04-03T16:11:58Z'
-    type: PushEvent
-  - date: '2022-04-03T16:11:10Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.3
+  message: 'fix: title'
   url: >-
-    https://api.github.com/repos/JSLaTeX/ets/commits/a6a91fdb4f3a7a2f192181aa0cb590174899f46b
+    https://api.github.com/repos/JSLaTeX/website/commits/333db51ece3794a338238df954bc99372db00a1c
   repo:
-    url: https://api.github.com/repos/JSLaTeX/ets
-    name: JSLaTeX/ets
+    url: https://api.github.com/repos/JSLaTeX/website
+    name: JSLaTeX/website
