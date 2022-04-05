@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-04-04T19:26:27Z'
     type: PushEvent
-  - date: '2022-04-04T19:26:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: temporarily disable tests'
+  message: 1.0.0
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/fa0726154e6ae0afdf225052a701418b823a2778
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/a0ecdde6e4d96827260fd12958d679fee98d965c
   repo:
     url: https://api.github.com/repos/leonzalion/null-to-undefined
     name: leonzalion/null-to-undefined
