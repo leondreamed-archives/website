@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-05T01:58:17Z'
+    type: PushEvent
   - date: '2022-04-04T19:26:27Z'
     type: PushEvent
   - date: '2022-04-04T19:26:01Z'
@@ -37,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-04-04T16:01:17Z'
     type: PushEvent
-  - date: '2022-04-04T16:00:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: import/extensions rule'
+  message: 1.2.4
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/48c0e6955d09d5635a54db6068dc4c224c1608e7
+    https://api.github.com/repos/leonzalion/configs/commits/314929bbb8cf136cd7b5aa6eb4793fddcd906cdd
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
