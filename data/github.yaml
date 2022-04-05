@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-04-05T01:58:17Z'
     type: PushEvent
-  - date: '2022-04-04T19:26:27Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.0
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/a0ecdde6e4d96827260fd12958d679fee98d965c
+    https://api.github.com/repos/leonzalion/configs/commits/ee1714baa439f21ff862ac9269a7862705feea1d
   repo:
-    url: https://api.github.com/repos/leonzalion/null-to-undefined
-    name: leonzalion/null-to-undefined
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
