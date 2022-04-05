@@ -3,6 +3,10 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 6877
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 3431
   - category: Other
     name: alacritty
     productivity: 0
@@ -15,7 +19,3 @@ topActivities:
     name: discord.com
     productivity: -1
     timeSpent: 471
-  - category: General Business
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 312
