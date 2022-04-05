@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2573
+    timeSpent: 3123
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2552
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 374
-  - category: Project Management
-    name: '[unpublished]'
+    timeSpent: 2812
+  - category: Writing
+    name: Google Documents
     productivity: 2
-    timeSpent: 260
+    timeSpent: 867
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 696
