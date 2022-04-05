@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-04-04T19:24:40Z'
     type: CreateEvent
-  - date: '2022-04-04T19:24:28Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: add publishConfig'
   url: >-
