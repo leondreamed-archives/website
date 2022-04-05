@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-04T19:26:01Z'
     type: PushEvent
-  - date: '2022-04-04T19:25:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: add publishConfig'
+  message: 'chore: temporarily disable tests'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/8dd3d85595c165d4b9c8173bde5f7e26c50217f9
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/fa0726154e6ae0afdf225052a701418b823a2778
   repo:
     url: https://api.github.com/repos/leonzalion/null-to-undefined
     name: leonzalion/null-to-undefined
