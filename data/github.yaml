@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-04-06T00:57:46Z'
     type: PushEvent
-  - date: '2022-04-06T00:53:59Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.2
+  message: 'fix: hooks'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-system/commits/78f10db8cc0b79a2291e11db9b00f8189e496c9b
+    https://api.github.com/repos/leonzalion/lion-system/commits/c4b7c245bb88c7b4ee723157fb1f787e3393b4fc
   repo:
     url: https://api.github.com/repos/leonzalion/lion-system
     name: leonzalion/lion-system
