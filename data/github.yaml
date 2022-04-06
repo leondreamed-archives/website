@@ -33,8 +33,6 @@ events:
     type: PushEvent
   - date: '2022-04-06T00:58:38Z'
     type: ReleaseEvent
-  - date: '2022-04-06T00:58:38Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: remove ds_store'
   url: >-
