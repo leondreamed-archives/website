@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-06T15:56:23Z'
+    type: PushEvent
   - date: '2022-04-06T04:04:02Z'
     type: PushEvent
   - date: '2022-04-06T04:00:59Z'
@@ -41,14 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-06T00:53:36Z'
     type: PushEvent
-  - date: '2022-04-05T23:14:57Z'
-    type: IssuesEvent
-  - date: '2022-04-05T23:12:13Z'
-    type: PushEvent
 latestCommit:
-  message: add
+  message: 'fix: git hook in pnpm workspace'
   url: >-
-    https://api.github.com/repos/leonzalion/vue-ref-eslint-bug/commits/700f12b5634bab3faaf3a0d87572f9989e137528
+    https://api.github.com/repos/leonzalion/lion-system/commits/dc551778773be773ddd831596bee3f1383b25009
   repo:
-    url: https://api.github.com/repos/leonzalion/vue-ref-eslint-bug
-    name: leonzalion/vue-ref-eslint-bug
+    url: https://api.github.com/repos/leonzalion/lion-system
+    name: leonzalion/lion-system
