@@ -35,12 +35,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-06T00:58:38Z'
     type: CreateEvent
-  - date: '2022-04-06T00:58:05Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.3
+  message: 'chore: remove ds_store'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-system/commits/4641ecab80bf7db22a6721c4181e70d23fd0ed68
+    https://api.github.com/repos/leonzalion/lion-system/commits/870a8e2391e729175fddae1a14edbc94043a025f
   repo:
     url: https://api.github.com/repos/leonzalion/lion-system
     name: leonzalion/lion-system
