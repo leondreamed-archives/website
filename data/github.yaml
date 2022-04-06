@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-06T00:53:59Z'
     type: PushEvent
-  - date: '2022-04-06T00:53:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: git hook in pnpm workspace'
+  message: 1.1.2
   url: >-
-    https://api.github.com/repos/leonzalion/lion-system/commits/dc551778773be773ddd831596bee3f1383b25009
+    https://api.github.com/repos/leonzalion/lion-system/commits/78f10db8cc0b79a2291e11db9b00f8189e496c9b
   repo:
     url: https://api.github.com/repos/leonzalion/lion-system
     name: leonzalion/lion-system
