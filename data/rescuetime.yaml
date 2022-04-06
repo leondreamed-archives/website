@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1269
+    timeSpent: 2509
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 756
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 406
+    timeSpent: 1107
   - category: General Reference & Learning
     name: classroom.google.com
     productivity: 2
-    timeSpent: 387
-  - category: Writing
-    name: Google Documents
+    timeSpent: 658
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 433
+  - category: General Software Development
+    name: localhost:3000
     productivity: 2
-    timeSpent: 350
+    timeSpent: 411

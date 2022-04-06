@@ -45,12 +45,10 @@ events:
     type: IssuesEvent
   - date: '2022-04-05T23:12:13Z'
     type: PushEvent
-  - date: '2022-04-05T23:11:30Z'
-    type: PushEvent
 latestCommit:
-  message: readme
+  message: add
   url: >-
-    https://api.github.com/repos/leonzalion/vue-ref-eslint-bug/commits/0479b5a1a7d779da5db4832a7996e63ff4de44ca
+    https://api.github.com/repos/leonzalion/vue-ref-eslint-bug/commits/700f12b5634bab3faaf3a0d87572f9989e137528
   repo:
     url: https://api.github.com/repos/leonzalion/vue-ref-eslint-bug
     name: leonzalion/vue-ref-eslint-bug
