@@ -6,16 +6,16 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 611
+    timeSpent: 756
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 353
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 146
-  - category: Uncategorized
-    name: precommitapp.com
-    productivity: 0
-    timeSpent: 45
+    timeSpent: 406
+  - category: General Reference & Learning
+    name: classroom.google.com
+    productivity: 2
+    timeSpent: 387
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 350
