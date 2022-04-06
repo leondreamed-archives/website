@@ -49,8 +49,6 @@ events:
     type: PushEvent
   - date: '2022-04-05T23:10:28Z'
     type: CreateEvent
-  - date: '2022-04-05T23:10:18Z'
-    type: CreateEvent
 latestCommit:
   message: readme
   url: >-
