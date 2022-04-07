@@ -1,4 +1,10 @@
 events:
+  - date: '2022-04-07T20:16:17Z'
+    type: PushEvent
+  - date: '2022-04-07T20:10:01Z'
+    type: PushEvent
+  - date: '2022-04-07T20:08:33Z'
+    type: PushEvent
   - date: '2022-04-07T20:00:19Z'
     type: PushEvent
   - date: '2022-04-07T19:58:50Z'
@@ -41,14 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T15:39:37Z'
     type: PushEvent
-  - date: '2022-04-07T12:59:12Z'
-    type: PushEvent
-  - date: '2022-04-07T12:58:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: footer'
+  message: 'fix: lint'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/261551863da62870ce6cd431c80bcc6a2be896c0
+    https://api.github.com/repos/JSLaTeX/website/commits/af40060dfc2786fa0dc73f6dd553ed73aafef8fb
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
