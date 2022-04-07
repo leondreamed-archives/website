@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T00:44:44Z'
     type: PushEvent
-  - date: '2022-04-07T00:44:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: eslint'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/5e92ad462a953982fb18377a4b68cd6028176ca3
+    https://api.github.com/repos/leonzalion/parse-applescript/commits/bba2484f5073c70c82ec63d143f8508ff22332d7
   repo:
-    url: https://api.github.com/repos/leonzalion/null-to-undefined
-    name: leonzalion/null-to-undefined
+    url: https://api.github.com/repos/leonzalion/parse-applescript
+    name: leonzalion/parse-applescript

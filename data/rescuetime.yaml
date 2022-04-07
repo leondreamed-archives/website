@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1069
+    timeSpent: 1072
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 531
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 128
-  - category: General Software Development
-    name: Github
+    timeSpent: 561
+  - category: Presentation
+    name: Google Presentations
     productivity: 2
-    timeSpent: 78
-  - category: Uncategorized
-    name: jslatex.dev
-    productivity: 0
-    timeSpent: 51
+    timeSpent: 311
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 306
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 274
