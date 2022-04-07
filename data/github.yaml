@@ -1,4 +1,10 @@
 events:
+  - date: '2022-04-07T15:43:36Z'
+    type: PushEvent
+  - date: '2022-04-07T15:39:46Z'
+    type: PushEvent
+  - date: '2022-04-07T15:39:37Z'
+    type: PushEvent
   - date: '2022-04-07T12:59:12Z'
     type: PushEvent
   - date: '2022-04-07T12:58:45Z'
@@ -41,18 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T00:47:36Z'
     type: ReleaseEvent
-  - date: '2022-04-07T00:47:36Z'
-    type: CreateEvent
-  - date: '2022-04-07T00:47:34Z'
-    type: PushEvent
-  - date: '2022-04-07T00:47:17Z'
-    type: PushEvent
-  - date: '2022-04-07T00:47:04Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: code'
+  message: 'chore: remove prettier ignore'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/569ee4979d670fa6cbd17c5cb784e03d14eb193c
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/61939820b0c723e969d3f0bb78049680d7bebd94
   repo:
     url: https://api.github.com/repos/leonzalion/null-to-undefined
     name: leonzalion/null-to-undefined
