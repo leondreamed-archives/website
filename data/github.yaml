@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T00:47:04Z'
     type: PushEvent
-  - date: '2022-04-07T00:44:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: eslint'
+  message: 'fix: code'
   url: >-
-    https://api.github.com/repos/leonzalion/parse-applescript/commits/bba2484f5073c70c82ec63d143f8508ff22332d7
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/569ee4979d670fa6cbd17c5cb784e03d14eb193c
   repo:
-    url: https://api.github.com/repos/leonzalion/parse-applescript
-    name: leonzalion/parse-applescript
+    url: https://api.github.com/repos/leonzalion/null-to-undefined
+    name: leonzalion/null-to-undefined
