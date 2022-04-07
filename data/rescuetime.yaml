@@ -6,16 +6,16 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1953
+    timeSpent: 2018
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1268
+    timeSpent: 1886
   - category: General Software Development
     name: localhost:3000
     productivity: 2
     timeSpent: 1056
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 728
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 987
