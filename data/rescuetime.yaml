@@ -6,15 +6,15 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3595
+    timeSpent: 3682
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1700
+    timeSpent: 1748
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 899
+    timeSpent: 1054
   - category: General Utilities
     name: System Preferences
     productivity: 1
