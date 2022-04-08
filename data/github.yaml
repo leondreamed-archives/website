@@ -41,12 +41,10 @@ events:
     type: WatchEvent
   - date: '2022-04-07T16:01:16Z'
     type: PushEvent
-  - date: '2022-04-07T15:43:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: readme'
+  message: 'feat: animations'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/986c329250d74019e8eae0bcb7b36aeb1cddb06b
+    https://api.github.com/repos/JSLaTeX/website/commits/287e94c89415bb0c70bfef47b9fca421ef477225
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
