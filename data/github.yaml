@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T15:43:36Z'
     type: PushEvent
-  - date: '2022-04-07T15:39:46Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: prettier'
+  message: 'docs: readme'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/df25aa5c96b5ed71f3d35191ba0585852b48005b
+    https://api.github.com/repos/JSLaTeX/website/commits/986c329250d74019e8eae0bcb7b36aeb1cddb06b
   repo:
     url: https://api.github.com/repos/JSLaTeX/website
     name: JSLaTeX/website
