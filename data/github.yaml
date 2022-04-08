@@ -25,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T19:44:48Z'
     type: PushEvent
-  - date: '2022-04-07T19:40:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: build'
+  message: 'fix: vite'
   url: >-
-    https://api.github.com/repos/leonzalion/3d-game-thing/commits/be94ab9212b30a003a10a954baa5a1039d54ae49
+    https://api.github.com/repos/leonzalion/3d-game-thing/commits/3bc55bc40048e64a8b027e3b1929c8a091bb15c1
   repo:
     url: https://api.github.com/repos/leonzalion/3d-game-thing
     name: leonzalion/3d-game-thing
