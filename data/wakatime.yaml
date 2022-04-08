@@ -1,28 +1,32 @@
-dailyAverage: 20120
-totalSeconds: 140842.249955
+dailyAverage: 22194
+totalSeconds: 155358.665252
 languages:
   - name: sh
-    totalSeconds: 57571.106918
+    totalSeconds: 60188.349376
   - name: TypeScript
-    totalSeconds: 32903.211608
+    totalSeconds: 39565.217461
   - name: Vue.js
-    totalSeconds: 29563.305892
+    totalSeconds: 33219.891511
   - name: Other
-    totalSeconds: 8602.460483
+    totalSeconds: 8698.291489
   - name: JSON
-    totalSeconds: 6439.566917
+    totalSeconds: 6541.628958
   - name: JavaScript
     totalSeconds: 2963.563722
+  - name: TeX
+    totalSeconds: 2829.856942
   - name: Rust
     totalSeconds: 2802.926421
   - name: Markdown
-    totalSeconds: 2160.217492
+    totalSeconds: 2368.251824
   - name: YAML
-    totalSeconds: 2000.736944
-  - name: Java
-    totalSeconds: 1941.890821
-  - name: TeX
-    totalSeconds: 1354.222873
+    totalSeconds: 2015.625295
+  - name: C++
+    totalSeconds: 1056.493309
+  - name: Python
+    totalSeconds: 372.278079
+  - name: HTML
+    totalSeconds: 365.477391
   - name: TOML
     totalSeconds: 318.745944
   - name: Text
@@ -34,9 +38,7 @@ languages:
   - name: GraphQL
     totalSeconds: 98.178672
   - name: Bash
-    totalSeconds: 92.043692
-  - name: HTML
-    totalSeconds: 50.447326
+    totalSeconds: 70.095634
   - name: Pug
     totalSeconds: 40.63277
   - name: CSS
@@ -45,29 +47,31 @@ languages:
     totalSeconds: 0.960403
 projects:
   - name: precommit
-    totalSeconds: 30823.19251
+    totalSeconds: 29865.495205
   - name: jslatex-website
-    totalSeconds: 20412.478633
+    totalSeconds: 25567.99915
   - name: leonzalion
-    totalSeconds: 19872.557778
+    totalSeconds: 17281.930854
   - name: website
-    totalSeconds: 14270.525008
+    totalSeconds: 14639.084685
+  - name: 3d-game-thing
+    totalSeconds: 11568.49365
   - name: configs
-    totalSeconds: 11419.077071
+    totalSeconds: 11435.375316
   - name: admin-control
     totalSeconds: 10019.972285
   - name: discord-email-tunnel
-    totalSeconds: 4646.528542
+    totalSeconds: 4641.209133
   - name: reactive-emails
     totalSeconds: 4569.788784
   - name: reactive-emails-website
     totalSeconds: 3506.335071
-  - name: hashed-out
-    totalSeconds: 2712.437542
+  - name: portfolio-showcase
+    totalSeconds: 3498.420251
   - name: null-to-undefined
     totalSeconds: 1907.471731
-  - name: portfolio-showcase
-    totalSeconds: 1848.194591
+  - name: hashed-out
+    totalSeconds: 1810.624472
   - name: reactive-emails-app
     totalSeconds: 1659.645158
   - name: vpciclubs.com
@@ -76,28 +80,28 @@ projects:
     totalSeconds: 1310.423843
   - name: lion-system
     totalSeconds: 1296.237923
-  - name: ics-homework
-    totalSeconds: 1252.73903
   - name: app
     totalSeconds: 1247.423846
+  - name: ics-homework
+    totalSeconds: 1193.203516
   - name: vitest-regression
     totalSeconds: 1107.33122
   - name: create-project
     totalSeconds: 1076.870498
-  - name: leonzalion-google-workspace
-    totalSeconds: 959.968395
   - name: projects
     totalSeconds: 954.532926
   - name: sudo-wrapper
     totalSeconds: 929.093393
   - name: ets
     totalSeconds: 898.076927
+  - name: leonzalion-google-workspace
+    totalSeconds: 835.468498
+  - name: bootstrap-macos
+    totalSeconds: 827.570826
   - name: .github
     totalSeconds: 827.224129
   - name: parse-applescript
     totalSeconds: 768.607904
-  - name: bootstrap-macos
-    totalSeconds: 721.859791
   - name: fast-check-regression
     totalSeconds: 694.130305
   - name: p-wait-for
@@ -112,6 +116,8 @@ projects:
     totalSeconds: 353.836082
   - name: BITB
     totalSeconds: 351.052648
+  - name: jslatex-vscode-extension
+    totalSeconds: 323.95723
   - name: prettier-vscode
     totalSeconds: 296.987742
   - name: ProxyExperiment
@@ -120,6 +126,8 @@ projects:
     totalSeconds: 267.801908
   - name: sync-index
     totalSeconds: 246.061192
+  - name: upstream-python
+    totalSeconds: 230.769655
   - name: fast-check
     totalSeconds: 194.596822
   - name: tabulo-rewrite
@@ -128,8 +136,6 @@ projects:
     totalSeconds: 161.443079
   - name: timeblocker
     totalSeconds: 147.134025
-  - name: jslatex-vscode-extension
-    totalSeconds: 143.836078
   - name: applescript-utils
     totalSeconds: 137.757554
   - name: latex-workflow
@@ -170,8 +176,6 @@ projects:
     totalSeconds: 30.912986
   - name: deep-clone-fn
     totalSeconds: 29.216369
-  - name: genetic-algorithm
-    totalSeconds: 27.357089
   - name: ssr-test
     totalSeconds: 26.728007
   - name: Terminal
@@ -191,9 +195,9 @@ projects:
   - name: todo
     totalSeconds: 8.106177
   - name: Unknown Project
-    totalSeconds: 3.900103
-  - name: chem
-    totalSeconds: 3.801274
+    totalSeconds: 7.224748
+  - name: genetic-algorithm
+    totalSeconds: 3.872549
   - name: test
     totalSeconds: 1.672456
   - name: Kevin-RPG-Game
