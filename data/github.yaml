@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T19:38:24Z'
     type: PushEvent
-  - date: '2022-04-07T19:36:56Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: get started section'
+  message: 'fix: build script'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/b7baf970651dbb2f3d307aa6c2770840f08f72cb
+    https://api.github.com/repos/leonzalion/3d-game-thing/commits/09b8a2410dc3b99fb92414f910478360c0a912f7
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/3d-game-thing
+    name: leonzalion/3d-game-thing
