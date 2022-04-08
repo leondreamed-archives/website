@@ -3,14 +3,14 @@ topActivities:
     name: youtube.com
     productivity: -2
     timeSpent: 7093
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 4053
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4045
+    timeSpent: 5323
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 4160
   - category: General Software Development
     name: Github
     productivity: 2
