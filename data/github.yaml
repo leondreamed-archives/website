@@ -39,12 +39,10 @@ events:
     type: ForkEvent
   - date: '2022-04-07T16:41:17Z'
     type: WatchEvent
-  - date: '2022-04-07T16:01:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: animations'
+  message: 'feat: rewrite'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/287e94c89415bb0c70bfef47b9fca421ef477225
+    https://api.github.com/repos/leonzalion/3d-game-thing/commits/708b6e7e50c83af74c207167f3566ae151b0c3d7
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/3d-game-thing
+    name: leonzalion/3d-game-thing
