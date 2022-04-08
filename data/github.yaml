@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-08T16:01:55Z'
+    type: WatchEvent
   - date: '2022-04-08T13:34:08Z'
     type: PushEvent
   - date: '2022-04-08T13:02:26Z'
@@ -33,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T19:36:55Z'
     type: PushEvent
-  - date: '2022-04-07T19:36:05Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: cursor lock'
+  message: 'feat: github pages'
   url: >-
-    https://api.github.com/repos/leonzalion/3d-game-thing/commits/08d7572266f118000e01ecb3ebb3579e0b3b1311
+    https://api.github.com/repos/leonzalion/3d-game-thing/commits/f04d9dfff38d4caff0df158d64fb4b4842300dfe
   repo:
     url: https://api.github.com/repos/leonzalion/3d-game-thing
     name: leonzalion/3d-game-thing
