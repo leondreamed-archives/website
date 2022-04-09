@@ -17,12 +17,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T20:10:01Z'
     type: PushEvent
-  - date: '2022-04-07T20:08:33Z'
-    type: PushEvent
 latestCommit:
-  message: tkinter
+  message: 'chore: add todo'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/2c6da6050f64c62dd29c3c463aefa1e77ff16c62
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/a05e594a41188ff8360659e03b7fbe7e099b2ced
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
