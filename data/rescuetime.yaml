@@ -15,7 +15,7 @@ topActivities:
     name: Github
     productivity: 2
     timeSpent: 3154
-  - category: General Software Development
-    name: localhost:3000
+  - category: Editing & IDEs
+    name: Xcode
     productivity: 2
-    timeSpent: 1394
+    timeSpent: 1584

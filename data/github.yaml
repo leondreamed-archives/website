@@ -19,12 +19,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T20:08:33Z'
     type: PushEvent
-  - date: '2022-04-07T20:00:19Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: moving in multiple directions'
+  message: tkinter
   url: >-
-    https://api.github.com/repos/leonzalion/3d-game-thing/commits/7132f1e96d18092edf08ca9e89ce99bd6a276092
+    https://api.github.com/repos/leonzalion/macos-configs/commits/2c6da6050f64c62dd29c3c463aefa1e77ff16c62
   repo:
-    url: https://api.github.com/repos/leonzalion/3d-game-thing
-    name: leonzalion/3d-game-thing
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
