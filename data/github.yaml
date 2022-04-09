@@ -1,4 +1,12 @@
 events:
+  - date: '2022-04-09T15:46:28Z'
+    type: PushEvent
+  - date: '2022-04-09T15:46:15Z'
+    type: PushEvent
+  - date: '2022-04-09T15:43:41Z'
+    type: PushEvent
+  - date: '2022-04-09T15:43:38Z'
+    type: PushEvent
   - date: '2022-04-09T14:29:45Z'
     type: PushEvent
   - date: '2022-04-09T14:28:18Z'
@@ -45,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T08:47:49Z'
     type: CreateEvent
-  - date: '2022-04-09T07:59:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: resolve'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/4c840ef22352136797c99a03160f9dcf07d62c7d
+    https://api.github.com/repos/leonzalion/configs/commits/3a3f2ac27fc3ea6c1fe5bc080281b8e7ff5a9c9f
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
