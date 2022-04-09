@@ -21,12 +21,10 @@ events:
     type: PushEvent
   - date: '2022-04-07T20:00:19Z'
     type: PushEvent
-  - date: '2022-04-07T19:58:50Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: types'
+  message: 'fix: moving in multiple directions'
   url: >-
-    https://api.github.com/repos/leonzalion/3d-game-thing/commits/ae572267d1101e8760d3a592f12f1ffc83d2210f
+    https://api.github.com/repos/leonzalion/3d-game-thing/commits/7132f1e96d18092edf08ca9e89ce99bd6a276092
   repo:
     url: https://api.github.com/repos/leonzalion/3d-game-thing
     name: leonzalion/3d-game-thing

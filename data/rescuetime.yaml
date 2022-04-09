@@ -10,11 +10,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 4670
+    timeSpent: 4777
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2570
+    timeSpent: 3154
   - category: General Software Development
     name: localhost:3000
     productivity: 2
