@@ -1,4 +1,30 @@
 events:
+  - date: '2022-04-09T21:51:50Z'
+    type: PushEvent
+  - date: '2022-04-09T21:51:45Z'
+    type: PushEvent
+  - date: '2022-04-09T21:48:32Z'
+    type: PushEvent
+  - date: '2022-04-09T21:47:14Z'
+    type: PushEvent
+  - date: '2022-04-09T21:46:52Z'
+    type: PushEvent
+  - date: '2022-04-09T21:46:44Z'
+    type: PushEvent
+  - date: '2022-04-09T21:38:18Z'
+    type: PushEvent
+  - date: '2022-04-09T21:34:29Z'
+    type: PushEvent
+  - date: '2022-04-09T21:34:11Z'
+    type: PushEvent
+  - date: '2022-04-09T21:33:42Z'
+    type: CreateEvent
+  - date: '2022-04-09T21:32:14Z'
+    type: CreateEvent
+  - date: '2022-04-09T21:31:38Z'
+    type: PushEvent
+  - date: '2022-04-09T21:28:34Z'
+    type: CreateEvent
   - date: '2022-04-09T20:25:02Z'
     type: PushEvent
   - date: '2022-04-09T19:45:08Z'
@@ -27,30 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T19:12:00Z'
     type: PushEvent
-  - date: '2022-04-09T15:46:28Z'
-    type: PushEvent
-  - date: '2022-04-09T15:46:15Z'
-    type: PushEvent
-  - date: '2022-04-09T15:43:41Z'
-    type: PushEvent
-  - date: '2022-04-09T15:43:38Z'
-    type: PushEvent
-  - date: '2022-04-09T14:29:45Z'
-    type: PushEvent
-  - date: '2022-04-09T14:28:18Z'
-    type: CreateEvent
-  - date: '2022-04-09T14:28:21Z'
-    type: ReleaseEvent
-  - date: '2022-04-09T14:28:16Z'
-    type: PushEvent
-  - date: '2022-04-09T14:27:21Z'
-    type: PushEvent
-  - date: '2022-04-09T14:26:42Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: disable json parse buffer rule'
+  message: 'feat: git-cliff binary'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/aeae371807c9eb255544bd88a4bb3acbc84a7589
+    https://api.github.com/repos/leonzalion/configs/commits/992725e49ae034fa4c78f1a75a32c54ce4835e58
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
