@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T09:01:55Z'
     type: CreateEvent
-  - date: '2022-04-09T09:01:17Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.6
+  message: 'chore: update desc'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/91c0a243094b3e92953801249343ab2bcf134593
+    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/ac023f62a1c1ed6f45795f0b55824bc9c14ca6e0
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/vite-plugin-js-imports
+    name: leonzalion/vite-plugin-js-imports
