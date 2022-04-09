@@ -1,4 +1,30 @@
 events:
+  - date: '2022-04-09T19:45:08Z'
+    type: PushEvent
+  - date: '2022-04-09T19:44:36Z'
+    type: PushEvent
+  - date: '2022-04-09T19:43:58Z'
+    type: PushEvent
+  - date: '2022-04-09T19:36:38Z'
+    type: PushEvent
+  - date: '2022-04-09T19:36:13Z'
+    type: PushEvent
+  - date: '2022-04-09T19:22:19Z'
+    type: PushEvent
+  - date: '2022-04-09T19:21:50Z'
+    type: PushEvent
+  - date: '2022-04-09T19:14:32Z'
+    type: ReleaseEvent
+  - date: '2022-04-09T19:14:32Z'
+    type: CreateEvent
+  - date: '2022-04-09T19:14:28Z'
+    type: PushEvent
+  - date: '2022-04-09T19:13:52Z'
+    type: PushEvent
+  - date: '2022-04-09T19:12:41Z'
+    type: PushEvent
+  - date: '2022-04-09T19:12:00Z'
+    type: PushEvent
   - date: '2022-04-09T15:46:28Z'
     type: PushEvent
   - date: '2022-04-09T15:46:15Z'
@@ -19,38 +45,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T14:26:42Z'
     type: PushEvent
-  - date: '2022-04-09T09:11:25Z'
-    type: PushEvent
-  - date: '2022-04-09T09:11:19Z'
-    type: PushEvent
-  - date: '2022-04-09T09:10:23Z'
-    type: PushEvent
-  - date: '2022-04-09T09:09:59Z'
-    type: PushEvent
-  - date: '2022-04-09T09:06:23Z'
-    type: PushEvent
-  - date: '2022-04-09T09:05:28Z'
-    type: PushEvent
-  - date: '2022-04-09T09:04:46Z'
-    type: ReleaseEvent
-  - date: '2022-04-09T09:04:46Z'
-    type: CreateEvent
-  - date: '2022-04-09T09:04:41Z'
-    type: PushEvent
-  - date: '2022-04-09T09:04:09Z'
-    type: PushEvent
-  - date: '2022-04-09T09:03:34Z'
-    type: PushEvent
-  - date: '2022-04-09T09:03:12Z'
-    type: PushEvent
-  - date: '2022-04-09T09:02:18Z'
-    type: PushEvent
-  - date: '2022-04-09T09:01:55Z'
-    type: CreateEvent
 latestCommit:
-  message: 'chore: update desc'
+  message: 'feat: disable json parse buffer rule'
   url: >-
-    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/ac023f62a1c1ed6f45795f0b55824bc9c14ca6e0
+    https://api.github.com/repos/leonzalion/configs/commits/aeae371807c9eb255544bd88a4bb3acbc84a7589
   repo:
-    url: https://api.github.com/repos/leonzalion/vite-plugin-js-imports
-    name: leonzalion/vite-plugin-js-imports
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
