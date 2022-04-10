@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-10T16:58:29Z'
+    type: PushEvent
   - date: '2022-04-10T15:45:58Z'
     type: WatchEvent
   - date: '2022-04-10T14:05:41Z'
@@ -41,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T23:30:29Z'
     type: PushEvent
-  - date: '2022-04-09T23:22:48Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: reactive email demo'
+  message: 'feat: demo style changes'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/9279574378054d878d82d547adaffb426ff46ab8
+    https://api.github.com/repos/ReactiveEmails/website/commits/7c75292cc76a8334288e6aba77b5db352300cf58
   repo:
     url: https://api.github.com/repos/ReactiveEmails/website
     name: ReactiveEmails/website
