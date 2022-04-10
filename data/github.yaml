@@ -1,4 +1,26 @@
 events:
+  - date: '2022-04-09T23:58:42Z'
+    type: PushEvent
+  - date: '2022-04-09T23:58:09Z'
+    type: PushEvent
+  - date: '2022-04-09T23:57:51Z'
+    type: PushEvent
+  - date: '2022-04-09T23:56:27Z'
+    type: PushEvent
+  - date: '2022-04-09T23:56:02Z'
+    type: ReleaseEvent
+  - date: '2022-04-09T23:56:02Z'
+    type: CreateEvent
+  - date: '2022-04-09T23:55:52Z'
+    type: PushEvent
+  - date: '2022-04-09T23:52:26Z'
+    type: PushEvent
+  - date: '2022-04-09T23:42:43Z'
+    type: PushEvent
+  - date: '2022-04-09T23:30:29Z'
+    type: PushEvent
+  - date: '2022-04-09T23:22:48Z'
+    type: PushEvent
   - date: '2022-04-09T22:21:22Z'
     type: PushEvent
   - date: '2022-04-09T22:21:00Z'
@@ -33,30 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T21:38:18Z'
     type: PushEvent
-  - date: '2022-04-09T21:34:29Z'
-    type: PushEvent
-  - date: '2022-04-09T21:34:11Z'
-    type: PushEvent
-  - date: '2022-04-09T21:33:42Z'
-    type: CreateEvent
-  - date: '2022-04-09T21:32:14Z'
-    type: CreateEvent
-  - date: '2022-04-09T21:31:38Z'
-    type: PushEvent
-  - date: '2022-04-09T21:28:34Z'
-    type: CreateEvent
-  - date: '2022-04-09T20:25:02Z'
-    type: PushEvent
-  - date: '2022-04-09T19:45:08Z'
-    type: PushEvent
-  - date: '2022-04-09T19:44:36Z'
-    type: PushEvent
-  - date: '2022-04-09T19:43:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: changelog'
+  message: 'fix: node_modules check'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/2a1262c670ac03d6f045c0fe2ddbab3306eace55
+    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/ac5c424c68d8030771c6b9f33090299786599652
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/vite-plugin-js-imports
+    name: leonzalion/vite-plugin-js-imports
