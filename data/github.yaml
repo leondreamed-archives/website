@@ -1,4 +1,10 @@
 events:
+  - date: '2022-04-10T21:00:47Z'
+    type: PushEvent
+  - date: '2022-04-10T20:54:22Z'
+    type: WatchEvent
+  - date: '2022-04-10T20:51:46Z'
+    type: PushEvent
   - date: '2022-04-10T19:46:10Z'
     type: PushEvent
   - date: '2022-04-10T19:45:44Z'
@@ -39,8 +45,6 @@ events:
     type: PushEvent
   - date: '2022-04-10T14:04:03Z'
     type: PushEvent
-  - date: '2022-04-10T13:55:02Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: use tabs for indentation'
   url: >-
