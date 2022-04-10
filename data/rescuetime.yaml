@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 985
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 847
+    timeSpent: 2857
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1422
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 233
+  - category: General News & Opinion
+    name: reddit.com
+    productivity: -2
+    timeSpent: 184
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 184
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 109
-  - category: Writing
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 90

@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-10T15:45:58Z'
+    type: WatchEvent
   - date: '2022-04-10T14:05:41Z'
     type: PushEvent
   - date: '2022-04-10T14:04:30Z'
@@ -41,14 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T23:22:48Z'
     type: PushEvent
-  - date: '2022-04-09T22:21:22Z'
-    type: PushEvent
-  - date: '2022-04-09T22:21:00Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: tsc'
+  message: 'feat: reactive email demo'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/230317c0c13b93822e5afdeefbed05a04e7d4355
+    https://api.github.com/repos/ReactiveEmails/website/commits/9279574378054d878d82d547adaffb426ff46ab8
   repo:
-    url: https://api.github.com/repos/ReactiveEmails/reactive-emails
-    name: ReactiveEmails/reactive-emails
+    url: https://api.github.com/repos/ReactiveEmails/website
+    name: ReactiveEmails/website
