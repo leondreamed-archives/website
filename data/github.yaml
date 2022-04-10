@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-09T22:13:37Z'
     type: PushEvent
-  - date: '2022-04-09T22:09:34Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: tsconfig'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/5e2e84bbd14a07ba03f173bfd55a568a1bbceedf
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/c02cbaefddccb457e06e2edc9393834a81cc444f
   repo:
     url: https://api.github.com/repos/ReactiveEmails/reactive-emails
     name: ReactiveEmails/reactive-emails
