@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-10T21:04:26Z'
+    type: PushEvent
   - date: '2022-04-10T21:00:47Z'
     type: PushEvent
   - date: '2022-04-10T20:54:22Z'
@@ -43,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T14:04:30Z'
     type: PushEvent
-  - date: '2022-04-10T14:04:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: use tabs for indentation'
+  message: 1.2.8
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/8a31e01e2025c05eef5eb8073a4114a37e004614
+    https://api.github.com/repos/leonzalion/configs/commits/29b324efe9f49dbc7d88a0d297fce18e57a94de9
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
