@@ -6,15 +6,15 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 6359
+    timeSpent: 6914
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 4199
+    timeSpent: 5155
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 2992
+    timeSpent: 3010
   - category: Meetings
     name: meet.google.com
     productivity: 1
