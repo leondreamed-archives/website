@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-10T13:55:02Z'
+    type: WatchEvent
   - date: '2022-04-10T00:16:37Z'
     type: PushEvent
   - date: '2022-04-10T00:13:24Z'
@@ -45,14 +47,10 @@ events:
     type: CreateEvent
   - date: '2022-04-09T22:15:48Z'
     type: ReleaseEvent
-  - date: '2022-04-09T22:13:56Z'
-    type: PushEvent
-  - date: '2022-04-09T22:13:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: tsconfig'
+  message: 'fix: package.json exports'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/c02cbaefddccb457e06e2edc9393834a81cc444f
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/d51dfab9c41a3b8bd82627c8fbd0a542a39bb433
   repo:
     url: https://api.github.com/repos/ReactiveEmails/reactive-emails
     name: ReactiveEmails/reactive-emails
