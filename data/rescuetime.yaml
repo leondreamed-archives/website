@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 903
+    timeSpent: 985
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 312
+    timeSpent: 847
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 184
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 80
-  - category: Uncategorized
-    name: jslatex.dev
-    productivity: 0
-    timeSpent: 42
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 24
+    timeSpent: 109
+  - category: Writing
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 90
