@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-10T18:52:46Z'
+    type: PushEvent
+  - date: '2022-04-10T18:52:19Z'
+    type: PushEvent
   - date: '2022-04-10T16:58:29Z'
     type: PushEvent
   - date: '2022-04-10T15:45:58Z'
@@ -35,16 +39,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-09T23:56:02Z'
     type: CreateEvent
-  - date: '2022-04-09T23:55:52Z'
-    type: PushEvent
-  - date: '2022-04-09T23:52:26Z'
-    type: PushEvent
-  - date: '2022-04-09T23:42:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: copy to clipboard option'
+  message: 'feat: advanced options'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/bbe218f6953fe09636b68e28bcc23935168355b1
+    https://api.github.com/repos/ReactiveEmails/website/commits/0c9839593af6b1c2ee99b77ea79187e47c1af71c
   repo:
     url: https://api.github.com/repos/ReactiveEmails/website
     name: ReactiveEmails/website
