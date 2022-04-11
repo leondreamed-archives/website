@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-11T02:39:11Z'
+    type: PushEvent
+  - date: '2022-04-11T02:37:53Z'
+    type: PushEvent
   - date: '2022-04-10T22:51:40Z'
     type: IssuesEvent
   - date: '2022-04-10T22:51:15Z'
@@ -41,14 +45,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T19:28:36Z'
     type: PushEvent
-  - date: '2022-04-10T19:22:40Z'
-    type: WatchEvent
-  - date: '2022-04-10T18:52:46Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.9
+  message: 'fix: sort conflicts'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/5ac1607f5324bc69b2f4794abf29891af18c8db0
+    https://api.github.com/repos/leonzalion/configs/commits/e9d3f2b047e4bf640ac7d7ab6eb74a8653be8bc0
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
