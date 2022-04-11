@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T19:45:44Z'
     type: PushEvent
-  - date: '2022-04-10T19:35:56Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.9
+  message: 'feat: disable prefer function type'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/8eb07caa082bb7e7f85c9a7924935dad92dd826f
+    https://api.github.com/repos/leonzalion/configs/commits/f46b56a47146c51da0ea2a4815d435f34e202076
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
-    name: leonzalion/inquirer-press-to-continue
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
