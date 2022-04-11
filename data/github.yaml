@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-11T17:29:01Z'
+    type: PushEvent
+  - date: '2022-04-11T17:20:34Z'
+    type: PushEvent
+  - date: '2022-04-11T17:19:08Z'
+    type: PushEvent
+  - date: '2022-04-11T17:13:07Z'
+    type: PublicEvent
+  - date: '2022-04-11T17:01:29Z'
+    type: PushEvent
+  - date: '2022-04-11T17:00:53Z'
+    type: PushEvent
   - date: '2022-04-11T16:29:16Z'
     type: PushEvent
   - date: '2022-04-11T13:37:15Z'
@@ -27,20 +39,10 @@ events:
     type: IssuesEvent
   - date: '2022-04-10T22:50:19Z'
     type: IssuesEvent
-  - date: '2022-04-10T22:50:10Z'
-    type: IssuesEvent
-  - date: '2022-04-10T21:04:26Z'
-    type: PushEvent
-  - date: '2022-04-10T21:00:47Z'
-    type: PushEvent
-  - date: '2022-04-10T20:54:22Z'
-    type: WatchEvent
-  - date: '2022-04-10T20:51:46Z'
-    type: PushEvent
 latestCommit:
-  message: swift
+  message: 'feat: swift bootstrapper'
   url: >-
-    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/c5ac639ebe46227b739f6ab47f0d50baa5e5b35c
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/0af710519c6bb9a499b695458196ab6607059be5
   repo:
     url: https://api.github.com/repos/leonzalion/bootstrap-macos
     name: leonzalion/bootstrap-macos
