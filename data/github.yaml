@@ -37,8 +37,6 @@ events:
     type: IssuesEvent
   - date: '2022-04-10T22:50:35Z'
     type: IssuesEvent
-  - date: '2022-04-10T22:50:19Z'
-    type: IssuesEvent
 latestCommit:
   message: 'feat: swift bootstrapper'
   url: >-
