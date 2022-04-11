@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 11103
+    timeSpent: 11230
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 4094
+    timeSpent: 4175
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2589
+    timeSpent: 2706
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1070
+    timeSpent: 1074
