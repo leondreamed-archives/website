@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-11T07:04:19Z'
+    type: PushEvent
+  - date: '2022-04-11T04:04:13Z'
+    type: WatchEvent
+  - date: '2022-04-11T04:01:52Z'
+    type: PushEvent
+  - date: '2022-04-11T03:53:48Z'
+    type: WatchEvent
+  - date: '2022-04-11T03:48:59Z'
+    type: PushEvent
+  - date: '2022-04-11T03:44:22Z'
+    type: PushEvent
   - date: '2022-04-11T02:39:11Z'
     type: PushEvent
   - date: '2022-04-11T02:37:53Z'
@@ -31,24 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T19:34:42Z'
     type: PushEvent
-  - date: '2022-04-10T19:34:20Z'
-    type: PushEvent
-  - date: '2022-04-10T19:32:19Z'
-    type: CreateEvent
-  - date: '2022-04-10T19:32:18Z'
-    type: ReleaseEvent
-  - date: '2022-04-10T19:32:17Z'
-    type: PushEvent
-  - date: '2022-04-10T19:31:56Z'
-    type: PushEvent
-  - date: '2022-04-10T19:29:02Z'
-    type: PushEvent
-  - date: '2022-04-10T19:28:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: sort conflicts'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/e9d3f2b047e4bf640ac7d7ab6eb74a8653be8bc0
+    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/2df79f5cfb5c23726f349f7a6d8a07b5d5d1b423
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
+    name: leonzalion/inquirer-press-to-continue
