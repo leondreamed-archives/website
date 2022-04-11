@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T19:46:10Z'
     type: PushEvent
-  - date: '2022-04-10T19:45:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: disable prefer function type'
+  message: 1.2.11
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/f46b56a47146c51da0ea2a4815d435f34e202076
+    https://api.github.com/repos/leonzalion/configs/commits/b0df4f14fc192801ca6a52e8d8fdd60480ebebb0
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
