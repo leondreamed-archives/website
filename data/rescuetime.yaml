@@ -1,21 +1,21 @@
 topActivities:
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 7170
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6238
+    timeSpent: 8390
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 7444
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1528
-  - category: General Software Development
-    name: npmjs.com
-    productivity: 2
-    timeSpent: 945
+    timeSpent: 1712
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 896
+    timeSpent: 1291
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 958
