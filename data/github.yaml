@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-11T13:37:15Z'
+    type: PushEvent
   - date: '2022-04-11T07:04:19Z'
     type: PushEvent
   - date: '2022-04-11T04:04:13Z'
@@ -39,14 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-10T19:35:56Z'
     type: PushEvent
-  - date: '2022-04-10T19:35:31Z'
-    type: PushEvent
-  - date: '2022-04-10T19:34:42Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 1.0.9
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/2df79f5cfb5c23726f349f7a6d8a07b5d5d1b423
+    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/8eb07caa082bb7e7f85c9a7924935dad92dd826f
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
     name: leonzalion/inquirer-press-to-continue
