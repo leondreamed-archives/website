@@ -45,12 +45,10 @@ events:
     type: WatchEvent
   - date: '2022-04-10T18:52:46Z'
     type: PushEvent
-  - date: '2022-04-10T18:52:19Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: sort exports'
+  message: 1.2.9
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/0c81c2200df52bb40ca69363d78c61b076d65f4c
+    https://api.github.com/repos/leonzalion/configs/commits/5ac1607f5324bc69b2f4794abf29891af18c8db0
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
