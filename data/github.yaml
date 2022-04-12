@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-12T14:20:53Z'
+    type: PushEvent
   - date: '2022-04-12T04:17:08Z'
     type: PushEvent
   - date: '2022-04-12T04:16:59Z'
@@ -33,14 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-11T19:16:17Z'
     type: PushEvent
-  - date: '2022-04-11T17:29:01Z'
-    type: PushEvent
-  - date: '2022-04-11T17:20:34Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove doppler'
+  message: 'feat: support for ngrok binPath'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/a3f55d5db1d6371dd5cae5301f253fee258944c5
+    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/dcb7a2ea421f5bc5292409e9494864b7e796eb80
   repo:
     url: https://api.github.com/repos/AdminControlApp/phone-call-pass
     name: AdminControlApp/phone-call-pass
