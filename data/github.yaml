@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-12T00:17:44Z'
+    type: PushEvent
   - date: '2022-04-11T23:15:01Z'
     type: PushEvent
   - date: '2022-04-11T21:37:06Z'
@@ -33,14 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-11T04:04:13Z'
     type: WatchEvent
-  - date: '2022-04-11T04:01:52Z'
-    type: PushEvent
-  - date: '2022-04-11T03:53:48Z'
-    type: WatchEvent
 latestCommit:
-  message: 'chore: lint'
+  message: 'chore: remove unnecessary deps'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/c02922d744163e4207bc5b677694af745e35e526
+    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/1a203b30b25dd4981db04c3c46d54e26d9431876
   repo:
     url: https://api.github.com/repos/AdminControlApp/phone-call-pass
     name: AdminControlApp/phone-call-pass
