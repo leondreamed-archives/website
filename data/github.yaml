@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-11T17:20:34Z'
     type: PushEvent
-  - date: '2022-04-11T17:19:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: support command line args'
+  message: 'chore: remove doppler'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/695618ee278a249dea1c83efe32d3d985abd7ef9
+    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/a3f55d5db1d6371dd5cae5301f253fee258944c5
   repo:
     url: https://api.github.com/repos/AdminControlApp/phone-call-pass
     name: AdminControlApp/phone-call-pass
