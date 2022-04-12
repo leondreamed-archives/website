@@ -33,12 +33,10 @@ events:
     type: ForkEvent
   - date: '2022-04-12T00:17:44Z'
     type: PushEvent
-  - date: '2022-04-11T23:15:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lint'
+  message: c++
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/05bb58afbc4c62b72bcb823f81e5672fc48a3cde
+    https://api.github.com/repos/leonzalion/bootstrap-macos/commits/3071cbba9e327a5698b875a07f132d4e54778e7f
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/bootstrap-macos
+    name: leonzalion/bootstrap-macos
