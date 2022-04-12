@@ -10,12 +10,12 @@ topActivities:
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 6767
+    timeSpent: 7983
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 6233
+    timeSpent: 6555
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3792
+    timeSpent: 3802
