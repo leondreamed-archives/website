@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-13T19:55:43Z'
+    type: PushEvent
+  - date: '2022-04-13T19:36:13Z'
+    type: PushEvent
   - date: '2022-04-13T17:35:02Z'
     type: PushEvent
   - date: '2022-04-13T16:13:54Z'
@@ -41,16 +45,10 @@ events:
     type: PushEvent
   - date: '2022-04-13T05:11:09Z'
     type: PushEvent
-  - date: '2022-04-13T04:44:38Z'
-    type: PushEvent
-  - date: '2022-04-13T04:43:52Z'
-    type: PushEvent
-  - date: '2022-04-13T04:42:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: raw option'
+  message: 'fix: overflow issues with long emails'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/8e9d5e31d94e17b9f68404809ec8194452df4061
+    https://api.github.com/repos/ReactiveEmails/website/commits/32d88ba73b7b3c765abd9f0d9e1f0107473996fb
   repo:
-    url: https://api.github.com/repos/ReactiveEmails/reactive-emails
-    name: ReactiveEmails/reactive-emails
+    url: https://api.github.com/repos/ReactiveEmails/website
+    name: ReactiveEmails/website
