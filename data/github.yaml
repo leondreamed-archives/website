@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-04-12T04:16:03Z'
     type: DeleteEvent
-  - date: '2022-04-12T04:14:29Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: readme'
+  message: 'feat: rename branch to main'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/986c329250d74019e8eae0bcb7b36aeb1cddb06b
+    https://api.github.com/repos/Vic-Park/vpciclubs.com/commits/61228b563d1e1b104ec386d4358a33d5e6882705
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/Vic-Park/vpciclubs.com
+    name: Vic-Park/vpciclubs.com
