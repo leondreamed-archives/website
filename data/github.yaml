@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-13T00:38:57Z'
     type: PushEvent
-  - date: '2022-04-13T00:35:59Z'
-    type: PushEvent
 latestCommit:
   message: Update README.md
   url: >-
-    https://api.github.com/repos/leonzalion/leonzalion/commits/d724674ba24477e4b8928a41eca8a4bd0b264cf1
+    https://api.github.com/repos/leonzalion/leonzalion/commits/0f31f7b626c0757acd1436d992df087caf746748
   repo:
     url: https://api.github.com/repos/leonzalion/leonzalion
     name: leonzalion/leonzalion
