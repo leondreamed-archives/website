@@ -47,8 +47,6 @@ events:
     type: PushEvent
   - date: '2022-04-13T15:59:48Z'
     type: CreateEvent
-  - date: '2022-04-13T15:59:48Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'feat: throttle message sending'
   url: >-
