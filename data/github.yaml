@@ -1,4 +1,40 @@
 events:
+  - date: '2022-04-13T20:35:16Z'
+    type: PushEvent
+  - date: '2022-04-13T20:33:18Z'
+    type: PushEvent
+  - date: '2022-04-13T20:31:52Z'
+    type: ReleaseEvent
+  - date: '2022-04-13T20:31:53Z'
+    type: CreateEvent
+  - date: '2022-04-13T20:31:47Z'
+    type: PushEvent
+  - date: '2022-04-13T20:30:15Z'
+    type: PushEvent
+  - date: '2022-04-13T20:29:18Z'
+    type: ReleaseEvent
+  - date: '2022-04-13T20:29:18Z'
+    type: CreateEvent
+  - date: '2022-04-13T20:29:12Z'
+    type: PushEvent
+  - date: '2022-04-13T20:28:27Z'
+    type: PushEvent
+  - date: '2022-04-13T20:27:41Z'
+    type: PushEvent
+  - date: '2022-04-13T20:26:53Z'
+    type: PushEvent
+  - date: '2022-04-13T20:19:07Z'
+    type: PushEvent
+  - date: '2022-04-13T20:18:44Z'
+    type: PushEvent
+  - date: '2022-04-13T20:15:07Z'
+    type: PushEvent
+  - date: '2022-04-13T20:13:35Z'
+    type: PushEvent
+  - date: '2022-04-13T20:10:48Z'
+    type: PushEvent
+  - date: '2022-04-13T20:01:51Z'
+    type: PushEvent
   - date: '2022-04-13T19:55:43Z'
     type: PushEvent
   - date: '2022-04-13T19:36:13Z'
@@ -13,42 +49,10 @@ events:
     type: CreateEvent
   - date: '2022-04-13T15:59:48Z'
     type: ReleaseEvent
-  - date: '2022-04-13T15:59:39Z'
-    type: PushEvent
-  - date: '2022-04-13T15:58:53Z'
-    type: PushEvent
-  - date: '2022-04-13T12:59:36Z'
-    type: PushEvent
-  - date: '2022-04-13T12:59:30Z'
-    type: PushEvent
-  - date: '2022-04-13T12:03:26Z'
-    type: PushEvent
-  - date: '2022-04-13T06:58:38Z'
-    type: PushEvent
-  - date: '2022-04-13T06:58:12Z'
-    type: PushEvent
-  - date: '2022-04-13T06:49:56Z'
-    type: PushEvent
-  - date: '2022-04-13T06:49:39Z'
-    type: PushEvent
-  - date: '2022-04-13T06:44:44Z'
-    type: PushEvent
-  - date: '2022-04-13T05:36:18Z'
-    type: PushEvent
-  - date: '2022-04-13T05:24:07Z'
-    type: CreateEvent
-  - date: '2022-04-13T05:24:06Z'
-    type: ReleaseEvent
-  - date: '2022-04-13T05:24:03Z'
-    type: PushEvent
-  - date: '2022-04-13T05:23:11Z'
-    type: PushEvent
-  - date: '2022-04-13T05:11:09Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: overflow issues with long emails'
+  message: 'feat: throttle message sending'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/32d88ba73b7b3c765abd9f0d9e1f0107473996fb
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/72a941ef332142f1f3a9c82c82a9cf421c69698c
   repo:
-    url: https://api.github.com/repos/ReactiveEmails/website
-    name: ReactiveEmails/website
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
