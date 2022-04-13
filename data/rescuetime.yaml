@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4549
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 1407
+    timeSpent: 5991
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1319
+    timeSpent: 1803
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 1566
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 296
-  - category: Uncategorized
-    name: reactiveemails.com
+    timeSpent: 471
+  - category: Browsers
+    name: Safari
     productivity: 0
-    timeSpent: 151
+    timeSpent: 291
