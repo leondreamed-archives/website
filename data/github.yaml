@@ -31,8 +31,6 @@ events:
     type: PushEvent
   - date: '2022-04-12T04:16:04Z'
     type: CreateEvent
-  - date: '2022-04-12T04:16:03Z'
-    type: DeleteEvent
 latestCommit:
   message: 'feat: rename branch to main'
   url: >-
