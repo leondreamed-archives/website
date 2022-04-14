@@ -1,4 +1,18 @@
 events:
+  - date: '2022-04-14T03:05:07Z'
+    type: PushEvent
+  - date: '2022-04-14T03:04:42Z'
+    type: PushEvent
+  - date: '2022-04-14T03:03:57Z'
+    type: PushEvent
+  - date: '2022-04-14T03:00:06Z'
+    type: PushEvent
+  - date: '2022-04-14T02:50:41Z'
+    type: PushEvent
+  - date: '2022-04-14T02:50:37Z'
+    type: PushEvent
+  - date: '2022-04-14T02:46:48Z'
+    type: PushEvent
   - date: '2022-04-14T02:14:31Z'
     type: PushEvent
   - date: '2022-04-14T02:13:43Z'
@@ -33,26 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-13T20:33:18Z'
     type: PushEvent
-  - date: '2022-04-13T20:31:52Z'
-    type: ReleaseEvent
-  - date: '2022-04-13T20:31:53Z'
-    type: CreateEvent
-  - date: '2022-04-13T20:31:47Z'
-    type: PushEvent
-  - date: '2022-04-13T20:30:15Z'
-    type: PushEvent
-  - date: '2022-04-13T20:29:18Z'
-    type: ReleaseEvent
-  - date: '2022-04-13T20:29:18Z'
-    type: CreateEvent
-  - date: '2022-04-13T20:29:12Z'
-    type: PushEvent
-  - date: '2022-04-13T20:28:27Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: prettier'
+  message: 'chore: update jslatex compiler'
   url: >-
-    https://api.github.com/repos/JSLaTeX/ets/commits/68e5316faa245410625ae6c6f7f821c9b86c2c5f
+    https://api.github.com/repos/JSLaTeX/website/commits/30fe452fb08bc11dac13306841078046974587a2
   repo:
-    url: https://api.github.com/repos/JSLaTeX/ets
-    name: JSLaTeX/ets
+    url: https://api.github.com/repos/JSLaTeX/website
+    name: JSLaTeX/website
