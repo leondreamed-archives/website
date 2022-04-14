@@ -1,56 +1,68 @@
 events:
-  - date: '2022-04-14T03:05:07Z'
+  - date: '2022-04-14T07:34:44Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:34:44Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:34:43Z'
     type: PushEvent
-  - date: '2022-04-14T03:04:42Z'
+  - date: '2022-04-14T07:34:22Z'
     type: PushEvent
-  - date: '2022-04-14T03:03:57Z'
+  - date: '2022-04-14T07:34:11Z'
     type: PushEvent
-  - date: '2022-04-14T03:00:06Z'
+  - date: '2022-04-14T07:32:52Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:32:51Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:32:49Z'
     type: PushEvent
-  - date: '2022-04-14T02:50:41Z'
+  - date: '2022-04-14T07:32:30Z'
     type: PushEvent
-  - date: '2022-04-14T02:50:37Z'
+  - date: '2022-04-14T07:30:53Z'
     type: PushEvent
-  - date: '2022-04-14T02:46:48Z'
+  - date: '2022-04-14T07:29:36Z'
     type: PushEvent
-  - date: '2022-04-14T02:14:31Z'
+  - date: '2022-04-14T07:29:17Z'
     type: PushEvent
-  - date: '2022-04-14T02:13:43Z'
+  - date: '2022-04-14T07:23:12Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:23:12Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:23:10Z'
     type: PushEvent
-  - date: '2022-04-14T02:13:07Z'
+  - date: '2022-04-14T07:22:32Z'
     type: PushEvent
-  - date: '2022-04-14T02:07:32Z'
+  - date: '2022-04-14T07:20:25Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:20:25Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:20:23Z'
     type: PushEvent
-  - date: '2022-04-14T02:07:17Z'
+  - date: '2022-04-14T07:20:07Z'
     type: PushEvent
-  - date: '2022-04-14T01:33:44Z'
+  - date: '2022-04-14T07:18:21Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:18:20Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:18:19Z'
     type: PushEvent
-  - date: '2022-04-14T01:11:52Z'
+  - date: '2022-04-14T07:17:56Z'
     type: PushEvent
-  - date: '2022-04-14T01:10:48Z'
+  - date: '2022-04-14T07:12:38Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:12:38Z'
+    type: CreateEvent
+  - date: '2022-04-14T07:12:36Z'
     type: PushEvent
-  - date: '2022-04-14T01:10:10Z'
+  - date: '2022-04-14T07:12:15Z'
     type: PushEvent
-  - date: '2022-04-14T01:08:22Z'
-    type: PushEvent
-  - date: '2022-04-14T01:07:47Z'
-    type: PushEvent
-  - date: '2022-04-14T01:01:26Z'
-    type: PushEvent
-  - date: '2022-04-14T00:55:25Z'
-    type: PushEvent
-  - date: '2022-04-14T00:50:02Z'
-    type: PushEvent
-  - date: '2022-04-14T00:38:55Z'
-    type: PushEvent
-  - date: '2022-04-13T20:35:16Z'
-    type: PushEvent
-  - date: '2022-04-13T20:33:18Z'
-    type: PushEvent
+  - date: '2022-04-14T07:08:53Z'
+    type: ReleaseEvent
+  - date: '2022-04-14T07:08:53Z'
+    type: CreateEvent
 latestCommit:
-  message: 'chore: update jslatex compiler'
+  message: 'feat: commonjs exports'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/30fe452fb08bc11dac13306841078046974587a2
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/cbc418a9f8dbf4c471f1a5a9f36dc4419e3dbc3b
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
+    name: leonzalion/inquirer-super-checkbox-prompt
