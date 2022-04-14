@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-14T22:01:01Z'
+    type: WatchEvent
   - date: '2022-04-14T18:54:30Z'
     type: PushEvent
   - date: '2022-04-14T17:54:11Z'
@@ -37,10 +39,6 @@ events:
     type: PushEvent
   - date: '2022-04-14T07:22:32Z'
     type: PushEvent
-  - date: '2022-04-14T07:20:25Z'
-    type: CreateEvent
-  - date: '2022-04-14T07:20:25Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'feat: commonjs exports'
   url: >-
