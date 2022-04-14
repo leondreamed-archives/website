@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-14T17:54:11Z'
+    type: PushEvent
   - date: '2022-04-14T16:26:42Z'
     type: WatchEvent
   - date: '2022-04-14T07:34:44Z'
@@ -47,14 +49,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-14T07:18:19Z'
     type: PushEvent
-  - date: '2022-04-14T07:17:56Z'
-    type: PushEvent
-  - date: '2022-04-14T07:12:38Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'feat: commonjs exports'
+  message: 1.2.0
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/1ff16e3a63da45821f2ca2932a3e7cc3de5f7044
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/c1fd8a0580496fe20c341c41b29ee1379774f436
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
