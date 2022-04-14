@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-14T16:26:42Z'
+    type: WatchEvent
   - date: '2022-04-14T07:34:44Z'
     type: ReleaseEvent
   - date: '2022-04-14T07:34:44Z'
@@ -49,14 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-14T07:12:38Z'
     type: ReleaseEvent
-  - date: '2022-04-14T07:12:38Z'
-    type: CreateEvent
-  - date: '2022-04-14T07:12:36Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.0
+  message: 'feat: commonjs exports'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/62dff14c9a4376d6306227a477f02149f809e831
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/1ff16e3a63da45821f2ca2932a3e7cc3de5f7044
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
-    name: leonzalion/inquirer-super-checkbox-prompt
+    url: https://api.github.com/repos/leonzalion/simple-vue-icon
+    name: leonzalion/simple-vue-icon
