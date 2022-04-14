@@ -53,12 +53,10 @@ events:
     type: CreateEvent
   - date: '2022-04-14T07:12:36Z'
     type: PushEvent
-  - date: '2022-04-14T07:12:15Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: commonjs exports'
+  message: 0.1.0
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/cbc418a9f8dbf4c471f1a5a9f36dc4419e3dbc3b
+    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/62dff14c9a4376d6306227a477f02149f809e831
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
     name: leonzalion/inquirer-super-checkbox-prompt
