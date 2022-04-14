@@ -1,4 +1,22 @@
 events:
+  - date: '2022-04-14T01:11:52Z'
+    type: PushEvent
+  - date: '2022-04-14T01:10:48Z'
+    type: PushEvent
+  - date: '2022-04-14T01:10:10Z'
+    type: PushEvent
+  - date: '2022-04-14T01:08:22Z'
+    type: PushEvent
+  - date: '2022-04-14T01:07:47Z'
+    type: PushEvent
+  - date: '2022-04-14T01:01:26Z'
+    type: PushEvent
+  - date: '2022-04-14T00:55:25Z'
+    type: PushEvent
+  - date: '2022-04-14T00:50:02Z'
+    type: PushEvent
+  - date: '2022-04-14T00:38:55Z'
+    type: PushEvent
   - date: '2022-04-13T20:35:16Z'
     type: PushEvent
   - date: '2022-04-13T20:33:18Z'
@@ -33,22 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-13T20:10:48Z'
     type: PushEvent
-  - date: '2022-04-13T20:01:51Z'
-    type: PushEvent
-  - date: '2022-04-13T19:55:43Z'
-    type: PushEvent
-  - date: '2022-04-13T19:36:13Z'
-    type: PushEvent
-  - date: '2022-04-13T17:35:02Z'
-    type: PushEvent
-  - date: '2022-04-13T16:13:54Z'
-    type: PushEvent
-  - date: '2022-04-13T16:10:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: throttle message sending'
+  message: 'fix: test'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/72a941ef332142f1f3a9c82c82a9cf421c69698c
+    https://api.github.com/repos/leonzalion/configs/commits/37987d6ea93ee3fb20d44be52755db9daf341b2a
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
