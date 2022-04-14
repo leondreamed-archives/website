@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-14T02:14:31Z'
+    type: PushEvent
+  - date: '2022-04-14T02:13:43Z'
+    type: PushEvent
+  - date: '2022-04-14T02:13:07Z'
+    type: PushEvent
+  - date: '2022-04-14T02:07:32Z'
+    type: PushEvent
+  - date: '2022-04-14T02:07:17Z'
+    type: PushEvent
+  - date: '2022-04-14T01:33:44Z'
+    type: PushEvent
   - date: '2022-04-14T01:11:52Z'
     type: PushEvent
   - date: '2022-04-14T01:10:48Z'
@@ -37,24 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-13T20:28:27Z'
     type: PushEvent
-  - date: '2022-04-13T20:27:41Z'
-    type: PushEvent
-  - date: '2022-04-13T20:26:53Z'
-    type: PushEvent
-  - date: '2022-04-13T20:19:07Z'
-    type: PushEvent
-  - date: '2022-04-13T20:18:44Z'
-    type: PushEvent
-  - date: '2022-04-13T20:15:07Z'
-    type: PushEvent
-  - date: '2022-04-13T20:13:35Z'
-    type: PushEvent
-  - date: '2022-04-13T20:10:48Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: test'
+  message: 'fix: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/37987d6ea93ee3fb20d44be52755db9daf341b2a
+    https://api.github.com/repos/JSLaTeX/ets/commits/68e5316faa245410625ae6c6f7f821c9b86c2c5f
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/JSLaTeX/ets
+    name: JSLaTeX/ets
