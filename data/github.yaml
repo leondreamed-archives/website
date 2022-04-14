@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-14T18:54:30Z'
+    type: PushEvent
   - date: '2022-04-14T17:54:11Z'
     type: PushEvent
   - date: '2022-04-14T16:26:42Z'
@@ -45,14 +47,10 @@ events:
     type: PushEvent
   - date: '2022-04-14T07:18:21Z'
     type: CreateEvent
-  - date: '2022-04-14T07:18:20Z'
-    type: ReleaseEvent
-  - date: '2022-04-14T07:18:19Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.0
+  message: 'feat: commonjs exports'
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/c1fd8a0580496fe20c341c41b29ee1379774f436
+    https://api.github.com/repos/leonzalion/lion-architecture/commits/d3950bc0e364434eebaf1058d8a76a4579d4f07f
   repo:
-    url: https://api.github.com/repos/leonzalion/simple-vue-icon
-    name: leonzalion/simple-vue-icon
+    url: https://api.github.com/repos/leonzalion/lion-architecture
+    name: leonzalion/lion-architecture
