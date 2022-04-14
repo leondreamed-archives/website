@@ -43,12 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-14T07:20:23Z'
     type: PushEvent
-  - date: '2022-04-14T07:20:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: commonjs exports'
+  message: 1.1.0
   url: >-
-    https://api.github.com/repos/leonzalion/lion-architecture/commits/d3950bc0e364434eebaf1058d8a76a4579d4f07f
+    https://api.github.com/repos/leonzalion/lion-architecture/commits/8934c0391302f99deb5b005c2509fd454facf916
   repo:
     url: https://api.github.com/repos/leonzalion/lion-architecture
     name: leonzalion/lion-architecture
