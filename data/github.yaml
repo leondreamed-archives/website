@@ -41,12 +41,10 @@ events:
     type: CreateEvent
   - date: '2022-04-14T07:20:25Z'
     type: ReleaseEvent
-  - date: '2022-04-14T07:20:23Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.0
+  message: 'feat: commonjs exports'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-architecture/commits/8934c0391302f99deb5b005c2509fd454facf916
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/b2e2c004cc06d47bf0febd1d1b5fc8fcebb8b8d9
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-architecture
-    name: leonzalion/lion-architecture
+    url: https://api.github.com/repos/ReactiveEmails/reactive-emails
+    name: ReactiveEmails/reactive-emails
