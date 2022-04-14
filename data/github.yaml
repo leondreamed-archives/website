@@ -45,8 +45,6 @@ events:
     type: PushEvent
   - date: '2022-04-14T07:20:07Z'
     type: PushEvent
-  - date: '2022-04-14T07:18:21Z'
-    type: CreateEvent
 latestCommit:
   message: 'feat: commonjs exports'
   url: >-
