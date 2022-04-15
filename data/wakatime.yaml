@@ -1,46 +1,46 @@
-dailyAverage: 29564
-totalSeconds: 206950.054307
+dailyAverage: 35091
+totalSeconds: 245634.149031
 languages:
   - name: sh
-    totalSeconds: 79466.603384
+    totalSeconds: 88293.511855
   - name: TypeScript
-    totalSeconds: 51478.093265
+    totalSeconds: 62594.661016
   - name: Vue.js
-    totalSeconds: 49964.216468
+    totalSeconds: 60382.420964
   - name: Markdown
-    totalSeconds: 9673.558746
-  - name: Other
-    totalSeconds: 5621.147706
+    totalSeconds: 14049.603639
   - name: JavaScript
-    totalSeconds: 4324.950839
+    totalSeconds: 7313.471346
+  - name: Other
+    totalSeconds: 6421.403174
   - name: JSON
-    totalSeconds: 3768.948378
-  - name: TeX
-    totalSeconds: 2050.359536
+    totalSeconds: 5650.951638
   - name: Swift
-    totalSeconds: 1472.137556
-  - name: C++
-    totalSeconds: 1090.406878
+    totalSeconds: 2031.901228
   - name: HTML
-    totalSeconds: 915.211817
+    totalSeconds: 1451.539837
   - name: CSS
-    totalSeconds: 754.345948
-  - name: GraphQL
-    totalSeconds: 525.451076
-  - name: Python
-    totalSeconds: 486.938711
+    totalSeconds: 864.854071
   - name: Bash
-    totalSeconds: 302.627537
+    totalSeconds: 854.307956
+  - name: GraphQL
+    totalSeconds: 595.260859
+  - name: TeX
+    totalSeconds: 574.725467
+  - name: YAML
+    totalSeconds: 246.764808
   - name: Rust
     totalSeconds: 231.922449
-  - name: YAML
-    totalSeconds: 176.779472
+  - name: Git Config
+    totalSeconds: 195.613923
   - name: SQL
     totalSeconds: 122.53466
-  - name: Git Config
-    totalSeconds: 115.994
+  - name: Python
+    totalSeconds: 114.660632
+  - name: C++
+    totalSeconds: 33.913569
   - name: TOML
-    totalSeconds: 10.628277
+    totalSeconds: 12.876318
   - name: Makefile
     totalSeconds: 6.835718
   - name: Sass
@@ -51,53 +51,61 @@ languages:
     totalSeconds: 2.602146
   - name: XML
     totalSeconds: 1.713111
+  - name: INI
+    totalSeconds: 0.307486
 projects:
   - name: precommit
-    totalSeconds: 58108.30997
+    totalSeconds: 80770.934495
   - name: AdminControl
-    totalSeconds: 31599.983614
+    totalSeconds: 33404.346666
   - name: reactive-emails-website
     totalSeconds: 19503.7121
-  - name: jslatex-website
-    totalSeconds: 18152.459072
-  - name: 3d-game-thing
-    totalSeconds: 11568.49365
   - name: leonzalion
-    totalSeconds: 11189.931081
+    totalSeconds: 17487.944697
   - name: portfolio-showcase
-    totalSeconds: 10877.595308
+    totalSeconds: 13808.077975
+  - name: jslatex-website
+    totalSeconds: 13068.173837
+  - name: vue-animate-height
+    totalSeconds: 10807.913771
   - name: npm-binary
-    totalSeconds: 9996.113866
+    totalSeconds: 10097.364831
+  - name: lion-system
+    totalSeconds: 6504.234997
   - name: configs
-    totalSeconds: 4979.048203
+    totalSeconds: 4962.749958
   - name: menu-app
     totalSeconds: 4369.670285
   - name: reactive-emails
-    totalSeconds: 4044.698373
+    totalSeconds: 4207.225572
+  - name: ets
+    totalSeconds: 3843.179062
   - name: phone-call-pass
-    totalSeconds: 3241.888008
+    totalSeconds: 3462.55615
   - name: discord-email-tunnel
     totalSeconds: 3172.407549
   - name: lionp
     totalSeconds: 2747.147998
   - name: typescript-eslint
     totalSeconds: 2477.01424
-  - name: ets
-    totalSeconds: 2408.538479
   - name: mathtermind-solver
     totalSeconds: 2094.01292
   - name: bootstrap-macos
-    totalSeconds: 1553.070011
+    totalSeconds: 1447.358976
   - name: vscode-ejs
-    totalSeconds: 1324.228393
+    totalSeconds: 1334.623213
+  - name: react-animate-height
+    totalSeconds: 1323.731583
   - name: vite-plugin-js-imports
-    totalSeconds: 908.627913
-  - name: website
-    totalSeconds: 753.788152
-  - name: lion-system
-    totalSeconds: 743.945915
+    totalSeconds: 980.895482
+  - name: inquirer-press-to-continue
+    totalSeconds: 743.931861
   - name: kyan_bar
     totalSeconds: 737.980464
+  - name: jslatex-compiler
+    totalSeconds: 712.347451
+  - name: three.js
+    totalSeconds: 531.44157
   - name: leonzalion-google-workspace
     totalSeconds: 488.752432
   - name: tabulo-rewrite
@@ -106,48 +114,64 @@ projects:
     totalSeconds: 427.06691
   - name: vpciclubs.com
     totalSeconds: 415.655845
-  - name: inquirer-press-to-continue
-    totalSeconds: 400.735562
   - name: swc
     totalSeconds: 368.843422
-  - name: jslatex-compiler
-    totalSeconds: 338.96629
+  - name: deep-clone-fn
+    totalSeconds: 333.885095
+  - name: create-project
+    totalSeconds: 312.992271
   - name: vitest-mock-process
     totalSeconds: 302.247857
+  - name: sync-index
+    totalSeconds: 287.973939
   - name: lion-git-hooks
     totalSeconds: 276.169571
-  - name: create-project
-    totalSeconds: 263.929694
   - name: vite-electron-builder
     totalSeconds: 248.908347
-  - name: jslatex-vscode-extension
-    totalSeconds: 244.434879
+  - name: js-jsonl
+    totalSeconds: 245.381901
   - name: reactive-emails-app
     totalSeconds: 232.204259
-  - name: upstream-python
-    totalSeconds: 230.769655
+  - name: simple-vue-icon
+    totalSeconds: 232.147233
   - name: esbuild
     totalSeconds: 219.64173
+  - name: parse-applescript
+    totalSeconds: 207.972658
+  - name: inquirer-super-checkbox-prompt
+    totalSeconds: 206.956114
+  - name: liontypes
+    totalSeconds: 195.761296
+  - name: sigfig
+    totalSeconds: 194.280015
+  - name: timeblocker
+    totalSeconds: 165.925202
   - name: eslint
     totalSeconds: 160.550588
+  - name: applescript-utils
+    totalSeconds: 139.686652
   - name: hashed-out
     totalSeconds: 137.194107
+  - name: plugins
+    totalSeconds: 132.881137
+  - name: null-to-undefined
+    totalSeconds: 131.069815
   - name: Terminal
     totalSeconds: 128.433284
+  - name: nanoid-nice
+    totalSeconds: 128.199669
   - name: tabulo
     totalSeconds: 126.939089
   - name: ssr-test
     totalSeconds: 121.434387
-  - name: deep-clone-fn
-    totalSeconds: 103.717708
-  - name: js-jsonl
-    totalSeconds: 102.49554
-  - name: applescript-utils
-    totalSeconds: 55.007573
-  - name: timeblocker
-    totalSeconds: 47.912007
-  - name: sigfig
-    totalSeconds: 30.947074
+  - name: succ-js
+    totalSeconds: 119.916417
+  - name: lion-architecture
+    totalSeconds: 102.263424
+  - name: jslatex-vscode-extension
+    totalSeconds: 64.313727
+  - name: website
+    totalSeconds: 54.420088
   - name: latex-workflow
     totalSeconds: 29.157572
   - name: admin-control
@@ -155,12 +179,14 @@ projects:
   - name: sudo-wrapper
     totalSeconds: 13.734398
   - name: Unknown Project
-    totalSeconds: 12.183691
+    totalSeconds: 10.03509
   - name: math-ia
     totalSeconds: 4.824046
   - name: vitest-dynamic-import-eval
     totalSeconds: 2.563283
   - name: node-html-to-text
     totalSeconds: 1.16572
+  - name: vue-ref-eslint-bug
+    totalSeconds: 1.075983
   - name: Landmarks
     totalSeconds: 0
