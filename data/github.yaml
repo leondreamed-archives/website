@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-15T02:28:32Z'
     type: PushEvent
-  - date: '2022-04-15T02:18:04Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.0
+  message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/leonzalion/vue-animate-height/commits/485d8afeea75dae5095103684436d56044d04d4e
+    https://api.github.com/repos/leonzalion/vue-animate-height/commits/e9152b440683a21c16156540f2bc6805c6096e0f
   repo:
     url: https://api.github.com/repos/leonzalion/vue-animate-height
     name: leonzalion/vue-animate-height
