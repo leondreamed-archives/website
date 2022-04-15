@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 7312
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 1745
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 1572
+    timeSpent: 8054
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 1016
+    timeSpent: 2211
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1839
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 1574
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 839
+    timeSpent: 1027
