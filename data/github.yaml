@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-15T02:46:11Z'
+    type: PushEvent
+  - date: '2022-04-15T02:45:50Z'
+    type: PushEvent
   - date: '2022-04-15T02:28:32Z'
     type: PushEvent
   - date: '2022-04-15T02:18:04Z'
@@ -49,16 +53,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-14T23:23:46Z'
     type: PushEvent
-  - date: '2022-04-14T23:23:26Z'
-    type: PushEvent
-  - date: '2022-04-14T23:11:50Z'
-    type: PushEvent
-  - date: '2022-04-14T23:11:29Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: use await copy'
+  message: 1.0.71
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/04e04f5791ea523e397ecc34a63a3475fd2b0faa
+    https://api.github.com/repos/leonzalion/create-project/commits/943fbd1e24f8d912c7072d896b6daf6e947b02f0
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
