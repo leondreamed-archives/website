@@ -49,8 +49,6 @@ events:
     type: CreateEvent
   - date: '2022-04-15T01:17:27Z'
     type: CreateEvent
-  - date: '2022-04-14T23:23:49Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: add release stuff'
   url: >-
