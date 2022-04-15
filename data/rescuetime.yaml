@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4029
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 950
+    timeSpent: 5932
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 881
+    timeSpent: 1555
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1153
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 429
+    timeSpent: 487
   - category: Graphic Design
     name: gimp-2.10
     productivity: 2
