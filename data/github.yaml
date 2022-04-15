@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-15T21:18:59Z'
+    type: CreateEvent
   - date: '2022-04-15T20:04:45Z'
     type: PushEvent
   - date: '2022-04-15T20:04:17Z'
@@ -35,14 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-15T02:18:04Z'
     type: PushEvent
-  - date: '2022-04-15T02:17:23Z'
-    type: PushEvent
-  - date: '2022-04-15T02:15:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: license in dist'
+  message: 1.0.0
   url: >-
-    https://api.github.com/repos/leonzalion/vue-animate-height/commits/79b4e8491a9737d583736eb8bf82b0a200fd86e8
+    https://api.github.com/repos/leonzalion/vue-animate-height/commits/485d8afeea75dae5095103684436d56044d04d4e
   repo:
     url: https://api.github.com/repos/leonzalion/vue-animate-height
     name: leonzalion/vue-animate-height
