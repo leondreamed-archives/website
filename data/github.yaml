@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-15T01:23:43Z'
     type: PushEvent
-  - date: '2022-04-15T01:21:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: github pages for docs'
+  message: 'fix: build script'
   url: >-
-    https://api.github.com/repos/leonzalion/vue-animate-height/commits/6ac9a405f31e1e59444b2ee0fba3a40fe5715038
+    https://api.github.com/repos/leonzalion/vue-animate-height/commits/4827473f9fd39e303cc147f9878be121910b692c
   repo:
     url: https://api.github.com/repos/leonzalion/vue-animate-height
     name: leonzalion/vue-animate-height
