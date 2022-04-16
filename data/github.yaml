@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:02:35Z'
     type: PushEvent
-  - date: '2022-04-16T18:02:24Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/liontypes/commits/0dbeb0099d7a7f0f654ce67dc10756184fb9d510
+    https://api.github.com/repos/leonzalion/liontypes/commits/6384338646f8296e0dd66e6f7e307854d59477f5
   repo:
     url: https://api.github.com/repos/leonzalion/liontypes
     name: leonzalion/liontypes
