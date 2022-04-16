@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-04-15T16:03:36Z'
     type: PushEvent
-  - date: '2022-04-15T12:41:42Z'
-    type: PushEvent
 latestCommit:
-  message: Update readme.md
+  message: 'fix: es2022'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/600d87674d8007120f476834512312ac061c31cf
+    https://api.github.com/repos/JSLaTeX/website/commits/7ce22e34802cb2433cd55ec2d710653b547f4421
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
-    name: leonzalion/inquirer-press-to-continue
+    url: https://api.github.com/repos/JSLaTeX/website
+    name: JSLaTeX/website
