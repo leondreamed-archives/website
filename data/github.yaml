@@ -1,46 +1,68 @@
 events:
-  - date: '2022-04-16T14:53:56Z'
+  - date: '2022-04-16T17:59:37Z'
     type: PushEvent
-  - date: '2022-04-16T14:53:55Z'
-    type: PullRequestEvent
-  - date: '2022-04-16T14:53:09Z'
-    type: ForkEvent
-  - date: '2022-04-16T14:34:44Z'
+  - date: '2022-04-16T17:59:14Z'
     type: PushEvent
-  - date: '2022-04-16T14:31:16Z'
+  - date: '2022-04-16T17:58:36Z'
     type: PushEvent
-  - date: '2022-04-16T14:29:59Z'
+  - date: '2022-04-16T17:58:11Z'
     type: PushEvent
-  - date: '2022-04-16T14:29:31Z'
+  - date: '2022-04-16T17:57:00Z'
     type: PushEvent
-  - date: '2022-04-16T14:19:51Z'
-    type: WatchEvent
-  - date: '2022-04-16T14:16:32Z'
-    type: PullRequestEvent
-  - date: '2022-04-16T14:15:43Z'
+  - date: '2022-04-16T17:56:27Z'
     type: PushEvent
-  - date: '2022-04-16T14:11:15Z'
-    type: ForkEvent
-  - date: '2022-04-15T23:39:13Z'
+  - date: '2022-04-16T17:56:18Z'
     type: PushEvent
-  - date: '2022-04-15T23:37:19Z'
+  - date: '2022-04-16T17:54:51Z'
     type: PushEvent
-  - date: '2022-04-15T23:12:34Z'
+  - date: '2022-04-16T17:54:31Z'
     type: PushEvent
-  - date: '2022-04-15T21:18:59Z'
+  - date: '2022-04-16T17:54:17Z'
+    type: PushEvent
+  - date: '2022-04-16T17:53:56Z'
+    type: PushEvent
+  - date: '2022-04-16T17:53:32Z'
+    type: PushEvent
+  - date: '2022-04-16T17:52:56Z'
+    type: PushEvent
+  - date: '2022-04-16T17:52:33Z'
+    type: PushEvent
+  - date: '2022-04-16T17:52:07Z'
+    type: PushEvent
+  - date: '2022-04-16T17:51:54Z'
+    type: PushEvent
+  - date: '2022-04-16T17:51:24Z'
+    type: PushEvent
+  - date: '2022-04-16T17:50:17Z'
+    type: PushEvent
+  - date: '2022-04-16T17:50:01Z'
+    type: PushEvent
+  - date: '2022-04-16T17:49:34Z'
+    type: PushEvent
+  - date: '2022-04-16T17:48:38Z'
+    type: ReleaseEvent
+  - date: '2022-04-16T17:48:39Z'
     type: CreateEvent
-  - date: '2022-04-15T20:04:45Z'
+  - date: '2022-04-16T17:48:37Z'
     type: PushEvent
-  - date: '2022-04-15T20:04:17Z'
+  - date: '2022-04-16T17:47:59Z'
     type: PushEvent
-  - date: '2022-04-15T20:04:08Z'
+  - date: '2022-04-16T17:45:09Z'
+    type: ReleaseEvent
+  - date: '2022-04-16T17:45:09Z'
+    type: CreateEvent
+  - date: '2022-04-16T17:45:05Z'
     type: PushEvent
-  - date: '2022-04-15T20:02:38Z'
+  - date: '2022-04-16T17:44:13Z'
+    type: PushEvent
+  - date: '2022-04-16T17:34:37Z'
+    type: PushEvent
+  - date: '2022-04-16T17:33:49Z'
     type: PushEvent
 latestCommit:
-  message: Update README.md
+  message: 'feat: prettier config'
   url: >-
-    https://api.github.com/repos/leonzalion/vue-eslint-plugin-jsx-bug/commits/6c7303a12178e692b14318e857b853ff00180307
+    https://api.github.com/repos/leonzalion/configs/commits/275f4224e756fb5a02799407ca3078c3bfafa9c8
   repo:
-    url: https://api.github.com/repos/leonzalion/vue-eslint-plugin-jsx-bug
-    name: leonzalion/vue-eslint-plugin-jsx-bug
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
