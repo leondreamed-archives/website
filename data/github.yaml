@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-15T20:02:38Z'
     type: PushEvent
-  - date: '2022-04-15T20:02:19Z'
-    type: PushEvent
 latestCommit:
   message: Update README.md
   url: >-
-    https://api.github.com/repos/leonzalion/vue-eslint-plugin-jsx-bug/commits/a8ed6a96e104d2f6bc847d5b8d0e879b2077f8ec
+    https://api.github.com/repos/leonzalion/vue-eslint-plugin-jsx-bug/commits/6c7303a12178e692b14318e857b853ff00180307
   repo:
     url: https://api.github.com/repos/leonzalion/vue-eslint-plugin-jsx-bug
     name: leonzalion/vue-eslint-plugin-jsx-bug
