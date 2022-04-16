@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2869
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1355
+    timeSpent: 2395
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 1167
   - category: Games
     name: play.typeracer.com
     productivity: -2
     timeSpent: 790
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 658
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 472
-  - category: General Reference & Learning
-    name: kripken.github.io
-    productivity: 2
-    timeSpent: 341
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 369
