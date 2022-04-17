@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:09:58Z'
     type: PushEvent
-  - date: '2022-04-16T18:09:30Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/06a368f5023e3e59e62f7ca9f51bb8049c685252
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/b98e48c55eb5d3b8423429e2c821fee4a6e1616e
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow

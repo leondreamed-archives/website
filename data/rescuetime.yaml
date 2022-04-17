@@ -2,7 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3325
+    timeSpent: 4997
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1990
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 1401
   - category: Search
     name: '[unpublished]'
     productivity: 1
@@ -11,11 +19,3 @@ topActivities:
     name: '[unpublished]'
     productivity: 2
     timeSpent: 948
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 928
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 915
