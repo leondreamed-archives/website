@@ -6,16 +6,16 @@ topActivities:
   - category: Search
     name: '[unpublished]'
     productivity: 1
-    timeSpent: 400
+    timeSpent: 527
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 295
+    timeSpent: 335
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 276
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 143
+    timeSpent: 278
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 192
