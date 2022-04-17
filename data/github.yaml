@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-17T19:27:44Z'
+    type: CreateEvent
+  - date: '2022-04-17T19:27:31Z'
+    type: CreateEvent
   - date: '2022-04-17T14:21:22Z'
     type: IssueCommentEvent
   - date: '2022-04-17T14:16:58Z'
@@ -23,16 +27,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:18:07Z'
     type: PushEvent
-  - date: '2022-04-16T18:17:14Z'
-    type: PushEvent
-  - date: '2022-04-16T18:15:01Z'
-    type: PushEvent
-  - date: '2022-04-16T18:13:49Z'
-    type: PushEvent
 latestCommit:
-  message: Update readme.md
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/bb042aee15b7fe161bdbdc8a36ea9f57cd4ff1a9
+    https://api.github.com/repos/leonzalion/nanoid-nice/commits/b6cc264571a9d85eb9107c15e352d3e71fb7f3e3
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-git-hooks
-    name: leonzalion/lion-git-hooks
+    url: https://api.github.com/repos/leonzalion/nanoid-nice
+    name: leonzalion/nanoid-nice
