@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:05:41Z'
     type: PushEvent
-  - date: '2022-04-16T18:05:26Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/parse-applescript/commits/5bb213e1e31ee9da0b83316ada44de5baa4ee9ad
+    https://api.github.com/repos/leonzalion/js-jsonl/commits/c2d7d64582010e79c75b0e61447a8b056b4be65c
   repo:
-    url: https://api.github.com/repos/leonzalion/parse-applescript
-    name: leonzalion/parse-applescript
+    url: https://api.github.com/repos/leonzalion/js-jsonl
+    name: leonzalion/js-jsonl
