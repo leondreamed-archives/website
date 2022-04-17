@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:05:26Z'
     type: PushEvent
-  - date: '2022-04-16T18:05:10Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/88374971a00976778f27b0ee3ede47927167848b
+    https://api.github.com/repos/leonzalion/parse-applescript/commits/5bb213e1e31ee9da0b83316ada44de5baa4ee9ad
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/leonzalion/parse-applescript
+    name: leonzalion/parse-applescript
