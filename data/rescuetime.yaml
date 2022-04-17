@@ -1,8 +1,12 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 3325
   - category: Search
     name: '[unpublished]'
     productivity: 1
-    timeSpent: 987
+    timeSpent: 988
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
@@ -14,8 +18,4 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 865
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 543
+    timeSpent: 915

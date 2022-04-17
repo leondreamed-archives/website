@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T18:09:30Z'
     type: PushEvent
-  - date: '2022-04-16T18:09:00Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/lion-architecture/commits/4d7ae1ab84e55cc94f46c85b3facd73010bf4e45
+    https://api.github.com/repos/leonzalion/create-project/commits/06a368f5023e3e59e62f7ca9f51bb8049c685252
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-architecture
-    name: leonzalion/lion-architecture
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
