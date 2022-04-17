@@ -1,21 +1,21 @@
 topActivities:
+  - category: Search
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 987
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 948
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 928
-  - category: Search
-    name: '[unpublished]'
-    productivity: 1
-    timeSpent: 527
-  - category: General Reference & Learning
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 335
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 278
-  - category: General Software Development
-    name: Github
+    timeSpent: 865
+  - category: Editing & IDEs
+    name: Visual Studio Code
     productivity: 2
-    timeSpent: 192
+    timeSpent: 543
