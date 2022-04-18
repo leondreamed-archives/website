@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T23:50:10Z'
     type: PushEvent
-  - date: '2022-04-16T23:49:47Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: docs'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/ec1959194c506c2be8ae7e12bc63d43816985c2d
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/68031196b67fc815b62a0ca01f9ddaea8161f666
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
