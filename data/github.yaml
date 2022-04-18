@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-18T16:44:35Z'
+    type: ReleaseEvent
+  - date: '2022-04-18T16:44:35Z'
+    type: CreateEvent
+  - date: '2022-04-18T16:44:33Z'
+    type: PushEvent
+  - date: '2022-04-18T16:44:02Z'
+    type: PushEvent
+  - date: '2022-04-18T16:40:28Z'
+    type: PushEvent
+  - date: '2022-04-18T16:01:55Z'
+    type: WatchEvent
   - date: '2022-04-18T01:02:17Z'
     type: IssuesEvent
   - date: '2022-04-18T00:53:05Z'
@@ -13,18 +25,10 @@ events:
     type: PushEvent
   - date: '2022-04-17T14:16:32Z'
     type: PushEvent
-  - date: '2022-04-17T14:16:20Z'
-    type: PushEvent
-  - date: '2022-04-17T14:15:26Z'
-    type: PushEvent
-  - date: '2022-04-17T14:14:31Z'
-    type: PushEvent
-  - date: '2022-04-17T13:57:20Z'
-    type: PushEvent
 latestCommit:
   message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/vue-animate-height/commits/cb266337b7148f461dac480dc1fe1a74c641a25e
+    https://api.github.com/repos/leonzalion/vue-animate-height/commits/fc180813b83cbb818c62f26fed856cab314e29b9
   repo:
     url: https://api.github.com/repos/leonzalion/vue-animate-height
     name: leonzalion/vue-animate-height
