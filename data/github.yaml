@@ -23,12 +23,10 @@ events:
     type: PushEvent
   - date: '2022-04-16T23:08:13Z'
     type: PushEvent
-  - date: '2022-04-16T20:00:45Z'
-    type: PushEvent
 latestCommit:
-  message: brew
+  message: 'refactor: split up email.ts'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/9bfadf2981ae6039ac69e32c80258da8cbbfb491
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/2312a58431f8ccf5bdf8195780d094c63fcc8419
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
