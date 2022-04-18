@@ -1,4 +1,12 @@
 events:
+  - date: '2022-04-18T19:06:06Z'
+    type: CreateEvent
+  - date: '2022-04-18T19:06:06Z'
+    type: ReleaseEvent
+  - date: '2022-04-18T19:06:03Z'
+    type: PushEvent
+  - date: '2022-04-18T19:05:25Z'
+    type: PushEvent
   - date: '2022-04-18T18:53:29Z'
     type: WatchEvent
   - date: '2022-04-18T18:50:58Z'
@@ -34,10 +42,6 @@ events:
   - date: '2022-04-18T16:40:28Z'
     type: PushEvent
   - date: '2022-04-18T16:01:55Z'
-    type: WatchEvent
-  - date: '2022-04-18T01:02:17Z'
-    type: IssuesEvent
-  - date: '2022-04-18T00:53:05Z'
     type: WatchEvent
 latestCommit:
   message: 'chore: prettier'
