@@ -1,13 +1,21 @@
 topActivities:
-  - category: Uncategorized
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1043
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 385
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 273
+  - category: General News & Opinion
     name: '[unpublished]'
-    productivity: 0
-    timeSpent: 19
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 19
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 4
+    productivity: -2
+    timeSpent: 172
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 141
