@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:20:28Z'
     type: PushEvent
-  - date: '2022-04-19T05:20:00Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add license'
+  message: 'chore: update license'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/86a1bc3234130c437b61051b8731656aa1518449
+    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/6ff542134b04745bf5bafb3a5f187820c1220f46
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
+    name: leonzalion/yabai-master-stack-plugin
