@@ -55,8 +55,6 @@ events:
     type: PushEvent
   - date: '2022-04-19T04:03:56Z'
     type: ReleaseEvent
-  - date: '2022-04-19T04:03:57Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: add license'
   url: >-
