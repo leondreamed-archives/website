@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-19T21:40:16Z'
+    type: WatchEvent
   - date: '2022-04-19T17:19:04Z'
     type: PushEvent
   - date: '2022-04-19T17:14:38Z'
@@ -39,14 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:21:45Z'
     type: PushEvent
-  - date: '2022-04-19T05:21:09Z'
-    type: PushEvent
-  - date: '2022-04-19T05:20:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update license'
+  message: 'chore: add license'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/6ff542134b04745bf5bafb3a5f187820c1220f46
+    https://api.github.com/repos/ReactiveEmails/app/commits/6019c2a99328605d20c9acd53f8691c4b1830267
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/ReactiveEmails/app
+    name: ReactiveEmails/app
