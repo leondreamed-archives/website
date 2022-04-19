@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-19T17:19:04Z'
+    type: PushEvent
+  - date: '2022-04-19T17:14:38Z'
+    type: PushEvent
   - date: '2022-04-19T15:58:07Z'
     type: WatchEvent
   - date: '2022-04-19T15:54:57Z'
@@ -45,16 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:19:22Z'
     type: PushEvent
-  - date: '2022-04-19T05:19:01Z'
-    type: PushEvent
-  - date: '2022-04-19T05:15:52Z'
-    type: PushEvent
-  - date: '2022-04-19T05:03:48Z'
-    type: WatchEvent
 latestCommit:
-  message: 'docs: update'
+  message: 'fix: license'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-architecture/commits/5e2800be8228106c8ac66469c1456a51d20b1d86
+    https://api.github.com/repos/leonzalion/lion-architecture/commits/49591110ac7ba394a957738d3078183aecab4551
   repo:
     url: https://api.github.com/repos/leonzalion/lion-architecture
     name: leonzalion/lion-architecture
