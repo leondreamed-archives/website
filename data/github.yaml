@@ -45,12 +45,10 @@ events:
     type: PushEvent
   - date: '2022-04-18T18:53:29Z'
     type: WatchEvent
-  - date: '2022-04-18T18:50:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: code'
+  message: 'chore: prettire ignore'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-architecture/commits/9cde29cf8b2d77d0f14d04c720404c267035a428
+    https://api.github.com/repos/leonzalion/cli-highlighter/commits/eb9f61337ac82e944f46f8a8213191136ad90acc
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-architecture
-    name: leonzalion/lion-architecture
+    url: https://api.github.com/repos/leonzalion/cli-highlighter
+    name: leonzalion/cli-highlighter
