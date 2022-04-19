@@ -57,12 +57,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-19T04:03:57Z'
     type: CreateEvent
-  - date: '2022-04-19T04:03:54Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.20
+  message: 'chore: add license'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/9294eda2cefb2c02b1bdea62cdc4cf8b8d9fd900
+    https://api.github.com/repos/leonzalion/lion-system/commits/15993f2a8d484d2bca5371b1b0cb2b6996d4c206
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/lion-system
+    name: leonzalion/lion-system
