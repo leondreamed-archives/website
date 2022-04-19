@@ -43,8 +43,6 @@ events:
     type: PushEvent
   - date: '2022-04-18T19:05:25Z'
     type: PushEvent
-  - date: '2022-04-18T18:53:29Z'
-    type: WatchEvent
 latestCommit:
   message: 'chore: prettire ignore'
   url: >-
