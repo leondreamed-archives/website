@@ -1,4 +1,46 @@
 events:
+  - date: '2022-04-20T14:55:53Z'
+    type: PushEvent
+  - date: '2022-04-20T14:52:35Z'
+    type: CreateEvent
+  - date: '2022-04-20T14:52:35Z'
+    type: ReleaseEvent
+  - date: '2022-04-20T14:52:31Z'
+    type: PushEvent
+  - date: '2022-04-20T14:51:44Z'
+    type: PushEvent
+  - date: '2022-04-20T14:47:09Z'
+    type: PushEvent
+  - date: '2022-04-20T14:47:11Z'
+    type: ReleaseEvent
+  - date: '2022-04-20T14:47:11Z'
+    type: CreateEvent
+  - date: '2022-04-20T14:46:46Z'
+    type: PushEvent
+  - date: '2022-04-20T14:36:55Z'
+    type: PushEvent
+  - date: '2022-04-20T14:33:46Z'
+    type: PushEvent
+  - date: '2022-04-20T14:33:18Z'
+    type: PushEvent
+  - date: '2022-04-20T14:32:37Z'
+    type: PushEvent
+  - date: '2022-04-20T14:32:15Z'
+    type: PushEvent
+  - date: '2022-04-20T14:27:31Z'
+    type: WatchEvent
+  - date: '2022-04-20T14:26:36Z'
+    type: ReleaseEvent
+  - date: '2022-04-20T14:26:37Z'
+    type: CreateEvent
+  - date: '2022-04-20T14:26:34Z'
+    type: PushEvent
+  - date: '2022-04-20T14:26:09Z'
+    type: PushEvent
+  - date: '2022-04-20T14:25:08Z'
+    type: PushEvent
+  - date: '2022-04-20T14:05:39Z'
+    type: PushEvent
   - date: '2022-04-20T13:43:46Z'
     type: CreateEvent
   - date: '2022-04-20T13:43:46Z'
@@ -15,38 +57,10 @@ events:
     type: CreateEvent
   - date: '2022-04-20T13:19:24Z'
     type: ReleaseEvent
-  - date: '2022-04-20T13:19:22Z'
-    type: PushEvent
-  - date: '2022-04-20T13:18:58Z'
-    type: PushEvent
-  - date: '2022-04-20T13:18:41Z'
-    type: PushEvent
-  - date: '2022-04-20T13:17:59Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T13:17:59Z'
-    type: CreateEvent
-  - date: '2022-04-20T13:17:57Z'
-    type: PushEvent
-  - date: '2022-04-20T13:17:24Z'
-    type: PushEvent
-  - date: '2022-04-20T12:54:07Z'
-    type: PushEvent
-  - date: '2022-04-20T02:34:14Z'
-    type: PublicEvent
-  - date: '2022-04-20T01:36:58Z'
-    type: PushEvent
-  - date: '2022-04-20T01:36:37Z'
-    type: PushEvent
-  - date: '2022-04-20T01:35:59Z'
-    type: PushEvent
-  - date: '2022-04-20T01:35:39Z'
-    type: PushEvent
-  - date: '2022-04-19T21:40:16Z'
-    type: WatchEvent
 latestCommit:
-  message: Update readme.md
+  message: 'fix: build script'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/28e1d8c311bbab0f0fbd97987ce9e83864b7be42
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/0ad3aa8c3acbe3a89b2ec7b197e2cdd3c6b6d714
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
