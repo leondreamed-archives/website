@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:28:24Z'
     type: PushEvent
-  - date: '2022-04-19T05:27:46Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: add license'
   url: >-
-    https://api.github.com/repos/leonzalion/parse-applescript/commits/7d3f9777719b1434a7134b4745c1e2c271f62762
+    https://api.github.com/repos/leonzalion/deep-clone-fn/commits/c7601553ae1097801d31748f371acbcc583030e1
   repo:
-    url: https://api.github.com/repos/leonzalion/parse-applescript
-    name: leonzalion/parse-applescript
+    url: https://api.github.com/repos/leonzalion/deep-clone-fn
+    name: leonzalion/deep-clone-fn
