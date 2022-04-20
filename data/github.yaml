@@ -1,4 +1,28 @@
 events:
+  - date: '2022-04-20T16:35:32Z'
+    type: PushEvent
+  - date: '2022-04-20T16:28:15Z'
+    type: PushEvent
+  - date: '2022-04-20T16:25:40Z'
+    type: CreateEvent
+  - date: '2022-04-20T16:25:40Z'
+    type: ReleaseEvent
+  - date: '2022-04-20T16:25:37Z'
+    type: PushEvent
+  - date: '2022-04-20T16:25:15Z'
+    type: PushEvent
+  - date: '2022-04-20T16:19:11Z'
+    type: PushEvent
+  - date: '2022-04-20T16:17:14Z'
+    type: CreateEvent
+  - date: '2022-04-20T16:17:14Z'
+    type: ReleaseEvent
+  - date: '2022-04-20T16:17:12Z'
+    type: PushEvent
+  - date: '2022-04-20T16:16:07Z'
+    type: PushEvent
+  - date: '2022-04-20T16:15:45Z'
+    type: PushEvent
   - date: '2022-04-20T15:08:46Z'
     type: WatchEvent
   - date: '2022-04-20T15:07:49Z'
@@ -31,34 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T14:32:37Z'
     type: PushEvent
-  - date: '2022-04-20T14:32:15Z'
-    type: PushEvent
-  - date: '2022-04-20T14:27:31Z'
-    type: WatchEvent
-  - date: '2022-04-20T14:26:36Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T14:26:37Z'
-    type: CreateEvent
-  - date: '2022-04-20T14:26:34Z'
-    type: PushEvent
-  - date: '2022-04-20T14:26:09Z'
-    type: PushEvent
-  - date: '2022-04-20T14:25:08Z'
-    type: PushEvent
-  - date: '2022-04-20T14:05:39Z'
-    type: PushEvent
-  - date: '2022-04-20T13:43:46Z'
-    type: CreateEvent
-  - date: '2022-04-20T13:43:46Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T13:43:32Z'
-    type: PushEvent
-  - date: '2022-04-20T13:26:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: cli'
+  message: 0.2.1
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/4516698be7753d54e784c5f8f59c86943d6e9fb7
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/2347cd39526117c49520c1d144e8934d13d7f5c8
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
