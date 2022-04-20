@@ -47,12 +47,10 @@ events:
     type: WatchEvent
   - date: '2022-04-20T15:07:49Z'
     type: PushEvent
-  - date: '2022-04-20T15:07:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: additional test'
+  message: 'fix: error formatting'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/8eb0388c2b14f8e59c0599396f16666ebf5981de
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/798f85dad0d0552a67062380a6ef9940f9bd183c
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
