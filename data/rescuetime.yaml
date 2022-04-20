@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3760
+    timeSpent: 3764
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3399
+    timeSpent: 3415
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 3017
-  - category: Uncategorized
-    name: caniemail.com
-    productivity: 0
-    timeSpent: 771
+    timeSpent: 3019
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 2325
