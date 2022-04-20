@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:24:17Z'
     type: PushEvent
-  - date: '2022-04-19T05:22:49Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: license'
+  message: 'chore: add license'
   url: >-
-    https://api.github.com/repos/JSLaTeX/website/commits/70296779140c7c24795e80fd2186638cf2030220
+    https://api.github.com/repos/ReactiveEmails/website/commits/898861399fc8531c4f8abc5f53b5d97ca389e63b
   repo:
-    url: https://api.github.com/repos/JSLaTeX/website
-    name: JSLaTeX/website
+    url: https://api.github.com/repos/ReactiveEmails/website
+    name: ReactiveEmails/website
