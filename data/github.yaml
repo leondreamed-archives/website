@@ -1,4 +1,10 @@
 events:
+  - date: '2022-04-20T15:08:46Z'
+    type: WatchEvent
+  - date: '2022-04-20T15:07:49Z'
+    type: PushEvent
+  - date: '2022-04-20T15:07:03Z'
+    type: PushEvent
   - date: '2022-04-20T14:55:53Z'
     type: PushEvent
   - date: '2022-04-20T14:52:35Z'
@@ -49,18 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T13:26:07Z'
     type: PushEvent
-  - date: '2022-04-20T13:24:17Z'
-    type: PushEvent
-  - date: '2022-04-20T13:23:53Z'
-    type: PushEvent
-  - date: '2022-04-20T13:19:24Z'
-    type: CreateEvent
-  - date: '2022-04-20T13:19:24Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: build script'
+  message: 'fix: cli'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/0ad3aa8c3acbe3a89b2ec7b197e2cdd3c6b6d714
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/4516698be7753d54e784c5f8f59c86943d6e9fb7
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
