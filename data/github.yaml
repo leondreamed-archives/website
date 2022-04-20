@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-20T18:18:17Z'
+    type: PullRequestReviewCommentEvent
+  - date: '2022-04-20T18:18:18Z'
+    type: PullRequestReviewEvent
+  - date: '2022-04-20T18:08:28Z'
+    type: PullRequestReviewCommentEvent
+  - date: '2022-04-20T18:08:28Z'
+    type: PullRequestReviewEvent
+  - date: '2022-04-20T18:01:04Z'
+    type: PushEvent
+  - date: '2022-04-20T18:00:42Z'
+    type: PushEvent
   - date: '2022-04-20T17:11:44Z'
     type: PushEvent
   - date: '2022-04-20T17:10:31Z'
@@ -39,24 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T14:55:53Z'
     type: PushEvent
-  - date: '2022-04-20T14:52:35Z'
-    type: CreateEvent
-  - date: '2022-04-20T14:52:35Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T14:52:31Z'
-    type: PushEvent
-  - date: '2022-04-20T14:51:44Z'
-    type: PushEvent
-  - date: '2022-04-20T14:47:09Z'
-    type: PushEvent
-  - date: '2022-04-20T14:47:11Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T14:47:11Z'
-    type: CreateEvent
 latestCommit:
-  message: 0.2.2
+  message: 'test: add extra test'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/c78d7dbf71697fafa0f5e468e514627bc4d7db00
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/6529ea3edcd7d965bd2e572b3840b8ebb9c65d8e
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
