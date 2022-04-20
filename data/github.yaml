@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-19T05:25:32Z'
     type: PushEvent
-  - date: '2022-04-19T05:24:17Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: add license'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/website/commits/898861399fc8531c4f8abc5f53b5d97ca389e63b
+    https://api.github.com/repos/leonzalion/succ-js/commits/b9d2dcf0621530005f3ff8e661e7cae1638c8f9b
   repo:
-    url: https://api.github.com/repos/ReactiveEmails/website
-    name: ReactiveEmails/website
+    url: https://api.github.com/repos/leonzalion/succ-js
+    name: leonzalion/succ-js
