@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T15:07:03Z'
     type: PushEvent
-  - date: '2022-04-20T14:55:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: add extra test'
+  message: 'test: additional test'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/6529ea3edcd7d965bd2e572b3840b8ebb9c65d8e
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/8eb0388c2b14f8e59c0599396f16666ebf5981de
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
