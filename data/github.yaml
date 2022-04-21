@@ -1,4 +1,12 @@
 events:
+  - date: '2022-04-21T06:26:15Z'
+    type: PullRequestReviewCommentEvent
+  - date: '2022-04-21T06:26:15Z'
+    type: PullRequestReviewEvent
+  - date: '2022-04-21T06:22:20Z'
+    type: PullRequestReviewCommentEvent
+  - date: '2022-04-21T06:22:21Z'
+    type: PullRequestReviewEvent
   - date: '2022-04-21T00:50:07Z'
     type: PushEvent
   - date: '2022-04-21T00:46:39Z'
@@ -31,18 +39,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T18:00:42Z'
     type: PushEvent
-  - date: '2022-04-20T17:11:44Z'
-    type: PushEvent
-  - date: '2022-04-20T17:10:31Z'
-    type: IssuesEvent
-  - date: '2022-04-20T17:01:28Z'
-    type: CreateEvent
-  - date: '2022-04-20T17:01:16Z'
-    type: CreateEvent
 latestCommit:
-  message: use prettier to format markdown
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/2c51cbc62dd1024b0dd6a06a3ea9bed2f0bd8840
+    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/227971a58accbd54abcfa6dae7a80fb209658197
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/vite-plugin-js-imports
+    name: leonzalion/vite-plugin-js-imports
