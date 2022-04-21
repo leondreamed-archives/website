@@ -6,16 +6,16 @@ topActivities:
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 1922
+    timeSpent: 3028
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1681
+    timeSpent: 2703
   - category: Presentation
     name: Google Presentations
     productivity: 2
     timeSpent: 1121
-  - category: General Reference & Learning
-    name: tdsb.elearningontario.ca
-    productivity: 2
-    timeSpent: 775
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 1052
