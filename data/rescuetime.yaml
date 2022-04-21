@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3422
+    timeSpent: 4155
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 1922
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1397
+    timeSpent: 1681
   - category: Presentation
     name: Google Presentations
     productivity: 2
     timeSpent: 1121
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 1073
   - category: General Reference & Learning
     name: tdsb.elearningontario.ca
     productivity: 2
