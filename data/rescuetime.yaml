@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1108
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 172
+    timeSpent: 1340
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1186
+  - category: Presentation
+    name: Google Presentations
+    productivity: 2
+    timeSpent: 1002
   - category: General Software Development
     name: npmjs.com
     productivity: 2
-    timeSpent: 124
-  - category: General Software Development
-    name: marketplace.visualstudio.com
-    productivity: 2
-    timeSpent: 50
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 33
+    timeSpent: 255
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 233

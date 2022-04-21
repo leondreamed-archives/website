@@ -37,12 +37,10 @@ events:
     type: PullRequestReviewEvent
   - date: '2022-04-20T18:01:04Z'
     type: PushEvent
-  - date: '2022-04-20T18:00:42Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 1.1.1
   url: >-
-    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/227971a58accbd54abcfa6dae7a80fb209658197
+    https://api.github.com/repos/leonzalion/vite-plugin-js-imports/commits/c7cddbedc321698a2eedbec7876bfa308caf241e
   repo:
     url: https://api.github.com/repos/leonzalion/vite-plugin-js-imports
     name: leonzalion/vite-plugin-js-imports
