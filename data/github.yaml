@@ -39,12 +39,10 @@ events:
     type: CreateEvent
   - date: '2022-04-20T17:01:16Z'
     type: CreateEvent
-  - date: '2022-04-20T16:35:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: reference micromatch'
+  message: use prettier to format markdown
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/4a481e3fb4dfcb8522ee76a52ef263c0405d9103
+    https://api.github.com/repos/leonzalion/macos-configs/commits/2c51cbc62dd1024b0dd6a06a3ea9bed2f0bd8840
   repo:
-    url: https://api.github.com/repos/leonzalion/doiuse-email
-    name: leonzalion/doiuse-email
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
