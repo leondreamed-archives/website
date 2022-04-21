@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-21T00:50:07Z'
+    type: PushEvent
+  - date: '2022-04-21T00:46:39Z'
+    type: PushEvent
+  - date: '2022-04-21T00:42:02Z'
+    type: PushEvent
+  - date: '2022-04-21T00:37:31Z'
+    type: PushEvent
+  - date: '2022-04-21T00:27:14Z'
+    type: PushEvent
+  - date: '2022-04-21T00:14:46Z'
+    type: PushEvent
   - date: '2022-04-21T00:00:14Z'
     type: PushEvent
   - date: '2022-04-20T23:10:50Z'
@@ -31,24 +43,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T16:28:15Z'
     type: PushEvent
-  - date: '2022-04-20T16:25:40Z'
-    type: CreateEvent
-  - date: '2022-04-20T16:25:40Z'
-    type: ReleaseEvent
-  - date: '2022-04-20T16:25:37Z'
-    type: PushEvent
-  - date: '2022-04-20T16:25:15Z'
-    type: PushEvent
-  - date: '2022-04-20T16:19:11Z'
-    type: PushEvent
-  - date: '2022-04-20T16:17:14Z'
-    type: CreateEvent
-  - date: '2022-04-20T16:17:14Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'docs: readme update'
+  message: 'test: add class selectors test'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/8ada17d73613ea7822880abfdd9b167607b70989
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/a4955828f4864a1dadbdc6630e9b6020800dad26
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
