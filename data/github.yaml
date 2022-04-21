@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-21T00:00:14Z'
+    type: PushEvent
+  - date: '2022-04-20T23:10:50Z'
+    type: PushEvent
   - date: '2022-04-20T22:48:00Z'
     type: PushEvent
   - date: '2022-04-20T22:47:23Z'
@@ -41,16 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-04-20T16:17:14Z'
     type: ReleaseEvent
-  - date: '2022-04-20T16:17:12Z'
-    type: PushEvent
-  - date: '2022-04-20T16:16:07Z'
-    type: PushEvent
-  - date: '2022-04-20T16:15:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: switch to htmlparser2'
+  message: 'docs: readme update'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/88dcbcd355343cff8dd71638e718f24c8b4bb575
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/8ada17d73613ea7822880abfdd9b167607b70989
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
