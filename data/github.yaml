@@ -33,8 +33,6 @@ events:
     type: PullRequestReviewEvent
   - date: '2022-04-20T18:08:28Z'
     type: PullRequestReviewCommentEvent
-  - date: '2022-04-20T18:08:28Z'
-    type: PullRequestReviewEvent
 latestCommit:
   message: 'feat: allow tagged template expressions'
   url: >-
