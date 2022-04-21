@@ -41,12 +41,10 @@ events:
     type: CreateEvent
   - date: '2022-04-20T16:35:32Z'
     type: PushEvent
-  - date: '2022-04-20T16:28:15Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: add class selectors test'
+  message: 'docs: reference micromatch'
   url: >-
-    https://api.github.com/repos/leonzalion/doiuse-email/commits/a4955828f4864a1dadbdc6630e9b6020800dad26
+    https://api.github.com/repos/leonzalion/doiuse-email/commits/4a481e3fb4dfcb8522ee76a52ef263c0405d9103
   repo:
     url: https://api.github.com/repos/leonzalion/doiuse-email
     name: leonzalion/doiuse-email
