@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-22T02:18:55Z'
+    type: PushEvent
+  - date: '2022-04-22T02:17:56Z'
+    type: PushEvent
+  - date: '2022-04-22T02:16:02Z'
+    type: PushEvent
+  - date: '2022-04-22T02:15:36Z'
+    type: CreateEvent
+  - date: '2022-04-22T02:00:20Z'
+    type: CreateEvent
+  - date: '2022-04-22T01:46:26Z'
+    type: PushEvent
   - date: '2022-04-22T00:31:25Z'
     type: PushEvent
   - date: '2022-04-21T23:27:09Z'
@@ -15,22 +27,10 @@ events:
     type: PushEvent
   - date: '2022-04-21T00:46:39Z'
     type: PushEvent
-  - date: '2022-04-21T00:42:02Z'
-    type: PushEvent
-  - date: '2022-04-21T00:37:31Z'
-    type: PushEvent
-  - date: '2022-04-21T00:27:14Z'
-    type: PushEvent
-  - date: '2022-04-21T00:14:46Z'
-    type: PushEvent
-  - date: '2022-04-21T00:00:14Z'
-    type: PushEvent
-  - date: '2022-04-20T23:10:50Z'
-    type: PushEvent
 latestCommit:
-  message: changes
+  message: lint and prettier
   url: >-
-    https://api.github.com/repos/leonzalion/portfolio-showcase/commits/1bdcf4dc2a3a27fd97aa2263ce58365a1be4a501
+    https://api.github.com/repos/leonzalion/portfolio-showcase/commits/4a64404d01dc62c5b08ed8f0dbd4bc1e8c56cc7f
   repo:
     url: https://api.github.com/repos/leonzalion/portfolio-showcase
     name: leonzalion/portfolio-showcase
