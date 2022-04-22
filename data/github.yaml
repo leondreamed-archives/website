@@ -1,4 +1,20 @@
 events:
+  - date: '2022-04-22T19:00:09Z'
+    type: PushEvent
+  - date: '2022-04-22T18:59:29Z'
+    type: PushEvent
+  - date: '2022-04-22T18:56:28Z'
+    type: PushEvent
+  - date: '2022-04-22T18:54:52Z'
+    type: PushEvent
+  - date: '2022-04-22T18:53:30Z'
+    type: PushEvent
+  - date: '2022-04-22T18:47:05Z'
+    type: PushEvent
+  - date: '2022-04-22T18:38:03Z'
+    type: PushEvent
+  - date: '2022-04-22T18:02:23Z'
+    type: PushEvent
   - date: '2022-04-22T17:56:59Z'
     type: PushEvent
   - date: '2022-04-22T17:49:18Z'
@@ -39,28 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-22T16:17:45Z'
     type: PushEvent
-  - date: '2022-04-22T16:17:05Z'
-    type: PushEvent
-  - date: '2022-04-22T16:11:29Z'
-    type: PushEvent
-  - date: '2022-04-22T16:11:06Z'
-    type: CreateEvent
-  - date: '2022-04-22T16:10:28Z'
-    type: CreateEvent
-  - date: '2022-04-22T16:10:27Z'
-    type: ReleaseEvent
-  - date: '2022-04-22T16:10:21Z'
-    type: PushEvent
-  - date: '2022-04-22T16:09:25Z'
-    type: CreateEvent
-  - date: '2022-04-22T16:08:34Z'
-    type: PushEvent
-  - date: '2022-04-22T16:08:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: bump version'
+  message: 1.0.72
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/4a7e01fc356ae80d8bdbb0e563f9a0fe4a5268c6
+    https://api.github.com/repos/leonzalion/create-project/commits/8ba4c073c86ce936ba025db11e396c3b4fd64844
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
