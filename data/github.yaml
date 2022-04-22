@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-21T23:27:09Z'
+    type: PushEvent
   - date: '2022-04-21T06:26:15Z'
     type: PullRequestReviewCommentEvent
   - date: '2022-04-21T06:26:15Z'
@@ -25,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-04-20T22:48:00Z'
     type: PushEvent
-  - date: '2022-04-20T22:47:23Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: allow tagged template expressions'
+  message: 1.2.22
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/dd315b9539fe8f2a7961b1d9cf0a8217acf80566
+    https://api.github.com/repos/leonzalion/configs/commits/04208cf5aa19802909ac4dbe6b1a7c673800f96b
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
