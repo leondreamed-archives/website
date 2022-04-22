@@ -49,12 +49,10 @@ events:
     type: CreateEvent
   - date: '2022-04-22T17:05:03Z'
     type: PushEvent
-  - date: '2022-04-22T17:04:09Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: .gitkeep'
+  message: 1.0.73
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/ea7e13517e5e8a0fcfb494fe1bfa80cb4e9c7c10
+    https://api.github.com/repos/leonzalion/create-project/commits/90c163865d07dc47334b755f240bb7cf41b29564
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
