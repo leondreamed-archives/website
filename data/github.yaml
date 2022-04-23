@@ -47,8 +47,6 @@ events:
     type: PushEvent
   - date: '2022-04-22T23:45:37Z'
     type: CreateEvent
-  - date: '2022-04-22T22:52:55Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: electron'
   url: >-
