@@ -51,8 +51,6 @@ events:
     type: PullRequestEvent
   - date: '2022-04-23T15:21:56Z'
     type: PushEvent
-  - date: '2022-04-23T15:21:13Z'
-    type: ReleaseEvent
 latestCommit:
   message: Update README.md
   url: >-
