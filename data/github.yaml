@@ -1,4 +1,12 @@
 events:
+  - date: '2022-04-23T17:29:58Z'
+    type: PushEvent
+  - date: '2022-04-23T17:27:36Z'
+    type: PushEvent
+  - date: '2022-04-23T17:21:40Z'
+    type: PushEvent
+  - date: '2022-04-23T17:15:57Z'
+    type: PushEvent
   - date: '2022-04-23T16:57:52Z'
     type: IssueCommentEvent
   - date: '2022-04-23T16:06:26Z'
@@ -47,20 +55,10 @@ events:
     type: CreateEvent
   - date: '2022-04-23T15:21:11Z'
     type: PushEvent
-  - date: '2022-04-23T15:20:48Z'
-    type: PushEvent
-  - date: '2022-04-23T15:20:35Z'
-    type: PushEvent
-  - date: '2022-04-23T15:20:06Z'
-    type: PushEvent
-  - date: '2022-04-23T15:18:32Z'
-    type: PushEvent
-  - date: '2022-04-23T15:13:17Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update gif'
+  message: 1.1.2
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/bbd110b89c21262de45f327a84b9837c04423dd1
+    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/d0a7eab1b46c7f591eb4612da6b32512d0d11c5c
   repo:
     url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
     name: leonzalion/inquirer-press-to-continue
