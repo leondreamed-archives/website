@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-23T18:22:56Z'
+    type: PushEvent
   - date: '2022-04-23T17:29:58Z'
     type: PushEvent
   - date: '2022-04-23T17:27:36Z'
@@ -51,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T15:21:13Z'
     type: ReleaseEvent
-  - date: '2022-04-23T15:21:14Z'
-    type: CreateEvent
-  - date: '2022-04-23T15:21:11Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.2
+  message: Update README.md
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/d0a7eab1b46c7f591eb4612da6b32512d0d11c5c
+    https://api.github.com/repos/leonzalion/Inquirer.js/commits/83bfa7ad4a20365307f4d405dac77a05a8533484
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
-    name: leonzalion/inquirer-press-to-continue
+    url: https://api.github.com/repos/leonzalion/Inquirer.js
+    name: leonzalion/Inquirer.js
