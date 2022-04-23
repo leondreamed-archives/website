@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-23T16:57:52Z'
+    type: IssueCommentEvent
+  - date: '2022-04-23T16:06:26Z'
+    type: PushEvent
   - date: '2022-04-23T15:59:22Z'
     type: PushEvent
   - date: '2022-04-23T15:58:06Z'
@@ -53,16 +57,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T15:13:17Z'
     type: PushEvent
-  - date: '2022-04-23T15:09:08Z'
-    type: PushEvent
-  - date: '2022-04-23T15:07:45Z'
-    type: ForkEvent
-  - date: '2022-04-23T15:07:07Z'
-    type: ReleaseEvent
 latestCommit:
-  message: Update README.md
+  message: 'chore: update gif'
   url: >-
-    https://api.github.com/repos/leonzalion/Inquirer.js/commits/32c8cbc5b41709128b8bf93a6d880fde487e2b27
+    https://api.github.com/repos/leonzalion/inquirer-press-to-continue/commits/bbd110b89c21262de45f327a84b9837c04423dd1
   repo:
-    url: https://api.github.com/repos/leonzalion/Inquirer.js
-    name: leonzalion/Inquirer.js
+    url: https://api.github.com/repos/leonzalion/inquirer-press-to-continue
+    name: leonzalion/inquirer-press-to-continue
