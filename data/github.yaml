@@ -1,4 +1,12 @@
 events:
+  - date: '2022-04-23T21:05:15Z'
+    type: CreateEvent
+  - date: '2022-04-23T21:05:14Z'
+    type: ReleaseEvent
+  - date: '2022-04-23T21:05:13Z'
+    type: PushEvent
+  - date: '2022-04-23T21:04:40Z'
+    type: PushEvent
   - date: '2022-04-23T20:57:49Z'
     type: CreateEvent
   - date: '2022-04-23T20:57:49Z'
@@ -47,16 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T20:29:03Z'
     type: PushEvent
-  - date: '2022-04-23T18:22:56Z'
-    type: PushEvent
-  - date: '2022-04-23T17:29:58Z'
-    type: PushEvent
-  - date: '2022-04-23T17:27:36Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.3
+  message: 'refactor: rename icon to prevent conflicts with vuetify'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/9e56787cb078faf42640becbf73e677c4feb14ae
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/2bac69fce6b4ace75ed9d4a65ace4c7ed8a9f604
   repo:
-    url: https://api.github.com/repos/AdminControlApp/phone-call-pass
-    name: AdminControlApp/phone-call-pass
+    url: https://api.github.com/repos/leonzalion/simple-vue-icon
+    name: leonzalion/simple-vue-icon
