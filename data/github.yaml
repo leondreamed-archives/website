@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-24T00:14:34Z'
+    type: WatchEvent
   - date: '2022-04-23T21:05:15Z'
     type: CreateEvent
   - date: '2022-04-23T21:05:14Z'
@@ -49,14 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T20:31:50Z'
     type: PushEvent
-  - date: '2022-04-23T20:30:56Z'
-    type: PushEvent
-  - date: '2022-04-23T20:29:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: prettier'
+  message: 1.3.0
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/3ea892f79b0eed82ed13d56e2fb07e8039120e2b
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/72af9c68bf666dbf2eb8aaad9743428cca461f49
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
