@@ -1,4 +1,10 @@
 events:
+  - date: '2022-04-24T16:49:20Z'
+    type: PushEvent
+  - date: '2022-04-24T16:26:34Z'
+    type: PushEvent
+  - date: '2022-04-24T16:24:59Z'
+    type: PushEvent
   - date: '2022-04-24T08:15:39Z'
     type: PushEvent
   - date: '2022-04-24T08:15:06Z'
@@ -45,18 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-24T07:35:50Z'
     type: ReleaseEvent
-  - date: '2022-04-24T07:35:50Z'
-    type: CreateEvent
-  - date: '2022-04-24T07:35:48Z'
-    type: PushEvent
-  - date: '2022-04-24T07:35:17Z'
-    type: PushEvent
-  - date: '2022-04-24T07:29:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: remove ava plugin'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/60a1ce988917647ea1c4de3c90622efc266a7e43
+    https://api.github.com/repos/leonzalion/configs/commits/53ac113234c433b87615a031f375dc10948c8bd1
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
