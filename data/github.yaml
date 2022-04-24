@@ -1,4 +1,14 @@
 events:
+  - date: '2022-04-24T02:20:23Z'
+    type: PushEvent
+  - date: '2022-04-24T02:15:36Z'
+    type: PushEvent
+  - date: '2022-04-24T02:10:14Z'
+    type: PullRequestEvent
+  - date: '2022-04-24T02:05:13Z'
+    type: PushEvent
+  - date: '2022-04-24T01:46:07Z'
+    type: ForkEvent
   - date: '2022-04-24T00:14:34Z'
     type: WatchEvent
   - date: '2022-04-23T21:05:15Z'
@@ -39,22 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T20:36:55Z'
     type: PushEvent
-  - date: '2022-04-23T20:36:14Z'
-    type: PushEvent
-  - date: '2022-04-23T20:35:59Z'
-    type: ReleaseEvent
-  - date: '2022-04-23T20:35:59Z'
-    type: CreateEvent
-  - date: '2022-04-23T20:35:28Z'
-    type: PushEvent
-  - date: '2022-04-23T20:34:46Z'
-    type: PushEvent
-  - date: '2022-04-23T20:31:50Z'
-    type: PushEvent
 latestCommit:
-  message: 1.3.0
+  message: 'docs: update readme'
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/72af9c68bf666dbf2eb8aaad9743428cca461f49
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/da0a0fd4307bfd7af14de169c4f679d2c006ce26
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
