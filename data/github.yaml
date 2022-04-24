@@ -45,12 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-04-24T07:40:56Z'
     type: ReleaseEvent
-  - date: '2022-04-24T07:40:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update configs'
+  message: 'fix: lint issue'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/1d6f195137324768ff31182cfdbf653c4983d46d
+    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/ad9c17ab277e1d13a4bf8a4ab89ccc6e22e8ea83
   repo:
     url: https://api.github.com/repos/AdminControlApp/phone-call-pass
     name: AdminControlApp/phone-call-pass
