@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-23T20:29:12Z'
     type: PushEvent
-  - date: '2022-04-23T20:29:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: rename icon to prevent conflicts with vuetify'
+  message: 'chore: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/2bac69fce6b4ace75ed9d4a65ace4c7ed8a9f604
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/3ea892f79b0eed82ed13d56e2fb07e8039120e2b
   repo:
     url: https://api.github.com/repos/leonzalion/simple-vue-icon
     name: leonzalion/simple-vue-icon
