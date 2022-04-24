@@ -43,8 +43,6 @@ events:
     type: PushEvent
   - date: '2022-04-24T07:40:56Z'
     type: CreateEvent
-  - date: '2022-04-24T07:40:56Z'
-    type: ReleaseEvent
 latestCommit:
   message: 'fix: lint issue'
   url: >-
