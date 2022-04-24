@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-04-24T07:29:28Z'
     type: PushEvent
-  - date: '2022-04-24T07:09:47Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: vue preload'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/aaad95ffab7dc41b639b7f1f1751b66b9f4f28db
+    https://api.github.com/repos/leonzalion/configs/commits/60a1ce988917647ea1c4de3c90622efc266a7e43
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
