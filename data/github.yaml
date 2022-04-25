@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-24T07:52:08Z'
     type: PushEvent
-  - date: '2022-04-24T07:48:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update configs'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/rollup-plugin-bundle-esm/commits/4c7f752eec08cce0d0ef277d4746d1029030c5ae
+    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/b58d35046f8f968d9a007720a065438c03db6047
   repo:
-    url: https://api.github.com/repos/leonzalion/rollup-plugin-bundle-esm
-    name: leonzalion/rollup-plugin-bundle-esm
+    url: https://api.github.com/repos/AdminControlApp/phone-call-pass
+    name: AdminControlApp/phone-call-pass
