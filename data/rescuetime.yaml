@@ -6,11 +6,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 4285
+    timeSpent: 4699
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 3242
+    timeSpent: 3265
   - category: Video
     name: youtube.com
     productivity: -2
@@ -18,4 +18,4 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1973
+    timeSpent: 1986
