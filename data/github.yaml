@@ -1,4 +1,18 @@
 events:
+  - date: '2022-04-25T17:23:39Z'
+    type: PushEvent
+  - date: '2022-04-25T17:20:17Z'
+    type: PushEvent
+  - date: '2022-04-25T17:18:00Z'
+    type: PushEvent
+  - date: '2022-04-25T17:16:54Z'
+    type: PushEvent
+  - date: '2022-04-25T17:12:51Z'
+    type: PushEvent
+  - date: '2022-04-25T17:12:24Z'
+    type: PushEvent
+  - date: '2022-04-25T17:07:15Z'
+    type: PushEvent
   - date: '2022-04-25T16:58:46Z'
     type: PushEvent
   - date: '2022-04-25T16:58:17Z'
@@ -31,16 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-04-25T04:11:45Z'
     type: PushEvent
-  - date: '2022-04-25T01:50:05Z'
-    type: PushEvent
-  - date: '2022-04-25T01:37:10Z'
-    type: PushEvent
-  - date: '2022-04-24T23:24:33Z'
-    type: IssueCommentEvent
 latestCommit:
-  message: 'chore: use types package'
+  message: 'chore: update spinner'
   url: >-
-    https://api.github.com/repos/leonzalion/rollup-plugin-bundle-esm/commits/d57a3cd15a319d3924b6feeaa06269147a7ef351
+    https://api.github.com/repos/leonzalion/vue3-spinners/commits/70c94793bd5c17601eaa7a54eac322bf0a0848ba
   repo:
-    url: https://api.github.com/repos/leonzalion/rollup-plugin-bundle-esm
-    name: leonzalion/rollup-plugin-bundle-esm
+    url: https://api.github.com/repos/leonzalion/vue3-spinners
+    name: leonzalion/vue3-spinners
