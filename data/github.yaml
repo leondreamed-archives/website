@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-25T04:56:00Z'
+    type: CreateEvent
+  - date: '2022-04-25T04:11:45Z'
+    type: PushEvent
   - date: '2022-04-25T01:50:05Z'
     type: PushEvent
   - date: '2022-04-25T01:37:10Z'
@@ -25,16 +29,10 @@ events:
     type: PushEvent
   - date: '2022-04-24T08:00:24Z'
     type: PushEvent
-  - date: '2022-04-24T07:59:18Z'
-    type: ReleaseEvent
-  - date: '2022-04-24T07:59:18Z'
-    type: CreateEvent
-  - date: '2022-04-24T07:59:08Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.30
+  message: 'chore: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/1dc90b81b8769af8ceb7d7df8c8f589aee813fe4
+    https://api.github.com/repos/leonzalion/configs/commits/054c3d18c5091ec67b8f7f6f17477776dfb05935
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
