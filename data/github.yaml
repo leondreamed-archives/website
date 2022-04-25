@@ -47,8 +47,6 @@ events:
     type: PullRequestEvent
   - date: '2022-04-25T13:46:21Z'
     type: PushEvent
-  - date: '2022-04-25T13:30:04Z'
-    type: PushEvent
 latestCommit:
   message: add types for wait-port
   url: >-
