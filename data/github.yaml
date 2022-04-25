@@ -1,4 +1,14 @@
 events:
+  - date: '2022-04-25T18:36:25Z'
+    type: WatchEvent
+  - date: '2022-04-25T18:12:18Z'
+    type: PushEvent
+  - date: '2022-04-25T18:12:18Z'
+    type: CreateEvent
+  - date: '2022-04-25T18:12:17Z'
+    type: ReleaseEvent
+  - date: '2022-04-25T18:11:37Z'
+    type: PushEvent
   - date: '2022-04-25T17:23:39Z'
     type: PushEvent
   - date: '2022-04-25T17:20:17Z'
@@ -39,16 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-25T13:30:04Z'
     type: PushEvent
-  - date: '2022-04-25T13:29:59Z'
-    type: ForkEvent
-  - date: '2022-04-25T04:56:00Z'
-    type: CreateEvent
-  - date: '2022-04-25T04:11:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update spinner'
+  message: add types for wait-port
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-spinners/commits/70c94793bd5c17601eaa7a54eac322bf0a0848ba
+    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/84d1dd2b85868395b56097147931939789a265ae
   repo:
-    url: https://api.github.com/repos/leonzalion/vue3-spinners
-    name: leonzalion/vue3-spinners
+    url: https://api.github.com/repos/leonzalion/DefinitelyTyped
+    name: leonzalion/DefinitelyTyped
