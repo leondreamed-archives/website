@@ -45,12 +45,10 @@ events:
     type: IssueCommentEvent
   - date: '2022-04-25T13:51:57Z'
     type: PullRequestEvent
-  - date: '2022-04-25T13:46:21Z'
-    type: PushEvent
 latestCommit:
-  message: add types for wait-port
+  message: 'fix: typos'
   url: >-
-    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/84d1dd2b85868395b56097147931939789a265ae
+    https://api.github.com/repos/leonzalion/volar/commits/a53912820edf4b3c6ced830b3f46b2245f93ef75
   repo:
-    url: https://api.github.com/repos/leonzalion/DefinitelyTyped
-    name: leonzalion/DefinitelyTyped
+    url: https://api.github.com/repos/leonzalion/volar
+    name: leonzalion/volar
