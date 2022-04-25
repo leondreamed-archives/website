@@ -43,8 +43,6 @@ events:
     type: PullRequestEvent
   - date: '2022-04-25T13:55:52Z'
     type: IssueCommentEvent
-  - date: '2022-04-25T13:51:57Z'
-    type: PullRequestEvent
 latestCommit:
   message: 'fix: typos'
   url: >-
