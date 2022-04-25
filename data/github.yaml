@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-25T01:50:05Z'
+    type: PushEvent
+  - date: '2022-04-25T01:37:10Z'
+    type: PushEvent
   - date: '2022-04-24T23:24:33Z'
     type: IssueCommentEvent
   - date: '2022-04-24T17:37:26Z'
@@ -29,16 +33,10 @@ events:
     type: PushEvent
   - date: '2022-04-24T07:58:25Z'
     type: PushEvent
-  - date: '2022-04-24T07:55:17Z'
-    type: PushEvent
-  - date: '2022-04-24T07:54:45Z'
-    type: PushEvent
-  - date: '2022-04-24T07:52:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: xo plugins'
   url: >-
-    https://api.github.com/repos/AdminControlApp/phone-call-pass/commits/b58d35046f8f968d9a007720a065438c03db6047
+    https://api.github.com/repos/leonzalion/configs/commits/da27c568aededfe7a0ac161883887a5d36aea7aa
   repo:
-    url: https://api.github.com/repos/AdminControlApp/phone-call-pass
-    name: AdminControlApp/phone-call-pass
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
