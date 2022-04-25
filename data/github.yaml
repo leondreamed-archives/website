@@ -31,12 +31,10 @@ events:
     type: CreateEvent
   - date: '2022-04-24T07:59:08Z'
     type: PushEvent
-  - date: '2022-04-24T07:58:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: xo plugins'
+  message: 1.2.30
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/da27c568aededfe7a0ac161883887a5d36aea7aa
+    https://api.github.com/repos/leonzalion/configs/commits/1dc90b81b8769af8ceb7d7df8c8f589aee813fe4
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
