@@ -1,4 +1,38 @@
 events:
+  - date: '2022-04-26T17:27:14Z'
+    type: PushEvent
+  - date: '2022-04-26T17:25:07Z'
+    type: IssueCommentEvent
+  - date: '2022-04-26T17:22:34Z'
+    type: CreateEvent
+  - date: '2022-04-26T17:22:34Z'
+    type: ReleaseEvent
+  - date: '2022-04-26T17:22:32Z'
+    type: PushEvent
+  - date: '2022-04-26T17:21:40Z'
+    type: PushEvent
+  - date: '2022-04-26T17:17:20Z'
+    type: ReleaseEvent
+  - date: '2022-04-26T17:17:19Z'
+    type: PushEvent
+  - date: '2022-04-26T17:17:21Z'
+    type: CreateEvent
+  - date: '2022-04-26T17:16:22Z'
+    type: PushEvent
+  - date: '2022-04-26T17:06:49Z'
+    type: PushEvent
+  - date: '2022-04-26T17:06:30Z'
+    type: PushEvent
+  - date: '2022-04-26T17:05:00Z'
+    type: PushEvent
+  - date: '2022-04-26T16:59:27Z'
+    type: PushEvent
+  - date: '2022-04-26T16:57:55Z'
+    type: PushEvent
+  - date: '2022-04-26T16:57:26Z'
+    type: CreateEvent
+  - date: '2022-04-26T16:57:10Z'
+    type: CreateEvent
   - date: '2022-04-26T16:42:08Z'
     type: PushEvent
   - date: '2022-04-26T16:41:40Z'
@@ -23,42 +57,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T16:13:44Z'
     type: PushEvent
-  - date: '2022-04-26T15:46:20Z'
-    type: CreateEvent
-  - date: '2022-04-26T15:46:20Z'
-    type: ReleaseEvent
-  - date: '2022-04-26T15:44:36Z'
-    type: PushEvent
-  - date: '2022-04-26T15:43:46Z'
-    type: PushEvent
-  - date: '2022-04-26T15:43:09Z'
-    type: PushEvent
-  - date: '2022-04-26T15:40:06Z'
-    type: CreateEvent
-  - date: '2022-04-26T15:40:05Z'
-    type: ReleaseEvent
-  - date: '2022-04-26T15:40:00Z'
-    type: PushEvent
-  - date: '2022-04-26T15:39:32Z'
-    type: PushEvent
-  - date: '2022-04-26T15:39:07Z'
-    type: PushEvent
-  - date: '2022-04-26T15:36:05Z'
-    type: PushEvent
-  - date: '2022-04-26T15:35:57Z'
-    type: PushEvent
-  - date: '2022-04-26T15:35:11Z'
-    type: PushEvent
-  - date: '2022-04-26T15:29:22Z'
-    type: PushEvent
-  - date: '2022-04-26T15:26:21Z'
-    type: CreateEvent
-  - date: '2022-04-26T15:25:23Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: .vue.js extension'
+  message: 'fix: tests'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/f7b59e72887e41e15e68fc8794ca4df49eb05176
+    https://api.github.com/repos/leonzalion/vue3-notify/commits/3f5f5fdf04c56961fd4cb184fd2fa2618e4b7fe4
   repo:
-    url: https://api.github.com/repos/leonzalion/compile-vue-sfc
-    name: leonzalion/compile-vue-sfc
+    url: https://api.github.com/repos/leonzalion/vue3-notify
+    name: leonzalion/vue3-notify
