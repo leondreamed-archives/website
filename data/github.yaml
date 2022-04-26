@@ -39,8 +39,6 @@ events:
     type: PushEvent
   - date: '2022-04-25T16:41:06Z'
     type: ForkEvent
-  - date: '2022-04-25T13:55:52Z'
-    type: PullRequestEvent
 latestCommit:
   message: 'fix: typos'
   url: >-
