@@ -1,4 +1,36 @@
 events:
+  - date: '2022-04-26T15:46:20Z'
+    type: CreateEvent
+  - date: '2022-04-26T15:46:20Z'
+    type: ReleaseEvent
+  - date: '2022-04-26T15:44:36Z'
+    type: PushEvent
+  - date: '2022-04-26T15:43:46Z'
+    type: PushEvent
+  - date: '2022-04-26T15:43:09Z'
+    type: PushEvent
+  - date: '2022-04-26T15:40:06Z'
+    type: CreateEvent
+  - date: '2022-04-26T15:40:05Z'
+    type: ReleaseEvent
+  - date: '2022-04-26T15:40:00Z'
+    type: PushEvent
+  - date: '2022-04-26T15:39:32Z'
+    type: PushEvent
+  - date: '2022-04-26T15:39:07Z'
+    type: PushEvent
+  - date: '2022-04-26T15:36:05Z'
+    type: PushEvent
+  - date: '2022-04-26T15:35:57Z'
+    type: PushEvent
+  - date: '2022-04-26T15:35:11Z'
+    type: PushEvent
+  - date: '2022-04-26T15:29:22Z'
+    type: PushEvent
+  - date: '2022-04-26T15:26:21Z'
+    type: CreateEvent
+  - date: '2022-04-26T15:25:23Z'
+    type: CreateEvent
   - date: '2022-04-26T14:41:14Z'
     type: WatchEvent
   - date: '2022-04-26T05:11:29Z'
@@ -21,26 +53,10 @@ events:
     type: CreateEvent
   - date: '2022-04-26T03:47:23Z'
     type: ReleaseEvent
-  - date: '2022-04-26T03:47:21Z'
-    type: PushEvent
-  - date: '2022-04-26T03:46:56Z'
-    type: PushEvent
-  - date: '2022-04-26T03:46:05Z'
-    type: PushEvent
-  - date: '2022-04-26T03:44:01Z'
-    type: CreateEvent
-  - date: '2022-04-26T03:40:02Z'
-    type: CreateEvent
-  - date: '2022-04-26T03:21:59Z'
-    type: PushEvent
-  - date: '2022-04-25T18:36:25Z'
-    type: WatchEvent
-  - date: '2022-04-25T18:12:18Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.31
+  message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/3bf26e83d9b538271e98d19ba9b8b0e075372c6d
+    https://api.github.com/repos/leonzalion/rollup-plugin-deps-external/commits/1958047a8fe73b20042fe7fd93b30e6780d78960
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/rollup-plugin-deps-external
+    name: leonzalion/rollup-plugin-deps-external
