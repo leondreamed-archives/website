@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T16:34:08Z'
     type: PushEvent
-  - date: '2022-04-26T16:32:11Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.1
+  message: 'refactor: use default export'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/966f17b1fb5a22ab716679d78465ba8f6ab9caf3
+    https://api.github.com/repos/leonzalion/vue3-notify/commits/b9989661e85d627195ada65c984b07ebe129686c
   repo:
     url: https://api.github.com/repos/leonzalion/vue3-notify
     name: leonzalion/vue3-notify
