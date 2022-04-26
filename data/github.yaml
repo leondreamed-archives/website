@@ -1,4 +1,28 @@
 events:
+  - date: '2022-04-26T16:42:08Z'
+    type: PushEvent
+  - date: '2022-04-26T16:41:40Z'
+    type: PushEvent
+  - date: '2022-04-26T16:41:42Z'
+    type: CreateEvent
+  - date: '2022-04-26T16:41:41Z'
+    type: ReleaseEvent
+  - date: '2022-04-26T16:40:49Z'
+    type: PushEvent
+  - date: '2022-04-26T16:38:31Z'
+    type: PushEvent
+  - date: '2022-04-26T16:34:58Z'
+    type: PushEvent
+  - date: '2022-04-26T16:34:08Z'
+    type: PushEvent
+  - date: '2022-04-26T16:32:11Z'
+    type: PushEvent
+  - date: '2022-04-26T16:31:39Z'
+    type: PushEvent
+  - date: '2022-04-26T16:18:51Z'
+    type: PushEvent
+  - date: '2022-04-26T16:13:44Z'
+    type: PushEvent
   - date: '2022-04-26T15:46:20Z'
     type: CreateEvent
   - date: '2022-04-26T15:46:20Z'
@@ -31,32 +55,10 @@ events:
     type: CreateEvent
   - date: '2022-04-26T15:25:23Z'
     type: CreateEvent
-  - date: '2022-04-26T14:41:14Z'
-    type: WatchEvent
-  - date: '2022-04-26T05:11:29Z'
-    type: PushEvent
-  - date: '2022-04-26T05:06:41Z'
-    type: CreateEvent
-  - date: '2022-04-26T05:05:16Z'
-    type: CreateEvent
-  - date: '2022-04-26T03:55:29Z'
-    type: PushEvent
-  - date: '2022-04-26T03:54:30Z'
-    type: ReleaseEvent
-  - date: '2022-04-26T03:54:30Z'
-    type: CreateEvent
-  - date: '2022-04-26T03:54:28Z'
-    type: PushEvent
-  - date: '2022-04-26T03:54:04Z'
-    type: PushEvent
-  - date: '2022-04-26T03:47:24Z'
-    type: CreateEvent
-  - date: '2022-04-26T03:47:23Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: bug'
+  message: 'fix: .vue.js extension'
   url: >-
-    https://api.github.com/repos/leonzalion/rollup-plugin-deps-external/commits/1958047a8fe73b20042fe7fd93b30e6780d78960
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/f7b59e72887e41e15e68fc8794ca4df49eb05176
   repo:
-    url: https://api.github.com/repos/leonzalion/rollup-plugin-deps-external
-    name: leonzalion/rollup-plugin-deps-external
+    url: https://api.github.com/repos/leonzalion/compile-vue-sfc
+    name: leonzalion/compile-vue-sfc
