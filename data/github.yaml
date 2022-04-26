@@ -39,12 +39,10 @@ events:
     type: CreateEvent
   - date: '2022-04-25T18:12:17Z'
     type: ReleaseEvent
-  - date: '2022-04-25T18:11:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: jsx'
+  message: 1.2.31
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/c6c395136e98636c5514b7e412730b9e8ac299d3
+    https://api.github.com/repos/leonzalion/configs/commits/3bf26e83d9b538271e98d19ba9b8b0e075372c6d
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
