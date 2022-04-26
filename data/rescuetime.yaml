@@ -6,16 +6,16 @@ topActivities:
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 7747
+    timeSpent: 7768
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3087
+    timeSpent: 3172
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2574
+    timeSpent: 2804
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1067
+    timeSpent: 1524
