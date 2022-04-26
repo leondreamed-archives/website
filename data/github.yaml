@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T16:32:11Z'
     type: PushEvent
-  - date: '2022-04-26T16:31:39Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: release script'
+  message: 0.0.1
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/5dba1bf6a97a763ed5d60fd171bc886fa3a29092
+    https://api.github.com/repos/leonzalion/vue3-notify/commits/966f17b1fb5a22ab716679d78465ba8f6ab9caf3
   repo:
     url: https://api.github.com/repos/leonzalion/vue3-notify
     name: leonzalion/vue3-notify
