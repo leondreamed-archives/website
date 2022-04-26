@@ -55,12 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T16:18:51Z'
     type: PushEvent
-  - date: '2022-04-26T16:13:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: tests'
+  message: 'fix: lint issue'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/3f5f5fdf04c56961fd4cb184fd2fa2618e4b7fe4
+    https://api.github.com/repos/leonzalion/vue3-notify/commits/c47b645b071391ef1ac046910f92f1d333ed0f9a
   repo:
     url: https://api.github.com/repos/leonzalion/vue3-notify
     name: leonzalion/vue3-notify
