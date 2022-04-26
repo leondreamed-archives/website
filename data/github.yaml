@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-26T03:21:59Z'
+    type: PushEvent
   - date: '2022-04-25T18:36:25Z'
     type: WatchEvent
   - date: '2022-04-25T18:12:18Z'
@@ -37,8 +39,6 @@ events:
     type: PullRequestEvent
   - date: '2022-04-25T16:41:23Z'
     type: PushEvent
-  - date: '2022-04-25T16:41:06Z'
-    type: ForkEvent
 latestCommit:
   message: 'fix: typos'
   url: >-
