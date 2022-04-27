@@ -27,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T17:17:20Z'
     type: ReleaseEvent
-  - date: '2022-04-26T17:17:19Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.3
+  message: 'fix: add vite as dep'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/54e3efc8b6b310d31d5c86c6bd3519e864abd490
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/1f839ea583396ede6660fa6384f8c70a7019519b
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
