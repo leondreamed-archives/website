@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-27T02:44:02Z'
+    type: PushEvent
+  - date: '2022-04-27T02:43:55Z'
+    type: PushEvent
   - date: '2022-04-26T17:27:14Z'
     type: PushEvent
   - date: '2022-04-26T17:25:07Z'
@@ -37,16 +41,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T16:41:40Z'
     type: PushEvent
-  - date: '2022-04-26T16:41:42Z'
-    type: CreateEvent
-  - date: '2022-04-26T16:41:41Z'
-    type: ReleaseEvent
-  - date: '2022-04-26T16:40:49Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bin path'
+  message: 0.0.2
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/b918c1a10527622a33f5c075cab40df05880d95c
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/8bf27edb15b8f1969dff596509e2ea1f0cb3c0d9
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
