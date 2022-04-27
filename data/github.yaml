@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-04-26T17:16:22Z'
     type: PushEvent
-  - date: '2022-04-26T17:06:49Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: typo'
+  message: 'fix: hide vite peerDependency warning'
   url: >-
-    https://api.github.com/repos/leonzalion/ignoredep/commits/215ec368593f9a14d23ec2023e16750dd98e51df
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/7b6ff557e1e63f396c43e5eace8053ac96fd8a12
   repo:
-    url: https://api.github.com/repos/leonzalion/ignoredep
-    name: leonzalion/ignoredep
+    url: https://api.github.com/repos/leonzalion/compile-vue-sfc
+    name: leonzalion/compile-vue-sfc
