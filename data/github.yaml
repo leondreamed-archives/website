@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T17:17:21Z'
     type: CreateEvent
-  - date: '2022-04-26T17:16:22Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: hide vite peerDependency warning'
+  message: 0.0.3
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/7b6ff557e1e63f396c43e5eace8053ac96fd8a12
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/54e3efc8b6b310d31d5c86c6bd3519e864abd490
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
