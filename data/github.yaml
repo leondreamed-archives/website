@@ -29,8 +29,6 @@ events:
     type: ReleaseEvent
   - date: '2022-04-26T17:17:19Z'
     type: PushEvent
-  - date: '2022-04-26T17:17:21Z'
-    type: CreateEvent
 latestCommit:
   message: 0.0.3
   url: >-

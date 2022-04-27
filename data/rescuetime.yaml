@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 819
+    timeSpent: 1632
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 1541
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 507
+    timeSpent: 793
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 428
+    timeSpent: 617
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 362
-  - category: General Reference & Learning
-    name: Preview
-    productivity: 0
-    timeSpent: 141
+    timeSpent: 445
