@@ -1,12 +1,12 @@
 topActivities:
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 3906
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 3765
+    timeSpent: 4876
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 4022
   - category: General Software Development
     name: Github
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1134
+    timeSpent: 2169
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 995
+    timeSpent: 1160
