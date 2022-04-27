@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-26T17:06:49Z'
     type: PushEvent
-  - date: '2022-04-26T17:06:30Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: readme'
+  message: 'fix: typo'
   url: >-
-    https://api.github.com/repos/leonzalion/ignoredep/commits/3841aa1a84136d13f27b7759600c0e75579b208e
+    https://api.github.com/repos/leonzalion/ignoredep/commits/215ec368593f9a14d23ec2023e16750dd98e51df
   repo:
     url: https://api.github.com/repos/leonzalion/ignoredep
     name: leonzalion/ignoredep
