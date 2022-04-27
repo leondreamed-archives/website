@@ -43,12 +43,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-26T16:40:49Z'
     type: PushEvent
-  - date: '2022-04-26T16:38:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: github pages'
+  message: 'fix: bin path'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/ea9317dfc6a1e03384476930f9f359f589ee6610
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/b918c1a10527622a33f5c075cab40df05880d95c
   repo:
-    url: https://api.github.com/repos/leonzalion/vue3-notify
-    name: leonzalion/vue3-notify
+    url: https://api.github.com/repos/leonzalion/compile-vue-sfc
+    name: leonzalion/compile-vue-sfc
