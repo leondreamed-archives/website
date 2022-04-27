@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-27T03:22:11Z'
+    type: PushEvent
   - date: '2022-04-27T02:44:02Z'
     type: PushEvent
   - date: '2022-04-27T02:43:55Z'
@@ -37,14 +39,10 @@ events:
     type: CreateEvent
   - date: '2022-04-26T16:57:10Z'
     type: CreateEvent
-  - date: '2022-04-26T16:42:08Z'
-    type: PushEvent
-  - date: '2022-04-26T16:41:40Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.2
+  message: 'chore: ignoredep'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/8bf27edb15b8f1969dff596509e2ea1f0cb3c0d9
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/cbd22e9c519702858a13337513717f8b68914b79
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
