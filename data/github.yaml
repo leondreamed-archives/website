@@ -11,12 +11,10 @@ events:
     type: PushEvent
   - date: '2022-04-28T17:15:14Z'
     type: PushEvent
-  - date: '2022-04-27T03:55:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: @admincontrol/encryption as dep'
+  message: 'fix: disable import/no-anonymous-default-export for vue files'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/2e2a647ed11d1364db10cd8e7155bb494e436752
+    https://api.github.com/repos/leonzalion/configs/commits/4504eee18833707de5da69a2c0f400bfd6295c74
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
