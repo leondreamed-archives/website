@@ -15,12 +15,10 @@ events:
     type: PushEvent
   - date: '2022-04-27T03:35:48Z'
     type: PushEvent
-  - date: '2022-04-27T03:22:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: working'
+  message: 'feat: benchmarking working'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/5d9a9c9dc2a8d5769d979db2cb80ff634b60df19
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/e22623fb1758329a4cd4e291e5cbff3b81ad564e
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
