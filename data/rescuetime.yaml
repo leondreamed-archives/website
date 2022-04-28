@@ -6,16 +6,16 @@ topActivities:
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 5809
+    timeSpent: 6540
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2513
+    timeSpent: 2514
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 2281
+    timeSpent: 2350
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 2155
+    timeSpent: 2285
