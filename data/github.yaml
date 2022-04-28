@@ -1,4 +1,8 @@
 events:
+  - date: '2022-04-28T19:12:35Z'
+    type: PushEvent
+  - date: '2022-04-28T19:12:12Z'
+    type: PushEvent
   - date: '2022-04-28T17:16:01Z'
     type: ReleaseEvent
   - date: '2022-04-28T17:16:02Z'
@@ -11,14 +15,10 @@ events:
     type: PushEvent
   - date: '2022-04-27T03:54:01Z'
     type: PushEvent
-  - date: '2022-04-27T03:49:23Z'
-    type: PushEvent
-  - date: '2022-04-27T03:35:48Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: benchmarking working'
+  message: 'chore: build script'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/e22623fb1758329a4cd4e291e5cbff3b81ad564e
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/bab3b8078bc6a11f6f3e742f01a42ae9ad443c02
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
