@@ -13,12 +13,10 @@ events:
     type: PushEvent
   - date: '2022-04-27T02:43:55Z'
     type: PushEvent
-  - date: '2022-04-26T17:27:14Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: dep warnings'
+  message: 'feat: updates'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/ca00007d961ace5475321f99ee6bbb173caf816e
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/e567f0da4565f773c518960719658bb39412d37e
   repo:
-    url: https://api.github.com/repos/leonzalion/vue3-notify
-    name: leonzalion/vue3-notify
+    url: https://api.github.com/repos/AdminControlApp/AdminControl
+    name: AdminControlApp/AdminControl
