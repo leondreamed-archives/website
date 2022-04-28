@@ -1,69 +1,65 @@
-dailyAverage: 29628
-totalSeconds: 207397.851487
+dailyAverage: 24441
+totalSeconds: 171090.325533
 languages:
   - name: sh
-    totalSeconds: 67986.598472
+    totalSeconds: 58090.541767
   - name: TypeScript
-    totalSeconds: 65200.874142
+    totalSeconds: 51110.476606
   - name: Markdown
-    totalSeconds: 21682.574947
+    totalSeconds: 16469.962402
   - name: Vue.js
-    totalSeconds: 17000.817491
-  - name: JSON
-    totalSeconds: 10657.905263
+    totalSeconds: 15797.42604
   - name: Rust
     totalSeconds: 9531.353823
+  - name: JSON
+    totalSeconds: 9502.019314
   - name: JavaScript
-    totalSeconds: 5065.274684
+    totalSeconds: 4839.164409
   - name: Other
-    totalSeconds: 4918.322745
-  - name: HTML
-    totalSeconds: 4663.581446
+    totalSeconds: 4466.873857
   - name: TeX
     totalSeconds: 3750.061936
   - name: Git Config
-    totalSeconds: 601.494536
+    totalSeconds: 597.14143
   - name: TOML
-    totalSeconds: 443.079577
+    totalSeconds: 447.746303
   - name: YAML
-    totalSeconds: 422.957186
+    totalSeconds: 411.030988
   - name: CSS
-    totalSeconds: 329.723623
-  - name: Python
-    totalSeconds: 35.549858
+    totalSeconds: 324.096441
+  - name: HTML
+    totalSeconds: 176.883393
   - name: Sass
     totalSeconds: 17.937318
+  - name: SQL
+    totalSeconds: 17.292064
   - name: INI
     totalSeconds: 3.359213
   - name: ca65 assembler
     totalSeconds: 1.883458
   - name: C#
     totalSeconds: 1.74334
-  - name: Text
-    totalSeconds: 0.875886
   - name: XML
     totalSeconds: 0.205288
 projects:
   - name: AdminControl
     totalSeconds: 39211.178385
-  - name: precommit
-    totalSeconds: 27843.145098
   - name: leonzalion
-    totalSeconds: 23178.096356
-  - name: portfolio-showcase
-    totalSeconds: 19780.45886
+    totalSeconds: 22550.574063
   - name: vue3-notify
-    totalSeconds: 18941.110852
+    totalSeconds: 18941.604174
   - name: vue3-spinners
     totalSeconds: 17011.377343
-  - name: doiuse-email
-    totalSeconds: 11582.74877
+  - name: portfolio-showcase
+    totalSeconds: 13355.480543
+  - name: precommit
+    totalSeconds: 11046.295398
   - name: phone-call-pass
     totalSeconds: 9077.550917
   - name: rollup-plugin-bundle-esm
     totalSeconds: 8167.443261
   - name: configs
-    totalSeconds: 3787.461372
+    totalSeconds: 3609.399221
   - name: lion-system
     totalSeconds: 3478.197793
   - name: DefinitelyTyped
@@ -86,8 +82,6 @@ projects:
     totalSeconds: 1039.884738
   - name: rollup-plugin-dist-gitkeep
     totalSeconds: 926.93288
-  - name: vite-plugin-js-imports
-    totalSeconds: 911.660513
   - name: discord-email-tunnel
     totalSeconds: 836.660579
   - name: simple-vue-icon
@@ -110,8 +104,6 @@ projects:
     totalSeconds: 424.236817
   - name: vue3-notification
     totalSeconds: 420.684418
-  - name: vite-bug
-    totalSeconds: 335.174395
   - name: quasar
     totalSeconds: 335.111969
   - name: case-study
@@ -130,6 +122,8 @@ projects:
     totalSeconds: 207.515149
   - name: sigfig
     totalSeconds: 176.401627
+  - name: doiuse-email
+    totalSeconds: 132.520044
   - name: AdminControlSwift
     totalSeconds: 102.80887
   - name: null-to-undefined
@@ -146,23 +140,21 @@ projects:
     totalSeconds: 37.205105
   - name: napi-rs
     totalSeconds: 36.99793
-  - name: joshgone
-    totalSeconds: 35.549858
   - name: rollup-plugin-auto-external
     totalSeconds: 32.598201
   - name: lionp
     totalSeconds: 24.527368
-  - name: Unknown Project
-    totalSeconds: 22.428803
   - name: embedded-ts
     totalSeconds: 19.057474
-  - name: PlaygroundSwift
-    totalSeconds: 12.952701
+  - name: vite-plugin-js-imports
+    totalSeconds: 18.661851
+  - name: Unknown Project
+    totalSeconds: 14.706204
   - name: prettier-vscode
     totalSeconds: 5.903729
+  - name: PlaygroundSwift
+    totalSeconds: 5.553521
   - name: tabulo
     totalSeconds: 3.689673
-  - name: leonzalion-google-workspace
-    totalSeconds: 2.982283
   - name: bootstrap-macos
     totalSeconds: 0.587163
