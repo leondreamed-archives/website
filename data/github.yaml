@@ -13,12 +13,10 @@ events:
     type: PushEvent
   - date: '2022-04-27T03:55:37Z'
     type: PushEvent
-  - date: '2022-04-27T03:54:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: build script'
+  message: 'feat: @admincontrol/encryption as dep'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/bab3b8078bc6a11f6f3e742f01a42ae9ad443c02
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/2e2a647ed11d1364db10cd8e7155bb494e436752
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
