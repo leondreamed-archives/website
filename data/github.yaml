@@ -15,8 +15,6 @@ events:
     type: PushEvent
   - date: '2022-04-26T17:27:14Z'
     type: PushEvent
-  - date: '2022-04-26T17:25:07Z'
-    type: IssueCommentEvent
 latestCommit:
   message: 'fix: dep warnings'
   url: >-
