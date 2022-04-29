@@ -33,12 +33,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-29T00:44:12Z'
     type: CreateEvent
-  - date: '2022-04-29T00:44:10Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.1
+  message: 'fix: don''t convert non-plain objects'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/94799d64b3c9a253d43bea493736acf6c9ae001a
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/2c5f475e4ea57441e91c0ea5e0e90db3fafef976
   repo:
     url: https://api.github.com/repos/leonzalion/null-to-undefined
     name: leonzalion/null-to-undefined
