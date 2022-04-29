@@ -35,12 +35,10 @@ events:
     type: CreateEvent
   - date: '2022-04-29T00:44:10Z'
     type: PushEvent
-  - date: '2022-04-29T00:43:45Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: types'
+  message: 1.1.1
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/0a9baf640d83ea7702f8ace816265dac8b7b9e90
+    https://api.github.com/repos/leonzalion/null-to-undefined/commits/94799d64b3c9a253d43bea493736acf6c9ae001a
   repo:
     url: https://api.github.com/repos/leonzalion/null-to-undefined
     name: leonzalion/null-to-undefined
