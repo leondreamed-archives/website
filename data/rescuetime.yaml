@@ -1,1 +1,13 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 121
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 54
+  - category: Intelligence
+    name: RescueTime
+    productivity: 2
+    timeSpent: 2
