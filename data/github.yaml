@@ -1,4 +1,6 @@
 events:
+  - date: '2022-04-30T17:41:19Z'
+    type: PushEvent
   - date: '2022-04-30T16:46:46Z'
     type: PushEvent
   - date: '2022-04-30T16:40:16Z'
@@ -53,8 +55,6 @@ events:
     type: PullRequestEvent
   - date: '2022-04-30T15:06:38Z'
     type: PushEvent
-  - date: '2022-04-30T14:56:25Z'
-    type: ForkEvent
 latestCommit:
   message: Add types for typedarray-to-buffer
   url: >-
