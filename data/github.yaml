@@ -31,8 +31,6 @@ events:
     type: PushEvent
   - date: '2022-04-29T00:44:12Z'
     type: ReleaseEvent
-  - date: '2022-04-29T00:44:12Z'
-    type: CreateEvent
 latestCommit:
   message: 'fix: don''t convert non-plain objects'
   url: >-
