@@ -1,4 +1,16 @@
 events:
+  - date: '2022-04-30T16:46:46Z'
+    type: PushEvent
+  - date: '2022-04-30T16:40:16Z'
+    type: PushEvent
+  - date: '2022-04-30T16:36:05Z'
+    type: PushEvent
+  - date: '2022-04-30T16:32:22Z'
+    type: PushEvent
+  - date: '2022-04-30T16:26:34Z'
+    type: PushEvent
+  - date: '2022-04-30T16:21:36Z'
+    type: PushEvent
   - date: '2022-04-30T15:39:06Z'
     type: PushEvent
   - date: '2022-04-30T15:35:25Z'
@@ -43,20 +55,10 @@ events:
     type: PushEvent
   - date: '2022-04-30T14:56:25Z'
     type: ForkEvent
-  - date: '2022-04-30T14:40:53Z'
-    type: IssuesEvent
-  - date: '2022-04-30T14:00:34Z'
-    type: CreateEvent
-  - date: '2022-04-30T13:57:40Z'
-    type: CreateEvent
-  - date: '2022-04-30T13:27:46Z'
-    type: PushEvent
-  - date: '2022-04-30T13:13:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: encryption'
+  message: Add types for typedarray-to-buffer
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/459b6042750d9dbc1760ddc250557aafb81fa174
+    https://api.github.com/repos/leonzalion/DefinitelyTyped/commits/90ccbb2214e03ee08a6483f84cb8b3f97a9b57bd
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/DefinitelyTyped
+    name: leonzalion/DefinitelyTyped
