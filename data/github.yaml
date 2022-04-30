@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-04-30T15:12:53Z'
     type: PushEvent
-  - date: '2022-04-30T15:11:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: test'
+  message: 'chore: publish'
   url: >-
-    https://api.github.com/repos/AdminControlApp/get-secure-input-processes/commits/39e7ab70ed4e297e77988d8f4166bd6e2cef8379
+    https://api.github.com/repos/AdminControlApp/get-secure-input-processes/commits/d1ba6c9e11f72772fdc5a7cf0177c3b62cafb71f
   repo:
     url: https://api.github.com/repos/AdminControlApp/get-secure-input-processes
     name: AdminControlApp/get-secure-input-processes
