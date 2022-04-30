@@ -1,40 +1,36 @@
-dailyAverage: 26715
-totalSeconds: 187005.677164
+dailyAverage: 25161
+totalSeconds: 176125.086066
 languages:
-  - name: sh
-    totalSeconds: 60864.233096
   - name: TypeScript
-    totalSeconds: 57869.770318
+    totalSeconds: 58612.865801
+  - name: sh
+    totalSeconds: 56094.36663
   - name: Vue.js
-    totalSeconds: 34885.598599
-  - name: JSON
-    totalSeconds: 10131.026391
+    totalSeconds: 32024.278545
   - name: Rust
-    totalSeconds: 9531.353823
+    totalSeconds: 9508.509122
+  - name: JSON
+    totalSeconds: 7667.607475
   - name: Markdown
-    totalSeconds: 5490.215204
+    totalSeconds: 4888.661975
   - name: Other
-    totalSeconds: 5036.590212
+    totalSeconds: 4774.932369
   - name: JavaScript
-    totalSeconds: 4843.033793
+    totalSeconds: 4518.333209
   - name: SQL
-    totalSeconds: 730.70734
+    totalSeconds: 750.843516
   - name: GraphQL
-    totalSeconds: 627.284397
+    totalSeconds: 700.546385
   - name: Git Config
-    totalSeconds: 597.14143
+    totalSeconds: 398.68528
   - name: TOML
-    totalSeconds: 447.746303
+    totalSeconds: 289.47218
   - name: YAML
-    totalSeconds: 412.354095
+    totalSeconds: 262.842916
   - name: CSS
-    totalSeconds: 343.552803
+    totalSeconds: 255.028788
   - name: HTML
-    totalSeconds: 206.530955
-  - name: Sass
-    totalSeconds: 17.937318
-  - name: INI
-    totalSeconds: 3.359213
+    totalSeconds: 149.212158
   - name: ca65 assembler
     totalSeconds: 1.883458
   - name: C#
@@ -43,27 +39,25 @@ languages:
     totalSeconds: 0.205288
 projects:
   - name: precommit
-    totalSeconds: 44154.767665
+    totalSeconds: 53520.267411
   - name: AdminControl
-    totalSeconds: 39216.556943
+    totalSeconds: 37498.247617
   - name: vue3-notify
     totalSeconds: 18941.604174
   - name: leonzalion
-    totalSeconds: 18764.56935
+    totalSeconds: 17573.869491
   - name: vue3-spinners
-    totalSeconds: 17011.377343
-  - name: phone-call-pass
-    totalSeconds: 9077.550917
+    totalSeconds: 9360.887969
   - name: rollup-plugin-bundle-esm
     totalSeconds: 8177.110761
-  - name: configs
-    totalSeconds: 3710.668275
-  - name: lion-system
-    totalSeconds: 3478.197793
+  - name: phone-call-pass
+    totalSeconds: 6617.942711
   - name: DefinitelyTyped
     totalSeconds: 3229.309162
-  - name: AdminControlElectron
-    totalSeconds: 2798.106096
+  - name: configs
+    totalSeconds: 3118.28884
+  - name: lion-system
+    totalSeconds: 3062.488011
   - name: lion-fixture
     totalSeconds: 2366.295392
   - name: compile-vue-sfc
@@ -76,26 +70,20 @@ projects:
     totalSeconds: 1566.232253
   - name: rollup-plugin-external-deps
     totalSeconds: 1319.088085
-  - name: portfolio-showcase
-    totalSeconds: 1117.02929
-  - name: rollup-plugin-dist-gitkeep
-    totalSeconds: 926.93288
-  - name: discord-email-tunnel
-    totalSeconds: 836.660579
   - name: simple-vue-icon
-    totalSeconds: 830.917717
+    totalSeconds: 771.047173
   - name: ignoredep
     totalSeconds: 756.79237
   - name: applescript-utils
     totalSeconds: 749.405595
+  - name: nanoid-nice
+    totalSeconds: 713.882481
   - name: js-jsonl
     totalSeconds: 708.573904
   - name: vite
     totalSeconds: 675.689283
   - name: null-to-undefined
     totalSeconds: 640.169656
-  - name: create-project
-    totalSeconds: 493.886154
   - name: vue-spinners
     totalSeconds: 493.267991
   - name: vite-electron-builder
@@ -104,18 +92,12 @@ projects:
     totalSeconds: 424.236817
   - name: vue3-notification
     totalSeconds: 420.684418
-  - name: quasar
-    totalSeconds: 335.111969
   - name: rollup-plugin-deps-external
     totalSeconds: 303.284204
-  - name: nanoid-nice
-    totalSeconds: 302.872703
-  - name: vue-animate-height
-    totalSeconds: 295.501739
   - name: plugins
     totalSeconds: 289.407037
-  - name: node
-    totalSeconds: 262.893942
+  - name: vue-animate-height
+    totalSeconds: 223.607877
   - name: aes
     totalSeconds: 207.515149
   - name: sigfig
@@ -126,18 +108,18 @@ projects:
     totalSeconds: 102.80887
   - name: dprint-vscode
     totalSeconds: 66.156807
+  - name: create-project
+    totalSeconds: 64.72324
   - name: jslatex-compiler
     totalSeconds: 59.985447
-  - name: 3d-game-thing
-    totalSeconds: 41.356901
-  - name: jslatex-vscode-extension
-    totalSeconds: 41.240999
   - name: Terminal
-    totalSeconds: 37.205105
+    totalSeconds: 37.037164
   - name: napi-rs
     totalSeconds: 36.99793
   - name: rollup-plugin-auto-external
     totalSeconds: 32.598201
+  - name: jslatex-vscode-extension
+    totalSeconds: 29.986985
   - name: lionp
     totalSeconds: 24.527368
   - name: embedded-ts
@@ -145,7 +127,7 @@ projects:
   - name: vite-plugin-js-imports
     totalSeconds: 18.661851
   - name: Unknown Project
-    totalSeconds: 14.706204
+    totalSeconds: 13.584653
   - name: prettier-vscode
     totalSeconds: 5.903729
   - name: PlaygroundSwift

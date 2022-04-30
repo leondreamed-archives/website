@@ -1,4 +1,24 @@
 events:
+  - date: '2022-04-30T06:03:36Z'
+    type: PushEvent
+  - date: '2022-04-30T05:45:13Z'
+    type: PushEvent
+  - date: '2022-04-30T05:29:30Z'
+    type: PushEvent
+  - date: '2022-04-30T05:29:02Z'
+    type: PushEvent
+  - date: '2022-04-30T05:13:13Z'
+    type: PushEvent
+  - date: '2022-04-30T05:10:25Z'
+    type: PushEvent
+  - date: '2022-04-30T05:06:52Z'
+    type: PushEvent
+  - date: '2022-04-30T05:06:38Z'
+    type: PushEvent
+  - date: '2022-04-30T04:59:56Z'
+    type: PushEvent
+  - date: '2022-04-30T04:33:23Z'
+    type: PushEvent
   - date: '2022-04-29T15:18:28Z'
     type: PushEvent
   - date: '2022-04-29T15:18:04Z'
@@ -15,22 +35,10 @@ events:
     type: PushEvent
   - date: '2022-04-29T15:06:35Z'
     type: PushEvent
-  - date: '2022-04-29T15:05:58Z'
-    type: PushEvent
-  - date: '2022-04-29T15:02:07Z'
-    type: PushEvent
-  - date: '2022-04-29T14:44:15Z'
-    type: PushEvent
-  - date: '2022-04-29T14:06:43Z'
-    type: PushEvent
-  - date: '2022-04-29T14:04:55Z'
-    type: PushEvent
-  - date: '2022-04-29T02:38:29Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.2
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/null-to-undefined/commits/27ef7336709b3cf9845248e43c7506ec3b60ffd0
+    https://api.github.com/repos/leonzalion/nanoid-nice/commits/bbc6eb902d102efca7aab5a5e794bf8c98cab945
   repo:
-    url: https://api.github.com/repos/leonzalion/null-to-undefined
-    name: leonzalion/null-to-undefined
+    url: https://api.github.com/repos/leonzalion/nanoid-nice
+    name: leonzalion/nanoid-nice
