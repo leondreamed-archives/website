@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 195
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 56
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 32
+  - category: Browsers
+    name: 'safari-resource:'
+    productivity: 0
+    timeSpent: 22
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 13
