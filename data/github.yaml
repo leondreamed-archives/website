@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T05:05:02Z'
     type: PushEvent
-  - date: '2022-05-01T05:01:28Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: screen time automation'
+  message: 'fix: linter issues'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/335139ca6bea4ac5d44f6282d192c7746770c187
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/8b3db95daf94a19c496b74f0ca8845c8943ce8cd
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
