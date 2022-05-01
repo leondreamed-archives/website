@@ -57,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T03:58:38Z'
     type: PushEvent
-  - date: '2022-05-01T03:58:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: more general'
+  message: 0.1.3
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/e480788b27317b563ea2e9833d93b8f3fab4f86f
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/d4b39d18bfeb5bd201f31ea081faa202f0924e04
   repo:
     url: https://api.github.com/repos/leonzalion/applescript-utils
     name: leonzalion/applescript-utils
