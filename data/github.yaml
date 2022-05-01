@@ -1,4 +1,14 @@
 events:
+  - date: '2022-05-01T20:31:43Z'
+    type: ReleaseEvent
+  - date: '2022-05-01T20:31:43Z'
+    type: CreateEvent
+  - date: '2022-05-01T20:31:39Z'
+    type: PushEvent
+  - date: '2022-05-01T20:31:06Z'
+    type: PushEvent
+  - date: '2022-05-01T20:08:58Z'
+    type: PushEvent
   - date: '2022-05-01T19:24:22Z'
     type: PushEvent
   - date: '2022-05-01T19:23:45Z'
@@ -33,22 +43,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T05:01:28Z'
     type: PushEvent
-  - date: '2022-05-01T05:00:57Z'
-    type: ReleaseEvent
-  - date: '2022-05-01T05:00:57Z'
-    type: CreateEvent
-  - date: '2022-05-01T05:00:26Z'
-    type: PushEvent
-  - date: '2022-05-01T05:00:06Z'
-    type: PushEvent
-  - date: '2022-05-01T04:33:04Z'
-    type: PushEvent
-  - date: '2022-05-01T04:32:59Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update applescript-utils'
+  message: 'feat: screen time automation'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/49e73708878fb090efa11aa5f9e07e54b12b0c01
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/335139ca6bea4ac5d44f6282d192c7746770c187
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
