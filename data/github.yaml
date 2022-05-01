@@ -47,12 +47,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T04:31:05Z'
     type: PushEvent
-  - date: '2022-05-01T04:30:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bug'
+  message: 'docs: installation + usage'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/2bd987fba707bb6d92581f10431173678d5c89b1
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/8da85bcce713e69d454a44190bb68587f2279021
   repo:
     url: https://api.github.com/repos/leonzalion/applescript-utils
     name: leonzalion/applescript-utils
