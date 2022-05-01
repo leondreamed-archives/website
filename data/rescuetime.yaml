@@ -6,11 +6,11 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3006
+    timeSpent: 3055
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2364
+    timeSpent: 2367
   - category: General Software Development
     name: electron
     productivity: 2
