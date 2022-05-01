@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T05:10:10Z'
     type: PushEvent
-  - date: '2022-05-01T05:05:02Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: linter issues'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/8b3db95daf94a19c496b74f0ca8845c8943ce8cd
+    https://api.github.com/repos/leonzalion/configs/commits/8fee4ad5f55c69274d7b170256c1828ef8212645
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
