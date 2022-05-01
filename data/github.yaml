@@ -1,4 +1,8 @@
 events:
+  - date: '2022-05-01T01:27:09Z'
+    type: PushEvent
+  - date: '2022-05-01T01:10:11Z'
+    type: PushEvent
   - date: '2022-04-30T22:51:15Z'
     type: PushEvent
   - date: '2022-04-30T22:48:38Z'
@@ -49,14 +53,10 @@ events:
     type: CreateEvent
   - date: '2022-04-30T21:11:31Z'
     type: ReleaseEvent
-  - date: '2022-04-30T21:11:28Z'
-    type: PushEvent
-  - date: '2022-04-30T21:10:34Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: use shell process'
+  message: 'fix: stdio inherit'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/4d74302fec54c5e0346732c41fa38a1042dcb44d
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/1b9b2fafa429f91b4de033f352e81107af88856f
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
