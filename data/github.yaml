@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-01T19:24:22Z'
+    type: PushEvent
+  - date: '2022-05-01T19:23:45Z'
+    type: PushEvent
+  - date: '2022-05-01T19:22:52Z'
+    type: PushEvent
   - date: '2022-05-01T05:15:12Z'
     type: PushEvent
   - date: '2022-05-01T05:14:51Z'
@@ -39,18 +45,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T04:32:59Z'
     type: PushEvent
-  - date: '2022-05-01T04:32:01Z'
-    type: ReleaseEvent
-  - date: '2022-05-01T04:32:01Z'
-    type: CreateEvent
-  - date: '2022-05-01T04:31:59Z'
-    type: PushEvent
-  - date: '2022-05-01T04:31:05Z'
-    type: PushEvent
 latestCommit:
-  message: 'docs: installation + usage'
+  message: 'chore: update applescript-utils'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/8da85bcce713e69d454a44190bb68587f2279021
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/49e73708878fb090efa11aa5f9e07e54b12b0c01
   repo:
-    url: https://api.github.com/repos/leonzalion/applescript-utils
-    name: leonzalion/applescript-utils
+    url: https://api.github.com/repos/AdminControlApp/AdminControl
+    name: AdminControlApp/AdminControl
