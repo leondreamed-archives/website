@@ -1,4 +1,20 @@
 events:
+  - date: '2022-05-01T02:41:10Z'
+    type: PushEvent
+  - date: '2022-05-01T02:39:45Z'
+    type: PushEvent
+  - date: '2022-05-01T02:32:39Z'
+    type: CreateEvent
+  - date: '2022-05-01T02:28:44Z'
+    type: PushEvent
+  - date: '2022-05-01T02:06:38Z'
+    type: CreateEvent
+  - date: '2022-05-01T02:04:59Z'
+    type: CreateEvent
+  - date: '2022-05-01T01:36:37Z'
+    type: PushEvent
+  - date: '2022-05-01T01:36:15Z'
+    type: PushEvent
   - date: '2022-05-01T01:27:09Z'
     type: PushEvent
   - date: '2022-05-01T01:10:11Z'
@@ -35,28 +51,10 @@ events:
     type: ReleaseEvent
   - date: '2022-04-30T21:58:50Z'
     type: PushEvent
-  - date: '2022-04-30T21:55:23Z'
-    type: PushEvent
-  - date: '2022-04-30T21:46:25Z'
-    type: ReleaseEvent
-  - date: '2022-04-30T21:46:25Z'
-    type: CreateEvent
-  - date: '2022-04-30T21:46:23Z'
-    type: PushEvent
-  - date: '2022-04-30T21:45:09Z'
-    type: PushEvent
-  - date: '2022-04-30T21:13:39Z'
-    type: PushEvent
-  - date: '2022-04-30T21:12:42Z'
-    type: PushEvent
-  - date: '2022-04-30T21:11:31Z'
-    type: CreateEvent
-  - date: '2022-04-30T21:11:31Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: stdio inherit'
+  message: 0.0.8
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/1b9b2fafa429f91b4de033f352e81107af88856f
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/36a979dcde734ab3c545785309db25d9f3fd0280
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
