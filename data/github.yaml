@@ -1,60 +1,68 @@
 events:
-  - date: '2022-05-01T03:18:48Z'
+  - date: '2022-05-01T05:15:12Z'
+    type: PushEvent
+  - date: '2022-05-01T05:14:51Z'
+    type: PushEvent
+  - date: '2022-05-01T05:13:56Z'
+    type: PushEvent
+  - date: '2022-05-01T05:11:45Z'
     type: CreateEvent
-  - date: '2022-05-01T03:18:47Z'
+  - date: '2022-05-01T05:11:45Z'
     type: ReleaseEvent
-  - date: '2022-05-01T03:18:45Z'
+  - date: '2022-05-01T05:11:44Z'
     type: PushEvent
-  - date: '2022-05-01T03:18:02Z'
-    type: PushEvent
-  - date: '2022-05-01T03:17:19Z'
-    type: PushEvent
-  - date: '2022-05-01T03:16:00Z'
-    type: ForkEvent
-  - date: '2022-05-01T03:01:06Z'
-    type: PushEvent
-  - date: '2022-05-01T03:00:32Z'
-    type: PushEvent
-  - date: '2022-05-01T02:55:39Z'
-    type: PushEvent
-  - date: '2022-05-01T02:55:27Z'
-    type: PushEvent
-  - date: '2022-05-01T02:41:10Z'
-    type: PushEvent
-  - date: '2022-05-01T02:39:45Z'
-    type: PushEvent
-  - date: '2022-05-01T02:32:39Z'
+  - date: '2022-05-01T05:11:43Z'
+    type: ReleaseEvent
+  - date: '2022-05-01T05:11:43Z'
     type: CreateEvent
-  - date: '2022-05-01T02:28:44Z'
+  - date: '2022-05-01T05:11:42Z'
     type: PushEvent
-  - date: '2022-05-01T02:06:38Z'
+  - date: '2022-05-01T05:11:11Z'
+    type: PushEvent
+  - date: '2022-05-01T05:11:10Z'
+    type: PushEvent
+  - date: '2022-05-01T05:10:10Z'
+    type: PushEvent
+  - date: '2022-05-01T05:05:02Z'
+    type: PushEvent
+  - date: '2022-05-01T05:01:28Z'
+    type: PushEvent
+  - date: '2022-05-01T05:00:57Z'
+    type: ReleaseEvent
+  - date: '2022-05-01T05:00:57Z'
     type: CreateEvent
-  - date: '2022-05-01T02:04:59Z'
+  - date: '2022-05-01T05:00:26Z'
+    type: PushEvent
+  - date: '2022-05-01T05:00:06Z'
+    type: PushEvent
+  - date: '2022-05-01T04:33:04Z'
+    type: PushEvent
+  - date: '2022-05-01T04:32:59Z'
+    type: PushEvent
+  - date: '2022-05-01T04:32:01Z'
+    type: ReleaseEvent
+  - date: '2022-05-01T04:32:01Z'
     type: CreateEvent
-  - date: '2022-05-01T01:36:37Z'
+  - date: '2022-05-01T04:31:59Z'
     type: PushEvent
-  - date: '2022-05-01T01:36:15Z'
+  - date: '2022-05-01T04:31:05Z'
     type: PushEvent
-  - date: '2022-05-01T01:27:09Z'
+  - date: '2022-05-01T04:30:18Z'
     type: PushEvent
-  - date: '2022-05-01T01:10:11Z'
+  - date: '2022-05-01T04:12:03Z'
     type: PushEvent
-  - date: '2022-04-30T22:51:15Z'
+  - date: '2022-05-01T04:11:28Z'
     type: PushEvent
-  - date: '2022-04-30T22:48:38Z'
+  - date: '2022-05-01T04:10:39Z'
     type: PushEvent
-  - date: '2022-04-30T22:43:15Z'
+  - date: '2022-05-01T03:58:38Z'
     type: PushEvent
-  - date: '2022-04-30T22:41:49Z'
-    type: PushEvent
-  - date: '2022-04-30T22:36:58Z'
-    type: PushEvent
-  - date: '2022-04-30T22:29:56Z'
+  - date: '2022-05-01T03:58:11Z'
     type: PushEvent
 latestCommit:
-  message: 'fix: dont gitignore npm'
+  message: 'refactor: more general'
   url: >-
-    https://api.github.com/repos/AdminControlApp/get-secure-input-processes/commits/ebadafebebd39e514fa6ba745a9309d73b37d5b5
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/e480788b27317b563ea2e9833d93b8f3fab4f86f
   repo:
-    url: https://api.github.com/repos/AdminControlApp/get-secure-input-processes
-    name: AdminControlApp/get-secure-input-processes
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
