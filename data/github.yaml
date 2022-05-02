@@ -25,12 +25,10 @@ events:
     type: CreateEvent
   - date: '2022-05-01T05:11:45Z'
     type: ReleaseEvent
-  - date: '2022-05-01T05:11:44Z'
-    type: PushEvent
 latestCommit:
-  message: 1.2.33
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/5c80234bdddefbf170f67ff768fdb0783669b57b
+    https://api.github.com/repos/AdminControlApp/phone-call-input/commits/76d536d517736da3cbf708f201a6f6e63b68eeba
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/AdminControlApp/phone-call-input
+    name: AdminControlApp/phone-call-input
