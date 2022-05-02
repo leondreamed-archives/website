@@ -33,12 +33,10 @@ events:
     type: CreateEvent
   - date: '2022-05-01T05:11:42Z'
     type: PushEvent
-  - date: '2022-05-01T05:11:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 1.3.22
   url: >-
-    https://api.github.com/repos/leonzalion/lion-system/commits/cfd4bc229781d370371338fc29a14f26f1c09df1
+    https://api.github.com/repos/leonzalion/lion-system/commits/f23ec01940706433e299ac96d48b6a4f378b71eb
   repo:
     url: https://api.github.com/repos/leonzalion/lion-system
     name: leonzalion/lion-system
