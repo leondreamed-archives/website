@@ -1,4 +1,8 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 615
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
@@ -7,15 +11,11 @@ topActivities:
     name: en.wikipedia.org
     productivity: 2
     timeSpent: 421
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 77
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 74
+    timeSpent: 249
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 61
+    timeSpent: 166
