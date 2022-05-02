@@ -25,12 +25,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T20:31:06Z'
     type: PushEvent
-  - date: '2022-05-01T20:08:58Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: pnpm 7'
+  message: 'fix: dist bug'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/94ce0ed4ae93267ac4c809c1c98a9c5df54e2f35
+    https://api.github.com/repos/leonzalion/lion-system/commits/f874a8643f9db78d2d7bd323c36c52666d396c60
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/lion-system
+    name: leonzalion/lion-system
