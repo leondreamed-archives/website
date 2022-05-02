@@ -1,21 +1,21 @@
 topActivities:
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 279
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 196
+  - category: General Entertainment
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 96
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 60
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 32
-  - category: Browsers
-    name: 'safari-resource:'
-    productivity: 0
-    timeSpent: 22
-  - category: Video
+  - category: Uncategorized
     name: '[unpublished]'
-    productivity: -2
-    timeSpent: 18
+    productivity: 0
+    timeSpent: 45
