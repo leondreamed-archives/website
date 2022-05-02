@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-05-01T05:11:11Z'
     type: PushEvent
-  - date: '2022-05-01T05:11:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lionfixture'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/7777c7689fc4862dbc2de94156ef355ec47a65b9
+    https://api.github.com/repos/leonzalion/lion-system/commits/cfd4bc229781d370371338fc29a14f26f1c09df1
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/lion-system
+    name: leonzalion/lion-system
