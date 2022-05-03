@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-03T13:19:43Z'
+    type: CreateEvent
   - date: '2022-05-03T04:32:39Z'
     type: PushEvent
   - date: '2022-05-03T04:32:06Z'
@@ -35,8 +37,6 @@ events:
     type: PushEvent
   - date: '2022-05-02T17:49:32Z'
     type: PushEvent
-  - date: '2022-05-02T16:52:00Z'
-    type: IssuesEvent
 latestCommit:
   message: 'chore: pnpm 7'
   url: >-
