@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-03T19:02:56Z'
+    type: PushEvent
+  - date: '2022-05-03T19:00:39Z'
+    type: ReleaseEvent
+  - date: '2022-05-03T19:00:39Z'
+    type: CreateEvent
   - date: '2022-05-03T19:00:11Z'
     type: PushEvent
   - date: '2022-05-03T18:54:15Z'
@@ -37,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-05-03T04:29:54Z'
     type: PushEvent
-  - date: '2022-05-02T23:24:41Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: 404'
+  message: 'feat: daily timeblocks'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/78219a214dfdf510d0d91846d92cccd84608b4dd
+    https://api.github.com/repos/leonzalion/blog/commits/7ae5283d465e086eb564377eeab1cc92632a8782
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
