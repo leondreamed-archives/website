@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Calendars
+    name: cold turkey blocker
+    productivity: 0
+    timeSpent: 576
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 93
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 77
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 3
+  - category: General Utilities
+    name: Finder
+    productivity: 2
+    timeSpent: 1
