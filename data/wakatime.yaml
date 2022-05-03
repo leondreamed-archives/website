@@ -1,89 +1,79 @@
-dailyAverage: 27793
-totalSeconds: 194553.247737
+dailyAverage: 26716
+totalSeconds: 187011.192743
 languages:
   - name: TypeScript
-    totalSeconds: 68774.532772
+    totalSeconds: 61425.903907
   - name: sh
-    totalSeconds: 57662.571062
+    totalSeconds: 56205.067379
   - name: Vue.js
-    totalSeconds: 45250.786545
+    totalSeconds: 47439.003739
   - name: JSON
-    totalSeconds: 9767.570282
+    totalSeconds: 7905.835494
   - name: Other
-    totalSeconds: 7557.217794
-  - name: JavaScript
-    totalSeconds: 4192.055869
-  - name: Rust
-    totalSeconds: 2935.392296
+    totalSeconds: 6836.244479
   - name: Markdown
-    totalSeconds: 2376.786752
+    totalSeconds: 3972.005649
+  - name: JavaScript
+    totalSeconds: 3457.069811
+  - name: Rust
+    totalSeconds: 2920.529726
   - name: YAML
-    totalSeconds: 1206.966179
+    totalSeconds: 1217.492424
   - name: GraphQL
     totalSeconds: 977.582965
   - name: SQL
     totalSeconds: 835.635842
-  - name: CSS
-    totalSeconds: 226.408236
+  - name: HTML
+    totalSeconds: 324.249
   - name: Git Config
-    totalSeconds: 157.784605
+    totalSeconds: 112.095383
   - name: Bash
     totalSeconds: 85.733294
   - name: TOML
     totalSeconds: 67.37818
-  - name: HTML
-    totalSeconds: 32.43606
-  - name: ca65 assembler
-    totalSeconds: 1.883458
-  - name: C#
-    totalSeconds: 1.74334
+  - name: CSS
+    totalSeconds: 66.000483
 projects:
   - name: precommit
-    totalSeconds: 78969.663048
+    totalSeconds: 76670.161297
   - name: AdminControl
-    totalSeconds: 33081.28985
-  - name: vue3-notify
-    totalSeconds: 19907.481714
-  - name: leonzalion
-    totalSeconds: 17862.093462
+    totalSeconds: 35737.470474
+  - name: blog
+    totalSeconds: 14939.826113
   - name: vue3-spinners
-    totalSeconds: 17049.143137
+    totalSeconds: 14750.390656
+  - name: leonzalion
+    totalSeconds: 12153.424919
+  - name: vue3-notify
+    totalSeconds: 9133.448287
   - name: compile-vue-sfc
-    totalSeconds: 5301.05957
+    totalSeconds: 5322.24798
   - name: shownotes
-    totalSeconds: 4557.919983
+    totalSeconds: 4343.145477
   - name: get-secure-input-processes
     totalSeconds: 4092.766068
   - name: phone-call-pass
     totalSeconds: 3507.118909
   - name: applescript-utils
-    totalSeconds: 2208.642335
-  - name: DefinitelyTyped
-    totalSeconds: 2007.644137
-  - name: volar
-    totalSeconds: 1858.969675
-  - name: configs
-    totalSeconds: 1397.722198
-  - name: rollup-plugin-external-deps
-    totalSeconds: 1319.088085
+    totalSeconds: 2300.507515
+  - name: simple-vue-icon
+    totalSeconds: 2129.492622
+  - name: ets
+    totalSeconds: 1071.383776
   - name: phone-call-input
     totalSeconds: 1042.238168
   - name: a
     totalSeconds: 894.072829
   - name: ignoredep
     totalSeconds: 756.79237
-  - name: vite
-    totalSeconds: 673.048273
+  - name: configs
+    totalSeconds: 702.524378
   - name: null-to-undefined
     totalSeconds: 565.839981
-  - name: vue-spinners
-    totalSeconds: 493.267991
   - name: lion-system
-    totalSeconds: 475.6631
-  - name: sync-index
-    totalSeconds: 424.236817
-  - name: vue3-notification
-    totalSeconds: 420.684418
+    totalSeconds: 474.74383
+  - name: DefinitelyTyped
+    totalSeconds: 434.788445
   - name: nanoid-nice
     totalSeconds: 414.77757
   - name: yabai-master-stack-plugin
@@ -92,45 +82,47 @@ projects:
     totalSeconds: 371.354766
   - name: p-wait-for
     totalSeconds: 366.916289
-  - name: lion-fixture
-    totalSeconds: 316.863189
-  - name: rollup-plugin-deps-external
-    totalSeconds: 303.284204
   - name: plugins
     totalSeconds: 289.407037
   - name: timeblocker
-    totalSeconds: 161.38848
+    totalSeconds: 165.185711
+  - name: vite
+    totalSeconds: 163.13894
   - name: apollo-server
     totalSeconds: 121.972004
   - name: monke
     totalSeconds: 86.372481
-  - name: simple-vue-icon
-    totalSeconds: 72.578182
-  - name: dprint-vscode
-    totalSeconds: 66.156807
+  - name: create-project
+    totalSeconds: 66.614003
   - name: discord-email-tunnel
     totalSeconds: 50.358169
   - name: website
-    totalSeconds: 37.930958
+    totalSeconds: 45.589022
+  - name: lionp
+    totalSeconds: 40.908302
+  - name: vpciclubs.com
+    totalSeconds: 34.520371
   - name: latex-workflow
     totalSeconds: 32.810002
-  - name: rollup-plugin-auto-external
-    totalSeconds: 32.598201
   - name: tmp-42579-sYLt6ZbtXToF
     totalSeconds: 31.71436
+  - name: reactive-emails
+    totalSeconds: 30.569553
+  - name: framework
+    totalSeconds: 30.044818
+  - name: assets
+    totalSeconds: 25.25224
   - name: bootstrap-macos
     totalSeconds: 23.686136
   - name: inquirer-press-to-continue
     totalSeconds: 23.595867
-  - name: rollup-plugin-bundle-esm
-    totalSeconds: 23.567667
-  - name: create-project
-    totalSeconds: 20.432555
   - name: embedded-ts
     totalSeconds: 11.591713
+  - name: rollup-plugin-bundle-esm
+    totalSeconds: 9.6675
+  - name: rollup-plugin-auto-external
+    totalSeconds: 9.452947
   - name: PlaygroundSwift
-    totalSeconds: 4.034454
-  - name: prettier-vscode
-    totalSeconds: 3.340601
+    totalSeconds: 2.265606
   - name: jslatex-compiler
     totalSeconds: 0.651415
