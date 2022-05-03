@@ -39,12 +39,10 @@ events:
     type: CreateEvent
   - date: '2022-05-03T04:32:39Z'
     type: PushEvent
-  - date: '2022-05-03T04:32:06Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: style tweaks'
+  message: 'fix: background color'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/7fd56bcdcf88caf23a7a430b233029f5424a718c
+    https://api.github.com/repos/leonzalion/blog/commits/838010c9bcbf4db21211fb9f85f7805b9678d362
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
