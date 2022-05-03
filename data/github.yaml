@@ -41,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-05-03T04:32:06Z'
     type: PushEvent
-  - date: '2022-05-03T04:29:54Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: daily timeblocks'
+  message: 'fix: style tweaks'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/7ae5283d465e086eb564377eeab1cc92632a8782
+    https://api.github.com/repos/leonzalion/blog/commits/7fd56bcdcf88caf23a7a430b233029f5424a718c
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
