@@ -1,4 +1,14 @@
 events:
+  - date: '2022-05-03T17:59:26Z'
+    type: ReleaseEvent
+  - date: '2022-05-03T17:59:27Z'
+    type: CreateEvent
+  - date: '2022-05-03T17:59:09Z'
+    type: PushEvent
+  - date: '2022-05-03T17:58:45Z'
+    type: PushEvent
+  - date: '2022-05-03T17:30:36Z'
+    type: PushEvent
   - date: '2022-05-03T13:19:43Z'
     type: CreateEvent
   - date: '2022-05-03T04:32:39Z'
@@ -27,16 +37,10 @@ events:
     type: PushEvent
   - date: '2022-05-02T23:06:21Z'
     type: PushEvent
-  - date: '2022-05-02T20:58:16Z'
-    type: PushEvent
-  - date: '2022-05-02T20:56:54Z'
-    type: PushEvent
-  - date: '2022-05-02T19:04:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bug'
+  message: 'fix: bundle css properly'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/19e5ad57e7c701ffcaf05ef6cae0eb4d637823df
+    https://api.github.com/repos/leonzalion/simple-vue-icon/commits/2b7237a7823d72607c142c9898da814f02413814
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/simple-vue-icon
+    name: leonzalion/simple-vue-icon
