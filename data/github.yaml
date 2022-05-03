@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-05-02T19:04:11Z'
     type: PushEvent
-  - date: '2022-05-02T17:50:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/a9a0eaa8656c5dc822688576b548c7e5f0dffaf5
+    https://api.github.com/repos/leonzalion/create-project/commits/19e5ad57e7c701ffcaf05ef6cae0eb4d637823df
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project
