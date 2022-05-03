@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-05-02T17:50:31Z'
     type: PushEvent
-  - date: '2022-05-02T17:49:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: pnpm 7'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/94ce0ed4ae93267ac4c809c1c98a9c5df54e2f35
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/a9a0eaa8656c5dc822688576b548c7e5f0dffaf5
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
