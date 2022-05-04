@@ -1,16 +1,16 @@
 topActivities:
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1705
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1119
   - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 1106
+    timeSpent: 2009
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1879
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1863
   - category: General Reference & Learning
     name: '[unpublished]'
     productivity: 2
@@ -18,4 +18,4 @@ topActivities:
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 383
+    timeSpent: 437
