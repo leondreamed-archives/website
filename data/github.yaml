@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-04T12:51:43Z'
+    type: PushEvent
   - date: '2022-05-04T01:41:35Z'
     type: PushEvent
   - date: '2022-05-04T01:15:11Z'
@@ -39,12 +41,10 @@ events:
     type: PushEvent
   - date: '2022-05-03T18:30:12Z'
     type: PushEvent
-  - date: '2022-05-03T18:29:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: use eslint config creator function'
+  message: 1.3.0
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/8bc67d5e4012eda6b5382d9a60f2b508e506d573
+    https://api.github.com/repos/leonzalion/configs/commits/4843cf5240224d8190742db60cf6b701f42d0188
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
