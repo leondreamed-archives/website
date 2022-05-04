@@ -1,4 +1,16 @@
 events:
+  - date: '2022-05-04T01:15:11Z'
+    type: PushEvent
+  - date: '2022-05-04T00:55:18Z'
+    type: PushEvent
+  - date: '2022-05-04T00:55:15Z'
+    type: PushEvent
+  - date: '2022-05-04T00:55:10Z'
+    type: PushEvent
+  - date: '2022-05-04T00:39:54Z'
+    type: PushEvent
+  - date: '2022-05-04T00:33:38Z'
+    type: PushEvent
   - date: '2022-05-03T23:18:33Z'
     type: PushEvent
   - date: '2022-05-03T19:02:56Z'
@@ -33,16 +45,10 @@ events:
     type: CreateEvent
   - date: '2022-05-03T17:59:09Z'
     type: PushEvent
-  - date: '2022-05-03T17:58:45Z'
-    type: PushEvent
-  - date: '2022-05-03T17:30:36Z'
-    type: PushEvent
-  - date: '2022-05-03T13:19:43Z'
-    type: CreateEvent
 latestCommit:
-  message: 'feat: polish preferences'
+  message: 1.0.10
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/74ab5987f1fba9f1747301180622cf4c630c6eda
+    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/a310f1351a1fb265912c45d15327017de4ffa53d
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/leonzalion/lion-git-hooks
+    name: leonzalion/lion-git-hooks

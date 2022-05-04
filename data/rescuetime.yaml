@@ -10,12 +10,12 @@ topActivities:
   - category: General Business
     name: blog.leonzalion.com
     productivity: 2
-    timeSpent: 257
-  - category: General Business
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 112
+    timeSpent: 263
   - category: Email
     name: Gmail
     productivity: 0
+    timeSpent: 113
+  - category: General Business
+    name: '[unpublished]'
+    productivity: 2
     timeSpent: 112
