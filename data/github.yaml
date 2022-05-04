@@ -31,8 +31,6 @@ events:
     type: PushEvent
   - date: '2022-05-03T19:00:39Z'
     type: ReleaseEvent
-  - date: '2022-05-03T19:00:39Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: update'
   url: >-
