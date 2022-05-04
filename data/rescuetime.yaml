@@ -1,21 +1,21 @@
 topActivities:
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 2749
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2134
   - category: General Reference & Learning
     name: Preview
     productivity: 0
     timeSpent: 2038
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1892
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1881
-  - category: File Sharing
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 1045
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1004
+    timeSpent: 1170
