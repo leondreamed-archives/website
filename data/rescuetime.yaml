@@ -2,7 +2,7 @@ topActivities:
   - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 2033
+    timeSpent: 2038
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -11,11 +11,11 @@ topActivities:
     name: Notion
     productivity: 2
     timeSpent: 1881
-  - category: General Reference & Learning
+  - category: File Sharing
     name: '[unpublished]'
-    productivity: 2
-    timeSpent: 884
-  - category: Browsers
-    name: Safari
+    productivity: -2
+    timeSpent: 1045
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 634
+    timeSpent: 1004
