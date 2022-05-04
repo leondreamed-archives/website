@@ -35,8 +35,6 @@ events:
     type: PushEvent
   - date: '2022-05-03T18:34:46Z'
     type: PushEvent
-  - date: '2022-05-03T18:31:37Z'
-    type: CreateEvent
 latestCommit:
   message: 'feat: extra file extensions'
   url: >-
