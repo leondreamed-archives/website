@@ -2,20 +2,20 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1464
+    timeSpent: 1479
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1118
   - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 876
-  - category: Writing
-    name: Google Documents
-    productivity: 2
-    timeSpent: 94
-  - category: File Sharing
+    timeSpent: 919
+  - category: General Reference & Learning
     name: '[unpublished]'
-    productivity: -2
-    timeSpent: 70
-  - category: Browsers
-    name: Safari
+    productivity: 2
+    timeSpent: 884
+  - category: Uncategorized
+    name: '[unpublished]'
     productivity: 0
-    timeSpent: 47
+    timeSpent: 200

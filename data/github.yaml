@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-04T13:21:54Z'
+    type: PushEvent
   - date: '2022-05-04T12:51:43Z'
     type: PushEvent
   - date: '2022-05-04T01:41:35Z'
@@ -37,14 +39,10 @@ events:
     type: CreateEvent
   - date: '2022-05-03T18:31:37Z'
     type: ReleaseEvent
-  - date: '2022-05-03T18:31:35Z'
-    type: PushEvent
-  - date: '2022-05-03T18:30:12Z'
-    type: PushEvent
 latestCommit:
-  message: 1.3.0
+  message: 'feat: extra file extensions'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/4843cf5240224d8190742db60cf6b701f42d0188
+    https://api.github.com/repos/leonzalion/configs/commits/ad2d01782563a95f6186d513695760ab5692dcb7
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
