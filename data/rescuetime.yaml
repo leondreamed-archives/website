@@ -2,20 +2,20 @@ topActivities:
   - category: Calendars
     name: cold turkey blocker
     productivity: 0
-    timeSpent: 739
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 283
+    timeSpent: 803
   - category: General Business
     name: blog.leonzalion.com
     productivity: 2
-    timeSpent: 263
+    timeSpent: 344
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 288
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 199
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 113
-  - category: General Business
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 112
+    timeSpent: 129

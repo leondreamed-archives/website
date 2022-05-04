@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-04T01:41:35Z'
+    type: PushEvent
   - date: '2022-05-04T01:15:11Z'
     type: PushEvent
   - date: '2022-05-04T00:55:18Z'
@@ -41,14 +43,10 @@ events:
     type: PushEvent
   - date: '2022-05-03T17:59:26Z'
     type: ReleaseEvent
-  - date: '2022-05-03T17:59:27Z'
-    type: CreateEvent
-  - date: '2022-05-03T17:59:09Z'
-    type: PushEvent
 latestCommit:
-  message: 1.0.10
+  message: 'refactor: use eslint config creator function'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-git-hooks/commits/a310f1351a1fb265912c45d15327017de4ffa53d
+    https://api.github.com/repos/leonzalion/configs/commits/8bc67d5e4012eda6b5382d9a60f2b508e506d573
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-git-hooks
-    name: leonzalion/lion-git-hooks
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
