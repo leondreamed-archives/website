@@ -2,7 +2,7 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1479
+    timeSpent: 1704
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -18,4 +18,4 @@ topActivities:
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 200
+    timeSpent: 212
