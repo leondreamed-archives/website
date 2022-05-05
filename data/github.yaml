@@ -1,46 +1,68 @@
 events:
-  - date: '2022-05-05T19:57:19Z'
-    type: WatchEvent
-  - date: '2022-05-05T15:51:57Z'
+  - date: '2022-05-05T20:49:41Z'
+    type: CreateEvent
+  - date: '2022-05-05T20:40:56Z'
+    type: CreateEvent
+  - date: '2022-05-05T20:40:03Z'
+    type: ReleaseEvent
+  - date: '2022-05-05T20:40:03Z'
+    type: CreateEvent
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T15:36:43Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:34:26Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:11:11Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:09:31Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:08:53Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:07:01Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T14:04:36Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T13:59:45Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T13:10:38Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T13:10:19Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T12:36:19Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T12:24:09Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T02:14:56Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T02:14:12Z'
+  - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T02:12:06Z'
+  - date: '2022-05-05T20:40:00Z'
     type: PushEvent
-  - date: '2022-05-05T02:11:45Z'
+  - date: '2022-05-05T20:40:00Z'
     type: PushEvent
-  - date: '2022-05-04T23:50:06Z'
+  - date: '2022-05-05T20:40:00Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:58Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:59Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:49Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:49Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:49Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:49Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:16Z'
+    type: PushEvent
+  - date: '2022-05-05T20:39:12Z'
     type: PushEvent
 latestCommit:
-  message: change of plans
+  message: 'chore: fix script'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/7a541b8af827b45f9f78a3d4ba806f635fd2e615
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/c8abd01c611b45a74f24a0c858c56baf16efcd0f
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
