@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-05T19:57:19Z'
+    type: WatchEvent
   - date: '2022-05-05T15:51:57Z'
     type: PushEvent
   - date: '2022-05-05T15:36:43Z'
@@ -35,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T23:50:06Z'
     type: PushEvent
-  - date: '2022-05-04T22:17:39Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update timeblock'
+  message: change of plans
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/fae9c9eb12058882bf450bf6a051b2ed62b8b641
+    https://api.github.com/repos/leonzalion/blog/commits/7a541b8af827b45f9f78a3d4ba806f635fd2e615
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
