@@ -1,4 +1,8 @@
 topActivities:
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 3760
   - category: Engineering & Technology
     name: '[unpublished]'
     productivity: 2
@@ -7,14 +11,10 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 3415
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 3353
   - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 2038
+    timeSpent: 2339
   - category: Writing
     name: Notion
     productivity: 2

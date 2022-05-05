@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-04T23:50:06Z'
+    type: PushEvent
   - date: '2022-05-04T22:17:39Z'
     type: PushEvent
   - date: '2022-05-04T22:03:27Z'
@@ -53,14 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T21:48:12Z'
     type: PushEvent
-  - date: '2022-05-04T21:47:53Z'
-    type: PushEvent
-  - date: '2022-05-04T21:47:42Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/js-jsonl/commits/9decf260b2668807a481cf271264635d2a7f8a0b
+    https://api.github.com/repos/leonzalion/latex-workflow/commits/4766cd0708253d60f9823189f762d6d556f30543
   repo:
-    url: https://api.github.com/repos/leonzalion/js-jsonl
-    name: leonzalion/js-jsonl
+    url: https://api.github.com/repos/leonzalion/latex-workflow
+    name: leonzalion/latex-workflow
