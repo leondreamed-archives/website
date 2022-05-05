@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T21:50:07Z'
     type: PushEvent
-  - date: '2022-05-04T21:50:01Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/cli-highlighter/commits/24a74da24e7369c6e832f0f3d484f7dfcd45120d
+    https://api.github.com/repos/leonzalion/liontypes/commits/2a01afd5de03d95db5e65d134e47fdbbd6e8b927
   repo:
-    url: https://api.github.com/repos/leonzalion/cli-highlighter
-    name: leonzalion/cli-highlighter
+    url: https://api.github.com/repos/leonzalion/liontypes
+    name: leonzalion/liontypes
