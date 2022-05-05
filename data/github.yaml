@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-05T13:59:45Z'
+    type: PushEvent
   - date: '2022-05-05T13:10:38Z'
     type: PushEvent
   - date: '2022-05-05T13:10:19Z'
@@ -43,14 +45,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T21:54:08Z'
     type: PushEvent
-  - date: '2022-05-04T21:53:35Z'
-    type: PushEvent
-  - date: '2022-05-04T21:53:16Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/rollup-plugin-deps-external/commits/da23c785e2b1b06a9a126e796df2e0b7782c290c
+    https://api.github.com/repos/leonzalion/succ-js/commits/5a756c2066d9a4e611ef6920a84ade8fd94e45ee
   repo:
-    url: https://api.github.com/repos/leonzalion/rollup-plugin-deps-external
-    name: leonzalion/rollup-plugin-deps-external
+    url: https://api.github.com/repos/leonzalion/succ-js
+    name: leonzalion/succ-js
