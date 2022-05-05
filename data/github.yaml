@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T21:48:35Z'
     type: PushEvent
-  - date: '2022-05-04T21:48:12Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/latex-workflow/commits/4766cd0708253d60f9823189f762d6d556f30543
+    https://api.github.com/repos/leonzalion/lion-architecture/commits/706e9cc52ad64a90c7cd6ee05b4a2206b634cd3e
   repo:
-    url: https://api.github.com/repos/leonzalion/latex-workflow
-    name: leonzalion/latex-workflow
+    url: https://api.github.com/repos/leonzalion/lion-architecture
+    name: leonzalion/lion-architecture
