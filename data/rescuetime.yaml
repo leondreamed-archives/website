@@ -2,15 +2,15 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3625
+    timeSpent: 4465
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1670
+    timeSpent: 3371
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1628
+    timeSpent: 2117
   - category: Email
     name: Gmail
     productivity: 0
