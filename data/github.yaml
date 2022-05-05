@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T22:17:39Z'
     type: PushEvent
-  - date: '2022-05-04T22:03:27Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: scripts'
+  message: 'chore: update timeblock'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-notify/commits/a1f4652fbd60197a7b12146ae1a54e1b2fc4b83d
+    https://api.github.com/repos/leonzalion/blog/commits/fae9c9eb12058882bf450bf6a051b2ed62b8b641
   repo:
-    url: https://api.github.com/repos/leonzalion/vue3-notify
-    name: leonzalion/vue3-notify
+    url: https://api.github.com/repos/leonzalion/blog
+    name: leonzalion/blog
