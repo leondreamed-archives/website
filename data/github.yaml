@@ -39,12 +39,10 @@ events:
     type: PushEvent
   - date: '2022-05-04T22:03:27Z'
     type: PushEvent
-  - date: '2022-05-04T22:02:09Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: 'fix: scripts'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/5ecff61167bf26fb65f1edf9a4f9159ed775bbb6
+    https://api.github.com/repos/leonzalion/vue3-notify/commits/a1f4652fbd60197a7b12146ae1a54e1b2fc4b83d
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/leonzalion/vue3-notify
+    name: leonzalion/vue3-notify
