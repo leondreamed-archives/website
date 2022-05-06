@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-06T20:12:23Z'
+    type: PushEvent
   - date: '2022-05-06T16:01:57Z'
     type: PushEvent
   - date: '2022-05-06T15:55:05Z'
@@ -31,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-05-05T22:11:22Z'
     type: IssuesEvent
-  - date: '2022-05-05T21:40:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update deps'
+  message: update
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/3ae492bc655377e74239725c9052b1d088d755bd
+    https://api.github.com/repos/leonzalion/blog/commits/af5efbef1c925a03db7cae62411bad4bbf99229b
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
