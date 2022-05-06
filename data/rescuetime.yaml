@@ -2,20 +2,20 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 4593
+    timeSpent: 5138
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3640
+    timeSpent: 3935
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2666
+    timeSpent: 3466
   - category: General Reference & Learning
     name: Preview
     productivity: 0
     timeSpent: 1007
-  - category: Email
-    name: Mail
+  - category: Uncategorized
+    name: google chrome beta
     productivity: 0
-    timeSpent: 780
+    timeSpent: 994
