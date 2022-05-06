@@ -1,59 +1,61 @@
-dailyAverage: 27797
-totalSeconds: 194581.090417
+dailyAverage: 25412
+totalSeconds: 177882.204289
 languages:
   - name: sh
-    totalSeconds: 57215.277249
+    totalSeconds: 62504.086596
   - name: TypeScript
-    totalSeconds: 53579.456462
+    totalSeconds: 48408.914404
   - name: Vue.js
-    totalSeconds: 49584.889112
+    totalSeconds: 30230.862199
   - name: Markdown
-    totalSeconds: 17961.514494
+    totalSeconds: 20605.891733
   - name: Other
-    totalSeconds: 9540.38011
+    totalSeconds: 9080.968999
   - name: JSON
-    totalSeconds: 7743.17207
+    totalSeconds: 8164.953501
   - name: JavaScript
-    totalSeconds: 2558.567057
+    totalSeconds: 3381.757232
   - name: Rust
     totalSeconds: 1811.584287
   - name: YAML
-    totalSeconds: 1236.976572
-  - name: GraphQL
-    totalSeconds: 977.582965
-  - name: SQL
-    totalSeconds: 818.343778
+    totalSeconds: 1235.653465
   - name: XML
     totalSeconds: 429.636254
+  - name: GraphQL
+    totalSeconds: 350.298568
   - name: HTML
-    totalSeconds: 331.394398
+    totalSeconds: 338.165574
   - name: Bash
-    totalSeconds: 106.303424
+    totalSeconds: 108.536041
+  - name: SQL
+    totalSeconds: 104.928502
   - name: Git Config
     totalSeconds: 102.716164
-  - name: CSS
-    totalSeconds: 66.000483
   - name: TOML
     totalSeconds: 52.703243
+  - name: CSS
+    totalSeconds: 46.544121
   - name: CSV
     totalSeconds: 5.362938
 projects:
-  - name: precommit
-    totalSeconds: 76661.680014
   - name: blog
-    totalSeconds: 39287.654415
+    totalSeconds: 47736.801994
+  - name: precommit
+    totalSeconds: 42742.847601
   - name: AdminControl
-    totalSeconds: 34495.367629
+    totalSeconds: 34489.989071
   - name: vue3-spinners
     totalSeconds: 11907.767847
   - name: leonzalion
-    totalSeconds: 7107.290793
+    totalSeconds: 10581.551358
+  - name: configs
+    totalSeconds: 4436.649713
   - name: shownotes
     totalSeconds: 4343.145477
   - name: get-secure-input-processes
     totalSeconds: 4143.843082
-  - name: configs
-    totalSeconds: 4002.827117
+  - name: create-project
+    totalSeconds: 3809.06749
   - name: phone-call-pass
     totalSeconds: 3507.118909
   - name: compile-vue-sfc
@@ -61,9 +63,9 @@ projects:
   - name: applescript-utils
     totalSeconds: 2349.465246
   - name: simple-vue-icon
-    totalSeconds: 2129.492622
-  - name: create-project
-    totalSeconds: 1880.335788
+    totalSeconds: 2056.91444
+  - name: discord-email-tunnel
+    totalSeconds: 1777.731368
   - name: vue3-notify
     totalSeconds: 1378.244754
   - name: ets
@@ -72,28 +74,32 @@ projects:
     totalSeconds: 1042.238168
   - name: a
     totalSeconds: 896.219695
-  - name: null-to-undefined
-    totalSeconds: 565.839981
   - name: leonzalion-google-workspace
-    totalSeconds: 507.499189
+    totalSeconds: 718.439392
+  - name: lion-system
+    totalSeconds: 662.503824
   - name: DefinitelyTyped
     totalSeconds: 434.788445
   - name: nanoid-nice
     totalSeconds: 411.009778
-  - name: lion-system
-    totalSeconds: 384.894903
   - name: yabai-master-stack-plugin
     totalSeconds: 376.636306
   - name: p-wait-for
     totalSeconds: 366.916289
   - name: Terminal
     totalSeconds: 335.132402
+  - name: project-scripts
+    totalSeconds: 296.815838
+  - name: plugins
+    totalSeconds: 226.302544
   - name: lion-git-hooks
     totalSeconds: 195.087796
+  - name: PureTwitter
+    totalSeconds: 192.390203
+  - name: rollup-plugin-typescript2
+    totalSeconds: 191.878262
   - name: timeblocker
     totalSeconds: 165.383437
-  - name: discord-email-tunnel
-    totalSeconds: 127.319583
   - name: apollo-server
     totalSeconds: 121.972004
   - name: lionp
@@ -102,12 +108,14 @@ projects:
     totalSeconds: 117.386141
   - name: monke
     totalSeconds: 86.372481
+  - name: .github
+    totalSeconds: 61.699858
+  - name: vpciclubs.com
+    totalSeconds: 54.50971
   - name: website
     totalSeconds: 45.589022
   - name: npm-binary
     totalSeconds: 44.799664
-  - name: vpciclubs.com
-    totalSeconds: 34.520371
   - name: latex-workflow
     totalSeconds: 32.810002
   - name: tmp-42579-sYLt6ZbtXToF
@@ -128,8 +136,6 @@ projects:
     totalSeconds: 15.925884
   - name: fprime
     totalSeconds: 14.517685
-  - name: rollup-plugin-bundle-esm
-    totalSeconds: 9.6675
   - name: PlaygroundSwift
     totalSeconds: 2.265606
   - name: mathtermind-solver
