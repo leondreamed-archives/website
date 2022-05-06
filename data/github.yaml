@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-06T16:01:57Z'
+    type: PushEvent
   - date: '2022-05-06T15:55:05Z'
     type: PushEvent
   - date: '2022-05-06T14:37:51Z'
@@ -37,14 +39,10 @@ events:
     type: ReleaseEvent
   - date: '2022-05-05T21:37:30Z'
     type: PushEvent
-  - date: '2022-05-05T21:36:56Z'
-    type: PushEvent
-  - date: '2022-05-05T21:35:44Z'
-    type: PushEvent
 latestCommit:
-  message: 'test: add test for duilpcate header'
+  message: 1.4.6
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/47f9b161d4b1d71745b21e690a337c1c53ff89e9
+    https://api.github.com/repos/leonzalion/configs/commits/367de747b4ecfb9109d973eee27cd99cbd82ade2
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
