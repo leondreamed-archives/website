@@ -37,12 +37,10 @@ events:
     type: CreateEvent
   - date: '2022-05-05T21:37:32Z'
     type: ReleaseEvent
-  - date: '2022-05-05T21:37:30Z'
-    type: PushEvent
 latestCommit:
-  message: 1.4.6
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/367de747b4ecfb9109d973eee27cd99cbd82ade2
+    https://api.github.com/repos/leonzalion/blog/commits/3ae492bc655377e74239725c9052b1d088d755bd
   repo:
-    url: https://api.github.com/repos/leonzalion/configs
-    name: leonzalion/configs
+    url: https://api.github.com/repos/leonzalion/blog
+    name: leonzalion/blog
