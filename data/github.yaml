@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-05-05T20:40:01Z'
     type: PushEvent
-  - date: '2022-05-05T20:40:01Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: fix script'
   url: >-
-    https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt/commits/95dc19a4399766d3b969af0b9c1918e6d02cac8f
+    https://api.github.com/repos/leonzalion/parse-applescript/commits/1044a78f873c542d47c4f94a904b1bcfcd99b092
   repo:
-    url: https://api.github.com/repos/leonzalion/inquirer-super-checkbox-prompt
-    name: leonzalion/inquirer-super-checkbox-prompt
+    url: https://api.github.com/repos/leonzalion/parse-applescript
+    name: leonzalion/parse-applescript
