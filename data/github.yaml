@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-06T14:37:51Z'
+    type: PushEvent
   - date: '2022-05-06T12:01:09Z'
     type: PushEvent
   - date: '2022-05-06T11:54:43Z'
@@ -41,14 +43,10 @@ events:
     type: PushEvent
   - date: '2022-05-05T21:33:31Z'
     type: WatchEvent
-  - date: '2022-05-05T21:33:06Z'
-    type: PushEvent
-  - date: '2022-05-05T21:31:53Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: apple mail bug'
+  message: 'fix: disable no-dulpicate header'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/54eba145be1a5d84ec0ba5cd0930caebbe1eabec
+    https://api.github.com/repos/leonzalion/configs/commits/c94ffc3475d298af1cf68c74dda9e0123bfd8e02
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
