@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1072
-  - category: Uncategorized
-    name: google chrome beta
-    productivity: 0
-    timeSpent: 864
+    timeSpent: 1621
   - category: General Business
     name: drive.google.com
     productivity: 2
-    timeSpent: 483
-  - category: Writing
-    name: Google Documents
+    timeSpent: 1112
+  - category: Uncategorized
+    name: google chrome beta
+    productivity: 0
+    timeSpent: 966
+  - category: General Reference & Learning
+    name: www3.dpcdsb.org
     productivity: 2
-    timeSpent: 261
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 238
+    timeSpent: 546
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 468

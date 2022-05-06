@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-06T15:55:05Z'
+    type: PushEvent
   - date: '2022-05-06T14:37:51Z'
     type: PushEvent
   - date: '2022-05-06T12:01:09Z'
@@ -39,14 +41,10 @@ events:
     type: PushEvent
   - date: '2022-05-05T21:35:44Z'
     type: PushEvent
-  - date: '2022-05-05T21:35:11Z'
-    type: PushEvent
-  - date: '2022-05-05T21:33:31Z'
-    type: WatchEvent
 latestCommit:
-  message: 'fix: disable no-dulpicate header'
+  message: 'test: add test for duilpcate header'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/c94ffc3475d298af1cf68c74dda9e0123bfd8e02
+    https://api.github.com/repos/leonzalion/configs/commits/47f9b161d4b1d71745b21e690a337c1c53ff89e9
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
