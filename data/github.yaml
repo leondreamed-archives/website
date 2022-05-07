@@ -53,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-05-07T18:31:18Z'
     type: PushEvent
-  - date: '2022-05-07T18:18:27Z'
-    type: PushEvent
 latestCommit:
-  message: update daily timeblock script
+  message: 'feat: netlify'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/7d593d82080bed51eb8ed89a5f491faa49008809
+    https://api.github.com/repos/leonzalion/blog/commits/8e4de555bf2c194e992b7bf10ff6369c3f900b73
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
