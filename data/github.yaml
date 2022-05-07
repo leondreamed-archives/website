@@ -27,12 +27,10 @@ events:
     type: PushEvent
   - date: '2022-05-06T00:55:39Z'
     type: PushEvent
-  - date: '2022-05-06T00:55:26Z'
-    type: PushEvent
 latestCommit:
   message: Update README.md
   url: >-
-    https://api.github.com/repos/ProjectPure/.github/commits/d26c44f26dc3e4e4e690a2585f9e7bbbc14c056c
+    https://api.github.com/repos/ProjectPure/.github/commits/53bcd1a6a52c8c51bbff7395d921d1bc61e19617
   repo:
     url: https://api.github.com/repos/ProjectPure/.github
     name: ProjectPure/.github
