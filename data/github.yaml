@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-05-07T11:43:25Z'
     type: PushEvent
-  - date: '2022-05-07T11:42:00Z'
-    type: PushEvent
 latestCommit:
-  message: '07'
+  message: upadet
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/e1e7b94882f1db3e3768d395bc87370eb616c654
+    https://api.github.com/repos/leonzalion/blog/commits/645eca71b3c068c45c9dda4757097ea69be453e0
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
