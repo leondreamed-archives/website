@@ -1,36 +1,36 @@
-dailyAverage: 25412
-totalSeconds: 177882.204289
+dailyAverage: 24588
+totalSeconds: 172112.913594
 languages:
   - name: sh
-    totalSeconds: 62504.086596
+    totalSeconds: 61380.196031
   - name: TypeScript
-    totalSeconds: 48408.914404
+    totalSeconds: 45689.936183
   - name: Vue.js
-    totalSeconds: 30230.862199
+    totalSeconds: 28169.916703
   - name: Markdown
-    totalSeconds: 20605.891733
+    totalSeconds: 21767.29606
   - name: Other
-    totalSeconds: 9080.968999
+    totalSeconds: 8815.772341
   - name: JSON
-    totalSeconds: 8164.953501
+    totalSeconds: 7733.203555
   - name: JavaScript
-    totalSeconds: 3381.757232
+    totalSeconds: 2972.059129
   - name: Rust
-    totalSeconds: 1811.584287
+    totalSeconds: 1798.241767
   - name: YAML
-    totalSeconds: 1235.653465
+    totalSeconds: 1192.738298
   - name: XML
     totalSeconds: 429.636254
-  - name: GraphQL
-    totalSeconds: 350.298568
   - name: HTML
     totalSeconds: 338.165574
+  - name: GraphQL
+    totalSeconds: 277.03658
   - name: Bash
     totalSeconds: 108.536041
   - name: SQL
-    totalSeconds: 104.928502
+    totalSeconds: 84.792326
   - name: Git Config
-    totalSeconds: 102.716164
+    totalSeconds: 66.939324
   - name: TOML
     totalSeconds: 52.703243
   - name: CSS
@@ -39,15 +39,15 @@ languages:
     totalSeconds: 5.362938
 projects:
   - name: blog
-    totalSeconds: 47736.801994
-  - name: precommit
-    totalSeconds: 42742.847601
+    totalSeconds: 59803.596721
   - name: AdminControl
-    totalSeconds: 34489.989071
+    totalSeconds: 31199.108888
+  - name: precommit
+    totalSeconds: 27033.139567
   - name: vue3-spinners
-    totalSeconds: 11907.767847
+    totalSeconds: 11141.063002
   - name: leonzalion
-    totalSeconds: 10581.551358
+    totalSeconds: 10614.958942
   - name: configs
     totalSeconds: 4436.649713
   - name: shownotes
@@ -56,32 +56,32 @@ projects:
     totalSeconds: 4143.843082
   - name: create-project
     totalSeconds: 3809.06749
-  - name: phone-call-pass
-    totalSeconds: 3507.118909
   - name: compile-vue-sfc
     totalSeconds: 3207.91561
+  - name: phone-call-pass
+    totalSeconds: 3167.43336
+  - name: discord-email-tunnel
+    totalSeconds: 2436.24589
   - name: applescript-utils
     totalSeconds: 2349.465246
   - name: simple-vue-icon
     totalSeconds: 2056.91444
-  - name: discord-email-tunnel
-    totalSeconds: 1777.731368
   - name: vue3-notify
     totalSeconds: 1378.244754
+  - name: leonzalion-google-workspace
+    totalSeconds: 1271.375934
   - name: ets
     totalSeconds: 1071.383776
   - name: phone-call-input
     totalSeconds: 1042.238168
+  - name: kevins-playground
+    totalSeconds: 1039.138642
   - name: a
     totalSeconds: 896.219695
-  - name: leonzalion-google-workspace
-    totalSeconds: 718.439392
   - name: lion-system
     totalSeconds: 662.503824
   - name: DefinitelyTyped
     totalSeconds: 434.788445
-  - name: nanoid-nice
-    totalSeconds: 411.009778
   - name: yabai-master-stack-plugin
     totalSeconds: 376.636306
   - name: p-wait-for
@@ -92,20 +92,22 @@ projects:
     totalSeconds: 296.815838
   - name: plugins
     totalSeconds: 226.302544
+  - name: timeblocker
+    totalSeconds: 206.911935
   - name: lion-git-hooks
     totalSeconds: 195.087796
   - name: PureTwitter
     totalSeconds: 192.390203
   - name: rollup-plugin-typescript2
     totalSeconds: 191.878262
-  - name: timeblocker
-    totalSeconds: 165.383437
   - name: apollo-server
     totalSeconds: 121.972004
   - name: lionp
     totalSeconds: 119.086922
   - name: cli-highlighter
     totalSeconds: 117.386141
+  - name: markdown-it-emoji
+    totalSeconds: 91.180521
   - name: monke
     totalSeconds: 86.372481
   - name: .github
