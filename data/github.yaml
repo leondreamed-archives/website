@@ -55,12 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-07T18:18:27Z'
     type: PushEvent
-  - date: '2022-05-07T18:07:18Z'
-    type: PushEvent
 latestCommit:
-  message: upadte
+  message: update daily timeblock script
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/17aca3e94dbcba51261d1b46042e9fb56aefccb6
+    https://api.github.com/repos/leonzalion/blog/commits/7d593d82080bed51eb8ed89a5f491faa49008809
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
