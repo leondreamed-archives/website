@@ -1,4 +1,20 @@
 events:
+  - date: '2022-05-08T17:57:22Z'
+    type: CreateEvent
+  - date: '2022-05-08T17:57:22Z'
+    type: ReleaseEvent
+  - date: '2022-05-08T17:57:15Z'
+    type: PushEvent
+  - date: '2022-05-08T17:56:53Z'
+    type: PushEvent
+  - date: '2022-05-08T17:56:02Z'
+    type: ReleaseEvent
+  - date: '2022-05-08T17:56:02Z'
+    type: CreateEvent
+  - date: '2022-05-08T17:55:56Z'
+    type: PushEvent
+  - date: '2022-05-08T17:55:31Z'
+    type: PushEvent
   - date: '2022-05-08T15:13:37Z'
     type: PushEvent
   - date: '2022-05-08T15:12:49Z'
@@ -29,26 +45,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T02:34:01Z'
     type: PushEvent
-  - date: '2022-05-08T02:31:43Z'
-    type: PushEvent
-  - date: '2022-05-08T02:09:47Z'
-    type: PushEvent
-  - date: '2022-05-08T02:06:06Z'
-    type: PushEvent
-  - date: '2022-05-08T02:05:38Z'
-    type: PushEvent
-  - date: '2022-05-08T01:43:52Z'
-    type: PushEvent
-  - date: '2022-05-08T01:40:41Z'
-    type: PushEvent
-  - date: '2022-05-08T01:16:24Z'
-    type: PushEvent
-  - date: '2022-05-08T01:14:05Z'
-    type: PushEvent
 latestCommit:
-  message: update
+  message: 'fix: script'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/01e405b0f0a0d5135f2648f8e9c7beb4661589be
+    https://api.github.com/repos/leonzalion/blog/commits/ff226b822d87f05eb63985f2d32916138bd1ebc4
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
