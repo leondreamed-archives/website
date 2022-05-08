@@ -1,4 +1,24 @@
 events:
+  - date: '2022-05-08T00:01:11Z'
+    type: PushEvent
+  - date: '2022-05-08T00:00:49Z'
+    type: PushEvent
+  - date: '2022-05-07T23:56:22Z'
+    type: CreateEvent
+  - date: '2022-05-07T23:56:10Z'
+    type: CreateEvent
+  - date: '2022-05-07T23:52:40Z'
+    type: PushEvent
+  - date: '2022-05-07T23:52:19Z'
+    type: PushEvent
+  - date: '2022-05-07T23:47:41Z'
+    type: CreateEvent
+  - date: '2022-05-07T23:47:41Z'
+    type: ReleaseEvent
+  - date: '2022-05-07T23:47:37Z'
+    type: PushEvent
+  - date: '2022-05-07T23:47:17Z'
+    type: PushEvent
   - date: '2022-05-07T19:37:20Z'
     type: PushEvent
   - date: '2022-05-07T19:27:21Z'
@@ -29,32 +49,10 @@ events:
     type: PushEvent
   - date: '2022-05-07T19:01:02Z'
     type: PushEvent
-  - date: '2022-05-07T18:58:34Z'
-    type: ReleaseEvent
-  - date: '2022-05-07T18:58:34Z'
-    type: CreateEvent
-  - date: '2022-05-07T18:58:30Z'
-    type: PushEvent
-  - date: '2022-05-07T18:57:57Z'
-    type: PushEvent
-  - date: '2022-05-07T18:47:07Z'
-    type: CreateEvent
-  - date: '2022-05-07T18:47:07Z'
-    type: ReleaseEvent
-  - date: '2022-05-07T18:46:52Z'
-    type: PushEvent
-  - date: '2022-05-07T18:46:14Z'
-    type: PushEvent
-  - date: '2022-05-07T18:41:23Z'
-    type: PushEvent
-  - date: '2022-05-07T18:39:11Z'
-    type: PushEvent
-  - date: '2022-05-07T18:36:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: spinner'
+  message: 'fix: configs'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/7fdcbef2bd9af76b8ef230e5943603a27e0fd42b
+    https://api.github.com/repos/leonzalion/configs/commits/5e140ca9a6757cbe20837594325bc3c70d3d86fd
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
