@@ -49,12 +49,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T00:21:59Z'
     type: PushEvent
-  - date: '2022-05-08T00:04:32Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.2
+  message: 'feat: do not exit with 1'
   url: >-
-    https://api.github.com/repos/leonzalion/run-if-env/commits/0be3c7e893718818174639ab231a8e7e5fc8e73f
+    https://api.github.com/repos/leonzalion/run-if-env/commits/75ce4b16883295bc1e9fcbf352b59acd2bde886e
   repo:
     url: https://api.github.com/repos/leonzalion/run-if-env
     name: leonzalion/run-if-env

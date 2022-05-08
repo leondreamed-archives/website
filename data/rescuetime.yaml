@@ -1,21 +1,21 @@
 topActivities:
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 1006
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 749
+    timeSpent: 1207
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 1039
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 639
+    timeSpent: 799
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 456
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 265
+    timeSpent: 464
+  - category: Electronics
+    name: secure4.store.apple.com
+    productivity: -2
+    timeSpent: 435
