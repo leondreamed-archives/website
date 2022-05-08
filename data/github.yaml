@@ -51,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T00:04:32Z'
     type: PushEvent
-  - date: '2022-05-08T00:04:12Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: rootdir'
+  message: 0.0.2
   url: >-
-    https://api.github.com/repos/leonzalion/run-if-env/commits/ab59473cf46dbb313d65c98f1f4b9efb06235425
+    https://api.github.com/repos/leonzalion/run-if-env/commits/0be3c7e893718818174639ab231a8e7e5fc8e73f
   repo:
     url: https://api.github.com/repos/leonzalion/run-if-env
     name: leonzalion/run-if-env
