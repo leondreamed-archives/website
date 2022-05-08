@@ -43,12 +43,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T02:35:53Z'
     type: PushEvent
-  - date: '2022-05-08T02:34:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: script'
+  message: weekly plans
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/ff226b822d87f05eb63985f2d32916138bd1ebc4
+    https://api.github.com/repos/leonzalion/blog/commits/2dd4529e60f2425961499682f8ca41a9f3d6c279
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
