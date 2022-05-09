@@ -35,12 +35,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T15:12:49Z'
     type: PushEvent
-  - date: '2022-05-08T15:11:40Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: lockfile'
+  message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/654c700495229b061179c7a90962d7ea9876b6ce
+    https://api.github.com/repos/leonzalion/blog/commits/166783ea8e9bcb801d5941c7d2582b09d14e8e9e
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog

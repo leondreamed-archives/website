@@ -1,38 +1,34 @@
-dailyAverage: 22303
-totalSeconds: 156120.179684
+dailyAverage: 19037
+totalSeconds: 133261.849275
 languages:
   - name: sh
-    totalSeconds: 56371.497143
-  - name: TypeScript
-    totalSeconds: 33618.345928
+    totalSeconds: 49170.820344
   - name: Markdown
-    totalSeconds: 31151.529846
+    totalSeconds: 32364.468671
+  - name: TypeScript
+    totalSeconds: 27023.681618
   - name: Vue.js
-    totalSeconds: 21032.794696
+    totalSeconds: 15461.44971
   - name: Other
-    totalSeconds: 10427.886363
+    totalSeconds: 6575.269247
   - name: JSON
-    totalSeconds: 9565.916666
+    totalSeconds: 5758.789604
   - name: JavaScript
-    totalSeconds: 2131.073621
+    totalSeconds: 1740.136778
   - name: YAML
-    totalSeconds: 732.417488
+    totalSeconds: 630.900053
   - name: XML
     totalSeconds: 474.507706
   - name: HTML
-    totalSeconds: 353.021448
-  - name: GraphQL
-    totalSeconds: 277.03658
+    totalSeconds: 361.165016
   - name: Docker
     totalSeconds: 116.675186
-  - name: SQL
-    totalSeconds: 84.792326
-  - name: Bash
-    totalSeconds: 70.010941
-  - name: Git Config
-    totalSeconds: 53.195215
   - name: CSS
     totalSeconds: 46.544121
+  - name: Git Config
+    totalSeconds: 46.060716
+  - name: Bash
+    totalSeconds: 25.828979
   - name: Python
     totalSeconds: 22.12147
   - name: TOML
@@ -41,25 +37,21 @@ languages:
     totalSeconds: 5.362938
 projects:
   - name: blog
-    totalSeconds: 74367.343308
+    totalSeconds: 81904.152079
   - name: precommit
-    totalSeconds: 36399.957226
+    totalSeconds: 9804.525406
   - name: AdminControl
-    totalSeconds: 11954.218366
+    totalSeconds: 9030.404701
+  - name: leonzalion
+    totalSeconds: 8879.167775
   - name: create-project
     totalSeconds: 8372.829837
-  - name: leonzalion
-    totalSeconds: 8234.146894
   - name: configs
-    totalSeconds: 5086.266583
-  - name: shownotes
-    totalSeconds: 4343.145477
+    totalSeconds: 4885.740041
   - name: discord-email-tunnel
-    totalSeconds: 2771.72319
+    totalSeconds: 2721.365021
   - name: simple-vue-icon
     totalSeconds: 2056.91444
-  - name: applescript-utils
-    totalSeconds: 1621.220168
   - name: run-if-env
     totalSeconds: 1597.006728
   - name: leonzalion-google-workspace
@@ -70,20 +62,22 @@ projects:
     totalSeconds: 1071.383776
   - name: kevins-playground
     totalSeconds: 1039.138642
+  - name: shownotes
+    totalSeconds: 946.175555
   - name: projectpure-node-proxy
     totalSeconds: 887.135074
+  - name: .github
+    totalSeconds: 867.372364
   - name: lion-system
-    totalSeconds: 770.087299
-  - name: compile-vue-sfc
-    totalSeconds: 502.407355
+    totalSeconds: 457.989687
   - name: vue3-notify
     totalSeconds: 412.367214
   - name: project-scripts
     totalSeconds: 296.815838
   - name: plugins
     totalSeconds: 226.302544
-  - name: timeblocker
-    totalSeconds: 206.911935
+  - name: vitest-mock-process
+    totalSeconds: 225.772209
   - name: lion-git-hooks
     totalSeconds: 195.087796
   - name: PureTwitter
@@ -92,30 +86,26 @@ projects:
     totalSeconds: 191.878262
   - name: tabulo
     totalSeconds: 142.201861
-  - name: phone-call-input
-    totalSeconds: 128.786984
-  - name: apollo-server
-    totalSeconds: 121.972004
+  - name: applescript-utils
+    totalSeconds: 140.822911
   - name: lionp
     totalSeconds: 119.086922
   - name: cli-highlighter
     totalSeconds: 117.386141
-  - name: vue3-spinners
-    totalSeconds: 97.004503
   - name: markdown-it-emoji
     totalSeconds: 91.180521
-  - name: monke
-    totalSeconds: 86.372481
-  - name: .github
-    totalSeconds: 61.699858
+  - name: vite-plugin-md
+    totalSeconds: 80.613651
   - name: vpciclubs.com
     totalSeconds: 54.50971
+  - name: vue3-spinners
+    totalSeconds: 52.241949
   - name: get-secure-input-processes
     totalSeconds: 51.077014
+  - name: timeblocker
+    totalSeconds: 45.523455
   - name: npm-binary
     totalSeconds: 44.799664
-  - name: tmp-42579-sYLt6ZbtXToF
-    totalSeconds: 31.71436
   - name: jsx-test
     totalSeconds: 30.570213
   - name: reactive-emails
@@ -124,12 +114,16 @@ projects:
     totalSeconds: 30.044818
   - name: assets
     totalSeconds: 25.25224
+  - name: compile-vue-sfc
+    totalSeconds: 21.18841
   - name: vue-ref-eslint-bug
     totalSeconds: 20.523863
   - name: sigfig
     totalSeconds: 15.925884
   - name: fprime
     totalSeconds: 14.517685
+  - name: phone-call-input
+    totalSeconds: 10.975252
   - name: website
     totalSeconds: 7.658064
   - name: a
