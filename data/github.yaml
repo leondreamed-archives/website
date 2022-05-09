@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-09T22:00:54Z'
+    type: PushEvent
   - date: '2022-05-09T20:25:12Z'
     type: PushEvent
   - date: '2022-05-09T20:23:51Z'
@@ -49,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-05-09T18:39:00Z'
     type: WatchEvent
-  - date: '2022-05-09T18:32:38Z'
-    type: PushEvent
 latestCommit:
-  message: may 9
+  message: 'feat: more plugins'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/75a1e06582b23c380edd4404cfc86b9681cfc090
+    https://api.github.com/repos/leonzalion/configs/commits/9f0a293f884208154e6e47ce02e5cafe75236003
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/configs
+    name: leonzalion/configs
