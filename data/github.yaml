@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-09T16:52:26Z'
+    type: CreateEvent
+  - date: '2022-05-09T16:48:51Z'
+    type: PushEvent
+  - date: '2022-05-09T16:47:20Z'
+    type: PushEvent
   - date: '2022-05-09T03:19:58Z'
     type: PushEvent
   - date: '2022-05-08T22:56:57Z'
@@ -25,16 +31,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T17:56:02Z'
     type: ReleaseEvent
-  - date: '2022-05-08T17:56:02Z'
-    type: CreateEvent
-  - date: '2022-05-08T17:55:56Z'
-    type: PushEvent
-  - date: '2022-05-08T17:55:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove unused dep'
+  message: 'chore: remove other unused dep'
   url: >-
-    https://api.github.com/repos/leonzalion/vitest-mock-process/commits/1a71643e1a9daebe4774059b9348c5030b74f2af
+    https://api.github.com/repos/leonzalion/vitest-mock-process/commits/b17ccb6e9e67fc775fa0a4dbe23e826b068313e9
   repo:
     url: https://api.github.com/repos/leonzalion/vitest-mock-process
     name: leonzalion/vitest-mock-process
