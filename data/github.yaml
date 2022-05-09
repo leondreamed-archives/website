@@ -37,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T15:10:40Z'
     type: PushEvent
-  - date: '2022-05-08T11:32:38Z'
-    type: PushEvent
 latestCommit:
-  message: i
+  message: 'feat: new fetcher'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/e4e8733b99a2770711a01fdf1d80519cb5fb6e85
+    https://api.github.com/repos/leonzalion/blog/commits/5412aa949275e39bb64dc6e3bc13f5cd0adff042
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
