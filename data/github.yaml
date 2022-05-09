@@ -51,12 +51,10 @@ events:
     type: WatchEvent
   - date: '2022-05-09T18:32:38Z'
     type: PushEvent
-  - date: '2022-05-09T17:18:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: pseudo-monorepo'
+  message: may 9
   url: >-
-    https://api.github.com/repos/BetterChatApp/BetterChat/commits/67cb1a404152af2c51d90d550fa3040becae1309
+    https://api.github.com/repos/leonzalion/blog/commits/75a1e06582b23c380edd4404cfc86b9681cfc090
   repo:
-    url: https://api.github.com/repos/BetterChatApp/BetterChat
-    name: BetterChatApp/BetterChat
+    url: https://api.github.com/repos/leonzalion/blog
+    name: leonzalion/blog
