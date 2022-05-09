@@ -2,20 +2,20 @@ topActivities:
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 2366
+    timeSpent: 4455
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 302
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 216
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 114
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 101
-  - category: General Reference & Learning
-    name: en.wikipedia.org
-    productivity: 2
-    timeSpent: 75
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 58
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 58
