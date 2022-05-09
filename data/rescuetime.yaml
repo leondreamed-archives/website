@@ -1,21 +1,21 @@
 topActivities:
-  - category: Email
-    name: Mail
-    productivity: 0
-    timeSpent: 4704
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2828
+    timeSpent: 4892
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 4720
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 522
+    timeSpent: 1135
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 478
-  - category: Uncategorized
-    name: webrtc.org
+    timeSpent: 1048
+  - category: Browsers
+    name: Safari
     productivity: 0
-    timeSpent: 113
+    timeSpent: 163
