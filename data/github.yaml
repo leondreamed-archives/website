@@ -33,12 +33,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T15:13:37Z'
     type: PushEvent
-  - date: '2022-05-08T15:12:49Z'
-    type: PushEvent
 latestCommit:
   message: 'fix: bug'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/166783ea8e9bcb801d5941c7d2582b09d14e8e9e
+    https://api.github.com/repos/leonzalion/blog/commits/180b3938b20d8c1e55ae46e5659fd1503c8ce09b
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
