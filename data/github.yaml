@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-09T03:19:58Z'
+    type: PushEvent
   - date: '2022-05-08T22:56:57Z'
     type: PushEvent
   - date: '2022-05-08T20:45:43Z'
@@ -35,12 +37,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T15:11:40Z'
     type: PushEvent
-  - date: '2022-05-08T15:10:40Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: new fetcher'
+  message: 'chore: lockfile'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/5412aa949275e39bb64dc6e3bc13f5cd0adff042
+    https://api.github.com/repos/leonzalion/blog/commits/654c700495229b061179c7a90962d7ea9876b6ce
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog

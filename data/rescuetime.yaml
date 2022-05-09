@@ -3,14 +3,14 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 4470
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 2338
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 1959
-  - category: Email
-    name: Mail
-    productivity: 0
-    timeSpent: 1718
   - category: Browsers
     name: Safari
     productivity: 0
