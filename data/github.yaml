@@ -31,12 +31,10 @@ events:
     type: PushEvent
   - date: '2022-05-08T17:55:31Z'
     type: PushEvent
-  - date: '2022-05-08T15:13:37Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bug'
+  message: 'chore: remove unused dep'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/180b3938b20d8c1e55ae46e5659fd1503c8ce09b
+    https://api.github.com/repos/leonzalion/vitest-mock-process/commits/1a71643e1a9daebe4774059b9348c5030b74f2af
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/vitest-mock-process
+    name: leonzalion/vitest-mock-process
