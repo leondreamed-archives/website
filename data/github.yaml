@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-10T19:59:44Z'
+    type: PushEvent
   - date: '2022-05-10T18:16:26Z'
     type: PushEvent
   - date: '2022-05-10T18:15:46Z'
@@ -55,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-10T15:37:23Z'
     type: PushEvent
-  - date: '2022-05-10T15:25:52Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.19
+  message: 'refactor: tell process'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/72f900cc72a642f3071280a1eaa26c0101350fd4
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/bf12d36c120d192250c6567a5e1d48c9b004dac5
   repo:
     url: https://api.github.com/repos/leonzalion/applescript-utils
     name: leonzalion/applescript-utils
