@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-10T02:22:48Z'
+    type: PushEvent
+  - date: '2022-05-10T02:20:24Z'
+    type: PushEvent
+  - date: '2022-05-10T01:59:08Z'
+    type: PushEvent
   - date: '2022-05-10T01:03:46Z'
     type: PushEvent
   - date: '2022-05-10T01:03:03Z'
@@ -43,16 +49,10 @@ events:
     type: PushEvent
   - date: '2022-05-09T20:07:40Z'
     type: PushEvent
-  - date: '2022-05-09T20:07:07Z'
-    type: PushEvent
-  - date: '2022-05-09T19:46:36Z'
-    type: PushEvent
-  - date: '2022-05-09T19:45:03Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: stdio inherit'
+  message: 'fix: gitignore'
   url: >-
-    https://api.github.com/repos/BetterChatApp/BetterChat/commits/4aba08a6c5c48a0c414ece17711ba7c7a4811483
+    https://api.github.com/repos/BetterChatApp/BetterChat/commits/0a512dc8f4515c3285edcd0d24aff74b4166fbac
   repo:
     url: https://api.github.com/repos/BetterChatApp/BetterChat
     name: BetterChatApp/BetterChat
