@@ -1,4 +1,30 @@
 events:
+  - date: '2022-05-10T15:25:52Z'
+    type: PushEvent
+  - date: '2022-05-10T15:25:55Z'
+    type: CreateEvent
+  - date: '2022-05-10T15:25:55Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T15:25:32Z'
+    type: PushEvent
+  - date: '2022-05-10T15:17:31Z'
+    type: CreateEvent
+  - date: '2022-05-10T15:17:30Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T15:17:27Z'
+    type: PushEvent
+  - date: '2022-05-10T15:16:03Z'
+    type: PushEvent
+  - date: '2022-05-10T15:15:44Z'
+    type: PushEvent
+  - date: '2022-05-10T15:03:30Z'
+    type: CreateEvent
+  - date: '2022-05-10T15:03:30Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T15:03:27Z'
+    type: PushEvent
+  - date: '2022-05-10T15:03:06Z'
+    type: PushEvent
   - date: '2022-05-10T14:58:10Z'
     type: ReleaseEvent
   - date: '2022-05-10T14:58:10Z'
@@ -31,36 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-10T14:51:16Z'
     type: PushEvent
-  - date: '2022-05-10T14:47:14Z'
-    type: PushEvent
-  - date: '2022-05-10T14:31:42Z'
-    type: ReleaseEvent
-  - date: '2022-05-10T14:31:42Z'
-    type: CreateEvent
-  - date: '2022-05-10T14:31:40Z'
-    type: PushEvent
-  - date: '2022-05-10T14:31:19Z'
-    type: PushEvent
-  - date: '2022-05-10T14:28:47Z'
-    type: CreateEvent
-  - date: '2022-05-10T14:28:47Z'
-    type: ReleaseEvent
-  - date: '2022-05-10T14:28:43Z'
-    type: PushEvent
-  - date: '2022-05-10T14:28:19Z'
-    type: PushEvent
-  - date: '2022-05-10T14:22:26Z'
-    type: CreateEvent
-  - date: '2022-05-10T14:22:26Z'
-    type: ReleaseEvent
-  - date: '2022-05-10T14:22:23Z'
-    type: PushEvent
-  - date: '2022-05-10T14:22:02Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: baseElement property'
+  message: 'fix: parsing complex objects'
   url: >-
-    https://api.github.com/repos/leonzalion/applescript-utils/commits/1f6bb7aeab267ee174903149723af4ecbcca37bc
+    https://api.github.com/repos/leonzalion/parse-applescript/commits/9737f888e3850d61588deed270a0c74826b9420c
   repo:
-    url: https://api.github.com/repos/leonzalion/applescript-utils
-    name: leonzalion/applescript-utils
+    url: https://api.github.com/repos/leonzalion/parse-applescript
+    name: leonzalion/parse-applescript
