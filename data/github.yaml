@@ -1,4 +1,26 @@
 events:
+  - date: '2022-05-10T17:37:58Z'
+    type: ForkEvent
+  - date: '2022-05-10T16:43:14Z'
+    type: PublicEvent
+  - date: '2022-05-10T16:27:30Z'
+    type: PushEvent
+  - date: '2022-05-10T16:16:24Z'
+    type: PushEvent
+  - date: '2022-05-10T16:15:28Z'
+    type: PushEvent
+  - date: '2022-05-10T16:12:41Z'
+    type: PushEvent
+  - date: '2022-05-10T15:56:41Z'
+    type: PushEvent
+  - date: '2022-05-10T15:51:59Z'
+    type: PushEvent
+  - date: '2022-05-10T15:48:40Z'
+    type: PushEvent
+  - date: '2022-05-10T15:38:58Z'
+    type: PushEvent
+  - date: '2022-05-10T15:37:23Z'
+    type: PushEvent
   - date: '2022-05-10T15:25:52Z'
     type: PushEvent
   - date: '2022-05-10T15:25:55Z'
@@ -33,34 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-10T14:57:46Z'
     type: PushEvent
-  - date: '2022-05-10T14:57:16Z'
-    type: PushEvent
-  - date: '2022-05-10T14:56:55Z'
-    type: PushEvent
-  - date: '2022-05-10T14:53:44Z'
-    type: ReleaseEvent
-  - date: '2022-05-10T14:53:44Z'
-    type: CreateEvent
-  - date: '2022-05-10T14:53:39Z'
-    type: PushEvent
-  - date: '2022-05-10T14:53:19Z'
-    type: PushEvent
-  - date: '2022-05-10T14:52:59Z'
-    type: PushEvent
-  - date: '2022-05-10T14:52:21Z'
-    type: ReleaseEvent
-  - date: '2022-05-10T14:52:21Z'
-    type: CreateEvent
-  - date: '2022-05-10T14:52:16Z'
-    type: PushEvent
-  - date: '2022-05-10T14:51:42Z'
-    type: PushEvent
-  - date: '2022-05-10T14:51:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: parsing complex objects'
+  message: 'feat: make matcher async'
   url: >-
-    https://api.github.com/repos/leonzalion/parse-applescript/commits/9737f888e3850d61588deed270a0c74826b9420c
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/424bdf54d553aac942cc546d2853fa9bb199b4bd
   repo:
-    url: https://api.github.com/repos/leonzalion/parse-applescript
-    name: leonzalion/parse-applescript
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
