@@ -1,60 +1,66 @@
 events:
-  - date: '2022-05-10T13:45:57Z'
-    type: PushEvent
-  - date: '2022-05-10T13:38:07Z'
-    type: CreateEvent
-  - date: '2022-05-10T13:38:07Z'
+  - date: '2022-05-10T14:58:10Z'
     type: ReleaseEvent
-  - date: '2022-05-10T13:38:04Z'
-    type: PushEvent
-  - date: '2022-05-10T13:37:26Z'
-    type: PushEvent
-  - date: '2022-05-10T13:33:14Z'
+  - date: '2022-05-10T14:58:10Z'
     type: CreateEvent
-  - date: '2022-05-10T13:33:14Z'
+  - date: '2022-05-10T14:58:06Z'
+    type: PushEvent
+  - date: '2022-05-10T14:57:46Z'
+    type: PushEvent
+  - date: '2022-05-10T14:57:16Z'
+    type: PushEvent
+  - date: '2022-05-10T14:56:55Z'
+    type: PushEvent
+  - date: '2022-05-10T14:53:44Z'
     type: ReleaseEvent
-  - date: '2022-05-10T13:33:06Z'
+  - date: '2022-05-10T14:53:44Z'
+    type: CreateEvent
+  - date: '2022-05-10T14:53:39Z'
     type: PushEvent
-  - date: '2022-05-10T13:32:42Z'
+  - date: '2022-05-10T14:53:19Z'
     type: PushEvent
-  - date: '2022-05-10T13:09:04Z'
+  - date: '2022-05-10T14:52:59Z'
     type: PushEvent
-  - date: '2022-05-10T13:08:40Z'
+  - date: '2022-05-10T14:52:21Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T14:52:21Z'
+    type: CreateEvent
+  - date: '2022-05-10T14:52:16Z'
     type: PushEvent
-  - date: '2022-05-10T13:02:52Z'
+  - date: '2022-05-10T14:51:42Z'
     type: PushEvent
-  - date: '2022-05-10T12:56:57Z'
+  - date: '2022-05-10T14:51:16Z'
     type: PushEvent
-  - date: '2022-05-10T03:29:13Z'
+  - date: '2022-05-10T14:47:14Z'
     type: PushEvent
-  - date: '2022-05-10T03:26:48Z'
+  - date: '2022-05-10T14:31:42Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T14:31:42Z'
+    type: CreateEvent
+  - date: '2022-05-10T14:31:40Z'
     type: PushEvent
-  - date: '2022-05-10T03:22:16Z'
+  - date: '2022-05-10T14:31:19Z'
     type: PushEvent
-  - date: '2022-05-10T02:53:59Z'
+  - date: '2022-05-10T14:28:47Z'
+    type: CreateEvent
+  - date: '2022-05-10T14:28:47Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T14:28:43Z'
     type: PushEvent
-  - date: '2022-05-10T02:22:48Z'
+  - date: '2022-05-10T14:28:19Z'
     type: PushEvent
-  - date: '2022-05-10T02:20:24Z'
+  - date: '2022-05-10T14:22:26Z'
+    type: CreateEvent
+  - date: '2022-05-10T14:22:26Z'
+    type: ReleaseEvent
+  - date: '2022-05-10T14:22:23Z'
     type: PushEvent
-  - date: '2022-05-10T01:59:08Z'
-    type: PushEvent
-  - date: '2022-05-10T01:03:46Z'
-    type: PushEvent
-  - date: '2022-05-10T01:03:03Z'
-    type: PushEvent
-  - date: '2022-05-10T01:02:21Z'
-    type: PushEvent
-  - date: '2022-05-10T01:01:20Z'
-    type: PushEvent
-  - date: '2022-05-10T01:00:49Z'
-    type: PushEvent
-  - date: '2022-05-10T01:00:06Z'
+  - date: '2022-05-10T14:22:02Z'
     type: PushEvent
 latestCommit:
-  message: 'chore: lockfile'
+  message: 'feat: baseElement property'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/60987145fd95423d87ac211ca073e3696df08155
+    https://api.github.com/repos/leonzalion/applescript-utils/commits/1f6bb7aeab267ee174903149723af4ecbcca37bc
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/applescript-utils
+    name: leonzalion/applescript-utils
