@@ -1,13 +1,21 @@
 topActivities:
-  - category: Intelligence
-    name: RescueTime
+  - category: Editing & IDEs
+    name: Visual Studio Code
     productivity: 2
-    timeSpent: 11
+    timeSpent: 2611
   - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 426
+  - category: General Reference & Learning
+    name: Preview
+    productivity: 0
+    timeSpent: 103
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 39
+  - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 6
-  - category: Calendars
-    name: calendar
-    productivity: 0
-    timeSpent: 5
+    timeSpent: 23
