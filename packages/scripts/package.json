@@ -1,5 +1,5 @@
 {
-	"name": "website-scripts",
+	"name": "@leonzalion-website/scripts",
 	"type": "module",
 	"scripts": {
 		"update-composition-videos": "node-ts ./src/davinci/bin/update-composition-videos.ts",
