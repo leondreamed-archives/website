@@ -4,11 +4,8 @@
 		"src",
 		"typings",
 		"test",
-		"postcss.config.cjs",
-		"tailwind.config.cjs",
-		"vite.config.ts",
-		"jest.config.js",
 		".eslintrc.cjs",
-		"sync-index.config.cjs"
+		"vite.config.ts",
+		"windi.config.ts",
 	]
 }

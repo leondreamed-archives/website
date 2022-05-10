@@ -6,7 +6,5 @@
 		"test",
 		"scripts",
 		".eslintrc.cjs",
-		".markdownlint.js",
-		"jest.config.mjs"
 	]
 }
