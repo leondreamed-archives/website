@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-11T21:35:49Z'
+    type: PushEvent
+  - date: '2022-05-11T21:25:07Z'
+    type: PushEvent
+  - date: '2022-05-11T21:05:32Z'
+    type: PushEvent
   - date: '2022-05-11T20:47:38Z'
     type: PushEvent
   - date: '2022-05-11T17:57:19Z'
@@ -53,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T15:26:07Z'
     type: PushEvent
-  - date: '2022-05-11T15:07:45Z'
-    type: PushEvent
-  - date: '2022-05-11T14:35:42Z'
-    type: PushEvent
-  - date: '2022-05-11T14:33:18Z'
-    type: PushEvent
 latestCommit:
-  message: |-
-    update
-    [skip ci]
+  message: 'fix: inherit'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/11dc30ce5621eba70f3aedf62cbb223c5f375112
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/6572030fc7dcc1fac7e1aade6cd65cfbccae05b5
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
+    name: leonzalion/discord-email-tunnel
