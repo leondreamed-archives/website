@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-11T22:16:36Z'
+    type: PushEvent
   - date: '2022-05-11T21:35:49Z'
     type: PushEvent
   - date: '2022-05-11T21:25:07Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T15:27:36Z'
     type: PushEvent
-  - date: '2022-05-11T15:26:07Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: inherit'
+  message: 'fix: messages every 2 minutes'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/6572030fc7dcc1fac7e1aade6cd65cfbccae05b5
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/bc4d8c5fccee6b98c4a33048d5dd22d958da6841
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
