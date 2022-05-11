@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-11T17:57:19Z'
+    type: PushEvent
   - date: '2022-05-11T17:48:40Z'
     type: PushEvent
   - date: '2022-05-11T16:57:29Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T14:28:10Z'
     type: PushEvent
-  - date: '2022-05-11T14:27:51Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: env variable import'
+  message: 'fix: lint'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/8b96c43f5fadb049f7944b0defe237c883c208da
+    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/5fbb60cedfe1c546263691ead4199ff9bbc0b84c
   repo:
     url: https://api.github.com/repos/leonzalion/discord-email-tunnel
     name: leonzalion/discord-email-tunnel
