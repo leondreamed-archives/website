@@ -1,4 +1,22 @@
 events:
+  - date: '2022-05-11T12:47:22Z'
+    type: PushEvent
+  - date: '2022-05-11T12:45:48Z'
+    type: PushEvent
+  - date: '2022-05-11T12:39:23Z'
+    type: PushEvent
+  - date: '2022-05-11T12:38:17Z'
+    type: PushEvent
+  - date: '2022-05-11T12:27:42Z'
+    type: PushEvent
+  - date: '2022-05-11T12:04:47Z'
+    type: PushEvent
+  - date: '2022-05-11T12:03:42Z'
+    type: PushEvent
+  - date: '2022-05-11T12:01:10Z'
+    type: PushEvent
+  - date: '2022-05-11T11:36:53Z'
+    type: PushEvent
   - date: '2022-05-11T02:56:47Z'
     type: PushEvent
   - date: '2022-05-11T02:56:19Z'
@@ -41,28 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T01:56:01Z'
     type: CreateEvent
-  - date: '2022-05-11T01:56:00Z'
-    type: ReleaseEvent
-  - date: '2022-05-11T01:55:56Z'
-    type: PushEvent
-  - date: '2022-05-11T01:55:30Z'
-    type: PushEvent
-  - date: '2022-05-11T01:37:26Z'
-    type: PullRequestEvent
-  - date: '2022-05-11T01:37:15Z'
-    type: PushEvent
-  - date: '2022-05-11T01:36:20Z'
-    type: PushEvent
-  - date: '2022-05-11T01:34:10Z'
-    type: PullRequestEvent
-  - date: '2022-05-11T01:33:26Z'
-    type: PushEvent
-  - date: '2022-05-11T01:32:38Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: make just-zip-it types accept readonly arrays'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/just/commits/e29c25fe0548f3d9bc58b6b2c2caefb0ffc571fc
+    https://api.github.com/repos/leonzalion/vitest-mock-process/commits/ec128a0543d1284193a9a462aeb592f7303d6867
   repo:
-    url: https://api.github.com/repos/leonzalion/just
-    name: leonzalion/just
+    url: https://api.github.com/repos/leonzalion/vitest-mock-process
+    name: leonzalion/vitest-mock-process
