@@ -1,4 +1,14 @@
 events:
+  - date: '2022-05-11T02:56:47Z'
+    type: PushEvent
+  - date: '2022-05-11T02:56:19Z'
+    type: PushEvent
+  - date: '2022-05-11T02:55:52Z'
+    type: PushEvent
+  - date: '2022-05-11T02:40:10Z'
+    type: PushEvent
+  - date: '2022-05-11T02:38:45Z'
+    type: PushEvent
   - date: '2022-05-11T02:33:57Z'
     type: PushEvent
   - date: '2022-05-11T02:29:49Z'
@@ -49,20 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T01:32:38Z'
     type: PushEvent
-  - date: '2022-05-11T01:30:14Z'
-    type: PushEvent
-  - date: '2022-05-11T01:26:57Z'
-    type: PushEvent
-  - date: '2022-05-11T01:23:00Z'
-    type: ForkEvent
-  - date: '2022-05-11T01:08:28Z'
-    type: PushEvent
-  - date: '2022-05-11T01:06:25Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: use stringify-pretty-compact'
+  message: 'feat: make just-zip-it types accept readonly arrays'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/1694b1a59181b30ffaa08e3a4ed617292af7a0b8
+    https://api.github.com/repos/leonzalion/just/commits/e29c25fe0548f3d9bc58b6b2c2caefb0ffc571fc
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/just
+    name: leonzalion/just
