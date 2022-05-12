@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1083
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 292
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 213
   - category: Email
     name: Mail
     productivity: 0
     timeSpent: 211
-  - category: Browsers
-    name: Safari
+  - category: Calendars
+    name: cold turkey blocker
     productivity: 0
-    timeSpent: 36
-  - category: Browsers
-    name: brave browser
-    productivity: 0
-    timeSpent: 6
-  - category: General Software Development
-    name: raw.githubusercontent.com
-    productivity: 2
-    timeSpent: 2
+    timeSpent: 185
