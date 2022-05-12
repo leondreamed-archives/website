@@ -2,20 +2,20 @@ topActivities:
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 10372
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 8924
+    timeSpent: 10460
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 8644
+    timeSpent: 10275
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 9246
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3074
-  - category: General Utilities
-    name: System Preferences
-    productivity: 1
-    timeSpent: 814
+    timeSpent: 3278
+  - category: Uncategorized
+    name: netlifycms.org
+    productivity: 0
+    timeSpent: 946
