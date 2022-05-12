@@ -1,36 +1,36 @@
-dailyAverage: 22508
-totalSeconds: 157554.028035
+dailyAverage: 25447
+totalSeconds: 178129.987239
 languages:
   - name: sh
-    totalSeconds: 57140.215379
+    totalSeconds: 72352.940034
   - name: TypeScript
-    totalSeconds: 43298.044195
+    totalSeconds: 48765.876759
   - name: Markdown
-    totalSeconds: 33595.850188
+    totalSeconds: 28267.351601
   - name: Vue.js
-    totalSeconds: 11002.960459
+    totalSeconds: 11115.779032
   - name: JSON
-    totalSeconds: 6792.788284
+    totalSeconds: 8298.206491
   - name: Other
-    totalSeconds: 5528.940845
+    totalSeconds: 4903.898235
   - name: JavaScript
-    totalSeconds: 4692.829069
+    totalSeconds: 4816.375584
   - name: YAML
-    totalSeconds: 589.335899
+    totalSeconds: 2900.969651
+  - name: Docker
+    totalSeconds: 718.656718
+  - name: HTML
+    totalSeconds: 409.151895
+  - name: Bash
+    totalSeconds: 217.187416
   - name: Git Config
     totalSeconds: 161.270501
-  - name: Docker
-    totalSeconds: 116.675186
-  - name: HTML
-    totalSeconds: 62.206678
   - name: XML
     totalSeconds: 44.871452
   - name: Python
     totalSeconds: 35.257364
   - name: TOML
-    totalSeconds: 13.726898
-  - name: Bash
-    totalSeconds: 5.258849
+    totalSeconds: 23.355107
   - name: Objective-C
     totalSeconds: 1.784319
   - name: Text
@@ -39,29 +39,33 @@ languages:
     totalSeconds: 0.41051
 projects:
   - name: blog
-    totalSeconds: 75904.435791
+    totalSeconds: 76233.579987
   - name: leonzalion
-    totalSeconds: 19050.371068
+    totalSeconds: 23965.672299
+  - name: discord-email-tunnel
+    totalSeconds: 16507.217549
   - name: BetterChat
     totalSeconds: 13111.082826
   - name: precommit
-    totalSeconds: 9814.999757
+    totalSeconds: 10468.848901
   - name: print-double-sided
-    totalSeconds: 6924.694871
+    totalSeconds: 7002.326245
   - name: create-project
     totalSeconds: 6593.910784
-  - name: discord-email-tunnel
-    totalSeconds: 5347.543341
-  - name: configs
-    totalSeconds: 3619.252424
   - name: applescript-utils
-    totalSeconds: 3478.194293
+    totalSeconds: 3429.236562
   - name: AdminControl
-    totalSeconds: 2900.456279
+    totalSeconds: 3151.629924
+  - name: configs
+    totalSeconds: 2288.383605
+  - name: ldebug
+    totalSeconds: 2180.788635
+  - name: just
+    totalSeconds: 1939.379132
   - name: run-if-env
-    totalSeconds: 1597.006728
+    totalSeconds: 1802.775521
   - name: leonzalion-google-workspace
-    totalSeconds: 1442.376835
+    totalSeconds: 1787.937855
   - name: website
     totalSeconds: 1168.392424
   - name: projectpure-extension
@@ -78,20 +82,18 @@ projects:
     totalSeconds: 871.646463
   - name: .github
     totalSeconds: 867.372364
-  - name: just
-    totalSeconds: 804.856174
   - name: parse-applescript
     totalSeconds: 700.193631
+  - name: yabai
+    totalSeconds: 622.623089
   - name: vitest-mock-process
     totalSeconds: 611.799532
   - name: lion-system
     totalSeconds: 385.192396
+  - name: Terminal
+    totalSeconds: 324.403593
   - name: project-scripts
     totalSeconds: 296.815838
-  - name: vue3-notify
-    totalSeconds: 276.398773
-  - name: ldebug
-    totalSeconds: 244.820906
   - name: plugins
     totalSeconds: 226.302544
   - name: extension
@@ -104,47 +106,27 @@ projects:
     totalSeconds: 167.059672
   - name: tabulo
     totalSeconds: 142.201861
-  - name: cli-highlighter
-    totalSeconds: 139.068196
   - name: markdown-it-emoji
     totalSeconds: 91.180521
   - name: vite-plugin-md
     totalSeconds: 80.613651
-  - name: lionp
-    totalSeconds: 78.17862
   - name: chmodr
     totalSeconds: 75.017353
-  - name: get-secure-input-processes
-    totalSeconds: 51.077014
+  - name: run-if
+    totalSeconds: 70.435548
   - name: BetterChatServer
     totalSeconds: 46.818267
-  - name: npm-binary
-    totalSeconds: 44.799664
   - name: timeblocker
     totalSeconds: 41.528498
-  - name: Terminal
-    totalSeconds: 40.687531
-  - name: jsx-test
-    totalSeconds: 30.570213
-  - name: vue-ref-eslint-bug
-    totalSeconds: 20.523863
+  - name: cli-highlighter
+    totalSeconds: 21.682055
   - name: vpciclubs.com
     totalSeconds: 19.989339
   - name: Unknown Project
     totalSeconds: 17.062254
-  - name: sigfig
-    totalSeconds: 15.925884
-  - name: fprime
-    totalSeconds: 14.517685
   - name: phone-call-input
     totalSeconds: 10.975252
   - name: nanoid-nice
     totalSeconds: 10.454419
   - name: vite-electron-builder
     totalSeconds: 5.883978
-  - name: a
-    totalSeconds: 2.146866
-  - name: mathtermind-solver
-    totalSeconds: 1.697011
-  - name: vue3-spinners
-    totalSeconds: 1.404119
