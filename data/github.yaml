@@ -1,4 +1,22 @@
 events:
+  - date: '2022-05-11T23:53:03Z'
+    type: PushEvent
+  - date: '2022-05-11T23:50:16Z'
+    type: CreateEvent
+  - date: '2022-05-11T23:50:15Z'
+    type: ReleaseEvent
+  - date: '2022-05-11T23:50:14Z'
+    type: PushEvent
+  - date: '2022-05-11T23:49:38Z'
+    type: PushEvent
+  - date: '2022-05-11T23:44:25Z'
+    type: ReleaseEvent
+  - date: '2022-05-11T23:44:26Z'
+    type: CreateEvent
+  - date: '2022-05-11T23:44:24Z'
+    type: PushEvent
+  - date: '2022-05-11T23:43:50Z'
+    type: PushEvent
   - date: '2022-05-11T22:16:36Z'
     type: PushEvent
   - date: '2022-05-11T21:35:49Z'
@@ -41,28 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-11T16:10:24Z'
     type: PushEvent
-  - date: '2022-05-11T16:03:52Z'
-    type: PushEvent
-  - date: '2022-05-11T16:03:25Z'
-    type: PushEvent
-  - date: '2022-05-11T16:02:44Z'
-    type: PushEvent
-  - date: '2022-05-11T15:59:07Z'
-    type: PushEvent
-  - date: '2022-05-11T15:55:41Z'
-    type: PushEvent
-  - date: '2022-05-11T15:55:11Z'
-    type: PushEvent
-  - date: '2022-05-11T15:36:05Z'
-    type: PushEvent
-  - date: '2022-05-11T15:28:35Z'
-    type: PushEvent
-  - date: '2022-05-11T15:27:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: messages every 2 minutes'
+  message: 'docs: clarify names'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/bc4d8c5fccee6b98c4a33048d5dd22d958da6841
+    https://api.github.com/repos/leonzalion/ldebug/commits/9ba27752dc0f6cead6d0e273deb1b035ee5aa491
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/ldebug
+    name: leonzalion/ldebug
