@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3834
+    timeSpent: 6369
   - category: Writing
     name: Notion
     productivity: 2
@@ -10,11 +10,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1381
+    timeSpent: 1502
   - category: Uncategorized
     name: jsfuck.com
     productivity: 0
-    timeSpent: 1368
+    timeSpent: 1450
   - category: Video
     name: youtube.com
     productivity: -2
