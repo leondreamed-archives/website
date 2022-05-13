@@ -1,21 +1,21 @@
 topActivities:
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 1031
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 9980
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1690
-  - category: Engineering & Technology
-    name: '[unpublished]'
+    timeSpent: 844
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 1477
-  - category: Calendars
-    name: cold turkey blocker
+    timeSpent: 158
+  - category: Uncategorized
+    name: developers.notion.com
     productivity: 0
-    timeSpent: 655
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 612
+    timeSpent: 141
+  - category: Uncategorized
+    name: notion.so
+    productivity: 0
+    timeSpent: 120

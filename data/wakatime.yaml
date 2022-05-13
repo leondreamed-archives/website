@@ -1,36 +1,38 @@
-dailyAverage: 25447
-totalSeconds: 178129.987239
+dailyAverage: 25161
+totalSeconds: 176126.907683
 languages:
   - name: sh
-    totalSeconds: 72352.940034
+    totalSeconds: 64847.69902
   - name: TypeScript
-    totalSeconds: 48765.876759
+    totalSeconds: 50070.543479
   - name: Markdown
-    totalSeconds: 28267.351601
+    totalSeconds: 31947.503587
   - name: Vue.js
-    totalSeconds: 11115.779032
+    totalSeconds: 10541.818321
   - name: JSON
-    totalSeconds: 8298.206491
-  - name: Other
-    totalSeconds: 4903.898235
+    totalSeconds: 7754.591133
   - name: JavaScript
-    totalSeconds: 4816.375584
+    totalSeconds: 6420.594202
+  - name: Other
+    totalSeconds: 5897.996746
   - name: YAML
-    totalSeconds: 2900.969651
+    totalSeconds: 2927.458165
   - name: Docker
     totalSeconds: 718.656718
   - name: HTML
-    totalSeconds: 409.151895
+    totalSeconds: 372.733157
   - name: Bash
-    totalSeconds: 217.187416
+    totalSeconds: 214.954799
   - name: Git Config
-    totalSeconds: 161.270501
+    totalSeconds: 193.320676
   - name: XML
     totalSeconds: 44.871452
   - name: Python
     totalSeconds: 35.257364
   - name: TOML
     totalSeconds: 23.355107
+  - name: Rust
+    totalSeconds: 10.812869
   - name: Objective-C
     totalSeconds: 1.784319
   - name: Text
@@ -39,25 +41,27 @@ languages:
     totalSeconds: 0.41051
 projects:
   - name: blog
-    totalSeconds: 76233.579987
+    totalSeconds: 73392.656911
   - name: leonzalion
-    totalSeconds: 23965.672299
+    totalSeconds: 21215.070411
   - name: discord-email-tunnel
-    totalSeconds: 16507.217549
+    totalSeconds: 16424.552832
   - name: BetterChat
     totalSeconds: 13111.082826
   - name: precommit
-    totalSeconds: 10468.848901
+    totalSeconds: 10480.184367
   - name: print-double-sided
     totalSeconds: 7002.326245
+  - name: compile-vue-sfc
+    totalSeconds: 6016.873218
   - name: create-project
-    totalSeconds: 6593.910784
+    totalSeconds: 4665.179082
+  - name: AdminControl
+    totalSeconds: 3725.125429
   - name: applescript-utils
     totalSeconds: 3429.236562
-  - name: AdminControl
-    totalSeconds: 3151.629924
   - name: configs
-    totalSeconds: 2288.383605
+    totalSeconds: 3132.12733
   - name: ldebug
     totalSeconds: 2180.788635
   - name: just
@@ -65,7 +69,7 @@ projects:
   - name: run-if-env
     totalSeconds: 1802.775521
   - name: leonzalion-google-workspace
-    totalSeconds: 1787.937855
+    totalSeconds: 1576.997652
   - name: website
     totalSeconds: 1168.392424
   - name: projectpure-extension
@@ -81,31 +85,27 @@ projects:
   - name: excalidraw
     totalSeconds: 871.646463
   - name: .github
-    totalSeconds: 867.372364
+    totalSeconds: 805.672506
   - name: parse-applescript
     totalSeconds: 700.193631
   - name: yabai
     totalSeconds: 622.623089
   - name: vitest-mock-process
     totalSeconds: 611.799532
-  - name: lion-system
-    totalSeconds: 385.192396
+  - name: vue3-spinners
+    totalSeconds: 452.885301
   - name: Terminal
     totalSeconds: 324.403593
-  - name: project-scripts
-    totalSeconds: 296.815838
-  - name: plugins
-    totalSeconds: 226.302544
   - name: extension
     totalSeconds: 220.277609
-  - name: PureTwitter
-    totalSeconds: 192.390203
-  - name: rollup-plugin-typescript2
-    totalSeconds: 191.878262
   - name: server
     totalSeconds: 167.059672
+  - name: lion-fixture
+    totalSeconds: 166.2493
   - name: tabulo
     totalSeconds: 142.201861
+  - name: lion-system
+    totalSeconds: 107.583475
   - name: markdown-it-emoji
     totalSeconds: 91.180521
   - name: vite-plugin-md
@@ -120,13 +120,15 @@ projects:
     totalSeconds: 41.528498
   - name: cli-highlighter
     totalSeconds: 21.682055
-  - name: vpciclubs.com
-    totalSeconds: 19.989339
   - name: Unknown Project
     totalSeconds: 17.062254
   - name: phone-call-input
     totalSeconds: 10.975252
   - name: nanoid-nice
     totalSeconds: 10.454419
+  - name: yabai-master-stack-plugin
+    totalSeconds: 6.268454
   - name: vite-electron-builder
     totalSeconds: 5.883978
+  - name: vue3-notify
+    totalSeconds: 0.714537
