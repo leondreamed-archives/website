@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4018
+    timeSpent: 6061
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 1477
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 435
+    timeSpent: 937
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 292
-  - category: Email
-    name: Mail
+    timeSpent: 406
+  - category: Uncategorized
+    name: planetscale.com
     productivity: 0
-    timeSpent: 211
-  - category: Calendars
-    name: cold turkey blocker
-    productivity: 0
-    timeSpent: 185
+    timeSpent: 356
