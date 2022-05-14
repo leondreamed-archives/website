@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 9065
+    timeSpent: 10283
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3653
-  - category: Email
-    name: Mail
-    productivity: 0
-    timeSpent: 2686
+    timeSpent: 4367
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1685
+    timeSpent: 2811
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 2717
   - category: Writing
     name: Notion
     productivity: 2
