@@ -1,4 +1,16 @@
 events:
+  - date: '2022-05-14T21:14:38Z'
+    type: PushEvent
+  - date: '2022-05-14T21:08:00Z'
+    type: PushEvent
+  - date: '2022-05-14T21:06:56Z'
+    type: PushEvent
+  - date: '2022-05-14T21:05:06Z'
+    type: PushEvent
+  - date: '2022-05-14T21:03:16Z'
+    type: PushEvent
+  - date: '2022-05-14T21:02:14Z'
+    type: PushEvent
   - date: '2022-05-14T20:58:10Z'
     type: PushEvent
   - date: '2022-05-14T20:54:33Z'
@@ -47,22 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-14T20:44:31Z'
     type: PushEvent
-  - date: '2022-05-14T20:33:12Z'
-    type: PushEvent
-  - date: '2022-05-14T20:31:06Z'
-    type: PushEvent
-  - date: '2022-05-14T20:30:06Z'
-    type: PushEvent
-  - date: '2022-05-14T20:20:03Z'
-    type: PushEvent
-  - date: '2022-05-14T20:19:42Z'
-    type: PushEvent
-  - date: '2022-05-14T19:59:51Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.4
+  message: 'fix: run-bin script'
   url: >-
-    https://api.github.com/repos/leonzalion/lion-fixture/commits/e7487838c35ba4299498f1740e6cb4c2257c9bbd
+    https://api.github.com/repos/leonzalion/lionconfig/commits/26e8887cc8adab5f181de5b3782995f2eaf5585c
   repo:
-    url: https://api.github.com/repos/leonzalion/lion-fixture
-    name: leonzalion/lion-fixture
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
