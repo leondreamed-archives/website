@@ -1,4 +1,18 @@
 events:
+  - date: '2022-05-14T13:33:26Z'
+    type: PushEvent
+  - date: '2022-05-14T13:33:03Z'
+    type: PushEvent
+  - date: '2022-05-14T13:32:29Z'
+    type: PushEvent
+  - date: '2022-05-14T13:31:02Z'
+    type: PushEvent
+  - date: '2022-05-14T13:30:54Z'
+    type: PushEvent
+  - date: '2022-05-14T13:30:25Z'
+    type: PushEvent
+  - date: '2022-05-14T13:20:38Z'
+    type: PushEvent
   - date: '2022-05-14T13:05:13Z'
     type: PushEvent
   - date: '2022-05-14T13:04:55Z'
@@ -45,24 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-14T12:04:01Z'
     type: PushEvent
-  - date: '2022-05-14T12:03:17Z'
-    type: PushEvent
-  - date: '2022-05-14T12:01:34Z'
-    type: ReleaseEvent
-  - date: '2022-05-14T12:01:34Z'
-    type: CreateEvent
-  - date: '2022-05-14T12:01:33Z'
-    type: PushEvent
-  - date: '2022-05-14T12:01:05Z'
-    type: PushEvent
-  - date: '2022-05-14T11:58:42Z'
-    type: CreateEvent
-  - date: '2022-05-14T11:58:42Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'fix: stdio inherit'
+  message: 'feat: release script'
   url: >-
-    https://api.github.com/repos/leonzalion/configs/commits/ebb5bcee17eca9c82a644a85c2973d81ac841128
+    https://api.github.com/repos/leonzalion/configs/commits/c016b38544632532268571254680481d1477aea9
   repo:
     url: https://api.github.com/repos/leonzalion/configs
     name: leonzalion/configs
