@@ -1,4 +1,24 @@
 events:
+  - date: '2022-05-14T22:58:37Z'
+    type: PushEvent
+  - date: '2022-05-14T22:58:13Z'
+    type: PushEvent
+  - date: '2022-05-14T22:57:20Z'
+    type: PushEvent
+  - date: '2022-05-14T22:56:47Z'
+    type: PushEvent
+  - date: '2022-05-14T22:52:41Z'
+    type: PushEvent
+  - date: '2022-05-14T22:52:04Z'
+    type: PushEvent
+  - date: '2022-05-14T22:48:30Z'
+    type: PushEvent
+  - date: '2022-05-14T22:34:37Z'
+    type: PushEvent
+  - date: '2022-05-14T22:31:21Z'
+    type: PushEvent
+  - date: '2022-05-14T22:21:29Z'
+    type: PushEvent
   - date: '2022-05-14T21:14:38Z'
     type: PushEvent
   - date: '2022-05-14T21:08:00Z'
@@ -39,30 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-14T20:52:51Z'
     type: PushEvent
-  - date: '2022-05-14T20:52:50Z'
-    type: PushEvent
-  - date: '2022-05-14T20:52:48Z'
-    type: PushEvent
-  - date: '2022-05-14T20:52:45Z'
-    type: PushEvent
-  - date: '2022-05-14T20:52:37Z'
-    type: PushEvent
-  - date: '2022-05-14T20:52:03Z'
-    type: PushEvent
-  - date: '2022-05-14T20:51:30Z'
-    type: PushEvent
-  - date: '2022-05-14T20:50:26Z'
-    type: PushEvent
-  - date: '2022-05-14T20:49:01Z'
-    type: PushEvent
-  - date: '2022-05-14T20:44:56Z'
-    type: PushEvent
-  - date: '2022-05-14T20:44:31Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: run-bin script'
+  message: 'chore: fix script'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/26e8887cc8adab5f181de5b3782995f2eaf5585c
+    https://api.github.com/repos/leonzalion/cli-highlighter/commits/1f33cb26b95950d2764ff85c0eeec89a9fae0218
   repo:
-    url: https://api.github.com/repos/leonzalion/lionconfig
-    name: leonzalion/lionconfig
+    url: https://api.github.com/repos/leonzalion/cli-highlighter
+    name: leonzalion/cli-highlighter
