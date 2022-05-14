@@ -1,30 +1,32 @@
-dailyAverage: 25161
-totalSeconds: 176126.907683
+dailyAverage: 25286
+totalSeconds: 177002.416321
 languages:
   - name: sh
-    totalSeconds: 64847.69902
+    totalSeconds: 61330.051041
   - name: TypeScript
-    totalSeconds: 50070.543479
+    totalSeconds: 47316.966186
   - name: Markdown
-    totalSeconds: 31947.503587
-  - name: Vue.js
-    totalSeconds: 10541.818321
-  - name: JSON
-    totalSeconds: 7754.591133
+    totalSeconds: 34563.983514
   - name: JavaScript
-    totalSeconds: 6420.594202
+    totalSeconds: 11586.687264
+  - name: Vue.js
+    totalSeconds: 8242.776732
+  - name: JSON
+    totalSeconds: 7816.122147
   - name: Other
-    totalSeconds: 5897.996746
+    totalSeconds: 5900.824023
   - name: YAML
-    totalSeconds: 2927.458165
+    totalSeconds: 2930.751967
+  - name: Text
+    totalSeconds: 1468.57081
   - name: Docker
     totalSeconds: 718.656718
   - name: HTML
     totalSeconds: 372.733157
   - name: Bash
-    totalSeconds: 214.954799
+    totalSeconds: 342.356589
   - name: Git Config
-    totalSeconds: 193.320676
+    totalSeconds: 196.268575
   - name: XML
     totalSeconds: 44.871452
   - name: Python
@@ -35,17 +37,15 @@ languages:
     totalSeconds: 10.812869
   - name: Objective-C
     totalSeconds: 1.784319
-  - name: Text
-    totalSeconds: 0.542805
   - name: CSS
     totalSeconds: 0.41051
 projects:
   - name: blog
-    totalSeconds: 73392.656911
+    totalSeconds: 75368.006759
   - name: leonzalion
-    totalSeconds: 21215.070411
+    totalSeconds: 22501.355203
   - name: discord-email-tunnel
-    totalSeconds: 16424.552832
+    totalSeconds: 15766.03831
   - name: BetterChat
     totalSeconds: 13111.082826
   - name: precommit
@@ -68,16 +68,14 @@ projects:
     totalSeconds: 1939.379132
   - name: run-if-env
     totalSeconds: 1802.775521
-  - name: leonzalion-google-workspace
-    totalSeconds: 1576.997652
   - name: website
     totalSeconds: 1168.392424
   - name: projectpure-extension
     totalSeconds: 1153.313738
   - name: chmodrp
     totalSeconds: 1059.425062
-  - name: kevins-playground
-    totalSeconds: 1039.138642
+  - name: leonzalion-google-workspace
+    totalSeconds: 1024.06111
   - name: shownotes
     totalSeconds: 951.912517
   - name: projectpure-node-proxy
@@ -106,8 +104,6 @@ projects:
     totalSeconds: 142.201861
   - name: lion-system
     totalSeconds: 107.583475
-  - name: markdown-it-emoji
-    totalSeconds: 91.180521
   - name: vite-plugin-md
     totalSeconds: 80.613651
   - name: chmodr
@@ -116,8 +112,6 @@ projects:
     totalSeconds: 70.435548
   - name: BetterChatServer
     totalSeconds: 46.818267
-  - name: timeblocker
-    totalSeconds: 41.528498
   - name: cli-highlighter
     totalSeconds: 21.682055
   - name: Unknown Project
