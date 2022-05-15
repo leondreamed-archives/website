@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 12441
+    timeSpent: 14207
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 4708
+    timeSpent: 5513
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2747
+    timeSpent: 3029
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 2145
+    timeSpent: 2364
   - category: General Software Development
-    name: marketplace.visualstudio.com
+    name: npmjs.com
     productivity: 2
     timeSpent: 561

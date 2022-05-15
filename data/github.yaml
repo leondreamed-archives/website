@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-15T19:27:20Z'
+    type: PushEvent
+  - date: '2022-05-15T19:10:34Z'
+    type: PushEvent
+  - date: '2022-05-15T19:06:10Z'
+    type: PushEvent
+  - date: '2022-05-15T19:01:26Z'
+    type: PushEvent
   - date: '2022-05-15T18:59:02Z'
     type: PushEvent
   - date: '2022-05-15T18:57:18Z'
@@ -51,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T17:47:14Z'
     type: PushEvent
-  - date: '2022-05-15T17:19:21Z'
-    type: CreateEvent
-  - date: '2022-05-15T17:19:21Z'
-    type: PushEvent
-  - date: '2022-05-15T17:13:36Z'
-    type: PushEvent
-  - date: '2022-05-15T17:13:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: move into images'
+  message: 'feat: netlify scripts'
   url: >-
-    https://api.github.com/repos/leonzalion/discord-email-tunnel/commits/43cf2f2c7244b3ba4b691d43de5322ddda21527e
+    https://api.github.com/repos/leonzalion/blog/commits/aab53f0ebf74eb48bb243ea019b0c9840ae4a7b4
   repo:
-    url: https://api.github.com/repos/leonzalion/discord-email-tunnel
-    name: leonzalion/discord-email-tunnel
+    url: https://api.github.com/repos/leonzalion/blog
+    name: leonzalion/blog
