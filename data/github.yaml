@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-15T15:59:58Z'
+    type: MemberEvent
+  - date: '2022-05-15T15:57:20Z'
+    type: IssueCommentEvent
+  - date: '2022-05-15T15:44:44Z'
+    type: PushEvent
   - date: '2022-05-15T14:25:01Z'
     type: PushEvent
   - date: '2022-05-15T14:23:27Z'
@@ -53,16 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T11:18:09Z'
     type: PushEvent
-  - date: '2022-05-15T11:16:32Z'
-    type: PushEvent
-  - date: '2022-05-15T11:05:55Z'
-    type: PushEvent
-  - date: '2022-05-15T11:05:27Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lint staged'
+  message: 'fix: condition for test'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/4a52b9554b709570fdf7968cbae447bfc4b52ff8
+    https://api.github.com/repos/leonzalion/lionconfig/commits/e9f51fcfb582af5c141dbb59cd8fa35e778ca0f2
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
