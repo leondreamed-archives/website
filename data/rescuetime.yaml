@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 14602
+    timeSpent: 16992
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 5514
+    timeSpent: 5853
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3158
+    timeSpent: 3448
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 2390
+    timeSpent: 2471
   - category: General Software Development
     name: blogs.ubc.ca
     productivity: 2
