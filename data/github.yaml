@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-15T13:54:29Z'
+    type: DeleteEvent
   - date: '2022-05-15T11:45:09Z'
     type: PushEvent
   - date: '2022-05-15T11:44:21Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T10:35:21Z'
     type: PushEvent
-  - date: '2022-05-15T10:00:53Z'
-    type: PushEvent
 latestCommit:
-  message: 1.6.4
+  message: 'feat: hacky eslint config fs stubs to work with vscode extension'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/bfe2bd5fa662361ac357c46cb80f290c5e2beccd
+    https://api.github.com/repos/leonzalion/lionconfig/commits/04d846ae987fe8aedeb75a0b30cff5473438a65d
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
