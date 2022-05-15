@@ -1,4 +1,38 @@
 events:
+  - date: '2022-05-15T03:07:52Z'
+    type: PullRequestEvent
+  - date: '2022-05-15T02:58:30Z'
+    type: PushEvent
+  - date: '2022-05-15T02:55:47Z'
+    type: PushEvent
+  - date: '2022-05-15T02:55:29Z'
+    type: PushEvent
+  - date: '2022-05-15T02:53:33Z'
+    type: PushEvent
+  - date: '2022-05-15T02:53:04Z'
+    type: IssueCommentEvent
+  - date: '2022-05-15T02:52:32Z'
+    type: PushEvent
+  - date: '2022-05-15T02:51:55Z'
+    type: PushEvent
+  - date: '2022-05-15T02:51:12Z'
+    type: PushEvent
+  - date: '2022-05-15T02:50:22Z'
+    type: PushEvent
+  - date: '2022-05-15T02:48:10Z'
+    type: PushEvent
+  - date: '2022-05-15T02:47:10Z'
+    type: PushEvent
+  - date: '2022-05-15T02:46:53Z'
+    type: PushEvent
+  - date: '2022-05-15T02:46:28Z'
+    type: PushEvent
+  - date: '2022-05-15T02:40:10Z'
+    type: PushEvent
+  - date: '2022-05-15T02:39:54Z'
+    type: PushEvent
+  - date: '2022-05-15T02:39:36Z'
+    type: PushEvent
   - date: '2022-05-15T02:27:20Z'
     type: PushEvent
   - date: '2022-05-15T02:19:52Z'
@@ -25,44 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T01:02:05Z'
     type: PushEvent
-  - date: '2022-05-15T00:54:35Z'
-    type: PushEvent
-  - date: '2022-05-15T00:54:02Z'
-    type: PushEvent
-  - date: '2022-05-15T00:53:31Z'
-    type: PushEvent
-  - date: '2022-05-15T00:45:43Z'
-    type: PushEvent
-  - date: '2022-05-15T00:45:23Z'
-    type: PushEvent
-  - date: '2022-05-15T00:40:22Z'
-    type: PushEvent
-  - date: '2022-05-15T00:39:49Z'
-    type: PushEvent
-  - date: '2022-05-15T00:20:34Z'
-    type: PushEvent
-  - date: '2022-05-15T00:17:54Z'
-    type: PushEvent
-  - date: '2022-05-15T00:14:51Z'
-    type: PushEvent
-  - date: '2022-05-15T00:11:57Z'
-    type: PullRequestEvent
-  - date: '2022-05-15T00:11:54Z'
-    type: PushEvent
-  - date: '2022-05-15T00:04:23Z'
-    type: ForkEvent
-  - date: '2022-05-14T23:52:25Z'
-    type: PushEvent
-  - date: '2022-05-14T23:51:29Z'
-    type: PushEvent
-  - date: '2022-05-14T23:50:16Z'
-    type: PushEvent
-  - date: '2022-05-14T23:49:52Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: #1'
+  message: 'fix: types'
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-spinners/commits/9bee0b1a14e61b65021eab2531c67aef62d2eda1
+    https://api.github.com/repos/leonzalion/vue3-spinners/commits/c373d2df1425231c0a9419d0d52e8d8c8f8ffaef
   repo:
     url: https://api.github.com/repos/leonzalion/vue3-spinners
     name: leonzalion/vue3-spinners
