@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-15T02:27:20Z'
+    type: PushEvent
+  - date: '2022-05-15T02:19:52Z'
+    type: PushEvent
+  - date: '2022-05-15T01:54:20Z'
+    type: PushEvent
+  - date: '2022-05-15T01:28:57Z'
+    type: PushEvent
   - date: '2022-05-15T01:22:39Z'
     type: PushEvent
   - date: '2022-05-15T01:15:23Z'
@@ -51,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-14T23:49:52Z'
     type: PushEvent
-  - date: '2022-05-14T23:49:52Z'
-    type: IssuesEvent
-  - date: '2022-05-14T23:46:44Z'
-    type: PushEvent
-  - date: '2022-05-14T23:45:30Z'
-    type: ReleaseEvent
-  - date: '2022-05-14T23:45:30Z'
-    type: CreateEvent
 latestCommit:
-  message: 'fix: vue extension'
+  message: 'fix: #1'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/23af09a7aa8e94b1a3534633b69630febca8ba33
+    https://api.github.com/repos/leonzalion/vue3-spinners/commits/9bee0b1a14e61b65021eab2531c67aef62d2eda1
   repo:
-    url: https://api.github.com/repos/leonzalion/compile-vue-sfc
-    name: leonzalion/compile-vue-sfc
+    url: https://api.github.com/repos/leonzalion/vue3-spinners
+    name: leonzalion/vue3-spinners
