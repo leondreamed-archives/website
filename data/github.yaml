@@ -1,4 +1,48 @@
 events:
+  - date: '2022-05-15T01:22:39Z'
+    type: PushEvent
+  - date: '2022-05-15T01:15:23Z'
+    type: PushEvent
+  - date: '2022-05-15T01:14:03Z'
+    type: PushEvent
+  - date: '2022-05-15T01:13:13Z'
+    type: PushEvent
+  - date: '2022-05-15T01:08:15Z'
+    type: PushEvent
+  - date: '2022-05-15T01:07:38Z'
+    type: PushEvent
+  - date: '2022-05-15T01:07:11Z'
+    type: PushEvent
+  - date: '2022-05-15T01:06:33Z'
+    type: PushEvent
+  - date: '2022-05-15T01:02:05Z'
+    type: PushEvent
+  - date: '2022-05-15T00:54:35Z'
+    type: PushEvent
+  - date: '2022-05-15T00:54:02Z'
+    type: PushEvent
+  - date: '2022-05-15T00:53:31Z'
+    type: PushEvent
+  - date: '2022-05-15T00:45:43Z'
+    type: PushEvent
+  - date: '2022-05-15T00:45:23Z'
+    type: PushEvent
+  - date: '2022-05-15T00:40:22Z'
+    type: PushEvent
+  - date: '2022-05-15T00:39:49Z'
+    type: PushEvent
+  - date: '2022-05-15T00:20:34Z'
+    type: PushEvent
+  - date: '2022-05-15T00:17:54Z'
+    type: PushEvent
+  - date: '2022-05-15T00:14:51Z'
+    type: PushEvent
+  - date: '2022-05-15T00:11:57Z'
+    type: PullRequestEvent
+  - date: '2022-05-15T00:11:54Z'
+    type: PushEvent
+  - date: '2022-05-15T00:04:23Z'
+    type: ForkEvent
   - date: '2022-05-14T23:52:25Z'
     type: PushEvent
   - date: '2022-05-14T23:51:29Z'
@@ -15,54 +59,10 @@ events:
     type: ReleaseEvent
   - date: '2022-05-14T23:45:30Z'
     type: CreateEvent
-  - date: '2022-05-14T23:45:29Z'
-    type: PushEvent
-  - date: '2022-05-14T23:45:00Z'
-    type: PushEvent
-  - date: '2022-05-14T23:44:28Z'
-    type: PushEvent
-  - date: '2022-05-14T23:40:06Z'
-    type: PushEvent
-  - date: '2022-05-14T23:39:29Z'
-    type: PushEvent
-  - date: '2022-05-14T23:38:22Z'
-    type: PushEvent
-  - date: '2022-05-14T23:37:56Z'
-    type: PushEvent
-  - date: '2022-05-14T23:36:10Z'
-    type: ReleaseEvent
-  - date: '2022-05-14T23:36:10Z'
-    type: CreateEvent
-  - date: '2022-05-14T23:36:08Z'
-    type: PushEvent
-  - date: '2022-05-14T23:35:36Z'
-    type: PushEvent
-  - date: '2022-05-14T23:17:06Z'
-    type: PushEvent
-  - date: '2022-05-14T23:16:24Z'
-    type: PushEvent
-  - date: '2022-05-14T23:15:19Z'
-    type: PushEvent
-  - date: '2022-05-14T23:14:52Z'
-    type: PushEvent
-  - date: '2022-05-14T23:05:51Z'
-    type: PushEvent
-  - date: '2022-05-14T23:04:12Z'
-    type: PushEvent
-  - date: '2022-05-14T22:58:37Z'
-    type: PushEvent
-  - date: '2022-05-14T22:58:13Z'
-    type: PushEvent
-  - date: '2022-05-14T22:57:20Z'
-    type: PushEvent
-  - date: '2022-05-14T22:56:47Z'
-    type: PushEvent
-  - date: '2022-05-14T22:52:41Z'
-    type: PushEvent
 latestCommit:
-  message: 0.1.3
+  message: 'fix: vue extension'
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/7f38a880731fd2d89889f910878e599561ed3d86
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/23af09a7aa8e94b1a3534633b69630febca8ba33
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
