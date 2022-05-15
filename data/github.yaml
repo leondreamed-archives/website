@@ -1,4 +1,38 @@
 events:
+  - date: '2022-05-15T17:57:45Z'
+    type: PushEvent
+  - date: '2022-05-15T17:56:23Z'
+    type: ForkEvent
+  - date: '2022-05-15T17:55:20Z'
+    type: PushEvent
+  - date: '2022-05-15T17:54:49Z'
+    type: PushEvent
+  - date: '2022-05-15T17:50:44Z'
+    type: PushEvent
+  - date: '2022-05-15T17:48:21Z'
+    type: PushEvent
+  - date: '2022-05-15T17:47:23Z'
+    type: PushEvent
+  - date: '2022-05-15T17:47:14Z'
+    type: PushEvent
+  - date: '2022-05-15T17:19:21Z'
+    type: CreateEvent
+  - date: '2022-05-15T17:19:21Z'
+    type: PushEvent
+  - date: '2022-05-15T17:13:36Z'
+    type: PushEvent
+  - date: '2022-05-15T17:13:18Z'
+    type: PushEvent
+  - date: '2022-05-15T17:12:44Z'
+    type: PushEvent
+  - date: '2022-05-15T17:11:44Z'
+    type: IssuesEvent
+  - date: '2022-05-15T17:11:43Z'
+    type: IssueCommentEvent
+  - date: '2022-05-15T17:06:33Z'
+    type: PushEvent
+  - date: '2022-05-15T17:05:59Z'
+    type: PushEvent
   - date: '2022-05-15T17:03:17Z'
     type: PushEvent
   - date: '2022-05-15T17:02:30Z'
@@ -25,44 +59,15 @@ events:
     type: PushEvent
   - date: '2022-05-15T16:00:51Z'
     type: PullRequestEvent
-  - date: '2022-05-15T15:59:58Z'
-    type: MemberEvent
-  - date: '2022-05-15T15:57:20Z'
-    type: IssueCommentEvent
-  - date: '2022-05-15T15:44:44Z'
-    type: PushEvent
-  - date: '2022-05-15T14:25:01Z'
-    type: PushEvent
-  - date: '2022-05-15T14:23:27Z'
-    type: PushEvent
-  - date: '2022-05-15T14:22:57Z'
-    type: PushEvent
-  - date: '2022-05-15T14:22:43Z'
-    type: PushEvent
-  - date: '2022-05-15T14:22:25Z'
-    type: PushEvent
-  - date: '2022-05-15T14:15:38Z'
-    type: PushEvent
-  - date: '2022-05-15T14:14:03Z'
-    type: PushEvent
-  - date: '2022-05-15T14:13:47Z'
-    type: PushEvent
-  - date: '2022-05-15T14:12:03Z'
-    type: PushEvent
-  - date: '2022-05-15T14:11:21Z'
-    type: PushEvent
-  - date: '2022-05-15T14:10:30Z'
-    type: PushEvent
-  - date: '2022-05-15T14:10:03Z'
-    type: PushEvent
-  - date: '2022-05-15T14:09:36Z'
-    type: PushEvent
-  - date: '2022-05-15T14:09:13Z'
-    type: PushEvent
 latestCommit:
-  message: Update readme.md
+  message: >-
+    Fix README formatting of default scripts
+
+
+    Backslashes seem to be GitHub specific syntax (or at the very least, they
+    don't work on NPM)
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/e3e0096558102cac056c8c17b1030b298d1da43d
+    https://api.github.com/repos/leonzalion/lionconfig/commits/130e3b068a96c67a850fc6d2b9f6abdfa1f33729
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
