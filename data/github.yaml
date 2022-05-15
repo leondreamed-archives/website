@@ -1,68 +1,68 @@
 events:
-  - date: '2022-05-15T03:07:52Z'
-    type: PullRequestEvent
-  - date: '2022-05-15T02:58:30Z'
+  - date: '2022-05-15T11:45:09Z'
     type: PushEvent
-  - date: '2022-05-15T02:55:47Z'
+  - date: '2022-05-15T11:44:21Z'
     type: PushEvent
-  - date: '2022-05-15T02:55:29Z'
+  - date: '2022-05-15T11:38:00Z'
     type: PushEvent
-  - date: '2022-05-15T02:53:33Z'
+  - date: '2022-05-15T11:34:09Z'
     type: PushEvent
-  - date: '2022-05-15T02:53:04Z'
-    type: IssueCommentEvent
-  - date: '2022-05-15T02:52:32Z'
+  - date: '2022-05-15T11:33:20Z'
     type: PushEvent
-  - date: '2022-05-15T02:51:55Z'
+  - date: '2022-05-15T11:32:54Z'
     type: PushEvent
-  - date: '2022-05-15T02:51:12Z'
+  - date: '2022-05-15T11:32:28Z'
     type: PushEvent
-  - date: '2022-05-15T02:50:22Z'
+  - date: '2022-05-15T11:31:53Z'
     type: PushEvent
-  - date: '2022-05-15T02:48:10Z'
+  - date: '2022-05-15T11:22:57Z'
     type: PushEvent
-  - date: '2022-05-15T02:47:10Z'
+  - date: '2022-05-15T11:22:26Z'
     type: PushEvent
-  - date: '2022-05-15T02:46:53Z'
+  - date: '2022-05-15T11:18:37Z'
     type: PushEvent
-  - date: '2022-05-15T02:46:28Z'
+  - date: '2022-05-15T11:18:09Z'
     type: PushEvent
-  - date: '2022-05-15T02:40:10Z'
+  - date: '2022-05-15T11:16:32Z'
     type: PushEvent
-  - date: '2022-05-15T02:39:54Z'
+  - date: '2022-05-15T11:05:55Z'
     type: PushEvent
-  - date: '2022-05-15T02:39:36Z'
+  - date: '2022-05-15T11:05:27Z'
     type: PushEvent
-  - date: '2022-05-15T02:27:20Z'
+  - date: '2022-05-15T11:02:58Z'
+    type: WatchEvent
+  - date: '2022-05-15T11:01:20Z'
     type: PushEvent
-  - date: '2022-05-15T02:19:52Z'
+  - date: '2022-05-15T11:00:52Z'
     type: PushEvent
-  - date: '2022-05-15T01:54:20Z'
+  - date: '2022-05-15T10:57:48Z'
     type: PushEvent
-  - date: '2022-05-15T01:28:57Z'
+  - date: '2022-05-15T10:57:24Z'
     type: PushEvent
-  - date: '2022-05-15T01:22:39Z'
+  - date: '2022-05-15T10:55:53Z'
     type: PushEvent
-  - date: '2022-05-15T01:15:23Z'
+  - date: '2022-05-15T10:55:08Z'
     type: PushEvent
-  - date: '2022-05-15T01:14:03Z'
+  - date: '2022-05-15T10:54:22Z'
     type: PushEvent
-  - date: '2022-05-15T01:13:13Z'
+  - date: '2022-05-15T10:53:34Z'
     type: PushEvent
-  - date: '2022-05-15T01:08:15Z'
+  - date: '2022-05-15T10:52:14Z'
     type: PushEvent
-  - date: '2022-05-15T01:07:38Z'
+  - date: '2022-05-15T10:41:22Z'
     type: PushEvent
-  - date: '2022-05-15T01:07:11Z'
+  - date: '2022-05-15T10:40:57Z'
     type: PushEvent
-  - date: '2022-05-15T01:06:33Z'
+  - date: '2022-05-15T10:38:52Z'
     type: PushEvent
-  - date: '2022-05-15T01:02:05Z'
+  - date: '2022-05-15T10:35:21Z'
+    type: PushEvent
+  - date: '2022-05-15T10:00:53Z'
     type: PushEvent
 latestCommit:
-  message: 'fix: types'
+  message: 1.6.4
   url: >-
-    https://api.github.com/repos/leonzalion/vue3-spinners/commits/c373d2df1425231c0a9419d0d52e8d8c8f8ffaef
+    https://api.github.com/repos/leonzalion/lionconfig/commits/bfe2bd5fa662361ac357c46cb80f290c5e2beccd
   repo:
-    url: https://api.github.com/repos/leonzalion/vue3-spinners
-    name: leonzalion/vue3-spinners
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
