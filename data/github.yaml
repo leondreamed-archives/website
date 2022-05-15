@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-15T20:35:55Z'
+    type: PushEvent
+  - date: '2022-05-15T20:33:38Z'
+    type: PushEvent
+  - date: '2022-05-15T20:33:08Z'
+    type: PushEvent
   - date: '2022-05-15T19:27:20Z'
     type: PushEvent
   - date: '2022-05-15T19:10:34Z'
@@ -53,16 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T17:50:44Z'
     type: PushEvent
-  - date: '2022-05-15T17:48:21Z'
-    type: PushEvent
-  - date: '2022-05-15T17:47:23Z'
-    type: PushEvent
-  - date: '2022-05-15T17:47:14Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: netlify scripts'
+  message: 'fix: statsync bug'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/aab53f0ebf74eb48bb243ea019b0c9840ae4a7b4
+    https://api.github.com/repos/leonzalion/lionconfig/commits/d39f0b6525f80b989442f55f5d5f9dff7408bd8d
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
