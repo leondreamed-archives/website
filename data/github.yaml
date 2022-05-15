@@ -1,4 +1,32 @@
 events:
+  - date: '2022-05-15T14:25:01Z'
+    type: PushEvent
+  - date: '2022-05-15T14:23:27Z'
+    type: PushEvent
+  - date: '2022-05-15T14:22:57Z'
+    type: PushEvent
+  - date: '2022-05-15T14:22:43Z'
+    type: PushEvent
+  - date: '2022-05-15T14:22:25Z'
+    type: PushEvent
+  - date: '2022-05-15T14:15:38Z'
+    type: PushEvent
+  - date: '2022-05-15T14:14:03Z'
+    type: PushEvent
+  - date: '2022-05-15T14:13:47Z'
+    type: PushEvent
+  - date: '2022-05-15T14:12:03Z'
+    type: PushEvent
+  - date: '2022-05-15T14:11:21Z'
+    type: PushEvent
+  - date: '2022-05-15T14:10:30Z'
+    type: PushEvent
+  - date: '2022-05-15T14:10:03Z'
+    type: PushEvent
+  - date: '2022-05-15T14:09:36Z'
+    type: PushEvent
+  - date: '2022-05-15T14:09:13Z'
+    type: PushEvent
   - date: '2022-05-15T13:54:29Z'
     type: DeleteEvent
   - date: '2022-05-15T11:45:09Z'
@@ -31,38 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-15T11:05:27Z'
     type: PushEvent
-  - date: '2022-05-15T11:02:58Z'
-    type: WatchEvent
-  - date: '2022-05-15T11:01:20Z'
-    type: PushEvent
-  - date: '2022-05-15T11:00:52Z'
-    type: PushEvent
-  - date: '2022-05-15T10:57:48Z'
-    type: PushEvent
-  - date: '2022-05-15T10:57:24Z'
-    type: PushEvent
-  - date: '2022-05-15T10:55:53Z'
-    type: PushEvent
-  - date: '2022-05-15T10:55:08Z'
-    type: PushEvent
-  - date: '2022-05-15T10:54:22Z'
-    type: PushEvent
-  - date: '2022-05-15T10:53:34Z'
-    type: PushEvent
-  - date: '2022-05-15T10:52:14Z'
-    type: PushEvent
-  - date: '2022-05-15T10:41:22Z'
-    type: PushEvent
-  - date: '2022-05-15T10:40:57Z'
-    type: PushEvent
-  - date: '2022-05-15T10:38:52Z'
-    type: PushEvent
-  - date: '2022-05-15T10:35:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: hacky eslint config fs stubs to work with vscode extension'
+  message: 'fix: lint staged'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/04d846ae987fe8aedeb75a0b30cff5473438a65d
+    https://api.github.com/repos/leonzalion/lionconfig/commits/4a52b9554b709570fdf7968cbae447bfc4b52ff8
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
