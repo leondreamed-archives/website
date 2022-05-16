@@ -1,1 +1,0 @@
-import{_ as e}from"./transparent-video.a49edf65.js";import{e as o,o as s,f as t,l as a}from"./vendor.39e09b14.js";const n={class:"bg-blue-200"},d=o({setup(r){return(c,_)=>(s(),t("div",n,[a(e,{"video-name":"projection"})]))}});export{d as default};
