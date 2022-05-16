@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 1309
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 675
+    timeSpent: 2470
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1389
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 680
   - category: General Reference & Learning
     name: en.wikipedia.org
     productivity: 2
     timeSpent: 400
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 353
-  - category: General Business
-    name: blog.leonzalion.com
+  - category: General Software Development
+    name: '[unpublished]'
     productivity: 2
-    timeSpent: 219
+    timeSpent: 291
