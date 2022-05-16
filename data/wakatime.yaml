@@ -1,57 +1,57 @@
-dailyAverage: 26491
-totalSeconds: 185439.270767
+dailyAverage: 31149
+totalSeconds: 218041.305681
 languages:
   - name: sh
-    totalSeconds: 64451.244246
+    totalSeconds: 74237.186033
   - name: TypeScript
-    totalSeconds: 48592.172505
+    totalSeconds: 64258.096685
   - name: Markdown
-    totalSeconds: 28430.163471
-  - name: Vue.js
-    totalSeconds: 15722.504657
+    totalSeconds: 30003.028139
   - name: JavaScript
-    totalSeconds: 15333.435461
+    totalSeconds: 18744.4184
+  - name: Vue.js
+    totalSeconds: 15432.379976
   - name: Other
-    totalSeconds: 10433.025692
+    totalSeconds: 13682.678862
   - name: JSON
-    totalSeconds: 6802.063776
+    totalSeconds: 8647.16206
   - name: YAML
-    totalSeconds: 2899.036207
+    totalSeconds: 3434.015386
   - name: Text
     totalSeconds: 1469.377116
   - name: Docker
     totalSeconds: 601.981532
   - name: Bash
-    totalSeconds: 371.523878
+    totalSeconds: 444.754564
   - name: HTML
-    totalSeconds: 360.903627
+    totalSeconds: 362.201035
   - name: Git Config
-    totalSeconds: 226.636466
+    totalSeconds: 226.981821
   - name: CSS
     totalSeconds: 142.866534
   - name: Python
     totalSeconds: 13.135894
+  - name: TOML
+    totalSeconds: 11.123318
   - name: Rust
     totalSeconds: 10.812869
-  - name: TOML
-    totalSeconds: 9.628209
   - name: Objective-C
     totalSeconds: 1.784319
 projects:
   - name: blog
-    totalSeconds: 63868.486576
+    totalSeconds: 85588.149123
   - name: leonzalion
-    totalSeconds: 21851.916586
+    totalSeconds: 21555.932643
+  - name: discord-email-tunnel
+    totalSeconds: 18424.371969
   - name: vue3-spinners
     totalSeconds: 17437.119095
-  - name: discord-email-tunnel
-    totalSeconds: 16109.135911
+  - name: lionconfig
+    totalSeconds: 16847.286551
   - name: BetterChat
     totalSeconds: 13111.082826
   - name: compile-vue-sfc
     totalSeconds: 10299.63911
-  - name: lionconfig
-    totalSeconds: 7295.820785
   - name: print-double-sided
     totalSeconds: 7002.326245
   - name: lionp
@@ -60,10 +60,12 @@ projects:
     totalSeconds: 4773.252961
   - name: applescript-utils
     totalSeconds: 3429.236562
+  - name: just
+    totalSeconds: 2544.548383
   - name: ldebug
     totalSeconds: 2180.788635
-  - name: just
-    totalSeconds: 1939.379132
+  - name: shownotes
+    totalSeconds: 1901.619383
   - name: eslintrc
     totalSeconds: 1713.69616
   - name: npm-binary
@@ -71,49 +73,51 @@ projects:
   - name: vue3-notify
     totalSeconds: 1630.991218
   - name: website
-    totalSeconds: 1168.392424
+    totalSeconds: 1205.327501
+  - name: vscode-eslint
+    totalSeconds: 1141.809763
   - name: chmodrp
     totalSeconds: 1059.425062
+  - name: precommit
+    totalSeconds: 1038.90588
   - name: leonzalion-google-workspace
     totalSeconds: 1024.06111
-  - name: precommit
-    totalSeconds: 1016.17074
-  - name: shownotes
-    totalSeconds: 951.912517
-  - name: AdminControl
-    totalSeconds: 891.001775
   - name: excalidraw
     totalSeconds: 871.646463
+  - name: AdminControl
+    totalSeconds: 859.233358
   - name: project-scripts
     totalSeconds: 846.415697
-  - name: .github
-    totalSeconds: 805.672506
   - name: parse-applescript
     totalSeconds: 700.193631
   - name: yabai
     totalSeconds: 622.623089
-  - name: vitest-mock-process
-    totalSeconds: 611.799532
   - name: eslint
     totalSeconds: 577.35246
   - name: lion-fixture
     totalSeconds: 573.107959
   - name: lion-system
-    totalSeconds: 466.11081
+    totalSeconds: 563.751527
+  - name: pnpm
+    totalSeconds: 514.895455
   - name: DefinitelyTyped
     totalSeconds: 427.954904
+  - name: vitest-mock-process
+    totalSeconds: 386.027323
   - name: Terminal
-    totalSeconds: 340.126869
+    totalSeconds: 342.164076
   - name: nanoid-nice
     totalSeconds: 240.822886
-  - name: pnpm
-    totalSeconds: 220.676063
   - name: extension
     totalSeconds: 220.277609
+  - name: html2canvas
+    totalSeconds: 205.922844
   - name: run-if-env
     totalSeconds: 205.768793
   - name: vite-plugin-js-imports
     totalSeconds: 205.449795
+  - name: vpciclubs.com
+    totalSeconds: 196.21577
   - name: rollup-plugin-js-imports
     totalSeconds: 181.822622
   - name: vue-spinners
@@ -126,10 +130,12 @@ projects:
     totalSeconds: 123.517612
   - name: prettier
     totalSeconds: 82.688272
-  - name: vite-plugin-md
-    totalSeconds: 80.613651
+  - name: dist
+    totalSeconds: 75.298202
   - name: chmodr
     totalSeconds: 75.017353
+  - name: vscode-languageserver-node
+    totalSeconds: 70.806933
   - name: run-if
     totalSeconds: 70.435548
   - name: BetterChatServer
@@ -146,7 +152,11 @@ projects:
     totalSeconds: 6.268454
   - name: vite-electron-builder
     totalSeconds: 5.883978
+  - name: tabulo
+    totalSeconds: 5.700493
   - name: lion-architecture
     totalSeconds: 1.832435
   - name: jslatex-website
     totalSeconds: 1.365533
+  - name: sync-index
+    totalSeconds: 0.936784
