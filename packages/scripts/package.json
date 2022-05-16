@@ -3,10 +3,7 @@
 	"type": "module",
 	"scripts": {
 		"update-composition-videos": "node-ts ./src/davinci/bin/update-composition-videos.ts",
-		"upload-compositions": "node-ts ./src/s3/upload-compositions.ts",
-		"lint": "eslint --cache --fix .",
-		"prettier": "prettier --write .",
-		"typecheck": "tsc --noEmit"
+		"upload-compositions": "node-ts ./src/s3/upload-compositions.ts"
 	},
 	"dependencies": {
 		"aws-sdk": "^2.1131.0",

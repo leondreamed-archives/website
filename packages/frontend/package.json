@@ -5,11 +5,7 @@
 	"scripts": {
 		"dev": "vite",
 		"build": "pnpm typecheck && vite build",
-		"preview": "vite preview",
-		"test": "vitest run",
-		"lint": "eslint --cache --fix .",
-		"prettier": "prettier --write .",
-		"typecheck": "vue-tsc --noEmit"
+		"preview": "vite preview"
 	},
 	"dependencies": {
 		"@fontsource/poppins": "^4.5.8",

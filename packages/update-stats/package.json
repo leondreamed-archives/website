@@ -10,11 +10,7 @@
 	},
 	"type": "module",
 	"scripts": {
-		"start": "node-ts ./src/bin/run.ts",
-		"test": "vitest run",
-		"lint": "eslint --cache --fix .",
-		"prettier": "prettier --write .",
-		"typecheck": "tsc --noEmit"
+		"start": "node-ts ./src/bin/run.ts"
 	},
 	"dependencies": {
 		"@octokit/core": "^3.6.0",
