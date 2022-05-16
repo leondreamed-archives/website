@@ -8,11 +8,7 @@
 		"upload-compositions": "pnpm --filter=@leonzalion-website/scripts upload-compositions",
 		"import-compositions": "pnpm --filter=@leonzalion-website/scripts import-compositions",
 		"update-stats": "pnpm --filter=@leonzalion-website/update-stats start",
-		"prepare": "lion-git-hooks",
-		"test": "pnpm recursive run test",
-		"lint": "pnpm recursive run lint",
-		"prettier": "pnpm recursive run prettier",
-		"typecheck": "pnpm recursive run typecheck"
+		"prepare": "lion-git-hooks"
 	},
 	"devDependencies": {
 		"@types/node": "^17.0.31",
