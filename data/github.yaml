@@ -1,4 +1,22 @@
 events:
+  - date: '2022-05-16T18:54:58Z'
+    type: PushEvent
+  - date: '2022-05-16T18:54:28Z'
+    type: PushEvent
+  - date: '2022-05-16T18:50:49Z'
+    type: PushEvent
+  - date: '2022-05-16T18:48:43Z'
+    type: PushEvent
+  - date: '2022-05-16T18:48:17Z'
+    type: PushEvent
+  - date: '2022-05-16T18:43:33Z'
+    type: PushEvent
+  - date: '2022-05-16T18:42:11Z'
+    type: PushEvent
+  - date: '2022-05-16T17:45:20Z'
+    type: PushEvent
+  - date: '2022-05-16T17:45:08Z'
+    type: PushEvent
   - date: '2022-05-16T17:26:16Z'
     type: PushEvent
   - date: '2022-05-16T17:25:22Z'
@@ -41,28 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-16T15:47:42Z'
     type: PushEvent
-  - date: '2022-05-16T15:37:59Z'
-    type: PushEvent
-  - date: '2022-05-16T15:34:56Z'
-    type: PushEvent
-  - date: '2022-05-16T15:30:12Z'
-    type: PushEvent
-  - date: '2022-05-16T15:29:11Z'
-    type: PushEvent
-  - date: '2022-05-16T15:28:22Z'
-    type: PushEvent
-  - date: '2022-05-16T15:23:16Z'
-    type: PushEvent
-  - date: '2022-05-16T04:23:36Z'
-    type: PushEvent
-  - date: '2022-05-16T04:23:32Z'
-    type: PushEvent
-  - date: '2022-05-16T04:20:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: lazy loading'
+  message: 'fix: sync content script'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/402b4a6b39fcbdf533cdcb0b9695132d9e0931df
+    https://api.github.com/repos/leonzalion/blog/commits/d3c7bcbf8cc25958ce13f17ff736ad71770ed8fe
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
