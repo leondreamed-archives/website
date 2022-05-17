@@ -1,4 +1,18 @@
 events:
+  - date: '2022-05-17T13:52:06Z'
+    type: PushEvent
+  - date: '2022-05-17T13:52:00Z'
+    type: PushEvent
+  - date: '2022-05-17T13:45:29Z'
+    type: PushEvent
+  - date: '2022-05-17T13:42:33Z'
+    type: PushEvent
+  - date: '2022-05-17T13:41:58Z'
+    type: PushEvent
+  - date: '2022-05-17T13:31:45Z'
+    type: PushEvent
+  - date: '2022-05-17T13:19:46Z'
+    type: PushEvent
   - date: '2022-05-17T13:07:50Z'
     type: PushEvent
   - date: '2022-05-17T12:49:27Z'
@@ -43,24 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-16T19:44:04Z'
     type: PushEvent
-  - date: '2022-05-16T19:43:44Z'
-    type: PushEvent
-  - date: '2022-05-16T19:43:17Z'
-    type: PushEvent
-  - date: '2022-05-16T19:42:47Z'
-    type: PushEvent
-  - date: '2022-05-16T19:42:23Z'
-    type: PushEvent
-  - date: '2022-05-16T19:41:02Z'
-    type: PushEvent
-  - date: '2022-05-16T19:40:34Z'
-    type: PushEvent
-  - date: '2022-05-16T19:40:18Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: lionconfig'
+  message: 'chore: remove unnecessary scripts'
   url: >-
-    https://api.github.com/repos/leonzalion/ignoredep/commits/e4d96f107725fcd7b383f6b0c4bd61b337bb4348
+    https://api.github.com/repos/leonzalion/print-double-sided/commits/8b4733991e0f81b9c675cc587b35598aaa590157
   repo:
-    url: https://api.github.com/repos/leonzalion/ignoredep
-    name: leonzalion/ignoredep
+    url: https://api.github.com/repos/leonzalion/print-double-sided
+    name: leonzalion/print-double-sided
