@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-17T14:53:09Z'
+    type: PushEvent
+  - date: '2022-05-17T14:44:00Z'
+    type: PushEvent
+  - date: '2022-05-17T14:38:39Z'
+    type: PushEvent
   - date: '2022-05-17T13:52:06Z'
     type: PushEvent
   - date: '2022-05-17T13:52:00Z'
@@ -51,16 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-16T21:03:23Z'
     type: PushEvent
-  - date: '2022-05-16T20:05:16Z'
-    type: PushEvent
-  - date: '2022-05-16T19:47:43Z'
-    type: PushEvent
-  - date: '2022-05-16T19:44:04Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove unnecessary scripts'
+  message: 'fix: edge case with odd number of pages'
   url: >-
-    https://api.github.com/repos/leonzalion/print-double-sided/commits/8b4733991e0f81b9c675cc587b35598aaa590157
+    https://api.github.com/repos/leonzalion/print-double-sided/commits/cf5d5f0f6d92aa901b77ae9da36c3350840ff10e
   repo:
     url: https://api.github.com/repos/leonzalion/print-double-sided
     name: leonzalion/print-double-sided
