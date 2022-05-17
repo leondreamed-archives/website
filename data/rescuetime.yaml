@@ -6,7 +6,7 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 5560
+    timeSpent: 5679
   - category: General Software Development
     name: Github
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: Preview
     productivity: 0
     timeSpent: 1993
-  - category: Meetings
-    name: Zoom
-    productivity: 1
-    timeSpent: 634
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 935
