@@ -1,66 +1,68 @@
 events:
-  - date: '2022-05-17T14:53:09Z'
+  - date: '2022-05-17T19:43:45Z'
     type: PushEvent
-  - date: '2022-05-17T14:44:00Z'
+  - date: '2022-05-17T19:43:06Z'
     type: PushEvent
-  - date: '2022-05-17T14:38:39Z'
+  - date: '2022-05-17T19:42:32Z'
     type: PushEvent
-  - date: '2022-05-17T13:52:06Z'
+  - date: '2022-05-17T19:42:04Z'
     type: PushEvent
-  - date: '2022-05-17T13:52:00Z'
+  - date: '2022-05-17T19:41:28Z'
     type: PushEvent
-  - date: '2022-05-17T13:45:29Z'
+  - date: '2022-05-17T19:38:37Z'
     type: PushEvent
-  - date: '2022-05-17T13:42:33Z'
+  - date: '2022-05-17T19:38:05Z'
     type: PushEvent
-  - date: '2022-05-17T13:41:58Z'
+  - date: '2022-05-17T19:35:09Z'
     type: PushEvent
-  - date: '2022-05-17T13:31:45Z'
+  - date: '2022-05-17T19:31:00Z'
     type: PushEvent
-  - date: '2022-05-17T13:19:46Z'
+  - date: '2022-05-17T19:30:57Z'
     type: PushEvent
-  - date: '2022-05-17T13:07:50Z'
+  - date: '2022-05-17T19:09:03Z'
     type: PushEvent
-  - date: '2022-05-17T12:49:27Z'
+  - date: '2022-05-17T19:07:38Z'
     type: PushEvent
-  - date: '2022-05-17T12:48:55Z'
+  - date: '2022-05-17T19:06:52Z'
     type: PushEvent
-  - date: '2022-05-17T12:45:24Z'
+  - date: '2022-05-17T19:06:29Z'
     type: PushEvent
-  - date: '2022-05-17T12:41:26Z'
+  - date: '2022-05-17T19:01:25Z'
     type: PushEvent
-  - date: '2022-05-17T12:40:03Z'
+  - date: '2022-05-17T18:56:42Z'
     type: PushEvent
-  - date: '2022-05-17T12:37:53Z'
+  - date: '2022-05-17T18:56:11Z'
     type: PushEvent
-  - date: '2022-05-17T12:33:54Z'
+  - date: '2022-05-17T18:55:52Z'
     type: PushEvent
-  - date: '2022-05-17T12:11:11Z'
+  - date: '2022-05-17T18:51:10Z'
     type: PushEvent
-  - date: '2022-05-17T00:50:40Z'
+  - date: '2022-05-17T18:34:58Z'
+    type: CreateEvent
+  - date: '2022-05-17T18:34:58Z'
+    type: ReleaseEvent
+  - date: '2022-05-17T18:34:52Z'
     type: PushEvent
-  - date: '2022-05-17T00:43:32Z'
+  - date: '2022-05-17T18:34:23Z'
     type: PushEvent
-  - date: '2022-05-17T00:40:53Z'
+  - date: '2022-05-17T18:33:17Z'
     type: PushEvent
-  - date: '2022-05-17T00:39:57Z'
+  - date: '2022-05-17T17:40:37Z'
     type: PushEvent
-  - date: '2022-05-17T00:36:16Z'
+  - date: '2022-05-17T17:39:17Z'
     type: PushEvent
-  - date: '2022-05-16T21:37:36Z'
+  - date: '2022-05-17T17:28:26Z'
     type: PushEvent
-  - date: '2022-05-16T21:18:36Z'
+  - date: '2022-05-17T17:27:05Z'
     type: PushEvent
-  - date: '2022-05-16T21:16:57Z'
+  - date: '2022-05-17T17:26:28Z'
     type: PushEvent
-  - date: '2022-05-16T21:14:38Z'
-    type: PushEvent
-  - date: '2022-05-16T21:03:23Z'
+  - date: '2022-05-17T17:21:51Z'
     type: PushEvent
 latestCommit:
-  message: 'fix: edge case with odd number of pages'
+  message: 'fix: binaries'
   url: >-
-    https://api.github.com/repos/leonzalion/print-double-sided/commits/cf5d5f0f6d92aa901b77ae9da36c3350840ff10e
+    https://api.github.com/repos/leonzalion/lionconfig/commits/943d0caf11b611e7542cdad8d14b1c385749a115
   repo:
-    url: https://api.github.com/repos/leonzalion/print-double-sided
-    name: leonzalion/print-double-sided
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
