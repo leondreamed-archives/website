@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-17T20:45:50Z'
+    type: PushEvent
+  - date: '2022-05-17T20:41:14Z'
+    type: PushEvent
+  - date: '2022-05-17T20:40:55Z'
+    type: PushEvent
+  - date: '2022-05-17T20:16:48Z'
+    type: PushEvent
   - date: '2022-05-17T19:43:45Z'
     type: PushEvent
   - date: '2022-05-17T19:43:06Z'
@@ -51,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-17T17:39:17Z'
     type: PushEvent
-  - date: '2022-05-17T17:28:26Z'
-    type: PushEvent
-  - date: '2022-05-17T17:27:05Z'
-    type: PushEvent
-  - date: '2022-05-17T17:26:28Z'
-    type: PushEvent
-  - date: '2022-05-17T17:21:51Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: binaries'
+  message: 'fix: prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/943d0caf11b611e7542cdad8d14b1c385749a115
+    https://api.github.com/repos/leonzalion/lionconfig/commits/5cb0fbb4658c39d04dd677bcc83eac6c5c0ebf2b
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
