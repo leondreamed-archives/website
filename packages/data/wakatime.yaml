@@ -96,7 +96,7 @@ projects:
     totalSeconds: 577.35246
   - name: lion-fixture
     totalSeconds: 573.107959
-  - name: lion-system
+  - name: lionconfig
     totalSeconds: 563.751527
   - name: pnpm
     totalSeconds: 514.895455
