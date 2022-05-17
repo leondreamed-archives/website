@@ -1,4 +1,22 @@
 events:
+  - date: '2022-05-17T13:07:50Z'
+    type: PushEvent
+  - date: '2022-05-17T12:49:27Z'
+    type: PushEvent
+  - date: '2022-05-17T12:48:55Z'
+    type: PushEvent
+  - date: '2022-05-17T12:45:24Z'
+    type: PushEvent
+  - date: '2022-05-17T12:41:26Z'
+    type: PushEvent
+  - date: '2022-05-17T12:40:03Z'
+    type: PushEvent
+  - date: '2022-05-17T12:37:53Z'
+    type: PushEvent
+  - date: '2022-05-17T12:33:54Z'
+    type: PushEvent
+  - date: '2022-05-17T12:11:11Z'
+    type: PushEvent
   - date: '2022-05-17T00:50:40Z'
     type: PushEvent
   - date: '2022-05-17T00:43:32Z'
@@ -39,28 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-16T19:40:18Z'
     type: PushEvent
-  - date: '2022-05-16T19:38:55Z'
-    type: PushEvent
-  - date: '2022-05-16T19:38:53Z'
-    type: PushEvent
-  - date: '2022-05-16T19:37:43Z'
-    type: PushEvent
-  - date: '2022-05-16T19:37:00Z'
-    type: PushEvent
-  - date: '2022-05-16T19:36:27Z'
-    type: PushEvent
-  - date: '2022-05-16T19:36:25Z'
-    type: PushEvent
-  - date: '2022-05-16T19:36:18Z'
-    type: PushEvent
-  - date: '2022-05-16T19:33:41Z'
-    type: PushEvent
-  - date: '2022-05-16T19:32:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'refactor: migrate to lionconfig'
+  message: 'refactor: lionconfig'
   url: >-
-    https://api.github.com/repos/leonzalion/js-jsonl/commits/7be0ed36f6fdf70eee8b4d079be559bdd0402934
+    https://api.github.com/repos/leonzalion/ignoredep/commits/e4d96f107725fcd7b383f6b0c4bd61b337bb4348
   repo:
-    url: https://api.github.com/repos/leonzalion/js-jsonl
-    name: leonzalion/js-jsonl
+    url: https://api.github.com/repos/leonzalion/ignoredep
+    name: leonzalion/ignoredep
