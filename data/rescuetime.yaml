@@ -1,21 +1,21 @@
 topActivities:
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 754
   - category: File Sharing
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 531
+    timeSpent: 2070
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1011
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
     timeSpent: 401
   - category: General Reference & Learning
+    name: chem.libretexts.org
+    productivity: 2
+    timeSpent: 322
+  - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 279
-  - category: Email
-    name: Mail
-    productivity: 0
-    timeSpent: 251
+    timeSpent: 309
