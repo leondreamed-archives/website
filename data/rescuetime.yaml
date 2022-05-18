@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 21899
-  - category: Other
-    name: alacritty
+    timeSpent: 754
+  - category: File Sharing
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 531
+  - category: Uncategorized
+    name: '[unpublished]'
     productivity: 0
-    timeSpent: 11323
+    timeSpent: 401
+  - category: General Reference & Learning
+    name: Preview
+    productivity: 0
+    timeSpent: 279
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 6343
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 4391
-  - category: General Software Development
-    name: electron
-    productivity: 2
-    timeSpent: 892
+    timeSpent: 251
