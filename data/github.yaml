@@ -1,4 +1,20 @@
 events:
+  - date: '2022-05-18T20:18:44Z'
+    type: PushEvent
+  - date: '2022-05-18T20:17:54Z'
+    type: PushEvent
+  - date: '2022-05-18T20:17:40Z'
+    type: PushEvent
+  - date: '2022-05-18T20:15:34Z'
+    type: PushEvent
+  - date: '2022-05-18T20:14:29Z'
+    type: PushEvent
+  - date: '2022-05-18T20:10:36Z'
+    type: PushEvent
+  - date: '2022-05-18T20:10:15Z'
+    type: PushEvent
+  - date: '2022-05-18T20:09:22Z'
+    type: PushEvent
   - date: '2022-05-18T15:11:20Z'
     type: PushEvent
   - date: '2022-05-18T15:09:46Z'
@@ -27,10 +43,6 @@ events:
     type: PushEvent
   - date: '2022-05-18T02:35:54Z'
     type: PushEvent
-  - date: '2022-05-18T01:46:22Z'
-    type: PushEvent
-  - date: '2022-05-18T01:45:26Z'
-    type: PushEvent
   - date: '2022-05-18T00:46:11Z'
     type: PushEvent
   - date: '2022-05-18T00:45:48Z'
@@ -47,22 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-18T00:19:10Z'
     type: PushEvent
-  - date: '2022-05-18T00:18:40Z'
-    type: PushEvent
-  - date: '2022-05-18T00:16:10Z'
-    type: PushEvent
-  - date: '2022-05-18T00:15:07Z'
-    type: PushEvent
-  - date: '2022-05-18T00:13:39Z'
-    type: PushEvent
-  - date: '2022-05-18T00:12:48Z'
-    type: PushEvent
-  - date: '2022-05-18T00:12:11Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: resolve-pkg-from-file option'
+  message: 'chore: remove redundant spread'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/911064ef0711084b0fc28438b6713a8b48912cde
+    https://api.github.com/repos/leonzalion/lionconfig/commits/21a16cd0757fa5eed1a9c6f555180e026f8280b1
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
