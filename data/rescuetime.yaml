@@ -3,19 +3,19 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 2934
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 2017
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1621
+    timeSpent: 1664
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1192
+    timeSpent: 1195
   - category: General Reference & Learning
     name: Preview
     productivity: 0
     timeSpent: 1176
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1016
