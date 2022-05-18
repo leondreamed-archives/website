@@ -6,15 +6,15 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 11045
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 3772
+    timeSpent: 11144
   - category: Email
     name: Mail
     productivity: 0
-    timeSpent: 3216
+    timeSpent: 5869
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 4295
   - category: General Software Development
     name: electron
     productivity: 2
