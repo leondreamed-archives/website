@@ -2,20 +2,20 @@ topActivities:
   - category: File Sharing
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 2070
+    timeSpent: 2808
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1011
-  - category: Uncategorized
+  - category: Engineering & Technology
     name: '[unpublished]'
-    productivity: 0
-    timeSpent: 401
-  - category: General Reference & Learning
-    name: chem.libretexts.org
     productivity: 2
-    timeSpent: 322
+    timeSpent: 793
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 743
   - category: General Reference & Learning
     name: Preview
     productivity: 0
-    timeSpent: 309
+    timeSpent: 636
