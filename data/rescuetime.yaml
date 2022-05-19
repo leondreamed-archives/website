@@ -1,21 +1,21 @@
 topActivities:
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 4283
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 4193
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3532
-  - category: File Sharing
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 2934
+    timeSpent: 1921
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2827
+    timeSpent: 896
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 710
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 580
+  - category: Uncategorized
+    name: dotenv.org
+    productivity: 0
+    timeSpent: 116
