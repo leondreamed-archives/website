@@ -1,12 +1,12 @@
 topActivities:
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 4249
   - category: File Sharing
     name: '[unpublished]'
     productivity: -2
     timeSpent: 2934
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 2263
   - category: Email
     name: Mail
     productivity: 0
@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 1677
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 1202
+    timeSpent: 1335
