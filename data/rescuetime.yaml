@@ -6,16 +6,16 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 3752
+    timeSpent: 4193
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 3532
   - category: File Sharing
     name: '[unpublished]'
     productivity: -2
     timeSpent: 2934
-  - category: Email
-    name: Mail
-    productivity: 0
-    timeSpent: 2345
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2118
+    timeSpent: 2827
