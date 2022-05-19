@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-19T17:17:33Z'
+    type: PushEvent
+  - date: '2022-05-19T16:59:26Z'
+    type: PushEvent
+  - date: '2022-05-19T16:57:19Z'
+    type: PushEvent
+  - date: '2022-05-19T16:56:30Z'
+    type: PushEvent
   - date: '2022-05-19T15:01:00Z'
     type: PushEvent
   - date: '2022-05-19T15:00:00Z'
@@ -49,18 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-18T02:35:54Z'
     type: PushEvent
-  - date: '2022-05-18T00:46:11Z'
-    type: PushEvent
-  - date: '2022-05-18T00:45:48Z'
-    type: PushEvent
-  - date: '2022-05-18T00:45:03Z'
-    type: PushEvent
-  - date: '2022-05-18T00:43:49Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.6
+  message: 'fix: actually fix node-ts'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/a8cd05ef978745344407de9e65cdb406d3df584e
+    https://api.github.com/repos/leonzalion/lionconfig/commits/2e08b772982df0590d62940cb305c4538d833fa8
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
