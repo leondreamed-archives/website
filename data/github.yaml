@@ -57,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-18T00:19:57Z'
     type: PushEvent
-  - date: '2022-05-18T00:19:10Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove redundant spread'
+  message: 1.7.5
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/21a16cd0757fa5eed1a9c6f555180e026f8280b1
+    https://api.github.com/repos/leonzalion/lionconfig/commits/4ea73163ebf05b74136e80795c3b1705b8b8dbce
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
