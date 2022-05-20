@@ -1,4 +1,16 @@
 events:
+  - date: '2022-05-20T15:51:04Z'
+    type: PushEvent
+  - date: '2022-05-20T15:34:16Z'
+    type: PushEvent
+  - date: '2022-05-20T15:09:58Z'
+    type: PushEvent
+  - date: '2022-05-20T15:08:57Z'
+    type: PushEvent
+  - date: '2022-05-20T15:03:45Z'
+    type: PushEvent
+  - date: '2022-05-20T15:00:56Z'
+    type: PushEvent
   - date: '2022-05-20T14:34:38Z'
     type: WatchEvent
   - date: '2022-05-20T04:02:47Z'
@@ -41,20 +53,10 @@ events:
     type: DeleteEvent
   - date: '2022-05-20T02:45:40Z'
     type: PullRequestEvent
-  - date: '2022-05-20T02:45:36Z'
-    type: PullRequestEvent
-  - date: '2022-05-20T02:43:42Z'
-    type: PushEvent
-  - date: '2022-05-20T02:43:13Z'
-    type: PushEvent
-  - date: '2022-05-20T02:41:15Z'
-    type: PushEvent
-  - date: '2022-05-20T02:38:13Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: building'
+  message: 'fix: build script'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/db6d4d9390d15be36089545fc8fd85040be616fb
+    https://api.github.com/repos/leonzalion/blog/commits/4290c7916d6cd385e3599e17b0a9360b983c80ab
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
