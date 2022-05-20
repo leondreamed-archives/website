@@ -1,4 +1,22 @@
 events:
+  - date: '2022-05-20T01:24:29Z'
+    type: PushEvent
+  - date: '2022-05-20T00:25:50Z'
+    type: PushEvent
+  - date: '2022-05-20T00:25:23Z'
+    type: PushEvent
+  - date: '2022-05-20T00:23:20Z'
+    type: PushEvent
+  - date: '2022-05-20T00:19:26Z'
+    type: PushEvent
+  - date: '2022-05-20T00:18:35Z'
+    type: PushEvent
+  - date: '2022-05-20T00:14:27Z'
+    type: PushEvent
+  - date: '2022-05-20T00:13:34Z'
+    type: PushEvent
+  - date: '2022-05-20T00:13:26Z'
+    type: PushEvent
   - date: '2022-05-19T23:42:59Z'
     type: PushEvent
   - date: '2022-05-19T17:57:08Z'
@@ -39,28 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-18T15:09:46Z'
     type: PushEvent
-  - date: '2022-05-18T15:06:30Z'
-    type: PushEvent
-  - date: '2022-05-18T15:03:15Z'
-    type: PushEvent
-  - date: '2022-05-18T14:58:20Z'
-    type: PushEvent
-  - date: '2022-05-18T14:57:17Z'
-    type: PushEvent
-  - date: '2022-05-18T14:55:26Z'
-    type: PushEvent
-  - date: '2022-05-18T14:54:11Z'
-    type: PushEvent
-  - date: '2022-05-18T14:53:24Z'
-    type: PushEvent
-  - date: '2022-05-18T14:52:25Z'
-    type: PushEvent
-  - date: '2022-05-18T14:52:01Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: release script'
+  message: 'feat: postinstall script'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/e1c754d619fddbfbd846b27eac4660f3cf780d83
+    https://api.github.com/repos/leonzalion/lionconfig/commits/e7e895b7910460b9675d20891b4577a79b1f0802
   repo:
-    url: https://api.github.com/repos/leonzalion/lionp
-    name: leonzalion/lionp
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
