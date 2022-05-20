@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-19T23:42:59Z'
+    type: PushEvent
   - date: '2022-05-19T17:57:08Z'
     type: PushEvent
   - date: '2022-05-19T17:54:48Z'
@@ -55,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-18T14:52:01Z'
     type: PushEvent
-  - date: '2022-05-18T14:51:19Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: add lionconfig'
+  message: 'fix: release script'
   url: >-
-    https://api.github.com/repos/leonzalion/lionp/commits/554feaad3053f478fa1dc1eabb1c33ded5b151b4
+    https://api.github.com/repos/leonzalion/lionp/commits/e1c754d619fddbfbd846b27eac4660f3cf780d83
   repo:
     url: https://api.github.com/repos/leonzalion/lionp
     name: leonzalion/lionp
