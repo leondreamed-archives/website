@@ -1,4 +1,10 @@
 events:
+  - date: '2022-05-20T16:16:20Z'
+    type: PushEvent
+  - date: '2022-05-20T16:15:18Z'
+    type: PushEvent
+  - date: '2022-05-20T16:10:42Z'
+    type: PushEvent
   - date: '2022-05-20T15:51:04Z'
     type: PushEvent
   - date: '2022-05-20T15:34:16Z'
@@ -49,10 +55,6 @@ events:
     type: PushEvent
   - date: '2022-05-20T02:46:14Z'
     type: CreateEvent
-  - date: '2022-05-20T02:45:41Z'
-    type: DeleteEvent
-  - date: '2022-05-20T02:45:40Z'
-    type: PullRequestEvent
 latestCommit:
   message: 'fix: build script'
   url: >-
