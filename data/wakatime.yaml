@@ -1,71 +1,71 @@
-dailyAverage: 27736
-totalSeconds: 194149.880204
+dailyAverage: 30624
+totalSeconds: 214369.849147
 languages:
   - name: sh
-    totalSeconds: 71953.68159
+    totalSeconds: 84334.924649
   - name: TypeScript
-    totalSeconds: 56822.043291
-  - name: Markdown
-    totalSeconds: 19932.017112
+    totalSeconds: 65630.857861
   - name: JavaScript
-    totalSeconds: 19599.787094
+    totalSeconds: 19973.634641
   - name: Other
-    totalSeconds: 14986.018495
-  - name: Vue.js
-    totalSeconds: 12065.044514
+    totalSeconds: 15036.713301
   - name: JSON
-    totalSeconds: 9143.277988
+    totalSeconds: 13793.27185
+  - name: Markdown
+    totalSeconds: 13610.082263
+  - name: Vue.js
+    totalSeconds: 12030.250373
   - name: Text
     totalSeconds: 1473.738752
   - name: YAML
-    totalSeconds: 1339.303079
+    totalSeconds: 1447.229736
   - name: Docker
-    totalSeconds: 590.924916
+    totalSeconds: 755.022709
+  - name: Bash
+    totalSeconds: 419.447074
   - name: Git Config
-    totalSeconds: 376.369083
+    totalSeconds: 344.318908
   - name: XML
     totalSeconds: 314.182264
-  - name: Bash
-    totalSeconds: 285.809585
   - name: CSS
     totalSeconds: 150.063584
   - name: HTML
     totalSeconds: 44.67069
   - name: TOML
     totalSeconds: 43.61502
-  - name: Rust
-    totalSeconds: 10.812869
   - name: Smalltalk
     totalSeconds: 4.538773
 projects:
   - name: blog
-    totalSeconds: 61741.445077
+    totalSeconds: 71710.067281
   - name: lionconfig
-    totalSeconds: 35908.008303
-  - name: vue3-spinners
-    totalSeconds: 17593.068624
-  - name: AdminControl
-    totalSeconds: 11871.354824
-  - name: lionp
-    totalSeconds: 10443.040816
-  - name: compile-vue-sfc
-    totalSeconds: 10299.63911
-  - name: leonzalion
-    totalSeconds: 8168.996807
+    totalSeconds: 41270.682214
   - name: dialect
-    totalSeconds: 6513.505999
+    totalSeconds: 18480.707158
+  - name: vue3-spinners
+    totalSeconds: 17140.183323
+  - name: AdminControl
+    totalSeconds: 11297.859319
+  - name: lionp
+    totalSeconds: 10443.140994
+  - name: leonzalion
+    totalSeconds: 7656.981602
   - name: print-double-sided
     totalSeconds: 5634.9778
-  - name: discord-email-tunnel
-    totalSeconds: 4625.288224
+  - name: compile-vue-sfc
+    totalSeconds: 4282.765892
+  - name: pnpm
+    totalSeconds: 3997.838912
   - name: project-scripts
     totalSeconds: 3850.430519
+  - name: discord-email-tunnel
+    totalSeconds: 3057.541156
   - name: configs
-    totalSeconds: 3669.577876
+    totalSeconds: 2290.742501
   - name: lion-fixture
-    totalSeconds: 2395.431488
+    totalSeconds: 2229.182188
   - name: vue3-notify
-    totalSeconds: 2202.081754
+    totalSeconds: 2201.367217
   - name: lion-system
     totalSeconds: 1941.405166
   - name: shownotes
@@ -75,7 +75,7 @@ projects:
   - name: npm-binary
     totalSeconds: 1672.503478
   - name: precommit
-    totalSeconds: 1377.050367
+    totalSeconds: 1486.07923
   - name: website
     totalSeconds: 1244.836448
   - name: vscode-eslint
@@ -84,8 +84,8 @@ projects:
     totalSeconds: 1091.068911
   - name: simple-vue-icon
     totalSeconds: 1050.961583
-  - name: pnpm
-    totalSeconds: 1043.050124
+  - name: web
+    totalSeconds: 911.206794
   - name: lion-git-hooks
     totalSeconds: 880.08015
   - name: ldebug
@@ -108,8 +108,6 @@ projects:
     totalSeconds: 406.395591
   - name: chmodrp
     totalSeconds: 391.183444
-  - name: web
-    totalSeconds: 327.874185
   - name: rollup-plugin-js-imports
     totalSeconds: 287.712362
   - name: markdown-it-playground
@@ -170,10 +168,10 @@ projects:
     totalSeconds: 29.231299
   - name: vite-electron-builder
     totalSeconds: 28.899791
-  - name: yabai-master-stack-plugin
-    totalSeconds: 27.290534
   - name: vue-spinner
     totalSeconds: 23.952781
+  - name: yabai-master-stack-plugin
+    totalSeconds: 21.02208
   - name: Terminal
     totalSeconds: 17.760483
   - name: tabulo
