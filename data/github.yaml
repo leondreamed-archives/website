@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-20T14:34:38Z'
+    type: WatchEvent
   - date: '2022-05-20T04:02:47Z'
     type: PushEvent
   - date: '2022-05-20T03:44:00Z'
@@ -49,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-05-20T02:38:13Z'
     type: PushEvent
-  - date: '2022-05-20T02:29:16Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: edit dockerfile'
+  message: 'fix: building'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/438ea43dcad569f4181ee8a8e65dc6e3d56307ca
+    https://api.github.com/repos/leonzalion/blog/commits/db6d4d9390d15be36089545fc8fd85040be616fb
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog

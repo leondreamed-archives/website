@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1071
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 291
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 239
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 188
+  - category: Email
+    name: Mail
+    productivity: 0
+    timeSpent: 185
