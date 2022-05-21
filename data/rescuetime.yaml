@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3646
+    timeSpent: 3732
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 3043
+    timeSpent: 3166
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 2292
   - category: Writing
     name: Google Documents
     productivity: 2
     timeSpent: 2074
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 1717
