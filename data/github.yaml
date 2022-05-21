@@ -1,4 +1,30 @@
 events:
+  - date: '2022-05-21T15:53:32Z'
+    type: PushEvent
+  - date: '2022-05-21T15:40:17Z'
+    type: PushEvent
+  - date: '2022-05-21T15:33:37Z'
+    type: PushEvent
+  - date: '2022-05-21T15:25:29Z'
+    type: PushEvent
+  - date: '2022-05-21T15:17:58Z'
+    type: PushEvent
+  - date: '2022-05-21T15:17:26Z'
+    type: PushEvent
+  - date: '2022-05-21T15:17:11Z'
+    type: PushEvent
+  - date: '2022-05-21T15:14:20Z'
+    type: PushEvent
+  - date: '2022-05-21T15:06:53Z'
+    type: PushEvent
+  - date: '2022-05-21T15:06:07Z'
+    type: PushEvent
+  - date: '2022-05-21T15:05:30Z'
+    type: PushEvent
+  - date: '2022-05-21T15:04:19Z'
+    type: PushEvent
+  - date: '2022-05-21T15:01:20Z'
+    type: PushEvent
   - date: '2022-05-21T14:55:52Z'
     type: PushEvent
   - date: '2022-05-21T14:51:50Z'
@@ -33,36 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-21T14:24:10Z'
     type: PushEvent
-  - date: '2022-05-21T14:22:54Z'
-    type: PushEvent
-  - date: '2022-05-21T14:09:07Z'
-    type: PushEvent
-  - date: '2022-05-21T14:01:32Z'
-    type: PushEvent
-  - date: '2022-05-21T14:00:40Z'
-    type: PushEvent
-  - date: '2022-05-21T13:57:12Z'
-    type: PushEvent
-  - date: '2022-05-21T13:48:24Z'
-    type: WatchEvent
-  - date: '2022-05-21T13:48:04Z'
-    type: PushEvent
-  - date: '2022-05-21T13:41:27Z'
-    type: PushEvent
-  - date: '2022-05-21T13:31:49Z'
-    type: PushEvent
-  - date: '2022-05-21T13:28:53Z'
-    type: PushEvent
-  - date: '2022-05-21T13:26:53Z'
-    type: PushEvent
-  - date: '2022-05-21T13:26:38Z'
-    type: PushEvent
-  - date: '2022-05-21T13:23:27Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: rust cache'
+  message: 'fix: complie script'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/467d4401a968d3aa387fa16d2f5f97e6afac8158
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/ff6f97cf5862537e195cf9c1ac50ad5a54f6ae82
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
