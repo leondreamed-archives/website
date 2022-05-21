@@ -1,4 +1,44 @@
 events:
+  - date: '2022-05-21T14:55:52Z'
+    type: PushEvent
+  - date: '2022-05-21T14:51:50Z'
+    type: PushEvent
+  - date: '2022-05-21T14:48:38Z'
+    type: PushEvent
+  - date: '2022-05-21T14:47:26Z'
+    type: MemberEvent
+  - date: '2022-05-21T14:41:06Z'
+    type: PushEvent
+  - date: '2022-05-21T14:39:01Z'
+    type: PushEvent
+  - date: '2022-05-21T14:38:14Z'
+    type: ReleaseEvent
+  - date: '2022-05-21T14:38:14Z'
+    type: CreateEvent
+  - date: '2022-05-21T14:38:10Z'
+    type: PushEvent
+  - date: '2022-05-21T14:38:10Z'
+    type: PushEvent
+  - date: '2022-05-21T14:37:40Z'
+    type: PushEvent
+  - date: '2022-05-21T14:37:08Z'
+    type: PushEvent
+  - date: '2022-05-21T14:35:53Z'
+    type: PushEvent
+  - date: '2022-05-21T14:29:57Z'
+    type: PushEvent
+  - date: '2022-05-21T14:29:29Z'
+    type: PushEvent
+  - date: '2022-05-21T14:28:41Z'
+    type: PushEvent
+  - date: '2022-05-21T14:24:10Z'
+    type: PushEvent
+  - date: '2022-05-21T14:22:54Z'
+    type: PushEvent
+  - date: '2022-05-21T14:09:07Z'
+    type: PushEvent
+  - date: '2022-05-21T14:01:32Z'
+    type: PushEvent
   - date: '2022-05-21T14:00:40Z'
     type: PushEvent
   - date: '2022-05-21T13:57:12Z'
@@ -19,50 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-21T13:23:27Z'
     type: PushEvent
-  - date: '2022-05-21T13:17:41Z'
-    type: PushEvent
-  - date: '2022-05-21T13:16:06Z'
-    type: PushEvent
-  - date: '2022-05-21T13:10:40Z'
-    type: PushEvent
-  - date: '2022-05-21T13:09:53Z'
-    type: PushEvent
-  - date: '2022-05-21T13:08:33Z'
-    type: PushEvent
-  - date: '2022-05-21T13:07:18Z'
-    type: PushEvent
-  - date: '2022-05-21T13:06:53Z'
-    type: PushEvent
-  - date: '2022-05-21T13:06:21Z'
-    type: PushEvent
-  - date: '2022-05-21T13:05:48Z'
-    type: PushEvent
-  - date: '2022-05-21T13:04:00Z'
-    type: PushEvent
-  - date: '2022-05-21T13:03:52Z'
-    type: PushEvent
-  - date: '2022-05-21T13:03:02Z'
-    type: PushEvent
-  - date: '2022-05-21T13:02:53Z'
-    type: PushEvent
-  - date: '2022-05-21T12:48:59Z'
-    type: PushEvent
-  - date: '2022-05-21T12:45:30Z'
-    type: PushEvent
-  - date: '2022-05-21T12:43:50Z'
-    type: PushEvent
-  - date: '2022-05-21T12:42:34Z'
-    type: PushEvent
-  - date: '2022-05-21T12:42:07Z'
-    type: PushEvent
-  - date: '2022-05-21T12:41:21Z'
-    type: PushEvent
-  - date: '2022-05-21T12:37:53Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: icon now displays when compiled'
+  message: 'chore: rust cache'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/9e3ebfaf833b423147bec0ea804a5f69292e6de0
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/467d4401a968d3aa387fa16d2f5f97e6afac8158
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
