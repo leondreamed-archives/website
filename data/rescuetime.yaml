@@ -1,21 +1,21 @@
 topActivities:
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1856
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1105
+    timeSpent: 2295
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 708
+    timeSpent: 1902
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1875
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 165
-  - category: General Business
-    name: blog.leonzalion.com
-    productivity: 2
-    timeSpent: 91
+    timeSpent: 1054
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 186
