@@ -15,7 +15,7 @@ topActivities:
     name: Safari
     productivity: 0
     timeSpent: 10
-  - category: Email
-    name: Gmail
-    productivity: 0
+  - category: Writing
+    name: Notion
+    productivity: 2
     timeSpent: 5
