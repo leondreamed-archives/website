@@ -1,34 +1,34 @@
-dailyAverage: 28237
-totalSeconds: 197657.683943
+dailyAverage: 23301
+totalSeconds: 163107.680324
 languages:
   - name: sh
-    totalSeconds: 87310.271737
+    totalSeconds: 74643.599936
   - name: TypeScript
-    totalSeconds: 63361.661497
+    totalSeconds: 51575.58633
   - name: JSON
-    totalSeconds: 15891.488009
+    totalSeconds: 14018.50039
   - name: JavaScript
-    totalSeconds: 12116.47583
-  - name: Other
-    totalSeconds: 8624.549919
+    totalSeconds: 8786.484442
   - name: Vue.js
-    totalSeconds: 8509.496277
+    totalSeconds: 8047.436243
+  - name: Other
+    totalSeconds: 4435.009365
   - name: Markdown
-    totalSeconds: 6112.098117
+    totalSeconds: 2493.847034
   - name: YAML
-    totalSeconds: 2366.689074
+    totalSeconds: 1637.744532
   - name: Docker
     totalSeconds: 755.022709
   - name: XML
     totalSeconds: 404.093209
   - name: Git Config
-    totalSeconds: 388.444944
+    totalSeconds: 388.099589
   - name: Bash
-    totalSeconds: 290.863701
+    totalSeconds: 217.633015
   - name: HTML
-    totalSeconds: 70.779506
+    totalSeconds: 60.828671
   - name: TOML
-    totalSeconds: 43.61502
+    totalSeconds: 42.119911
   - name: C++
     totalSeconds: 16.311916
   - name: CSS
@@ -39,51 +39,45 @@ languages:
     totalSeconds: 4.904441
 projects:
   - name: blog
-    totalSeconds: 62496.058273
+    totalSeconds: 33239.586955
   - name: lionconfig
-    totalSeconds: 36798.36285
+    totalSeconds: 27246.897084
   - name: AdminControl
-    totalSeconds: 26026.492937
+    totalSeconds: 26093.762595
   - name: dialect
-    totalSeconds: 18532.720401
+    totalSeconds: 18613.017647
+  - name: web
+    totalSeconds: 10239.103989
   - name: leonzalion
-    totalSeconds: 7456.929722
+    totalSeconds: 7009.68356
   - name: print-double-sided
     totalSeconds: 5634.9778
   - name: lionp
     totalSeconds: 4178.9816
   - name: pnpm
-    totalSeconds: 3777.162849
-  - name: web
-    totalSeconds: 3178.536971
+    totalSeconds: 3482.943457
   - name: project-scripts
     totalSeconds: 3004.014822
   - name: vscode-extension
     totalSeconds: 2936.307091
   - name: reactive-emails
-    totalSeconds: 2541.33589
-  - name: discord-email-tunnel
-    totalSeconds: 2378.966255
+    totalSeconds: 2815.387093
   - name: lion-fixture
     totalSeconds: 2283.55902
-  - name: shownotes
-    totalSeconds: 1895.882421
   - name: create-project
     totalSeconds: 1554.498481
   - name: precommit
-    totalSeconds: 1476.438974
+    totalSeconds: 1453.703834
   - name: lion-system
-    totalSeconds: 1475.294356
+    totalSeconds: 1377.653639
   - name: reactive-emails-app
     totalSeconds: 1275.250787
-  - name: website
-    totalSeconds: 1244.836448
   - name: vscode-live-share-test
     totalSeconds: 1227.735266
   - name: vue-lion
     totalSeconds: 1210.935438
-  - name: vscode-eslint
-    totalSeconds: 1141.809763
+  - name: website
+    totalSeconds: 1207.901371
   - name: get-secure-input-processes
     totalSeconds: 1126.239942
   - name: vue-animate-height
@@ -98,8 +92,6 @@ projects:
     totalSeconds: 880.08015
   - name: lion-utils
     totalSeconds: 819.192804
-  - name: just
-    totalSeconds: 605.169251
   - name: vue3-notify
     totalSeconds: 571.090536
   - name: null-to-undefined
@@ -112,12 +104,8 @@ projects:
     totalSeconds: 325.344313
   - name: markdown-it-playground
     totalSeconds: 252.484876
-  - name: html2canvas
-    totalSeconds: 205.922844
   - name: lion-architecture
     totalSeconds: 201.976439
-  - name: vpciclubs.com
-    totalSeconds: 196.21577
   - name: npm-binary
     totalSeconds: 190.25599
   - name: ignoredep
@@ -134,14 +122,12 @@ projects:
     totalSeconds: 129.938325
   - name: rollup-plugin-js-imports
     totalSeconds: 105.88974
-  - name: dist
-    totalSeconds: 75.298202
-  - name: vscode-languageserver-node
-    totalSeconds: 70.806933
+  - name: discord-email-tunnel
+    totalSeconds: 63.730197
   - name: js-jsonl
     totalSeconds: 62.373777
   - name: sync-index
-    totalSeconds: 58.668034
+    totalSeconds: 57.73125
   - name: applescript-utils
     totalSeconds: 56.471408
   - name: doiuse-email
@@ -168,13 +154,11 @@ projects:
     totalSeconds: 28.899791
   - name: yabai-master-stack-plugin
     totalSeconds: 21.02208
-  - name: tabulo
-    totalSeconds: 5.700493
-  - name: Terminal
-    totalSeconds: 2.223022
   - name: vscode-ejs
     totalSeconds: 1.638851
   - name: hashed-out
     totalSeconds: 1.297199
   - name: deep-clone-fn
     totalSeconds: 0.840918
+  - name: Terminal
+    totalSeconds: 0.185815
