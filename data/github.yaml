@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-23T19:36:39Z'
+    type: PushEvent
   - date: '2022-05-23T15:58:27Z'
     type: PushEvent
   - date: '2022-05-23T15:19:48Z'
@@ -55,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-21T15:40:17Z'
     type: PushEvent
-  - date: '2022-05-21T15:33:37Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.2
+  message: 'fix: link to latest releases'
   url: >-
-    https://api.github.com/repos/AdminControlApp/get-secure-input-processes/commits/ae1b165190e87ec938ab3aec0af51c8ee469a075
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/5b43b784021e511d7a73335aee85890a5d5abe0e
   repo:
-    url: https://api.github.com/repos/AdminControlApp/get-secure-input-processes
-    name: AdminControlApp/get-secure-input-processes
+    url: https://api.github.com/repos/AdminControlApp/AdminControl
+    name: AdminControlApp/AdminControl
