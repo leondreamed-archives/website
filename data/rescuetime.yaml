@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2689
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 870
+    timeSpent: 1552
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1005
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 378
+    timeSpent: 637
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 366
-  - category: Uncategorized
-    name: bitwarden
-    productivity: 0
-    timeSpent: 349
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 251
+    timeSpent: 443
