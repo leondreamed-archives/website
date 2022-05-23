@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-23T13:24:10Z'
+    type: PushEvent
   - date: '2022-05-22T23:13:21Z'
     type: PushEvent
   - date: '2022-05-22T01:21:25Z'
@@ -55,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-05-21T15:04:19Z'
     type: PushEvent
-  - date: '2022-05-21T15:01:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: github workflow'
+  message: 'chore: lockfile'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/d171d532d93ea7f64b51344a89155fccf525fc69
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/5f43a639059c68d746c3b73b2d7d182e69e5c440
   repo:
     url: https://api.github.com/repos/AdminControlApp/AdminControl
     name: AdminControlApp/AdminControl
