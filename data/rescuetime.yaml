@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 726
-  - category: General Software Development
-    name: '[unpublished]'
+    timeSpent: 870
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 378
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 130
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 25
+    timeSpent: 366
+  - category: Uncategorized
+    name: bitwarden
+    productivity: 0
+    timeSpent: 349
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 13
-  - category: General Utilities
-    name: Finder
-    productivity: 2
-    timeSpent: 7
+    timeSpent: 251
