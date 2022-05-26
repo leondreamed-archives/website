@@ -1,21 +1,21 @@
 topActivities:
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 865
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 484
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 345
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 111
-  - category: General Software Development
-    name: leonzalion.github.io
+    timeSpent: 317
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 100
-  - category: General Software Development
-    name: npmjs.com
-    productivity: 2
-    timeSpent: 30
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 14
-  - category: Browsers
-    name: 'safari-resource:'
-    productivity: 0
-    timeSpent: 7
+    timeSpent: 108

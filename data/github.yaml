@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-26T01:27:08Z'
+    type: PushEvent
   - date: '2022-05-24T17:28:45Z'
     type: WatchEvent
   - date: '2022-05-24T15:35:10Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-23T13:24:10Z'
     type: PushEvent
-  - date: '2022-05-22T23:13:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update main'
+  message: 'feat: reactive hash secret input box'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/b212bb35886863faeeda9807d3217153c9ed7976
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/bc562eac45b7ce831a0f27e2197ee60b5533c412
   repo:
     url: https://api.github.com/repos/ReactiveEmails/reactive-emails
     name: ReactiveEmails/reactive-emails
