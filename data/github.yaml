@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-27T15:33:32Z'
+    type: PushEvent
+  - date: '2022-05-27T15:26:51Z'
+    type: PushEvent
+  - date: '2022-05-27T15:24:39Z'
+    type: PushEvent
+  - date: '2022-05-27T15:23:47Z'
+    type: PushEvent
   - date: '2022-05-27T13:07:04Z'
     type: PushEvent
   - date: '2022-05-27T13:05:55Z'
@@ -51,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-23T15:58:27Z'
     type: PushEvent
-  - date: '2022-05-23T15:19:48Z'
-    type: PushEvent
-  - date: '2022-05-23T15:13:32Z'
-    type: PushEvent
-  - date: '2022-05-23T15:11:16Z'
-    type: PushEvent
-  - date: '2022-05-23T14:57:19Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: deps'
+  message: 'docs: update specification for dealing with capitalization'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/9d9293030f28eb2d20dbf528ebcf228bd0d62d94
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/062018b81290ae810cb52d4800fce2d6e8eb55a8
   repo:
     url: https://api.github.com/repos/ReactiveEmails/reactive-emails
     name: ReactiveEmails/reactive-emails

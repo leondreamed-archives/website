@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1471
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1231
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 647
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 631
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 374
