@@ -1,4 +1,12 @@
 events:
+  - date: '2022-05-27T13:07:04Z'
+    type: PushEvent
+  - date: '2022-05-27T13:05:55Z'
+    type: PushEvent
+  - date: '2022-05-27T12:45:14Z'
+    type: PushEvent
+  - date: '2022-05-27T12:44:54Z'
+    type: PushEvent
   - date: '2022-05-27T00:19:13Z'
     type: IssueCommentEvent
   - date: '2022-05-26T01:27:08Z'
@@ -51,18 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-23T14:57:19Z'
     type: PushEvent
-  - date: '2022-05-23T14:51:05Z'
-    type: PushEvent
-  - date: '2022-05-23T14:49:21Z'
-    type: PushEvent
-  - date: '2022-05-23T14:46:16Z'
-    type: PushEvent
-  - date: '2022-05-23T14:40:36Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: settings page'
+  message: 'chore: deps'
   url: >-
-    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/7d81cdde9627c05d37905a72fe0e79870768c5d8
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/9d9293030f28eb2d20dbf528ebcf228bd0d62d94
   repo:
     url: https://api.github.com/repos/ReactiveEmails/reactive-emails
     name: ReactiveEmails/reactive-emails

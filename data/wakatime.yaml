@@ -1,34 +1,34 @@
-dailyAverage: 20495
-totalSeconds: 143466.232631
+dailyAverage: 16398
+totalSeconds: 114784.842822
 languages:
   - name: sh
-    totalSeconds: 58504.554834
+    totalSeconds: 44011.628312
   - name: TypeScript
-    totalSeconds: 44478.721546
-  - name: JSON
-    totalSeconds: 12678.214201
+    totalSeconds: 33086.172757
   - name: Vue.js
-    totalSeconds: 11485.297133
-  - name: JavaScript
-    totalSeconds: 5664.026653
+    totalSeconds: 11500.380861
+  - name: JSON
+    totalSeconds: 8909.294533
   - name: YAML
-    totalSeconds: 5471.783901
+    totalSeconds: 6728.672217
+  - name: Docker
+    totalSeconds: 3353.16834
+  - name: JavaScript
+    totalSeconds: 3125.071141
   - name: Other
-    totalSeconds: 3202.666344
+    totalSeconds: 2656.970174
   - name: SQL
     totalSeconds: 1360.183758
-  - name: Docker
-    totalSeconds: 1155.721315
   - name: Text
     totalSeconds: 1073.88702
   - name: Markdown
-    totalSeconds: 933.983448
+    totalSeconds: 903.343936
   - name: XML
     totalSeconds: 283.049048
   - name: Bash
-    totalSeconds: 187.885768
+    totalSeconds: 251.74357
   - name: Git Config
-    totalSeconds: 115.983041
+    totalSeconds: 125.306364
   - name: HTML
     totalSeconds: 39.464035
   - name: C++
@@ -41,27 +41,23 @@ languages:
     totalSeconds: 1.887676
 projects:
   - name: web
-    totalSeconds: 40874.654274
-  - name: blog
-    totalSeconds: 23469.208678
+    totalSeconds: 47870.832871
   - name: AdminControl
     totalSeconds: 15637.10624
   - name: reactive-emails
     totalSeconds: 13724.523746
-  - name: dialect
-    totalSeconds: 12214.473602
   - name: vscode-extension
     totalSeconds: 8481.176891
-  - name: lionconfig
-    totalSeconds: 8293.146861
+  - name: blog
+    totalSeconds: 7892.361971
   - name: yabai-master-stack-plugin
     totalSeconds: 5456.79771
   - name: leonzalion
-    totalSeconds: 4011.770607
-  - name: pnpm
-    totalSeconds: 2954.788788
+    totalSeconds: 3770.481103
+  - name: lionconfig
+    totalSeconds: 2930.47295
   - name: precommit
-    totalSeconds: 2335.269822
+    totalSeconds: 2240.495617
   - name: leonzalion-google-workspace
     totalSeconds: 1925.744138
   - name: reactive-emails-app
@@ -80,6 +76,8 @@ projects:
     totalSeconds: 414.808871
   - name: cli-highlighter
     totalSeconds: 399.909652
+  - name: dialect
+    totalSeconds: 247.272443
   - name: npm-binary
     totalSeconds: 190.25599
   - name: compile-vue-sfc
@@ -93,7 +91,7 @@ projects:
   - name: ldebug
     totalSeconds: 63.014061
   - name: discord-email-tunnel
-    totalSeconds: 52.100448
+    totalSeconds: 26.510324
   - name: vue3-spinners
     totalSeconds: 19.62652
   - name: timeblocker
@@ -104,5 +102,3 @@ projects:
     totalSeconds: 1.128932
   - name: deep-clone-fn
     totalSeconds: 0.840918
-  - name: lionp
-    totalSeconds: 0.100178
