@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 1277
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 890
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 978
