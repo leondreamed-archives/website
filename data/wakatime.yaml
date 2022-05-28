@@ -1,104 +1,84 @@
-dailyAverage: 16398
-totalSeconds: 114784.842822
+dailyAverage: 14507
+totalSeconds: 101546.273936
 languages:
   - name: sh
-    totalSeconds: 44011.628312
+    totalSeconds: 39432.483298
   - name: TypeScript
-    totalSeconds: 33086.172757
+    totalSeconds: 29866.481788
   - name: Vue.js
-    totalSeconds: 11500.380861
+    totalSeconds: 7593.892853
   - name: JSON
-    totalSeconds: 8909.294533
+    totalSeconds: 6648.596956
   - name: YAML
-    totalSeconds: 6728.672217
+    totalSeconds: 6622.587571
+  - name: JavaScript
+    totalSeconds: 3373.274478
   - name: Docker
     totalSeconds: 3353.16834
-  - name: JavaScript
-    totalSeconds: 3125.071141
   - name: Other
-    totalSeconds: 2656.970174
+    totalSeconds: 2547.63367
+  - name: Text
+    totalSeconds: 1685.66787
   - name: SQL
     totalSeconds: 1360.183758
-  - name: Text
-    totalSeconds: 1073.88702
   - name: Markdown
-    totalSeconds: 903.343936
-  - name: XML
-    totalSeconds: 283.049048
+    totalSeconds: 862.966773
   - name: Bash
-    totalSeconds: 251.74357
+    totalSeconds: 318.805684
+  - name: XML
+    totalSeconds: 281.651049
   - name: Git Config
-    totalSeconds: 125.306364
+    totalSeconds: 110.685303
   - name: HTML
-    totalSeconds: 39.464035
-  - name: C++
-    totalSeconds: 16.311916
+    totalSeconds: 21.984824
   - name: CSS
-    totalSeconds: 10.838682
+    totalSeconds: 9.404735
   - name: TOML
     totalSeconds: 4.438656
-  - name: Smalltalk
-    totalSeconds: 1.887676
 projects:
   - name: web
-    totalSeconds: 47870.832871
-  - name: AdminControl
-    totalSeconds: 15637.10624
+    totalSeconds: 47860.4465
   - name: reactive-emails
-    totalSeconds: 13724.523746
+    totalSeconds: 14129.429771
+  - name: AdminControl
+    totalSeconds: 10481.785732
   - name: vscode-extension
-    totalSeconds: 8481.176891
-  - name: blog
-    totalSeconds: 7892.361971
+    totalSeconds: 5544.8698
   - name: yabai-master-stack-plugin
     totalSeconds: 5456.79771
+  - name: blog
+    totalSeconds: 3512.542212
   - name: leonzalion
-    totalSeconds: 3770.481103
-  - name: lionconfig
-    totalSeconds: 2930.47295
+    totalSeconds: 3285.687887
+  - name: leonzalion-google-workspace
+    totalSeconds: 2715.598236
+  - name: inquirer-press-to-continue
+    totalSeconds: 2691.005691
   - name: precommit
     totalSeconds: 2240.495617
-  - name: leonzalion-google-workspace
-    totalSeconds: 1925.744138
+  - name: lionconfig
+    totalSeconds: 1890.585576
   - name: reactive-emails-app
     totalSeconds: 1275.250787
-  - name: vscode-live-share-test
-    totalSeconds: 1227.735266
   - name: get-secure-input-processes
     totalSeconds: 1126.239942
   - name: create-project
     totalSeconds: 1040.334319
-  - name: vue-lion
-    totalSeconds: 508.938467
-  - name: lion-fixture
-    totalSeconds: 461.235491
   - name: phone-call-input
-    totalSeconds: 414.808871
-  - name: cli-highlighter
-    totalSeconds: 399.909652
+    totalSeconds: 325.931475
   - name: dialect
-    totalSeconds: 247.272443
-  - name: npm-binary
-    totalSeconds: 190.25599
+    totalSeconds: 195.2592
   - name: compile-vue-sfc
-    totalSeconds: 171.323603
-  - name: lion-utils
-    totalSeconds: 133.748647
+    totalSeconds: 148.904906
   - name: web-test
     totalSeconds: 122.3248
-  - name: jslatex-vscode-extension
-    totalSeconds: 77.185309
-  - name: ldebug
-    totalSeconds: 63.014061
   - name: discord-email-tunnel
     totalSeconds: 26.510324
   - name: vue3-spinners
     totalSeconds: 19.62652
   - name: timeblocker
     totalSeconds: 2.496566
-  - name: vscode-ejs
-    totalSeconds: 1.638851
   - name: Terminal
-    totalSeconds: 1.128932
+    totalSeconds: 0.943117
   - name: deep-clone-fn
     totalSeconds: 0.840918

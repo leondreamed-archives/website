@@ -1,4 +1,20 @@
 events:
+  - date: '2022-05-28T12:57:20Z'
+    type: PushEvent
+  - date: '2022-05-28T12:43:45Z'
+    type: PushEvent
+  - date: '2022-05-28T12:28:59Z'
+    type: PushEvent
+  - date: '2022-05-28T12:20:13Z'
+    type: PushEvent
+  - date: '2022-05-28T12:18:47Z'
+    type: PushEvent
+  - date: '2022-05-28T12:14:11Z'
+    type: PushEvent
+  - date: '2022-05-28T11:59:41Z'
+    type: PushEvent
+  - date: '2022-05-28T11:59:19Z'
+    type: PushEvent
   - date: '2022-05-27T16:08:08Z'
     type: IssueCommentEvent
   - date: '2022-05-27T16:04:42Z'
@@ -43,26 +59,10 @@ events:
     type: CreateEvent
   - date: '2022-05-24T12:33:16Z'
     type: ReleaseEvent
-  - date: '2022-05-24T12:32:50Z'
-    type: PushEvent
-  - date: '2022-05-24T12:32:27Z'
-    type: PushEvent
-  - date: '2022-05-24T12:32:03Z'
-    type: PushEvent
-  - date: '2022-05-24T12:30:41Z'
-    type: PushEvent
-  - date: '2022-05-24T12:30:08Z'
-    type: PushEvent
-  - date: '2022-05-24T12:17:29Z'
-    type: PushEvent
-  - date: '2022-05-24T12:12:15Z'
-    type: PushEvent
-  - date: '2022-05-24T12:10:33Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: bug fixes'
+  message: 'chore: update dep'
   url: >-
-    https://api.github.com/repos/leonzalion/yabai-master-stack-plugin/commits/9ada2752d043e75543280c21e4a89791b8059338
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/97cad336f1e950cffd560d6fb875a37e671a251d
   repo:
-    url: https://api.github.com/repos/leonzalion/yabai-master-stack-plugin
-    name: leonzalion/yabai-master-stack-plugin
+    url: https://api.github.com/repos/AdminControlApp/AdminControl
+    name: AdminControlApp/AdminControl
