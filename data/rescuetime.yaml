@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: us-east-1.console.aws.amazon.com
     productivity: 2
-    timeSpent: 2164
+    timeSpent: 3089
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1571
-  - category: Uncategorized
-    name: ui.dotenv.org
-    productivity: 0
-    timeSpent: 599
+    timeSpent: 1679
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 413
+    timeSpent: 1039
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 387
+    timeSpent: 808
+  - category: General Reference & Learning
+    name: en.wikipedia.org
+    productivity: 2
+    timeSpent: 689
