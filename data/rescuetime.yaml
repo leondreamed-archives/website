@@ -3,19 +3,19 @@ topActivities:
     name: us-east-1.console.aws.amazon.com
     productivity: 2
     timeSpent: 3238
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2144
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1039
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 942
+    timeSpent: 2464
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 2238
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 903
+    timeSpent: 1312
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 983
