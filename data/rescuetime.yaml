@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3986
+    timeSpent: 4069
   - category: General Software Development
     name: us-east-1.console.aws.amazon.com
     productivity: 2
-    timeSpent: 2681
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 2081
+    timeSpent: 2886
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1990
+    timeSpent: 2598
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 2180
