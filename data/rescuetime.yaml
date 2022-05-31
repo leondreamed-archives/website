@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6724
+    timeSpent: 6920
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 5612
+    timeSpent: 5657
   - category: Communications
     name: discord.com
     productivity: -1
@@ -14,8 +14,8 @@ topActivities:
   - category: General Software Development
     name: us-east-1.console.aws.amazon.com
     productivity: 2
-    timeSpent: 4297
+    timeSpent: 4528
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 3162
+    timeSpent: 3276
