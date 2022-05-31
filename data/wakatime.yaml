@@ -1,76 +1,78 @@
-dailyAverage: 13671
-totalSeconds: 95697.264035
+dailyAverage: 12875
+totalSeconds: 90127.468562
 languages:
   - name: sh
-    totalSeconds: 35892.072359
+    totalSeconds: 43632.77193
   - name: TypeScript
-    totalSeconds: 26791.021733
-  - name: YAML
-    totalSeconds: 7584.241016
-  - name: Vue.js
-    totalSeconds: 7457.09752
+    totalSeconds: 20507.760119
   - name: JSON
-    totalSeconds: 7357.166951
+    totalSeconds: 12293.86307
+  - name: YAML
+    totalSeconds: 4495.832753
   - name: Docker
-    totalSeconds: 3458.512875
+    totalSeconds: 4015.100346
   - name: Other
-    totalSeconds: 2860.654705
+    totalSeconds: 3776.47481
   - name: JavaScript
-    totalSeconds: 2664.873404
+    totalSeconds: 2841.387462
+  - name: Vue.js
+    totalSeconds: 1236.823226
   - name: Text
-    totalSeconds: 1685.66787
-  - name: SQL
-    totalSeconds: 1360.183758
-  - name: Markdown
-    totalSeconds: 820.239941
+    totalSeconds: 611.78085
   - name: Bash
-    totalSeconds: 361.726649
-  - name: XML
-    totalSeconds: 193.138103
+    totalSeconds: 362.771635
   - name: Git Config
-    totalSeconds: 39.564315
+    totalSeconds: 72.121797
+  - name: CSS
+    totalSeconds: 23.394299
+  - name: Markdown
+    totalSeconds: 17.874011
   - name: Rust
     totalSeconds: 9.863914
-  - name: CSS
-    totalSeconds: 9.404735
-  - name: HTML
-    totalSeconds: 8.050236
+  - name: XML
+    totalSeconds: 4.222434
+  - name: SQL
+    totalSeconds: 1.053147
   - name: TOML
-    totalSeconds: 4.438656
+    totalSeconds: 0.847569
 projects:
   - name: web
-    totalSeconds: 53624.67168
-  - name: reactive-emails
-    totalSeconds: 11314.042678
+    totalSeconds: 58812.474064
   - name: blog
-    totalSeconds: 6299.045699
+    totalSeconds: 6304.213077
   - name: vscode-extension
     totalSeconds: 5544.8698
   - name: yabai-master-stack-plugin
     totalSeconds: 5456.79771
+  - name: leonzalion
+    totalSeconds: 3793.688753
   - name: precommit
-    totalSeconds: 3401.069624
+    totalSeconds: 3394.098292
   - name: lionconfig
-    totalSeconds: 3085.219134
-  - name: leonzalion-google-workspace
-    totalSeconds: 2715.598236
+    totalSeconds: 3037.019259
   - name: inquirer-press-to-continue
     totalSeconds: 2691.005691
-  - name: leonzalion
-    totalSeconds: 2188.700524
   - name: AdminControl
-    totalSeconds: 1584.072557
+    totalSeconds: 1848.501563
+  - name: leonzalion-google-workspace
+    totalSeconds: 1739.097726
+  - name: reactive-emails
+    totalSeconds: 404.906025
+  - name: shownotes
+    totalSeconds: 342.745008
   - name: lion-utils
     totalSeconds: 180.503662
   - name: discord-email-tunnel
     totalSeconds: 142.13075
-  - name: web-test
-    totalSeconds: 122.3248
   - name: dialect
     totalSeconds: 114.961954
   - name: phone-call-input
     totalSeconds: 89.464558
+  - name: vpcc-web-dev
+    totalSeconds: 3.260178
   - name: timeblocker
     totalSeconds: 2.496566
   - name: Terminal
     totalSeconds: 0.943117
+  - name: tabulo
+    totalSeconds: 0.765619
