@@ -1,4 +1,6 @@
 events:
+  - date: '2022-05-31T20:53:01Z'
+    type: WatchEvent
   - date: '2022-05-31T12:28:02Z'
     type: WatchEvent
   - date: '2022-05-30T02:08:49Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-05-27T00:19:13Z'
     type: IssueCommentEvent
-  - date: '2022-05-26T01:27:08Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: update dep'
+  message: 'chore: rename package'
   url: >-
-    https://api.github.com/repos/AdminControlApp/AdminControl/commits/97cad336f1e950cffd560d6fb875a37e671a251d
+    https://api.github.com/repos/ReactiveEmails/reactive-emails/commits/f934913f040a102864adb2b5d4b96fe792a5a165
   repo:
-    url: https://api.github.com/repos/AdminControlApp/AdminControl
-    name: AdminControlApp/AdminControl
+    url: https://api.github.com/repos/ReactiveEmails/reactive-emails
+    name: ReactiveEmails/reactive-emails
