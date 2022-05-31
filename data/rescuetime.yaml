@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3153
+    timeSpent: 5228
   - category: General Software Development
     name: us-east-1.console.aws.amazon.com
     productivity: 2
-    timeSpent: 893
+    timeSpent: 1015
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1010
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 671
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 618
-  - category: Engineering & Technology
-    name: kops.sigs.k8s.io
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 412
+    timeSpent: 450
