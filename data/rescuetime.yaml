@@ -6,16 +6,16 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 5772
+    timeSpent: 5783
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 3742
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1752
+    timeSpent: 1822
   - category: General Software Development
     name: us-east-1.console.aws.amazon.com
     productivity: 2
     timeSpent: 1632
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1169
