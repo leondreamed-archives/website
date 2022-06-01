@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6960
+    timeSpent: 7875
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1036
+    timeSpent: 1319
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
-    timeSpent: 770
+    timeSpent: 1089
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 493
-  - category: Uncategorized
-    name: prisma.io
-    productivity: 0
-    timeSpent: 385
+    timeSpent: 528
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 400
