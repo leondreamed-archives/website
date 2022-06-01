@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-01T21:25:06Z'
+    type: WatchEvent
   - date: '2022-06-01T02:37:29Z'
     type: PushEvent
   - date: '2022-06-01T02:37:22Z'
@@ -53,8 +55,6 @@ events:
     type: IssueCommentEvent
   - date: '2022-05-27T16:04:42Z'
     type: ReleaseEvent
-  - date: '2022-05-27T16:04:42Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: update lionconfig'
   url: >-
