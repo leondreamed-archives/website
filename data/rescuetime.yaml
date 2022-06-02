@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 951
+    timeSpent: 2555
   - category: Browsers
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 810
+    timeSpent: 1784
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 1601
   - category: Video
     name: youtube.com
     productivity: -2
     timeSpent: 781
-  - category: Editing & IDEs
-    name: localhost:3001
-    productivity: 2
-    timeSpent: 470
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 147
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 344
