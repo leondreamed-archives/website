@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 11326
+    timeSpent: 11545
+  - category: General Software Development
+    name: us-east-1.console.aws.amazon.com
+    productivity: 2
+    timeSpent: 3709
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 3062
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
     timeSpent: 2834
-  - category: General Software Development
-    name: us-east-1.console.aws.amazon.com
-    productivity: 2
-    timeSpent: 2617
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 2473
-  - category: Browsers
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1826
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 2032
