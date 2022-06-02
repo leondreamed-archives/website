@@ -10,12 +10,12 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2492
+    timeSpent: 2767
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
     timeSpent: 2437
-  - category: Search
-    name: google.com
+  - category: Meetings
+    name: meet.google.com
     productivity: 1
-    timeSpent: 1846
+    timeSpent: 2310
