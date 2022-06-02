@@ -1,4 +1,10 @@
 events:
+  - date: '2022-06-01T22:50:41Z'
+    type: PushEvent
+  - date: '2022-06-01T22:49:31Z'
+    type: PushEvent
+  - date: '2022-06-01T22:28:55Z'
+    type: PushEvent
   - date: '2022-06-01T21:25:06Z'
     type: WatchEvent
   - date: '2022-06-01T02:37:29Z'
@@ -49,16 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-28T11:59:41Z'
     type: PushEvent
-  - date: '2022-05-28T11:59:19Z'
-    type: PushEvent
-  - date: '2022-05-27T16:08:08Z'
-    type: IssueCommentEvent
-  - date: '2022-05-27T16:04:42Z'
-    type: ReleaseEvent
 latestCommit:
-  message: 'chore: update lionconfig'
+  message: 0.1.4
   url: >-
-    https://api.github.com/repos/leonzalion/lion-utils/commits/ad8e29a7fc2f6c7622d54e19f87eaf265eb1401b
+    https://api.github.com/repos/leonzalion/lion-utils/commits/6c1862cc0fccd5387e186d40523f2b954289550e
   repo:
     url: https://api.github.com/repos/leonzalion/lion-utils
     name: leonzalion/lion-utils
