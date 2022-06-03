@@ -1,4 +1,10 @@
 events:
+  - date: '2022-06-03T18:00:19Z'
+    type: WatchEvent
+  - date: '2022-06-03T17:51:27Z'
+    type: WatchEvent
+  - date: '2022-06-03T17:48:39Z'
+    type: WatchEvent
   - date: '2022-06-03T15:22:54Z'
     type: WatchEvent
   - date: '2022-06-03T01:16:00Z'
@@ -49,16 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-30T02:03:46Z'
     type: PushEvent
-  - date: '2022-05-30T02:03:38Z'
-    type: PushEvent
-  - date: '2022-05-30T02:02:51Z'
-    type: PushEvent
-  - date: '2022-05-28T12:57:20Z'
-    type: PushEvent
 latestCommit:
-  message: 'fix: typechecking'
+  message: 'chore: gitignore spacing'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/1d82a9832adefac8e6f1182f23b65ac903d80e61
+    https://api.github.com/repos/leonzalion/blog/commits/71701b2923e6c4a617c3ab349b4c10a4de4ba968
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
