@@ -1,4 +1,8 @@
 events:
+  - date: '2022-06-03T01:16:00Z'
+    type: WatchEvent
+  - date: '2022-06-03T01:13:02Z'
+    type: WatchEvent
   - date: '2022-06-02T15:41:45Z'
     type: PushEvent
   - date: '2022-06-02T15:40:06Z'
@@ -51,14 +55,10 @@ events:
     type: PushEvent
   - date: '2022-05-28T12:43:45Z'
     type: PushEvent
-  - date: '2022-05-28T12:28:59Z'
-    type: PushEvent
-  - date: '2022-05-28T12:20:13Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.20
+  message: 'test: use cwd to speed up tests'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/439081315fc01c94002b7ad38f946e01bf753265
+    https://api.github.com/repos/leonzalion/lionconfig/commits/4ea24dfdccf1226f637918014e86b67f18a63eab
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
