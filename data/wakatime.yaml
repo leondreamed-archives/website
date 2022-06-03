@@ -1,34 +1,36 @@
-dailyAverage: 17204
-totalSeconds: 120426.680099
+dailyAverage: 21577
+totalSeconds: 151036.748968
 languages:
   - name: sh
-    totalSeconds: 57961.849937
+    totalSeconds: 71520.566352
   - name: TypeScript
-    totalSeconds: 30640.093552
+    totalSeconds: 44662.971896
   - name: JSON
-    totalSeconds: 11063.367675
+    totalSeconds: 11635.917093
   - name: YAML
-    totalSeconds: 10617.447254
-  - name: Other
-    totalSeconds: 5253.542896
+    totalSeconds: 10890.061363
   - name: JavaScript
-    totalSeconds: 3470.98
-  - name: Docker
-    totalSeconds: 3152.768427
+    totalSeconds: 7242.006818
+  - name: Other
+    totalSeconds: 5525.946713
   - name: Bash
-    totalSeconds: 1073.89211
+    totalSeconds: 1123.075959
   - name: TOML
     totalSeconds: 826.823664
+  - name: Docker
+    totalSeconds: 799.477608
+  - name: Markdown
+    totalSeconds: 660.532262
   - name: Text
     totalSeconds: 611.78085
   - name: Vue.js
     totalSeconds: 446.58254
   - name: SQL
-    totalSeconds: 287.164181
-  - name: Markdown
-    totalSeconds: 181.297535
+    totalSeconds: 439.870117
+  - name: Charmci
+    totalSeconds: 76.873237
   - name: Git Config
-    totalSeconds: 65.065246
+    totalSeconds: 72.642081
   - name: CSS
     totalSeconds: 14.928777
   - name: Rust
@@ -37,13 +39,13 @@ languages:
     totalSeconds: 2.774437
 projects:
   - name: web
-    totalSeconds: 99651.460564
+    totalSeconds: 130197.277704
   - name: blog
     totalSeconds: 9329.196702
   - name: leonzalion
-    totalSeconds: 4021.853426
+    totalSeconds: 4056.093048
   - name: lionconfig
-    totalSeconds: 3083.824754
+    totalSeconds: 3386.240678
   - name: inquirer-press-to-continue
     totalSeconds: 2691.005691
   - name: AdminControl
