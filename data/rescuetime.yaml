@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 86
+  - category: Search
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 27
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 13
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 11
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 5
