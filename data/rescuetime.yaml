@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4053
+    timeSpent: 5527
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 724
+    timeSpent: 2471
   - category: Uncategorized
     name: beekeeper studio
     productivity: 0
     timeSpent: 604
-  - category: Instant Message
-    name: '[unpublished]'
+  - category: Communications
+    name: discord.com
     productivity: -1
-    timeSpent: 157
-  - category: General Software Development
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 148
+    timeSpent: 301
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 250
