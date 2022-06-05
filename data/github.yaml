@@ -1,4 +1,8 @@
 events:
+  - date: '2022-06-05T18:54:34Z'
+    type: PushEvent
+  - date: '2022-06-05T18:54:06Z'
+    type: WatchEvent
   - date: '2022-06-05T15:25:55Z'
     type: PushEvent
   - date: '2022-06-05T15:24:43Z'
@@ -51,10 +55,6 @@ events:
     type: PushEvent
   - date: '2022-06-01T02:13:08Z'
     type: PushEvent
-  - date: '2022-05-31T20:53:01Z'
-    type: WatchEvent
-  - date: '2022-05-31T12:28:02Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: article scripts'
   url: >-
