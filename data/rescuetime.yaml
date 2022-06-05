@@ -10,12 +10,12 @@ topActivities:
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 920
+    timeSpent: 1666
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 721
   - category: Uncategorized
     name: beekeeper studio
     productivity: 0
     timeSpent: 604
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 530
