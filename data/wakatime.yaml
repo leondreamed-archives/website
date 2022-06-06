@@ -1,38 +1,38 @@
-dailyAverage: 24001
-totalSeconds: 168004.88965
+dailyAverage: 25075
+totalSeconds: 175524.710886
 languages:
   - name: sh
-    totalSeconds: 71556.983269
+    totalSeconds: 74264.846888
   - name: TypeScript
-    totalSeconds: 59728.939082
+    totalSeconds: 64894.618021
   - name: JSON
-    totalSeconds: 13208.564951
+    totalSeconds: 13007.108579
   - name: YAML
-    totalSeconds: 9992.979268
-  - name: JavaScript
-    totalSeconds: 7318.48328
+    totalSeconds: 9397.31182
   - name: Other
-    totalSeconds: 6493.320425
+    totalSeconds: 7930.562673
+  - name: JavaScript
+    totalSeconds: 7568.288463
   - name: SQL
     totalSeconds: 1682.708236
   - name: Bash
-    totalSeconds: 1054.447644
+    totalSeconds: 1021.133118
   - name: Markdown
-    totalSeconds: 934.128379
+    totalSeconds: 976.616483
   - name: TOML
-    totalSeconds: 826.823664
+    totalSeconds: 828.29415
   - name: Docker
-    totalSeconds: 747.804395
+    totalSeconds: 782.885421
   - name: Rust
     totalSeconds: 640.446974
+  - name: Vue.js
+    totalSeconds: 217.653773
   - name: HTML
     totalSeconds: 85.948923
   - name: Charmci
     totalSeconds: 76.873237
-  - name: Vue.js
-    totalSeconds: 67.8017
   - name: Git Config
-    totalSeconds: 55.653996
+    totalSeconds: 53.674148
   - name: CSS
     totalSeconds: 14.928777
   - name: Diff
@@ -41,34 +41,34 @@ languages:
     totalSeconds: 2.774437
 projects:
   - name: web
-    totalSeconds: 155440.074823
+    totalSeconds: 153709.884834
   - name: blog
-    totalSeconds: 6622.359776
+    totalSeconds: 7735.007553
+  - name: dialect
+    totalSeconds: 6482.653492
   - name: leonzalion
-    totalSeconds: 6098.16464
+    totalSeconds: 6426.779005
   - name: precommit
-    totalSeconds: 1819.227814
+    totalSeconds: 4087.091969
   - name: AdminControl
-    totalSeconds: 1318.585578
+    totalSeconds: 1528.379193
   - name: bin
     totalSeconds: 1212.888568
   - name: tabulo
     totalSeconds: 898.940123
   - name: lionconfig
-    totalSeconds: 438.716303
+    totalSeconds: 837.833383
   - name: shownotes
     totalSeconds: 342.745008
   - name: leonzalion-google-workspace
     totalSeconds: 138.143065
-  - name: discord-email-tunnel
-    totalSeconds: 115.620426
   - name: phone-call-pass
     totalSeconds: 29.479535
   - name: phone-call-input
     totalSeconds: 13.440129
   - name: website
     totalSeconds: 5.453445
+  - name: vscode-extension
+    totalSeconds: 3.294079
   - name: vpcc-web-dev
     totalSeconds: 3.260178
-  - name: vscode-extension
-    totalSeconds: 1.110664
