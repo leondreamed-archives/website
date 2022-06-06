@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 7320
+    timeSpent: 10146
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1631
+    timeSpent: 1658
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1008
+    timeSpent: 1191
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 963
+    timeSpent: 1173
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
