@@ -1,65 +1,73 @@
-dailyAverage: 24353
-totalSeconds: 170469.014124
+dailyAverage: 26094
+totalSeconds: 182659.606675
 languages:
   - name: TypeScript
-    totalSeconds: 78202.21846
+    totalSeconds: 76450.463358
   - name: sh
-    totalSeconds: 62549.658434
-  - name: YAML
-    totalSeconds: 8714.090904
-  - name: JSON
-    totalSeconds: 8020.714944
-  - name: Other
-    totalSeconds: 7674.066833
+    totalSeconds: 65433.874457
   - name: JavaScript
-    totalSeconds: 6606.048026
-  - name: SQL
-    totalSeconds: 1714.742103
-  - name: Markdown
-    totalSeconds: 1064.947242
-  - name: Bash
-    totalSeconds: 1048.110089
-  - name: TOML
-    totalSeconds: 827.446581
+    totalSeconds: 12287.866982
+  - name: JSON
+    totalSeconds: 8567.544004
+  - name: Other
+    totalSeconds: 7304.441327
   - name: Rust
-    totalSeconds: 640.446974
+    totalSeconds: 6348.355516
+  - name: YAML
+    totalSeconds: 4564.46414
   - name: Vue.js
-    totalSeconds: 630.477797
+    totalSeconds: 3502.397198
+  - name: SQL
+    totalSeconds: 1716.567303
+  - name: Markdown
+    totalSeconds: 1243.925984
+  - name: TOML
+    totalSeconds: 849.990386
+  - name: Bash
+    totalSeconds: 522.867704
   - name: Docker
-    totalSeconds: 226.29795
+    totalSeconds: 520.908196
+  - name: Python
+    totalSeconds: 262.389725
+  - name: C++
+    totalSeconds: 119.872518
   - name: HTML
     totalSeconds: 85.948923
   - name: Charmci
     totalSeconds: 76.873237
   - name: Git Config
-    totalSeconds: 25.323493
+    totalSeconds: 62.433655
   - name: CSS
     totalSeconds: 21.101215
   - name: Diff
     totalSeconds: 8.599438
+  - name: C
+    totalSeconds: 8.52894
   - name: C#
     totalSeconds: 4.633796
-  - name: XML
-    totalSeconds: 1.334518
 projects:
   - name: web
-    totalSeconds: 129897.105979
+    totalSeconds: 100595.087087
   - name: dialect
-    totalSeconds: 27466.583501
+    totalSeconds: 48021.019227
   - name: blog
-    totalSeconds: 8773.592744
-  - name: precommit
-    totalSeconds: 4061.451763
+    totalSeconds: 11216.359131
+  - name: resilience
+    totalSeconds: 10669.070472
+  - name: concealed_square
+    totalSeconds: 6432.339091
   - name: leonzalion
-    totalSeconds: 3789.697195
+    totalSeconds: 4129.011175
+  - name: precommit
+    totalSeconds: 4088.692764
+  - name: AdminControl
+    totalSeconds: 1344.759671
+  - name: lionconfig
+    totalSeconds: 1311.482607
   - name: bin
     totalSeconds: 1212.888568
-  - name: AdminControl
-    totalSeconds: 1153.792016
-  - name: tabulo
-    totalSeconds: 898.174504
-  - name: lionconfig
-    totalSeconds: 837.833383
+  - name: compile-vue-sfc
+    totalSeconds: 892.487569
   - name: phone-call-pass
     totalSeconds: 29.479535
   - name: phone-call-input
@@ -67,6 +75,6 @@ projects:
   - name: website
     totalSeconds: 5.453445
   - name: vscode-extension
-    totalSeconds: 3.294079
+    totalSeconds: 2.183415
   - name: Terminal
     totalSeconds: 0.294116
