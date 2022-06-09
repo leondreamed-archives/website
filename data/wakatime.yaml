@@ -1,32 +1,30 @@
-dailyAverage: 26094
-totalSeconds: 182659.606675
+dailyAverage: 23343
+totalSeconds: 163399.944562
 languages:
   - name: TypeScript
-    totalSeconds: 76450.463358
+    totalSeconds: 67655.614158
   - name: sh
-    totalSeconds: 65433.874457
+    totalSeconds: 58350.169858
   - name: JavaScript
-    totalSeconds: 12287.866982
+    totalSeconds: 10964.773749
   - name: JSON
-    totalSeconds: 8567.544004
-  - name: Other
-    totalSeconds: 7304.441327
+    totalSeconds: 7474.621347
   - name: Rust
     totalSeconds: 6348.355516
+  - name: Other
+    totalSeconds: 5013.895056
   - name: YAML
-    totalSeconds: 4564.46414
+    totalSeconds: 4656.983835
   - name: Vue.js
-    totalSeconds: 3502.397198
+    totalSeconds: 3587.817144
   - name: SQL
-    totalSeconds: 1716.567303
+    totalSeconds: 1429.403122
   - name: Markdown
     totalSeconds: 1243.925984
-  - name: TOML
-    totalSeconds: 849.990386
-  - name: Bash
-    totalSeconds: 522.867704
   - name: Docker
-    totalSeconds: 520.908196
+    totalSeconds: 504.196167
+  - name: Bash
+    totalSeconds: 502.193561
   - name: Python
     totalSeconds: 262.389725
   - name: C++
@@ -34,9 +32,11 @@ languages:
   - name: HTML
     totalSeconds: 85.948923
   - name: Charmci
-    totalSeconds: 76.873237
+    totalSeconds: 79.106432
   - name: Git Config
-    totalSeconds: 62.433655
+    totalSeconds: 60.82394
+  - name: TOML
+    totalSeconds: 30.885194
   - name: CSS
     totalSeconds: 21.101215
   - name: Diff
@@ -47,33 +47,29 @@ languages:
     totalSeconds: 4.633796
 projects:
   - name: web
-    totalSeconds: 100595.087087
+    totalSeconds: 76719.67148
   - name: dialect
-    totalSeconds: 48021.019227
+    totalSeconds: 51200.353465
   - name: blog
-    totalSeconds: 11216.359131
+    totalSeconds: 10978.066633
   - name: resilience
     totalSeconds: 10669.070472
   - name: concealed_square
     totalSeconds: 6432.339091
-  - name: leonzalion
-    totalSeconds: 4129.011175
   - name: precommit
-    totalSeconds: 4088.692764
-  - name: AdminControl
-    totalSeconds: 1344.759671
-  - name: lionconfig
-    totalSeconds: 1311.482607
+    totalSeconds: 4485.200787
+  - name: leonzalion
+    totalSeconds: 3886.307129
   - name: bin
     totalSeconds: 1212.888568
+  - name: lionconfig
+    totalSeconds: 1205.905458
   - name: compile-vue-sfc
     totalSeconds: 892.487569
-  - name: phone-call-pass
-    totalSeconds: 29.479535
-  - name: phone-call-input
-    totalSeconds: 13.440129
+  - name: AdminControl
+    totalSeconds: 725.193121
   - name: website
-    totalSeconds: 5.453445
+    totalSeconds: 3.878314
   - name: vscode-extension
     totalSeconds: 2.183415
   - name: Terminal
