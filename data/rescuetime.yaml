@@ -2,16 +2,20 @@ topActivities:
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
-    timeSpent: 225
+    timeSpent: 299
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 37
+    timeSpent: 208
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 20
+    timeSpent: 62
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 12
+    timeSpent: 50
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 45
