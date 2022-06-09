@@ -1,1 +1,17 @@
-topActivities: []
+topActivities:
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 225
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 37
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 20
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 12
