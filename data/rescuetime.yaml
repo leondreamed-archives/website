@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 74
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 56
+  - category: Uncategorized
+    name: allcontributors.org
+    productivity: 0
+    timeSpent: 20
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 12
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 8
