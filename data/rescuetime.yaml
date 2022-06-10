@@ -6,16 +6,16 @@ topActivities:
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 400
+    timeSpent: 633
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 404
+  - category: General Business
+    name: Google Spreadsheets
+    productivity: 2
+    timeSpent: 365
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
     timeSpent: 334
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 315
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 227
