@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2825
   - category: Video
     name: youtube.com
     productivity: -2
     timeSpent: 2285
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1755
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 1851
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 946
+    timeSpent: 986
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 763
-  - category: Internet Utilities
-    name: Blank Web Browser
-    productivity: 1
-    timeSpent: 670
+    timeSpent: 886
