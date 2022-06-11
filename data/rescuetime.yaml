@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2011
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 584
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 171
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 146
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 135
-  - category: Meetings
-    name: Zoom
-    productivity: 1
-    timeSpent: 48
-  - category: Browsers
-    name: Safari
+    timeSpent: 297
+  - category: General Reference & Learning
+    name: Preview
     productivity: 0
-    timeSpent: 23
+    timeSpent: 155
+  - category: General Software Development
+    name: npmjs.com
+    productivity: 2
+    timeSpent: 138

@@ -1,44 +1,40 @@
-dailyAverage: 19217
-totalSeconds: 134521.799889
+dailyAverage: 15498
+totalSeconds: 108487.041842
 languages:
-  - name: TypeScript
-    totalSeconds: 54589.580555
   - name: sh
-    totalSeconds: 46353.896617
+    totalSeconds: 41045.430668
+  - name: TypeScript
+    totalSeconds: 37614.111068
   - name: JavaScript
-    totalSeconds: 9492.978598
+    totalSeconds: 9434.82144
   - name: Rust
     totalSeconds: 7815.51395
   - name: JSON
-    totalSeconds: 6298.190213
-  - name: Other
-    totalSeconds: 4360.051809
+    totalSeconds: 4048.257641
   - name: Vue.js
     totalSeconds: 3587.817144
+  - name: Other
+    totalSeconds: 2721.357143
   - name: YAML
-    totalSeconds: 2993.537731
-  - name: SQL
-    totalSeconds: 1276.697186
+    totalSeconds: 2538.453771
   - name: Markdown
-    totalSeconds: 764.691257
+    totalSeconds: 763.187595
   - name: Docker
     totalSeconds: 495.942168
   - name: Python
-    totalSeconds: 262.389725
+    totalSeconds: 461.280236
   - name: Bash
-    totalSeconds: 255.514421
+    totalSeconds: 250.663008
+  - name: SQL
+    totalSeconds: 194.698738
   - name: C++
     totalSeconds: 119.872518
-  - name: HTML
-    totalSeconds: 85.948923
   - name: Git Config
-    totalSeconds: 53.247105
+    totalSeconds: 49.609557
   - name: TOML
     totalSeconds: 30.885194
   - name: CSS
     totalSeconds: 21.101215
-  - name: Diff
-    totalSeconds: 8.599438
   - name: C
     totalSeconds: 8.52894
   - name: C#
@@ -47,15 +43,15 @@ languages:
     totalSeconds: 2.233195
 projects:
   - name: dialect
-    totalSeconds: 53096.594638
-  - name: web
-    totalSeconds: 38594.343134
+    totalSeconds: 53702.152287
   - name: blog
     totalSeconds: 10978.066633
   - name: resilience
     totalSeconds: 10669.070472
+  - name: web
+    totalSeconds: 10450.484499
   - name: leonzalion
-    totalSeconds: 8835.433944
+    totalSeconds: 8900.925009
   - name: concealed_square
     totalSeconds: 6432.339091
   - name: precommit
@@ -66,12 +62,12 @@ projects:
     totalSeconds: 1137.268256
   - name: integer-right-triangles
     totalSeconds: 903.654254
-  - name: lionconfig
-    totalSeconds: 903.489534
   - name: compile-vue-sfc
     totalSeconds: 892.487569
+  - name: lionconfig
+    totalSeconds: 872.766304
   - name: AdminControl
-    totalSeconds: 725.193121
+    totalSeconds: 555.273559
   - name: nanoid-nice
     totalSeconds: 9.465852
   - name: website
