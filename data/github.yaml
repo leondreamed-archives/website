@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-12T14:37:35Z'
+    type: PushEvent
   - date: '2022-06-08T00:29:15Z'
     type: PushEvent
   - date: '2022-06-08T00:16:57Z'
@@ -51,12 +53,10 @@ events:
     type: WatchEvent
   - date: '2022-06-05T15:25:55Z'
     type: PushEvent
-  - date: '2022-06-05T15:24:43Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: toggl data'
+  message: 'chore: fixed lockfile'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/b1f7f6d12b21f28138042a60736f6b1e611e52f2
+    https://api.github.com/repos/leonzalion/blog/commits/c61f91a4cc7adaedc5ea4d68247565be86e709f6
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
