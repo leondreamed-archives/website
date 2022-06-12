@@ -1,36 +1,36 @@
-dailyAverage: 15498
-totalSeconds: 108487.041842
+dailyAverage: 15135
+totalSeconds: 105943.143935
 languages:
   - name: sh
-    totalSeconds: 41045.430668
+    totalSeconds: 40565.243196
   - name: TypeScript
-    totalSeconds: 37614.111068
+    totalSeconds: 36491.696602
   - name: JavaScript
-    totalSeconds: 9434.82144
+    totalSeconds: 8679.73084
   - name: Rust
-    totalSeconds: 7815.51395
+    totalSeconds: 7175.066976
   - name: JSON
-    totalSeconds: 4048.257641
+    totalSeconds: 3621.680582
   - name: Vue.js
     totalSeconds: 3587.817144
-  - name: Other
-    totalSeconds: 2721.357143
   - name: YAML
-    totalSeconds: 2538.453771
-  - name: Markdown
-    totalSeconds: 763.187595
+    totalSeconds: 3062.990859
+  - name: Other
+    totalSeconds: 2661.127751
   - name: Docker
-    totalSeconds: 495.942168
+    totalSeconds: 932.912956
+  - name: Markdown
+    totalSeconds: 694.578427
   - name: Python
     totalSeconds: 461.280236
   - name: Bash
-    totalSeconds: 250.663008
-  - name: SQL
-    totalSeconds: 194.698738
+    totalSeconds: 383.726041
   - name: C++
     totalSeconds: 119.872518
   - name: Git Config
-    totalSeconds: 49.609557
+    totalSeconds: 65.306151
+  - name: SQL
+    totalSeconds: 33.859067
   - name: TOML
     totalSeconds: 30.885194
   - name: CSS
@@ -43,21 +43,19 @@ languages:
     totalSeconds: 2.233195
 projects:
   - name: dialect
-    totalSeconds: 53702.152287
+    totalSeconds: 62852.474471
   - name: blog
     totalSeconds: 10978.066633
   - name: resilience
     totalSeconds: 10669.070472
-  - name: web
-    totalSeconds: 10450.484499
   - name: leonzalion
-    totalSeconds: 8900.925009
+    totalSeconds: 6765.585614
   - name: concealed_square
     totalSeconds: 6432.339091
   - name: precommit
-    totalSeconds: 4485.200787
-  - name: bin
-    totalSeconds: 1212.888568
+    totalSeconds: 3946.640615
+  - name: web
+    totalSeconds: 2532.214111
   - name: sub-string-divisibility
     totalSeconds: 1137.268256
   - name: integer-right-triangles
@@ -68,10 +66,10 @@ projects:
     totalSeconds: 872.766304
   - name: AdminControl
     totalSeconds: 555.273559
+  - name: tabulo
+    totalSeconds: 54.487354
   - name: nanoid-nice
     totalSeconds: 9.465852
-  - name: website
-    totalSeconds: 3.878314
   - name: vscode-extension
     totalSeconds: 2.183415
   - name: Terminal
