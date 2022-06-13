@@ -1,21 +1,21 @@
 topActivities:
-  - category: Meetings
-    name: meet.google.com
-    productivity: 1
-    timeSpent: 3305
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: Writing
+    name: Notes
     productivity: 2
-    timeSpent: 3052
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1055
+    timeSpent: 254
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 81
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 725
-  - category: Editing & IDEs
-    name: localhost:3001
+    timeSpent: 32
+  - category: General Utilities
+    name: Finder
     productivity: 2
-    timeSpent: 584
+    timeSpent: 23
+  - category: Search
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 21
