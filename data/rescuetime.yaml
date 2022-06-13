@@ -1,12 +1,12 @@
 topActivities:
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 3305
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
     timeSpent: 3052
-  - category: Meetings
-    name: meet.google.com
-    productivity: 1
-    timeSpent: 1424
   - category: Other
     name: alacritty
     productivity: 0
