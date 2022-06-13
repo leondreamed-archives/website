@@ -6,16 +6,16 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 81
+    timeSpent: 147
+  - category: Uncategorized
+    name: blog.replit.com
+    productivity: 0
+    timeSpent: 118
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 32
-  - category: General Utilities
-    name: Finder
+    timeSpent: 100
+  - category: General Business
+    name: drive.google.com
     productivity: 2
-    timeSpent: 23
-  - category: Search
-    name: '[unpublished]'
-    productivity: 1
-    timeSpent: 21
+    timeSpent: 25
