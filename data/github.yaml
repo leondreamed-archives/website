@@ -1,4 +1,8 @@
 events:
+  - date: '2022-06-14T05:54:57Z'
+    type: WatchEvent
+  - date: '2022-06-14T05:33:09Z'
+    type: WatchEvent
   - date: '2022-06-12T14:37:35Z'
     type: PushEvent
   - date: '2022-06-08T00:29:15Z'
@@ -49,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-05T18:54:34Z'
     type: PushEvent
-  - date: '2022-06-05T18:54:06Z'
-    type: WatchEvent
-  - date: '2022-06-05T15:25:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: fixed lockfile'
+  message: gem stuff
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/c61f91a4cc7adaedc5ea4d68247565be86e709f6
+    https://api.github.com/repos/leonzalion/macos-configs/commits/b4e166eb2d603e648bb7d1c8e22070ba8234ad11
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/leonzalion/macos-configs
+    name: leonzalion/macos-configs
