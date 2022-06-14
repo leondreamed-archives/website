@@ -2,20 +2,20 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 3922
+    timeSpent: 4881
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 591
+    timeSpent: 1417
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
-    timeSpent: 337
-  - category: General Business
-    name: Google Forms
-    productivity: 2
-    timeSpent: 217
-  - category: Email
-    name: Gmail
+    timeSpent: 473
+  - category: General Reference & Learning
+    name: Preview
     productivity: 0
-    timeSpent: 87
+    timeSpent: 446
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 237
