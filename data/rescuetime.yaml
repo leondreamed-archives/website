@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 649
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 530
+  - category: General Business
+    name: Google Forms
+    productivity: 2
+    timeSpent: 212
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 64
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 45
