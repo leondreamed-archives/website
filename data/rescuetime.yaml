@@ -2,20 +2,20 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 2306
+    timeSpent: 2357
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 584
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 192
+    timeSpent: 1535
   - category: General Software Development
-    name: devpost.com
+    name: Github
     productivity: 2
-    timeSpent: 154
-  - category: General Social Networking
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 90
+    timeSpent: 573
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 499
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 380
