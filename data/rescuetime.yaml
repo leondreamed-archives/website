@@ -6,16 +6,16 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 2505
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 884
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 599
+    timeSpent: 2578
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 561
+    timeSpent: 1706
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1279
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 1015
