@@ -2,19 +2,19 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 1085
+    timeSpent: 2306
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 303
+    timeSpent: 584
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 192
   - category: General Software Development
     name: devpost.com
     productivity: 2
     timeSpent: 154
-  - category: Browsers
-    name: Safari
-    productivity: 0
-    timeSpent: 144
   - category: General Social Networking
     name: '[unpublished]'
     productivity: -2
