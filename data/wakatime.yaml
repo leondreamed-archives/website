@@ -1,66 +1,48 @@
-dailyAverage: 13099
-totalSeconds: 78593.212113
+dailyAverage: 6939
+totalSeconds: 41636.002017
 languages:
   - name: sh
-    totalSeconds: 32665.766402
+    totalSeconds: 18929.861262
   - name: TypeScript
-    totalSeconds: 19049.152072
+    totalSeconds: 14482.837989
   - name: JavaScript
-    totalSeconds: 10019.842417
+    totalSeconds: 4330.972055
   - name: Rust
-    totalSeconds: 7175.066976
-  - name: Vue.js
-    totalSeconds: 3003.730533
+    totalSeconds: 1467.158434
   - name: YAML
-    totalSeconds: 2800.715233
-  - name: JSON
-    totalSeconds: 1425.273668
-  - name: Docker
-    totalSeconds: 897.813199
+    totalSeconds: 725.656596
   - name: Other
-    totalSeconds: 618.123713
-  - name: Markdown
-    totalSeconds: 555.576773
-  - name: Python
-    totalSeconds: 461.280236
+    totalSeconds: 691.710916
+  - name: Docker
+    totalSeconds: 491.85319
+  - name: JSON
+    totalSeconds: 417.915223
   - name: Bash
-    totalSeconds: 311.178245
-  - name: C++
-    totalSeconds: 119.872518
+    totalSeconds: 268.122723
+  - name: Markdown
+    totalSeconds: 207.295883
+  - name: Python
+    totalSeconds: 198.890511
+  - name: Vue.js
+    totalSeconds: 85.419946
   - name: Git Config
-    totalSeconds: 65.941798
-  - name: TOML
-    totalSeconds: 29.414708
-  - name: C
-    totalSeconds: 8.52894
+    totalSeconds: 27.78501
   - name: Charmci
     totalSeconds: 2.233195
-  - name: SQL
-    totalSeconds: 1.8252
 projects:
   - name: dialect
-    totalSeconds: 46221.594078
-  - name: resilience
-    totalSeconds: 10669.070472
-  - name: concealed_square
-    totalSeconds: 6432.339091
+    totalSeconds: 33392.012261
   - name: leonzalion
-    totalSeconds: 6413.114112
-  - name: blog
-    totalSeconds: 5229.457514
+    totalSeconds: 6271.733936
   - name: sub-string-divisibility
     totalSeconds: 1137.268256
   - name: integer-right-triangles
     totalSeconds: 903.654254
-  - name: compile-vue-sfc
-    totalSeconds: 892.487569
   - name: precommit
-    totalSeconds: 517.083189
-  - name: lionconfig
-    totalSeconds: 473.649224
+    totalSeconds: 489.842188
   - name: AdminControl
-    totalSeconds: 257.664861
+    totalSeconds: 66.697206
   - name: tabulo
     totalSeconds: 54.487354
   - name: nanoid-nice
-    totalSeconds: 9.465852
+    totalSeconds: 12.017478
