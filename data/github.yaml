@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-16T18:51:21Z'
+    type: WatchEvent
   - date: '2022-06-14T05:54:57Z'
     type: WatchEvent
   - date: '2022-06-14T05:33:09Z'
@@ -51,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-06T00:56:21Z'
     type: PushEvent
-  - date: '2022-06-05T18:54:34Z'
-    type: PushEvent
 latestCommit:
-  message: gem stuff
+  message: 'chore: remove dist gitkeep'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b4e166eb2d603e648bb7d1c8e22070ba8234ad11
+    https://api.github.com/repos/leonzalion/lionconfig/commits/0817e017d647ba13fa06bed63a72147127fc4b68
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
