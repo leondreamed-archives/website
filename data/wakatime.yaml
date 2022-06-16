@@ -1,47 +1,45 @@
-dailyAverage: 6939
-totalSeconds: 41636.002017
+dailyAverage: 6825
+totalSeconds: 40950.818457
 languages:
   - name: sh
-    totalSeconds: 18929.861262
+    totalSeconds: 16884.342338
   - name: TypeScript
-    totalSeconds: 14482.837989
+    totalSeconds: 15846.685778
   - name: JavaScript
-    totalSeconds: 4330.972055
+    totalSeconds: 4324.634424
   - name: Rust
     totalSeconds: 1467.158434
   - name: YAML
-    totalSeconds: 725.656596
+    totalSeconds: 787.213858
   - name: Other
-    totalSeconds: 691.710916
+    totalSeconds: 644.113292
   - name: Docker
     totalSeconds: 491.85319
   - name: JSON
-    totalSeconds: 417.915223
+    totalSeconds: 461.641912
   - name: Bash
-    totalSeconds: 268.122723
+    totalSeconds: 223.628863
   - name: Markdown
     totalSeconds: 207.295883
   - name: Python
     totalSeconds: 198.890511
-  - name: Vue.js
-    totalSeconds: 85.419946
   - name: Git Config
-    totalSeconds: 27.78501
-  - name: Charmci
-    totalSeconds: 2.233195
+    totalSeconds: 36.269732
+  - name: SQL
+    totalSeconds: 19.969178
+  - name: TOML
+    totalSeconds: 1.234356
 projects:
   - name: dialect
-    totalSeconds: 33392.012261
+    totalSeconds: 32554.657497
   - name: leonzalion
-    totalSeconds: 6271.733936
+    totalSeconds: 5905.130575
   - name: sub-string-divisibility
     totalSeconds: 1137.268256
+  - name: ldebug
+    totalSeconds: 1027.716335
   - name: integer-right-triangles
     totalSeconds: 903.654254
-  - name: precommit
-    totalSeconds: 489.842188
-  - name: AdminControl
-    totalSeconds: 66.697206
   - name: tabulo
     totalSeconds: 54.487354
   - name: nanoid-nice
