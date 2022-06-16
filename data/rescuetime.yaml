@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1331
+    timeSpent: 2381
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 962
   - category: Video
     name: youtube.com
     productivity: -2
     timeSpent: 729
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 495
   - category: Browsers
     name: Safari
     productivity: 0
-    timeSpent: 438
+    timeSpent: 559
