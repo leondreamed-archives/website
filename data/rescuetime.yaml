@@ -1,12 +1,16 @@
 topActivities:
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 4822
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 3433
+    timeSpent: 3447
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3024
+    timeSpent: 3091
   - category: Engineering & Technology
     name: facetime.apple.com
     productivity: 2
@@ -14,8 +18,4 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1300
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 1205
+    timeSpent: 1338
