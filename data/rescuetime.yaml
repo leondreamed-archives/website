@@ -15,7 +15,7 @@ topActivities:
     name: discord
     productivity: -2
     timeSpent: 1300
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1138
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 1205
