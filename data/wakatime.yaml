@@ -1,24 +1,22 @@
-dailyAverage: 6825
-totalSeconds: 40950.818457
+dailyAverage: 8440
+totalSeconds: 50638.889736
 languages:
   - name: sh
-    totalSeconds: 16884.342338
+    totalSeconds: 21638.156095
   - name: TypeScript
-    totalSeconds: 15846.685778
-  - name: JavaScript
-    totalSeconds: 4324.634424
-  - name: Rust
-    totalSeconds: 1467.158434
+    totalSeconds: 20728.139518
   - name: YAML
-    totalSeconds: 787.213858
+    totalSeconds: 4340.088572
+  - name: JavaScript
+    totalSeconds: 1768.172354
+  - name: JSON
+    totalSeconds: 981.962249
   - name: Other
-    totalSeconds: 644.113292
+    totalSeconds: 642.581427
   - name: Docker
     totalSeconds: 491.85319
-  - name: JSON
-    totalSeconds: 461.641912
   - name: Bash
-    totalSeconds: 223.628863
+    totalSeconds: 226.858098
   - name: Markdown
     totalSeconds: 207.295883
   - name: Python
@@ -31,16 +29,16 @@ languages:
     totalSeconds: 1.234356
 projects:
   - name: dialect
-    totalSeconds: 32554.657497
+    totalSeconds: 48588.958012
   - name: leonzalion
-    totalSeconds: 5905.130575
-  - name: sub-string-divisibility
-    totalSeconds: 1137.268256
+    totalSeconds: 1336.643711
   - name: ldebug
     totalSeconds: 1027.716335
-  - name: integer-right-triangles
-    totalSeconds: 903.654254
+  - name: phone-call-input
+    totalSeconds: 169.292513
+  - name: AdminControl
+    totalSeconds: 101.821612
   - name: tabulo
     totalSeconds: 54.487354
   - name: nanoid-nice
-    totalSeconds: 12.017478
+    totalSeconds: 2.551626
