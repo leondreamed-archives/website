@@ -1,4 +1,8 @@
 events:
+  - date: '2022-06-17T15:22:58Z'
+    type: WatchEvent
+  - date: '2022-06-17T15:16:44Z'
+    type: WatchEvent
   - date: '2022-06-16T18:51:21Z'
     type: WatchEvent
   - date: '2022-06-14T05:54:57Z'
@@ -49,14 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-06T01:02:37Z'
     type: PushEvent
-  - date: '2022-06-06T01:01:28Z'
-    type: PushEvent
-  - date: '2022-06-06T00:56:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: remove dist gitkeep'
+  message: 1.7.23
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/0817e017d647ba13fa06bed63a72147127fc4b68
+    https://api.github.com/repos/leonzalion/lionconfig/commits/bc7ce96557fd679de39674c8d49342f49e6f29b5
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
