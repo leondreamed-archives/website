@@ -1,21 +1,21 @@
 topActivities:
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 4974
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 4822
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 4712
-  - category: Other
-    name: alacritty
+  - category: Uncategorized
+    name: haveablast.roller.app
     productivity: 0
-    timeSpent: 2519
+    timeSpent: 522
+  - category: Sales
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 392
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1700
+    timeSpent: 389
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 356
+  - category: General Shopping
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 352
