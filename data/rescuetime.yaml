@@ -1,4 +1,8 @@
 topActivities:
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 4974
   - category: Video
     name: youtube.com
     productivity: -2
@@ -7,15 +11,11 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 4712
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 4635
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2513
+    timeSpent: 2519
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1695
+    timeSpent: 1700
