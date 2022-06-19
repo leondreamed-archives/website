@@ -3,19 +3,19 @@ topActivities:
     name: '[unpublished]'
     productivity: 2
     timeSpent: 670
+  - category: Video
+    name: youtube.com
+    productivity: -2
+    timeSpent: 596
   - category: Uncategorized
     name: haveablast.roller.app
     productivity: 0
     timeSpent: 522
-  - category: General Shopping
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 431
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 398
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 356
+    timeSpent: 468
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 459
