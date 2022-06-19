@@ -10,12 +10,12 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1588
-  - category: General Software Development
-    name: devpost.com
+    timeSpent: 1631
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 1374
+    timeSpent: 1420
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
-    timeSpent: 1352
+    timeSpent: 1388
