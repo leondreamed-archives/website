@@ -2,20 +2,20 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 4394
+    timeSpent: 5088
   - category: General Software Development
     name: devpost.com
     productivity: 2
-    timeSpent: 1353
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 949
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 840
+    timeSpent: 1374
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 767
+    timeSpent: 1174
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1075
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 841
