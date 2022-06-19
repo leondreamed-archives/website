@@ -6,16 +6,16 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1451
+    timeSpent: 1521
   - category: General Software Development
     name: devpost.com
     productivity: 2
     timeSpent: 1374
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1113
+  - category: Office
+    name: amazon.ca
+    productivity: -1
+    timeSpent: 1364
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
-    timeSpent: 1077
+    timeSpent: 1320
