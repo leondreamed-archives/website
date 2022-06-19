@@ -1,21 +1,21 @@
 topActivities:
-  - category: Sales
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 670
-  - category: Video
-    name: youtube.com
+  - category: Professional Networking
+    name: linkedin.com
     productivity: -2
-    timeSpent: 596
-  - category: Uncategorized
-    name: haveablast.roller.app
+    timeSpent: 4347
+  - category: General Software Development
+    name: devpost.com
+    productivity: 2
+    timeSpent: 1312
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 949
+  - category: Email
+    name: Gmail
     productivity: 0
-    timeSpent: 522
+    timeSpent: 771
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 468
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 459
+    timeSpent: 488
