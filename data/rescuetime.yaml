@@ -2,20 +2,20 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 660
+    timeSpent: 682
   - category: Writing
     name: Google Documents
     productivity: 2
-    timeSpent: 497
+    timeSpent: 502
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 345
+    timeSpent: 383
+  - category: Browsers
+    name: Safari
+    productivity: 0
+    timeSpent: 270
   - category: Browsers
     name: newtab
     productivity: 0
-    timeSpent: 178
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 38
+    timeSpent: 186
