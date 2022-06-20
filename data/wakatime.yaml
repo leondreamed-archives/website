@@ -1,24 +1,22 @@
-dailyAverage: 11169
-totalSeconds: 55846.054244
+dailyAverage: 9201
+totalSeconds: 46006.688563
 languages:
   - name: sh
-    totalSeconds: 23671.33635
+    totalSeconds: 21092.824156
   - name: TypeScript
-    totalSeconds: 20682.729499
+    totalSeconds: 15151.373303
   - name: YAML
-    totalSeconds: 8554.308151
-  - name: JavaScript
-    totalSeconds: 1667.621211
+    totalSeconds: 8528.953384
   - name: JSON
-    totalSeconds: 957.078883
+    totalSeconds: 930.260799
   - name: Other
-    totalSeconds: 813.674394
+    totalSeconds: 688.140462
   - name: Markdown
     totalSeconds: 132.884298
   - name: Bash
     totalSeconds: 80.8838
   - name: Git Config
-    totalSeconds: 76.778707
+    totalSeconds: 67.075478
   - name: SQL
     totalSeconds: 19.969178
   - name: TOML
@@ -27,9 +25,9 @@ languages:
     totalSeconds: 1.229811
 projects:
   - name: dialect
-    totalSeconds: 54119.958575
+    totalSeconds: 43323.683618
   - name: leonzalion
-    totalSeconds: 1065.322898
+    totalSeconds: 1884.371408
   - name: ldebug
     totalSeconds: 1027.716335
   - name: AdminControl
@@ -38,5 +36,9 @@ projects:
     totalSeconds: 169.292513
   - name: Terminal
     totalSeconds: 67.580161
+  - name: website
+    totalSeconds: 9.32568
+  - name: ulhacks-website
+    totalSeconds: 3.001154
   - name: nanoid-nice
     totalSeconds: 2.551626
