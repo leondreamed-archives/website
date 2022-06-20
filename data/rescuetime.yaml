@@ -2,20 +2,20 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 6426
+    timeSpent: 6899
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 5405
+    timeSpent: 6236
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 4416
+    timeSpent: 4587
   - category: Office
     name: amazon.ca
     productivity: -1
     timeSpent: 3522
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 2558
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 2780
