@@ -3,14 +3,14 @@ topActivities:
     name: linkedin.com
     productivity: -2
     timeSpent: 6426
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 4313
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 4292
+    timeSpent: 5405
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 4416
   - category: Office
     name: amazon.ca
     productivity: -1
