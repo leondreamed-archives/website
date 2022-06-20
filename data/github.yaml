@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-20T15:48:09Z'
+    type: PushEvent
   - date: '2022-06-17T15:22:58Z'
     type: WatchEvent
   - date: '2022-06-17T15:16:44Z'
@@ -51,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-06T01:20:12Z'
     type: PushEvent
-  - date: '2022-06-06T01:02:37Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.23
+  message: 'fix: remove tsc-check and tsc-build'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/bc7ce96557fd679de39674c8d49342f49e6f29b5
+    https://api.github.com/repos/leonzalion/lionconfig/commits/df5cbee90b671cbb8113e06e0e152a47714a0931
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
