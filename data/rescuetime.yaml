@@ -3,6 +3,10 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 1701
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 1338
   - category: Communications
     name: discord.com
     productivity: -1
@@ -15,7 +19,3 @@ topActivities:
     name: Github
     productivity: 2
     timeSpent: 817
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 709
