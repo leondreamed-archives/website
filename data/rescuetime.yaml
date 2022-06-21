@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1701
-  - category: Meetings
-    name: meet.google.com
-    productivity: 1
-    timeSpent: 1338
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 919
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 829
+    timeSpent: 2538
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 930
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 661
+  - category: General Software Development
+    name: dmoj.ca
+    productivity: 2
+    timeSpent: 247
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 817
+    timeSpent: 225
