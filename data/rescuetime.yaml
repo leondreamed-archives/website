@@ -3,6 +3,10 @@ topActivities:
     name: Notion
     productivity: 2
     timeSpent: 2538
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1243
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
@@ -11,11 +15,7 @@ topActivities:
     name: Gmail
     productivity: 0
     timeSpent: 661
-  - category: General Software Development
-    name: dmoj.ca
-    productivity: 2
-    timeSpent: 247
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 225
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 407
