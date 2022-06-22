@@ -1,44 +1,44 @@
-dailyAverage: 8248
-totalSeconds: 49487.600135
+dailyAverage: 10717
+totalSeconds: 64303.417554
 languages:
   - name: sh
-    totalSeconds: 22775.382385
+    totalSeconds: 30181.309539
   - name: TypeScript
-    totalSeconds: 16846.58594
+    totalSeconds: 20793.153218
   - name: YAML
-    totalSeconds: 8632.09409
+    totalSeconds: 12142.518943
   - name: JSON
-    totalSeconds: 930.260799
+    totalSeconds: 733.336139
   - name: Other
-    totalSeconds: 693.289782
+    totalSeconds: 419.587623
   - name: Markdown
-    totalSeconds: 132.884298
-  - name: Bash
-    totalSeconds: 80.8838
+    totalSeconds: 169.187628
+  - name: Docker
+    totalSeconds: 135.547156
   - name: Git Config
-    totalSeconds: 67.075478
+    totalSeconds: 96.228899
+  - name: Bash
+    totalSeconds: 30.271854
   - name: SQL
-    totalSeconds: 19.969178
+    totalSeconds: 20.629822
   - name: TOML
     totalSeconds: 1.234356
-  - name: Docker
-    totalSeconds: 1.229811
 projects:
   - name: dialect
-    totalSeconds: 46759.025043
+    totalSeconds: 60212.448712
   - name: leonzalion
-    totalSeconds: 1935.090875
+    totalSeconds: 1980.654892
   - name: ldebug
     totalSeconds: 1027.716335
   - name: AdminControl
-    totalSeconds: 207.30653
+    totalSeconds: 706.125913
+  - name: Terminal
+    totalSeconds: 561.218689
   - name: phone-call-input
     totalSeconds: 169.292513
-  - name: Terminal
-    totalSeconds: 67.580161
+  - name: helm-charts
+    totalSeconds: 53.221289
   - name: website
     totalSeconds: 9.32568
   - name: ulhacks-website
     totalSeconds: 3.001154
-  - name: nanoid-nice
-    totalSeconds: 2.551626
