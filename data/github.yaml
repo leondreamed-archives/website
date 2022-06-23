@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-23T01:01:04Z'
+    type: PushEvent
   - date: '2022-06-22T05:11:24Z'
     type: WatchEvent
   - date: '2022-06-20T15:48:09Z'
@@ -51,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-06T22:34:22Z'
     type: IssuesEvent
-  - date: '2022-06-06T01:21:21Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.24
+  message: 'feat: toggl data'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/0146f70fc631c5f612ece9894bebf2590c6f8766
+    https://api.github.com/repos/leonzalion/blog/commits/e6643e9a30da04fd491b4a6b21b4231747e83a42
   repo:
-    url: https://api.github.com/repos/leonzalion/lionconfig
-    name: leonzalion/lionconfig
+    url: https://api.github.com/repos/leonzalion/blog
+    name: leonzalion/blog
