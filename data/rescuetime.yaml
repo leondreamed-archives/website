@@ -14,8 +14,8 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 146
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 138
+    timeSpent: 239
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 152
