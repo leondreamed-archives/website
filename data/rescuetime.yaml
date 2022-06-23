@@ -7,13 +7,13 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 4500
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 1508
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
+    timeSpent: 1508
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
     timeSpent: 1508
   - category: Voice Chat
     name: '[unpublished]'
