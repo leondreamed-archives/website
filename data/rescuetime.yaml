@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 786
+    timeSpent: 1646
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 366
+    timeSpent: 758
+  - category: Systems Operations
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 200
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 111
+    timeSpent: 179
   - category: Other
     name: '[unpublished]'
     productivity: 0
     timeSpent: 93
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 57
