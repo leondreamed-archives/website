@@ -3,19 +3,19 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 713
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 501
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 449
+    timeSpent: 450
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 424
-  - category: Uncategorized
-    name: kubernetes.dialect.so
+  - category: Browsers
+    name: brave browser
     productivity: 0
-    timeSpent: 259
-  - category: Uncategorized
-    name: blog.heptio.com
-    productivity: 0
-    timeSpent: 251
+    timeSpent: 419
