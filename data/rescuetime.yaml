@@ -1,21 +1,21 @@
 topActivities:
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 48
-  - category: Uncategorized
-    name: kubernetes.dialect.so
-    productivity: 0
-    timeSpent: 39
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 36
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 16
-  - category: Browsers
-    name: newtab
+    timeSpent: 713
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 9
+    timeSpent: 449
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 424
+  - category: Uncategorized
+    name: kubernetes.dialect.so
+    productivity: 0
+    timeSpent: 259
+  - category: Uncategorized
+    name: blog.heptio.com
+    productivity: 0
+    timeSpent: 251
