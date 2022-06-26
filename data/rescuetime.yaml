@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 713
+    timeSpent: 2237
+  - category: Search
+    name: wolframalpha.com
+    productivity: 1
+    timeSpent: 1110
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 501
+    timeSpent: 1068
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 450
+    timeSpent: 601
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 424
-  - category: Browsers
-    name: brave browser
-    productivity: 0
-    timeSpent: 419
+    timeSpent: 425
