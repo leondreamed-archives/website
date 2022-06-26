@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-26T13:35:37Z'
+    type: WatchEvent
   - date: '2022-06-23T01:01:04Z'
     type: PushEvent
   - date: '2022-06-22T05:11:24Z'
@@ -51,8 +53,6 @@ events:
     type: PushEvent
   - date: '2022-06-07T11:59:08Z'
     type: PushEvent
-  - date: '2022-06-06T22:34:22Z'
-    type: IssuesEvent
 latestCommit:
   message: 'feat: toggl data'
   url: >-

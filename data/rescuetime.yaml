@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 48
+  - category: Uncategorized
+    name: kubernetes.dialect.so
+    productivity: 0
+    timeSpent: 39
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 36
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 16
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 9
