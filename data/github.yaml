@@ -1,4 +1,6 @@
 events:
+  - date: '2022-06-27T22:25:22Z'
+    type: PushEvent
   - date: '2022-06-27T19:41:58Z'
     type: WatchEvent
   - date: '2022-06-26T13:35:37Z'
@@ -51,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-07T12:11:38Z'
     type: WatchEvent
-  - date: '2022-06-07T11:59:21Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: toggl data'
+  message: 'feat: change secret code'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/998a732ac58b485faf8dbbbdfef8c09578be6f14
+    https://api.github.com/repos/AdminControlApp/AdminControl/commits/8baa10f9ab9f65daaa2986ce83d63f9ae05befbc
   repo:
-    url: https://api.github.com/repos/leonzalion/blog
-    name: leonzalion/blog
+    url: https://api.github.com/repos/AdminControlApp/AdminControl
+    name: AdminControlApp/AdminControl
