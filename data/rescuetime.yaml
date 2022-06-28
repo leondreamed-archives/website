@@ -6,7 +6,7 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4802
+    timeSpent: 4808
   - category: General Software Development
     name: Github
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 3314
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 1564
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 1974
