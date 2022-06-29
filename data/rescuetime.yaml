@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2750
-  - category: Other
-    name: alacritty
+  - category: General Utilities
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 309
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 64
+  - category: Email
+    name: Gmail
     productivity: 0
-    timeSpent: 2690
-  - category: General Software Development
-    name: us-east-1.console.aws.amazon.com
+    timeSpent: 41
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 1419
+    timeSpent: 37
   - category: General Software Development
-    name: Github
+    name: '[unpublished]'
     productivity: 2
-    timeSpent: 794
-  - category: Uncategorized
-    name: beekeeper studio
-    productivity: 0
-    timeSpent: 403
+    timeSpent: 22

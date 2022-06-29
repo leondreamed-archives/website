@@ -1,36 +1,36 @@
-dailyAverage: 15722
-totalSeconds: 110057.337061
+dailyAverage: 14079
+totalSeconds: 98551.682533
 languages:
   - name: sh
-    totalSeconds: 50864.010229
+    totalSeconds: 45406.65262
   - name: TypeScript
-    totalSeconds: 40804.805096
+    totalSeconds: 37194.374024
   - name: YAML
-    totalSeconds: 11224.350531
+    totalSeconds: 7759.033072
   - name: Other
-    totalSeconds: 1605.775703
+    totalSeconds: 1697.079244
   - name: Bash
-    totalSeconds: 1455.183614
+    totalSeconds: 1435.749632
   - name: C++
     totalSeconds: 1205.348693
+  - name: JavaScript
+    totalSeconds: 959.814528
   - name: XML
     totalSeconds: 931.294815
   - name: JSON
-    totalSeconds: 841.073069
+    totalSeconds: 836.01817
   - name: Docker
-    totalSeconds: 727.85265
+    totalSeconds: 825.017403
   - name: Python
     totalSeconds: 703.191936
   - name: Rust
     totalSeconds: 428.949479
   - name: Markdown
-    totalSeconds: 399.609172
+    totalSeconds: 363.305842
   - name: SQL
-    totalSeconds: 181.495001
+    totalSeconds: 337.583391
   - name: Git Config
-    totalSeconds: 106.821036
-  - name: JavaScript
-    totalSeconds: 96.904183
+    totalSeconds: 78.901371
   - name: Text
     totalSeconds: 71.87448
   - name: TOML
@@ -39,20 +39,18 @@ languages:
     totalSeconds: 3.843204
 projects:
   - name: dialect
-    totalSeconds: 103139.272621
+    totalSeconds: 92216.414593
   - name: leonzalion
-    totalSeconds: 5888.171652
+    totalSeconds: 6388.365271
   - name: AdminControl
-    totalSeconds: 1190.266511
+    totalSeconds: 745.43975
   - name: Terminal
-    totalSeconds: 924.953138
+    totalSeconds: 431.31461
   - name: build-push-action
     totalSeconds: 194.972875
   - name: phone-call-input
     totalSeconds: 181.011154
   - name: inquirer-super-checkbox-prompt
     totalSeconds: 74.879269
-  - name: helm-charts
-    totalSeconds: 53.221289
   - name: ldebug
     totalSeconds: 16.364255
