@@ -1,21 +1,21 @@
 topActivities:
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 339
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
     timeSpent: 332
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 328
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
     timeSpent: 309
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 265
   - category: Other
     name: alacritty
     productivity: 0
     timeSpent: 252
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 101
