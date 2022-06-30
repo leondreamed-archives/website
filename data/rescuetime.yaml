@@ -2,20 +2,20 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 320
+    timeSpent: 472
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 414
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 321
+  - category: General Utilities
+    name: System Preferences
+    productivity: 1
+    timeSpent: 245
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 158
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 97
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 73
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 51
