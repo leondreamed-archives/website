@@ -2,7 +2,7 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 5098
+    timeSpent: 5670
   - category: Communications
     name: discord.com
     productivity: -1
@@ -10,7 +10,7 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 2609
+    timeSpent: 2643
   - category: Meetings
     name: meet.google.com
     productivity: 1
@@ -18,4 +18,4 @@ topActivities:
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 448
+    timeSpent: 449
