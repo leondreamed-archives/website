@@ -51,8 +51,6 @@ events:
     type: WatchEvent
   - date: '2022-06-07T12:12:45Z'
     type: PushEvent
-  - date: '2022-06-07T12:11:38Z'
-    type: WatchEvent
 latestCommit:
   message: 'feat: change secret code'
   url: >-
