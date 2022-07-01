@@ -1,20 +1,20 @@
-dailyAverage: 14661
-totalSeconds: 102630.42593
+dailyAverage: 13549
+totalSeconds: 94842.846206
 languages:
   - name: TypeScript
-    totalSeconds: 48096.982414
+    totalSeconds: 43276.999799
   - name: sh
-    totalSeconds: 40764.185066
+    totalSeconds: 40657.633798
   - name: YAML
-    totalSeconds: 5160.141337
+    totalSeconds: 2446.023591
   - name: Other
-    totalSeconds: 1695.550113
+    totalSeconds: 1576.26163
   - name: Bash
-    totalSeconds: 1284.095495
+    totalSeconds: 1251.636475
   - name: C++
     totalSeconds: 1205.348693
   - name: JSON
-    totalSeconds: 1091.476655
+    totalSeconds: 982.372411
   - name: XML
     totalSeconds: 931.294815
   - name: JavaScript
@@ -28,7 +28,7 @@ languages:
   - name: Go
     totalSeconds: 373.439752
   - name: Markdown
-    totalSeconds: 366.991596
+    totalSeconds: 361.626765
   - name: SQL
     totalSeconds: 355.513182
   - name: Git Config
@@ -41,11 +41,13 @@ languages:
     totalSeconds: 3.843204
 projects:
   - name: dialect
-    totalSeconds: 95957.810311
+    totalSeconds: 87312.873091
   - name: leonzalion
-    totalSeconds: 6425.623336
+    totalSeconds: 6434.378678
   - name: AdminControl
-    totalSeconds: 745.43975
+    totalSeconds: 943.613143
+  - name: blog
+    totalSeconds: 542.925659
   - name: Terminal
     totalSeconds: 431.31461
   - name: oauth2-proxy
@@ -54,5 +56,5 @@ projects:
     totalSeconds: 194.972875
   - name: phone-call-input
     totalSeconds: 181.011154
-  - name: ldebug
-    totalSeconds: 16.364255
+  - name: website
+    totalSeconds: 4.578874
