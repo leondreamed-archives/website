@@ -1,24 +1,24 @@
-dailyAverage: 13549
-totalSeconds: 94842.846206
+dailyAverage: 15228
+totalSeconds: 106595.128712
 languages:
   - name: TypeScript
-    totalSeconds: 43276.999799
+    totalSeconds: 52512.915241
   - name: sh
-    totalSeconds: 40657.633798
+    totalSeconds: 42597.501037
   - name: YAML
     totalSeconds: 2446.023591
   - name: Other
-    totalSeconds: 1576.26163
+    totalSeconds: 2279.549875
+  - name: JavaScript
+    totalSeconds: 1397.53589
   - name: Bash
     totalSeconds: 1251.636475
   - name: C++
     totalSeconds: 1205.348693
   - name: JSON
-    totalSeconds: 982.372411
+    totalSeconds: 1068.414941
   - name: XML
     totalSeconds: 931.294815
-  - name: JavaScript
-    totalSeconds: 907.078595
   - name: Docker
     totalSeconds: 802.233471
   - name: Python
@@ -41,20 +41,22 @@ languages:
     totalSeconds: 3.843204
 projects:
   - name: dialect
-    totalSeconds: 87312.873091
+    totalSeconds: 100884.663101
   - name: leonzalion
-    totalSeconds: 6434.378678
+    totalSeconds: 6146.071377
   - name: AdminControl
-    totalSeconds: 943.613143
+    totalSeconds: 600.026386
   - name: blog
     totalSeconds: 542.925659
-  - name: Terminal
-    totalSeconds: 431.31461
   - name: oauth2-proxy
     totalSeconds: 373.439752
   - name: build-push-action
     totalSeconds: 194.972875
-  - name: phone-call-input
-    totalSeconds: 181.011154
+  - name: Terminal
+    totalSeconds: 103.269283
+  - name: assets
+    totalSeconds: 16.349593
   - name: website
-    totalSeconds: 4.578874
+    totalSeconds: 11.751948
+  - name: phone-call-input
+    totalSeconds: 1.208613
