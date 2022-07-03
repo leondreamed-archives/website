@@ -2,20 +2,20 @@ topActivities:
   - category: General Social Networking
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1552
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 334
+    timeSpent: 2019
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 182
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 149
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 95
+    timeSpent: 1646
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 552
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 352
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 257
