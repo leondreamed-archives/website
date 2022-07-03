@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: General Social Networking
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1552
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 334
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 182
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 149
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 95
