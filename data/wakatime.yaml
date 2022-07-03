@@ -1,62 +1,64 @@
-dailyAverage: 15228
-totalSeconds: 106595.128712
+dailyAverage: 13105
+totalSeconds: 91737.717155
 languages:
   - name: TypeScript
-    totalSeconds: 52512.915241
+    totalSeconds: 40773.203073
   - name: sh
-    totalSeconds: 42597.501037
+    totalSeconds: 40108.206621
   - name: YAML
-    totalSeconds: 2446.023591
+    totalSeconds: 2442.140987
   - name: Other
-    totalSeconds: 2279.549875
+    totalSeconds: 1624.417276
   - name: JavaScript
-    totalSeconds: 1397.53589
-  - name: Bash
-    totalSeconds: 1251.636475
+    totalSeconds: 1386.396989
   - name: C++
     totalSeconds: 1205.348693
+  - name: Bash
+    totalSeconds: 1073.065081
   - name: JSON
-    totalSeconds: 1068.414941
+    totalSeconds: 1024.200114
   - name: XML
     totalSeconds: 931.294815
   - name: Docker
-    totalSeconds: 802.233471
+    totalSeconds: 790.721531
   - name: Python
     totalSeconds: 703.191936
   - name: Rust
     totalSeconds: 428.949479
   - name: Go
     totalSeconds: 373.439752
-  - name: Markdown
-    totalSeconds: 361.626765
   - name: SQL
     totalSeconds: 355.513182
-  - name: Git Config
-    totalSeconds: 73.055887
   - name: Text
     totalSeconds: 71.87448
+  - name: Git Config
+    totalSeconds: 38.35785
+  - name: Markdown
+    totalSeconds: 21.082699
   - name: TOML
     totalSeconds: 10.729873
-  - name: Charmci
-    totalSeconds: 3.843204
 projects:
   - name: dialect
-    totalSeconds: 100884.663101
+    totalSeconds: 85930.842031
   - name: leonzalion
-    totalSeconds: 6146.071377
-  - name: AdminControl
-    totalSeconds: 600.026386
+    totalSeconds: 5731.725856
   - name: blog
     totalSeconds: 542.925659
   - name: oauth2-proxy
     totalSeconds: 373.439752
+  - name: AdminControl
+    totalSeconds: 267.276611
   - name: build-push-action
     totalSeconds: 194.972875
+  - name: precommit
+    totalSeconds: 184.710025
   - name: Terminal
     totalSeconds: 103.269283
   - name: assets
     totalSeconds: 16.349593
   - name: website
     totalSeconds: 11.751948
+  - name: phone-call-pass
+    totalSeconds: 3.662185
   - name: phone-call-input
     totalSeconds: 1.208613
