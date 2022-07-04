@@ -1,59 +1,55 @@
-dailyAverage: 13105
-totalSeconds: 91737.717155
+dailyAverage: 14603
+totalSeconds: 102217.935436
 languages:
-  - name: TypeScript
-    totalSeconds: 40773.203073
   - name: sh
-    totalSeconds: 40108.206621
+    totalSeconds: 50742.543284
+  - name: TypeScript
+    totalSeconds: 41095.89213
   - name: YAML
-    totalSeconds: 2442.140987
+    totalSeconds: 2711.985162
+  - name: JSON
+    totalSeconds: 2079.94931
   - name: Other
-    totalSeconds: 1624.417276
+    totalSeconds: 1661.252208
   - name: JavaScript
-    totalSeconds: 1386.396989
-  - name: C++
-    totalSeconds: 1205.348693
+    totalSeconds: 1396.50207
+  - name: Docker
+    totalSeconds: 1252.766822
   - name: Bash
     totalSeconds: 1073.065081
-  - name: JSON
-    totalSeconds: 1024.200114
   - name: XML
     totalSeconds: 931.294815
-  - name: Docker
-    totalSeconds: 790.721531
-  - name: Python
-    totalSeconds: 703.191936
-  - name: Rust
-    totalSeconds: 428.949479
   - name: Go
     totalSeconds: 373.439752
   - name: SQL
     totalSeconds: 355.513182
+  - name: Markdown
+    totalSeconds: 91.676114
   - name: Text
     totalSeconds: 71.87448
   - name: Git Config
-    totalSeconds: 38.35785
-  - name: Markdown
-    totalSeconds: 21.082699
-  - name: TOML
-    totalSeconds: 10.729873
+    totalSeconds: 41.433234
 projects:
   - name: dialect
-    totalSeconds: 85930.842031
+    totalSeconds: 98961.391704
   - name: leonzalion
-    totalSeconds: 5731.725856
+    totalSeconds: 2773.060716
   - name: blog
     totalSeconds: 542.925659
   - name: oauth2-proxy
     totalSeconds: 373.439752
+  - name: precommit
+    totalSeconds: 302.619547
   - name: AdminControl
-    totalSeconds: 267.276611
+    totalSeconds: 271.457712
+  - name: lion-utils
+    totalSeconds: 233.268776
   - name: build-push-action
     totalSeconds: 194.972875
-  - name: precommit
-    totalSeconds: 184.710025
   - name: Terminal
-    totalSeconds: 103.269283
+    totalSeconds: 173.783175
+  - name: ldebug
+    totalSeconds: 19.295389
   - name: assets
     totalSeconds: 16.349593
   - name: website
