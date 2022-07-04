@@ -6,11 +6,11 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1650
+    timeSpent: 2119
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1118
+    timeSpent: 2089
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
