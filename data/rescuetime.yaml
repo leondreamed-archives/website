@@ -6,11 +6,11 @@ topActivities:
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 5668
+    timeSpent: 5761
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 4150
+    timeSpent: 4985
   - category: Other
     name: alacritty
     productivity: 0
@@ -18,4 +18,4 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 2325
+    timeSpent: 2331
