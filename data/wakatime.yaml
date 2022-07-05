@@ -1,39 +1,39 @@
-dailyAverage: 14603
-totalSeconds: 102217.935436
+dailyAverage: 14333
+totalSeconds: 100331.559638
 languages:
   - name: sh
-    totalSeconds: 50742.543284
+    totalSeconds: 50664.180648
   - name: TypeScript
-    totalSeconds: 41095.89213
-  - name: YAML
-    totalSeconds: 2711.985162
-  - name: JSON
-    totalSeconds: 2079.94931
-  - name: Other
-    totalSeconds: 1661.252208
+    totalSeconds: 40145.939311
   - name: JavaScript
-    totalSeconds: 1396.50207
+    totalSeconds: 3292.89138
+  - name: JSON
+    totalSeconds: 3092.570388
+  - name: Other
+    totalSeconds: 1670.162057
+  - name: YAML
+    totalSeconds: 1279.660733
   - name: Docker
-    totalSeconds: 1252.766822
-  - name: Bash
-    totalSeconds: 1073.065081
-  - name: XML
-    totalSeconds: 931.294815
+    totalSeconds: 867.623284
   - name: Go
     totalSeconds: 373.439752
   - name: SQL
-    totalSeconds: 355.513182
+    totalSeconds: 351.556063
   - name: Markdown
-    totalSeconds: 91.676114
-  - name: Text
-    totalSeconds: 71.87448
+    totalSeconds: 118.865988
+  - name: Bash
+    totalSeconds: 67.256252
+  - name: XML
+    totalSeconds: 58.836364
+  - name: Diff
+    totalSeconds: 14.430335
   - name: Git Config
-    totalSeconds: 41.433234
+    totalSeconds: 4.30914
 projects:
   - name: dialect
-    totalSeconds: 98961.391704
+    totalSeconds: 97286.761197
   - name: leonzalion
-    totalSeconds: 2773.060716
+    totalSeconds: 2866.542343
   - name: blog
     totalSeconds: 542.925659
   - name: oauth2-proxy
@@ -41,13 +41,11 @@ projects:
   - name: precommit
     totalSeconds: 302.619547
   - name: AdminControl
-    totalSeconds: 271.457712
+    totalSeconds: 273.382801
   - name: lion-utils
     totalSeconds: 233.268776
-  - name: build-push-action
-    totalSeconds: 194.972875
   - name: Terminal
-    totalSeconds: 173.783175
+    totalSeconds: 70.513892
   - name: ldebug
     totalSeconds: 19.295389
   - name: assets
