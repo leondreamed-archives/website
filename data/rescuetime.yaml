@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 9270
+    timeSpent: 11194
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2140
+    timeSpent: 2739
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1836
+    timeSpent: 2104
