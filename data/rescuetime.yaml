@@ -6,11 +6,11 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 3148
+    timeSpent: 3156
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1808
+    timeSpent: 1819
   - category: Other
     name: alacritty
     productivity: 0
