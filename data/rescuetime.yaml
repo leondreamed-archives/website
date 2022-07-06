@@ -6,16 +6,16 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1890
+    timeSpent: 1971
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1595
+    timeSpent: 1720
   - category: General Reference & Learning
     name: candidates.ibo.org
     productivity: 2
-    timeSpent: 1013
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 895
+    timeSpent: 1015
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 956
