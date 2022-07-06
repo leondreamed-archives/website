@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 3547
-  - category: Uncategorized
-    name: curriculum.founder.university
-    productivity: 0
-    timeSpent: 3431
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1844
-  - category: Other
-    name: alacritty
+    timeSpent: 823
+  - category: Uncategorized
+    name: curriculum.founder.university
     productivity: 0
-    timeSpent: 1457
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 1328
+    timeSpent: 517
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 113
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 86
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 65
