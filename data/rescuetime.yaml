@@ -2,20 +2,20 @@ topActivities:
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 823
+    timeSpent: 929
   - category: Uncategorized
     name: curriculum.founder.university
     productivity: 0
-    timeSpent: 517
-  - category: Writing
-    name: Notion
+    timeSpent: 811
+  - category: Editing & IDEs
+    name: Visual Studio Code
     productivity: 2
-    timeSpent: 113
+    timeSpent: 549
   - category: General Software Development
-    name: '[unpublished]'
+    name: Github
     productivity: 2
-    timeSpent: 86
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 65
+    timeSpent: 411
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 204

@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-06T13:30:39Z'
+    type: WatchEvent
   - date: '2022-07-04T00:12:44Z'
     type: WatchEvent
   - date: '2022-07-03T16:46:27Z'
@@ -49,12 +51,10 @@ events:
     type: PushEvent
   - date: '2022-06-07T12:53:47Z'
     type: PushEvent
-  - date: '2022-06-07T12:46:26Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: toggl integration on website'
+  message: 'fix: activity type total calculation'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/5f914f4578aab3bd048e49ba51c842cbd881f653
+    https://api.github.com/repos/leonzalion/blog/commits/ba288c81dbf2494c6810439329dce5ffc4ad89b6
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
