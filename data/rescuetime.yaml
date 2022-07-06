@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2884
+    timeSpent: 3547
+  - category: Uncategorized
+    name: curriculum.founder.university
+    productivity: 0
+    timeSpent: 3431
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 1844
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1457
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 1328
-  - category: Uncategorized
-    name: curriculum.founder.university
-    productivity: 0
-    timeSpent: 1222
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 1142
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1087
