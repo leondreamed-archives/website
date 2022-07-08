@@ -1,21 +1,21 @@
 topActivities:
+  - category: Engineering & Technology
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 103
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 13219
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 5828
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 4116
-  - category: General Reference & Learning
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 3223
+    timeSpent: 12
   - category: General Software Development
-    name: Github
+    name: us-east-1.console.aws.amazon.com
     productivity: 2
-    timeSpent: 2914
+    timeSpent: 8
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 7
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 3

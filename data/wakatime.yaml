@@ -1,55 +1,59 @@
-dailyAverage: 12320
-totalSeconds: 86237.009515
+dailyAverage: 16457
+totalSeconds: 115199.629204
 languages:
   - name: sh
-    totalSeconds: 48508.787899
+    totalSeconds: 61739.617452
   - name: TypeScript
-    totalSeconds: 28470.99348
+    totalSeconds: 39543.602367
   - name: JavaScript
-    totalSeconds: 3882.748599
+    totalSeconds: 5305.059881
   - name: JSON
-    totalSeconds: 3138.434995
+    totalSeconds: 3414.484454
+  - name: Terraform
+    totalSeconds: 2325.34176
   - name: Other
-    totalSeconds: 1359.826984
+    totalSeconds: 1584.370691
   - name: Docker
-    totalSeconds: 1081.657481
+    totalSeconds: 1162.358544
   - name: YAML
-    totalSeconds: 547.412789
+    totalSeconds: 621.2499
   - name: Markdown
-    totalSeconds: 477.067696
+    totalSeconds: 588.944862
+  - name: Diff
+    totalSeconds: 329.298719
+  - name: Bash
+    totalSeconds: 60.728058
   - name: XML
     totalSeconds: 58.836364
-  - name: Bash
-    totalSeconds: 39.371121
-  - name: Diff
-    totalSeconds: 23.371607
+  - name: Charmci
+    totalSeconds: 19.216413
+  - name: HCL
+    totalSeconds: 17.052114
   - name: Git Config
-    totalSeconds: 7.528676
+    totalSeconds: 13.039508
   - name: SQL
     totalSeconds: 0.798808
 projects:
   - name: dialect
-    totalSeconds: 83196.321664
+    totalSeconds: 111764.582545
   - name: leonzalion
-    totalSeconds: 2575.487682
-  - name: blog
-    totalSeconds: 542.925659
+    totalSeconds: 3778.120519
   - name: AdminControl
-    totalSeconds: 525.581347
+    totalSeconds: 421.711208
   - name: precommit
     totalSeconds: 302.619547
   - name: lion-utils
     totalSeconds: 233.268776
+  - name: Terminal
+    totalSeconds: 138.158242
   - name: concurrently
     totalSeconds: 91.600613
-  - name: Terminal
-    totalSeconds: 70.513892
   - name: ldebug
     totalSeconds: 19.295389
   - name: assets
     totalSeconds: 16.349593
   - name: website
-    totalSeconds: 11.751948
+    totalSeconds: 7.173074
   - name: nanoid-nice
     totalSeconds: 6.249591
   - name: phone-call-pass
