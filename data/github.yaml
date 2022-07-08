@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-08T13:17:32Z'
+    type: PushEvent
   - date: '2022-07-08T03:07:00Z'
     type: WatchEvent
   - date: '2022-07-08T03:04:29Z'
@@ -51,12 +53,10 @@ events:
     type: PushEvent
   - date: '2022-06-07T13:00:30Z'
     type: PushEvent
-  - date: '2022-06-07T12:59:14Z'
-    type: PushEvent
 latestCommit:
-  message: Merge branch 'main' into dev
+  message: 'feat: toggl data'
   url: >-
-    https://api.github.com/repos/leonzalion/blog/commits/bf61d89a9345881e36ad4013095d169dd7d9e3d9
+    https://api.github.com/repos/leonzalion/blog/commits/b1f7f6d12b21f28138042a60736f6b1e611e52f2
   repo:
     url: https://api.github.com/repos/leonzalion/blog
     name: leonzalion/blog
