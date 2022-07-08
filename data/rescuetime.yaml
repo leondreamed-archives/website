@@ -11,11 +11,11 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 4104
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 2806
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 2769
-  - category: General Reference & Learning
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 1279
