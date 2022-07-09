@@ -1,20 +1,20 @@
-dailyAverage: 16457
-totalSeconds: 115199.629204
+dailyAverage: 16164
+totalSeconds: 113149.429398
 languages:
   - name: sh
-    totalSeconds: 61739.617452
+    totalSeconds: 70821.642736
   - name: TypeScript
-    totalSeconds: 39543.602367
+    totalSeconds: 28987.877102
   - name: JavaScript
-    totalSeconds: 5305.059881
+    totalSeconds: 4814.602586
   - name: JSON
-    totalSeconds: 3414.484454
+    totalSeconds: 3328.441924
   - name: Terraform
     totalSeconds: 2325.34176
-  - name: Other
-    totalSeconds: 1584.370691
   - name: Docker
     totalSeconds: 1162.358544
+  - name: Other
+    totalSeconds: 881.082446
   - name: YAML
     totalSeconds: 621.2499
   - name: Markdown
@@ -35,11 +35,11 @@ languages:
     totalSeconds: 0.798808
 projects:
   - name: dialect
-    totalSeconds: 111764.582545
+    totalSeconds: 109354.27566
   - name: leonzalion
-    totalSeconds: 3778.120519
+    totalSeconds: 3463.435886
   - name: AdminControl
-    totalSeconds: 421.711208
+    totalSeconds: 417.945955
   - name: precommit
     totalSeconds: 302.619547
   - name: lion-utils
@@ -50,13 +50,7 @@ projects:
     totalSeconds: 91.600613
   - name: ldebug
     totalSeconds: 19.295389
-  - name: assets
-    totalSeconds: 16.349593
-  - name: website
-    totalSeconds: 7.173074
   - name: nanoid-nice
     totalSeconds: 6.249591
   - name: phone-call-pass
     totalSeconds: 3.662185
-  - name: phone-call-input
-    totalSeconds: 1.208613
