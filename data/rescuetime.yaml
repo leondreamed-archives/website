@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 707
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 623
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 102
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 72
+  - category: General Software Development
+    name: us-east-1.console.aws.amazon.com
+    productivity: 2
+    timeSpent: 55
