@@ -1,24 +1,24 @@
-dailyAverage: 18249
-totalSeconds: 127745.910745
+dailyAverage: 17175
+totalSeconds: 120223.119923
 languages:
   - name: sh
-    totalSeconds: 75026.99695
+    totalSeconds: 71820.120605
   - name: TypeScript
-    totalSeconds: 38111.352407
+    totalSeconds: 35688.410084
   - name: JavaScript
-    totalSeconds: 5033.535286
+    totalSeconds: 5023.430205
   - name: JSON
-    totalSeconds: 3570.416564
+    totalSeconds: 2514.667368
   - name: Terraform
     totalSeconds: 2418.984749
-  - name: Docker
-    totalSeconds: 1274.759299
   - name: Other
-    totalSeconds: 980.973313
-  - name: YAML
-    totalSeconds: 691.561042
+    totalSeconds: 944.138381
+  - name: Docker
+    totalSeconds: 812.714008
   - name: Markdown
-    totalSeconds: 612.794859
+    totalSeconds: 542.201444
+  - name: YAML
+    totalSeconds: 400.157255
   - name: Bash
     totalSeconds: 356.089887
   - name: Diff
@@ -28,29 +28,23 @@ languages:
   - name: Charmci
     totalSeconds: 100.829953
   - name: Git Config
-    totalSeconds: 26.988137
+    totalSeconds: 23.912753
   - name: HCL
     totalSeconds: 17.052114
   - name: SQL
     totalSeconds: 0.798808
 projects:
   - name: dialect
-    totalSeconds: 123773.425371
+    totalSeconds: 117230.949795
   - name: leonzalion
-    totalSeconds: 3534.740273
+    totalSeconds: 2962.758775
   - name: AdminControl
-    totalSeconds: 760.065549
-  - name: lion-utils
-    totalSeconds: 233.268776
-  - name: Terminal
-    totalSeconds: 138.158242
-  - name: precommit
-    totalSeconds: 117.909522
+    totalSeconds: 755.884448
   - name: concurrently
     totalSeconds: 91.600613
+  - name: Terminal
+    totalSeconds: 67.64435
   - name: hi
     totalSeconds: 52.170732
-  - name: ldebug
-    totalSeconds: 19.295389
   - name: nanoid-nice
     totalSeconds: 6.249591
