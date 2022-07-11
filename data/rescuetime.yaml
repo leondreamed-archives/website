@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1986
-  - category: Uncategorized
-    name: linear.app
-    productivity: 0
-    timeSpent: 1371
+    timeSpent: 1990
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1328
+    timeSpent: 1954
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1198
+    timeSpent: 1427
+  - category: Uncategorized
+    name: linear.app
+    productivity: 0
+    timeSpent: 1390
