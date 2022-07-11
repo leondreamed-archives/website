@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1912
+    timeSpent: 1986
+  - category: Uncategorized
+    name: linear.app
+    productivity: 0
+    timeSpent: 1371
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 989
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 334
-  - category: Editing & IDEs
-    name: localhost:3001
+    timeSpent: 1084
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 326
+    timeSpent: 416
