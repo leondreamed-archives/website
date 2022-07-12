@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 149
-  - category: Intelligence
-    name: RescueTime
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 129
+    timeSpent: 376
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 356
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 123
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 60
-  - category: Professional Networking
-    name: linkedin.com
+    timeSpent: 304
+  - category: General Business
+    name: blog.leonzalion.com
+    productivity: 2
+    timeSpent: 207
+  - category: General Communication & Scheduling
+    name: discord
     productivity: -2
-    timeSpent: 48
+    timeSpent: 201
