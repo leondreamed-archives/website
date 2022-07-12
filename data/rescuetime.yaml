@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 3558
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 2632
-  - category: Editing & IDEs
-    name: Visual Studio Code
+    timeSpent: 149
+  - category: Intelligence
+    name: RescueTime
     productivity: 2
-    timeSpent: 2527
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 2050
+    timeSpent: 129
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 2037
+    timeSpent: 123
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 60
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 48

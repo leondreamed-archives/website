@@ -1,30 +1,30 @@
-dailyAverage: 17175
-totalSeconds: 120223.119923
+dailyAverage: 14542
+totalSeconds: 101791.479663
 languages:
   - name: sh
-    totalSeconds: 71820.120605
+    totalSeconds: 61476.535294
   - name: TypeScript
-    totalSeconds: 35688.410084
+    totalSeconds: 31246.632376
   - name: JavaScript
-    totalSeconds: 5023.430205
-  - name: JSON
-    totalSeconds: 2514.667368
+    totalSeconds: 3336.264763
   - name: Terraform
     totalSeconds: 2418.984749
-  - name: Other
-    totalSeconds: 944.138381
+  - name: JSON
+    totalSeconds: 1026.592328
   - name: Docker
-    totalSeconds: 812.714008
+    totalSeconds: 639.847924
   - name: Markdown
-    totalSeconds: 542.201444
-  - name: YAML
-    totalSeconds: 400.157255
+    totalSeconds: 611.404446
+  - name: Other
+    totalSeconds: 551.672804
   - name: Bash
-    totalSeconds: 356.089887
+    totalSeconds: 317.991911
   - name: Diff
-    totalSeconds: 329.298719
+    totalSeconds: 314.868384
+  - name: YAML
+    totalSeconds: 144.148253
   - name: XML
-    totalSeconds: 174.451971
+    totalSeconds: 115.615607
   - name: Charmci
     totalSeconds: 100.829953
   - name: Git Config
@@ -35,11 +35,11 @@ languages:
     totalSeconds: 0.798808
 projects:
   - name: dialect
-    totalSeconds: 117230.949795
+    totalSeconds: 98812.503522
   - name: leonzalion
-    totalSeconds: 2962.758775
+    totalSeconds: 2559.0243
   - name: AdminControl
-    totalSeconds: 755.884448
+    totalSeconds: 753.959359
   - name: concurrently
     totalSeconds: 91.600613
   - name: Terminal
