@@ -1,4 +1,8 @@
 topActivities:
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 3558
   - category: Communications
     name: discord.com
     productivity: -1
@@ -10,12 +14,8 @@ topActivities:
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 2036
+    timeSpent: 2050
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1876
-  - category: Office
-    name: amazon.ca
-    productivity: -1
-    timeSpent: 1499
+    timeSpent: 2037
