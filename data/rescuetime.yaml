@@ -6,11 +6,11 @@ topActivities:
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 1453
+    timeSpent: 1455
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1391
+    timeSpent: 1451
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
