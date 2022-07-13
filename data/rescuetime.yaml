@@ -1,21 +1,21 @@
 topActivities:
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 869
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 41
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 21
-  - category: Uncategorized
+    timeSpent: 474
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 377
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 299
+  - category: Electronics
     name: '[unpublished]'
-    productivity: 0
-    timeSpent: 19
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 17
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 5
+    productivity: -2
+    timeSpent: 237
