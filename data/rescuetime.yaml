@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6618
+    timeSpent: 6924
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4638
+    timeSpent: 5490
   - category: Uncategorized
     name: curriculum.founder.university
     productivity: 0
-    timeSpent: 1971
+    timeSpent: 2052
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1489
+    timeSpent: 1502
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 1371
+    timeSpent: 1375
