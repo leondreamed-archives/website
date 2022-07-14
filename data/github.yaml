@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-14T01:56:17Z'
+    type: WatchEvent
   - date: '2022-07-12T21:28:54Z'
     type: PushEvent
   - date: '2022-07-12T21:28:14Z'
@@ -55,12 +57,10 @@ events:
     type: PushEvent
   - date: '2022-06-08T00:29:15Z'
     type: PushEvent
-  - date: '2022-06-08T00:16:57Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: cleanup'
+  message: Update readme.md
   url: >-
-    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/5d78e539289ad72a5e7534c5eee85d28ee6c9b54
+    https://api.github.com/repos/leonzalion/compile-vue-sfc/commits/96392d6586e0befd81b4faa5ac806f27311be31f
   repo:
     url: https://api.github.com/repos/leonzalion/compile-vue-sfc
     name: leonzalion/compile-vue-sfc
