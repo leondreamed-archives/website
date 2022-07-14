@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3954
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 440
-  - category: Editing & IDEs
-    name: localhost:3001
-    productivity: 2
-    timeSpent: 323
+    timeSpent: 5458
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 216
+    timeSpent: 1031
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 912
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 531
   - category: General Software Development
     name: npmjs.com
     productivity: 2
-    timeSpent: 142
+    timeSpent: 149
