@@ -1,55 +1,53 @@
-dailyAverage: 15940
-totalSeconds: 111576.927225
+dailyAverage: 17347
+totalSeconds: 121425.739291
 languages:
   - name: sh
-    totalSeconds: 59813.438889
+    totalSeconds: 62519.973637
   - name: TypeScript
-    totalSeconds: 42107.317232
+    totalSeconds: 45690.832179
+  - name: Markdown
+    totalSeconds: 4708.594927
   - name: JavaScript
-    totalSeconds: 3400.602647
+    totalSeconds: 2580.561163
   - name: Terraform
     totalSeconds: 2418.984749
-  - name: Markdown
-    totalSeconds: 1079.492895
   - name: JSON
-    totalSeconds: 1060.606297
+    totalSeconds: 1519.387126
   - name: Other
-    totalSeconds: 511.837864
+    totalSeconds: 694.050948
   - name: Vue.js
     totalSeconds: 429.476993
   - name: Bash
     totalSeconds: 316.718766
+  - name: HTML
+    totalSeconds: 315.705229
   - name: Diff
-    totalSeconds: 314.868384
+    totalSeconds: 307.074846
   - name: Docker
     totalSeconds: 193.101818
   - name: YAML
-    totalSeconds: 154.689771
+    totalSeconds: 172.370723
   - name: XML
     totalSeconds: 115.615607
   - name: Charmci
     totalSeconds: 100.829953
-  - name: HTML
-    totalSeconds: 34.671649
   - name: Git Config
     totalSeconds: 19.459461
   - name: HCL
     totalSeconds: 17.052114
 projects:
   - name: dialect
-    totalSeconds: 106236.693965
+    totalSeconds: 116076.483962
   - name: leonzalion
-    totalSeconds: 3287.440857
+    totalSeconds: 3089.508644
   - name: GapYearStream
-    totalSeconds: 1439.604857
+    totalSeconds: 1720.638437
   - name: AdminControl
-    totalSeconds: 545.654749
+    totalSeconds: 745.389148
   - name: blog
     totalSeconds: 200.275317
   - name: lionconfig
     totalSeconds: 167.679649
-  - name: concurrently
-    totalSeconds: 91.600613
   - name: Terminal
     totalSeconds: 67.64435
   - name: hi
