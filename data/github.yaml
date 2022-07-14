@@ -1,4 +1,22 @@
 events:
+  - date: '2022-07-14T14:39:10Z'
+    type: PushEvent
+  - date: '2022-07-14T14:38:52Z'
+    type: PushEvent
+  - date: '2022-07-14T14:35:11Z'
+    type: PushEvent
+  - date: '2022-07-14T14:34:56Z'
+    type: PushEvent
+  - date: '2022-07-14T14:25:01Z'
+    type: PushEvent
+  - date: '2022-07-14T14:24:48Z'
+    type: PushEvent
+  - date: '2022-07-14T14:24:16Z'
+    type: PushEvent
+  - date: '2022-07-14T14:23:11Z'
+    type: PushEvent
+  - date: '2022-07-14T14:22:34Z'
+    type: PushEvent
   - date: '2022-07-14T14:20:06Z'
     type: CreateEvent
   - date: '2022-07-14T14:19:58Z'
@@ -41,26 +59,10 @@ events:
     type: WatchEvent
   - date: '2022-07-03T16:46:27Z'
     type: PushEvent
-  - date: '2022-07-03T16:45:29Z'
-    type: PushEvent
-  - date: '2022-07-03T16:44:57Z'
-    type: PushEvent
-  - date: '2022-06-27T22:25:22Z'
-    type: PushEvent
-  - date: '2022-06-27T19:41:58Z'
-    type: WatchEvent
-  - date: '2022-06-26T13:35:37Z'
-    type: WatchEvent
-  - date: '2022-06-23T01:01:04Z'
-    type: PushEvent
-  - date: '2022-06-22T05:11:24Z'
-    type: WatchEvent
-  - date: '2022-06-20T15:48:09Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: settings.json'
+  message: 0.1.5
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/a60b583c7fd4666ef0e182c6aeb6d3a8c29ff480
+    https://api.github.com/repos/leonzalion/lion-utils/commits/643edd7f373dc4035ea85d916719d92f3f56ec5c
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/lion-utils
+    name: leonzalion/lion-utils
