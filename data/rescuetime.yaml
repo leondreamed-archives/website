@@ -3,19 +3,19 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 1121
+  - category: Video Editing
+    name: studio.youtube.com
+    productivity: 2
+    timeSpent: 493
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 293
+    timeSpent: 327
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
-    timeSpent: 183
-  - category: Meetings
-    name: Zoom
+    timeSpent: 185
+  - category: Search
+    name: google.com
     productivity: 1
-    timeSpent: 91
-  - category: Uncategorized
-    name: jamstack.org
-    productivity: 0
-    timeSpent: 52
+    timeSpent: 110
