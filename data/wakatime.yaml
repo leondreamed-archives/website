@@ -1,54 +1,54 @@
-dailyAverage: 17347
-totalSeconds: 121425.739291
+dailyAverage: 15545
+totalSeconds: 108811.590896
 languages:
   - name: sh
-    totalSeconds: 62519.973637
+    totalSeconds: 55838.30117
   - name: TypeScript
-    totalSeconds: 45690.832179
+    totalSeconds: 40938.907929
   - name: Markdown
-    totalSeconds: 4708.594927
-  - name: JavaScript
-    totalSeconds: 2580.561163
-  - name: Terraform
-    totalSeconds: 2418.984749
+    totalSeconds: 5930.068687
   - name: JSON
-    totalSeconds: 1519.387126
+    totalSeconds: 2419.547358
+  - name: JavaScript
+    totalSeconds: 1749.417838
   - name: Other
-    totalSeconds: 694.050948
+    totalSeconds: 634.304147
   - name: Vue.js
     totalSeconds: 429.476993
+  - name: YAML
+    totalSeconds: 411.262023
   - name: Bash
-    totalSeconds: 316.718766
+    totalSeconds: 325.81606
   - name: HTML
     totalSeconds: 315.705229
-  - name: Diff
-    totalSeconds: 307.074846
-  - name: Docker
-    totalSeconds: 193.101818
-  - name: YAML
-    totalSeconds: 172.370723
   - name: XML
     totalSeconds: 115.615607
+  - name: Docker
+    totalSeconds: 112.400755
   - name: Charmci
-    totalSeconds: 100.829953
+    totalSeconds: 100.07982
+  - name: Terraform
+    totalSeconds: 93.642989
   - name: Git Config
-    totalSeconds: 19.459461
-  - name: HCL
-    totalSeconds: 17.052114
+    totalSeconds: 30.200704
+  - name: Diff
+    totalSeconds: 1.147734
 projects:
   - name: dialect
-    totalSeconds: 116076.483962
+    totalSeconds: 102442.151568
   - name: leonzalion
-    totalSeconds: 3089.508644
+    totalSeconds: 2466.612898
   - name: GapYearStream
     totalSeconds: 1720.638437
+  - name: tsconfig-paths-workspace
+    totalSeconds: 1216.856321
   - name: AdminControl
-    totalSeconds: 745.389148
+    totalSeconds: 651.085894
+  - name: create-project
+    totalSeconds: 427.621267
+  - name: lionconfig
+    totalSeconds: 268.482609
   - name: blog
     totalSeconds: 200.275317
-  - name: lionconfig
-    totalSeconds: 167.679649
-  - name: Terminal
-    totalSeconds: 67.64435
   - name: hi
     totalSeconds: 52.170732
