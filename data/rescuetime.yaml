@@ -2,15 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1895
+    timeSpent: 3249
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 2066
   - category: Meetings
     name: Zoom
     productivity: 1
     timeSpent: 1841
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 1702
   - category: General Software Development
     name: usaco.org
     productivity: 2
