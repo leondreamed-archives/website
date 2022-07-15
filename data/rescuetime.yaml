@@ -2,15 +2,15 @@ topActivities:
   - category: General Software Development
     name: usaco.org
     productivity: 2
-    timeSpent: 1350
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1124
+    timeSpent: 1698
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1102
+    timeSpent: 1531
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1153
   - category: Engineering & Technology
     name: leetcode.com
     productivity: 2
