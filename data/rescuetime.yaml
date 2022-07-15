@@ -1,4 +1,8 @@
 topActivities:
+  - category: Meetings
+    name: Zoom
+    productivity: 1
+    timeSpent: 1838
   - category: General Software Development
     name: usaco.org
     productivity: 2
@@ -6,16 +10,12 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1531
+    timeSpent: 1676
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1153
+    timeSpent: 1265
   - category: Engineering & Technology
     name: leetcode.com
     productivity: 2
     timeSpent: 972
-  - category: Video Editing
-    name: studio.youtube.com
-    productivity: 2
-    timeSpent: 542
