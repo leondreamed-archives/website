@@ -1,26 +1,26 @@
-dailyAverage: 15545
-totalSeconds: 108811.590896
+dailyAverage: 14905
+totalSeconds: 104331.61623
 languages:
-  - name: sh
-    totalSeconds: 55838.30117
   - name: TypeScript
-    totalSeconds: 40938.907929
+    totalSeconds: 48317.562022
+  - name: sh
+    totalSeconds: 42735.879826
   - name: Markdown
-    totalSeconds: 5930.068687
+    totalSeconds: 7089.722733
   - name: JSON
-    totalSeconds: 2419.547358
+    totalSeconds: 2435.256149
   - name: JavaScript
-    totalSeconds: 1749.417838
+    totalSeconds: 1755.503916
   - name: Other
-    totalSeconds: 634.304147
+    totalSeconds: 749.777673
   - name: Vue.js
     totalSeconds: 429.476993
   - name: YAML
-    totalSeconds: 411.262023
+    totalSeconds: 423.002283
+  - name: HTML
+    totalSeconds: 364.277603
   - name: Bash
     totalSeconds: 325.81606
-  - name: HTML
-    totalSeconds: 315.705229
   - name: XML
     totalSeconds: 115.615607
   - name: Docker
@@ -30,20 +30,24 @@ languages:
   - name: Terraform
     totalSeconds: 93.642989
   - name: Git Config
-    totalSeconds: 30.200704
+    totalSeconds: 31.144992
   - name: Diff
     totalSeconds: 1.147734
+  - name: Text
+    totalSeconds: 0.732592
+  - name: CSS
+    totalSeconds: 0.354156
 projects:
   - name: dialect
-    totalSeconds: 102442.151568
+    totalSeconds: 97478.113708
   - name: leonzalion
-    totalSeconds: 2466.612898
+    totalSeconds: 2659.708059
   - name: GapYearStream
     totalSeconds: 1720.638437
   - name: tsconfig-paths-workspace
     totalSeconds: 1216.856321
   - name: AdminControl
-    totalSeconds: 651.085894
+    totalSeconds: 1057.527453
   - name: create-project
     totalSeconds: 427.621267
   - name: lionconfig
