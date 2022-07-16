@@ -1,4 +1,8 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2083
   - category: Writing
     name: Notion
     productivity: 2
@@ -11,11 +15,7 @@ topActivities:
     name: linkedin.com
     productivity: -2
     timeSpent: 1287
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 1236
-  - category: Systems Operations
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 485
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 574
