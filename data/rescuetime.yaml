@@ -1,8 +1,16 @@
 topActivities:
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 1287
+  - category: General Social Networking
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1186
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 636
+    timeSpent: 1097
   - category: Intelligence
     name: RescueTime
     productivity: 2
@@ -10,12 +18,4 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 101
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 50
-  - category: General Software Development
-    name: electron
-    productivity: 2
-    timeSpent: 41
+    timeSpent: 180
