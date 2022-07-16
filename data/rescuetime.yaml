@@ -2,7 +2,7 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1329
+    timeSpent: 1331
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
@@ -14,8 +14,8 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 374
-  - category: General Software Development
-    name: Github
+    timeSpent: 577
+  - category: Systems Operations
+    name: '[unpublished]'
     productivity: 2
-    timeSpent: 344
+    timeSpent: 485
