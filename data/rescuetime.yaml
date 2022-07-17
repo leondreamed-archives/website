@@ -10,12 +10,12 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1001
-  - category: Other
-    name: alacritty
+    timeSpent: 1590
+  - category: Uncategorized
+    name: curriculum.founder.university
     productivity: 0
-    timeSpent: 916
+    timeSpent: 1024
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 827
+    timeSpent: 971
