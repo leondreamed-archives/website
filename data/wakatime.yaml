@@ -1,36 +1,30 @@
-dailyAverage: 14905
-totalSeconds: 104331.61623
+dailyAverage: 12498
+totalSeconds: 87484.278662
 languages:
   - name: TypeScript
-    totalSeconds: 48317.562022
+    totalSeconds: 41341.482438
   - name: sh
-    totalSeconds: 42735.879826
+    totalSeconds: 32192.952582
   - name: Markdown
-    totalSeconds: 7089.722733
+    totalSeconds: 7235.921751
   - name: JSON
-    totalSeconds: 2435.256149
-  - name: JavaScript
-    totalSeconds: 1755.503916
-  - name: Other
-    totalSeconds: 749.777673
+    totalSeconds: 2302.94684
   - name: Vue.js
-    totalSeconds: 429.476993
-  - name: YAML
-    totalSeconds: 423.002283
+    totalSeconds: 1647.829251
+  - name: JavaScript
+    totalSeconds: 1539.395408
   - name: HTML
-    totalSeconds: 364.277603
+    totalSeconds: 784.237974
+  - name: Other
+    totalSeconds: 723.779373
+  - name: YAML
+    totalSeconds: 371.161062
   - name: Bash
-    totalSeconds: 325.81606
-  - name: XML
-    totalSeconds: 115.615607
-  - name: Docker
-    totalSeconds: 112.400755
+    totalSeconds: 30.454231
   - name: Charmci
-    totalSeconds: 100.07982
-  - name: Terraform
-    totalSeconds: 93.642989
+    totalSeconds: 18.46628
   - name: Git Config
-    totalSeconds: 31.144992
+    totalSeconds: 17.196363
   - name: Diff
     totalSeconds: 1.147734
   - name: Text
@@ -39,20 +33,22 @@ languages:
     totalSeconds: 0.354156
 projects:
   - name: dialect
-    totalSeconds: 97478.113708
+    totalSeconds: 77805.748791
   - name: leonzalion
-    totalSeconds: 2659.708059
+    totalSeconds: 2845.892612
   - name: GapYearStream
-    totalSeconds: 1720.638437
+    totalSeconds: 2794.182977
+  - name: website
+    totalSeconds: 1889.398916
   - name: tsconfig-paths-workspace
     totalSeconds: 1216.856321
   - name: AdminControl
-    totalSeconds: 1057.527453
+    totalSeconds: 704.062516
   - name: create-project
     totalSeconds: 427.621267
   - name: lionconfig
     totalSeconds: 268.482609
   - name: blog
-    totalSeconds: 200.275317
-  - name: hi
-    totalSeconds: 52.170732
+    totalSeconds: 254.226335
+  - name: animation-website
+    totalSeconds: 1.585691
