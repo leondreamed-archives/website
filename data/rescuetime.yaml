@@ -6,16 +6,16 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2564
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 1590
+    timeSpent: 2584
   - category: Uncategorized
     name: curriculum.founder.university
     productivity: 0
-    timeSpent: 1024
+    timeSpent: 2396
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 1674
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 971
+    timeSpent: 972
