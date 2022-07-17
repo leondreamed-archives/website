@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 913
-  - category: General Social Networking
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 735
+    timeSpent: 916
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 827
