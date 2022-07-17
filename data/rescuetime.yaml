@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2083
+    timeSpent: 2085
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1380
+    timeSpent: 1404
+  - category: General News & Opinion
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 1398
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 1344
   - category: General Social Networking
     name: '[unpublished]'
     productivity: 0
     timeSpent: 1333
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 1287
-  - category: General News & Opinion
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 1268
