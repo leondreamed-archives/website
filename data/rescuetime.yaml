@@ -3,19 +3,19 @@ topActivities:
     name: linkedin.com
     productivity: -2
     timeSpent: 2861
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1130
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 878
   - category: General Social Networking
     name: '[unpublished]'
     productivity: 0
     timeSpent: 735
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 221
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 192
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 90
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 285
