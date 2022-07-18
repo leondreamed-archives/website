@@ -1,8 +1,16 @@
 topActivities:
+  - category: General Reference & Learning
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 3183
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 2901
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 2713
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -11,11 +19,3 @@ topActivities:
     name: curriculum.founder.university
     productivity: 0
     timeSpent: 2396
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1868
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 1730
