@@ -2,20 +2,20 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 2111
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 849
+    timeSpent: 2582
+  - category: Meetings
+    name: Zoom
+    productivity: 1
+    timeSpent: 2297
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 777
+    timeSpent: 1028
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 862
   - category: Uncategorized
     name: curriculum.founder.university
     productivity: 0
-    timeSpent: 754
-  - category: General Social Networking
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 729
+    timeSpent: 755
