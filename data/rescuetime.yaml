@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6559
+    timeSpent: 8842
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 3419
+    timeSpent: 3593
   - category: Meetings
     name: Zoom
     productivity: 1
@@ -14,8 +14,8 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 2081
+    timeSpent: 2091
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1322
+    timeSpent: 1501
