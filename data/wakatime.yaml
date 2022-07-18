@@ -1,41 +1,45 @@
-dailyAverage: 12498
-totalSeconds: 87484.278662
+dailyAverage: 11995
+totalSeconds: 83962.633738
 languages:
   - name: TypeScript
-    totalSeconds: 41341.482438
+    totalSeconds: 45249.529754
   - name: sh
-    totalSeconds: 32192.952582
+    totalSeconds: 24573.169686
   - name: Markdown
-    totalSeconds: 7235.921751
+    totalSeconds: 7258.418776
   - name: JSON
-    totalSeconds: 2302.94684
+    totalSeconds: 2429.211282
+  - name: Other
+    totalSeconds: 1686.063584
   - name: Vue.js
     totalSeconds: 1647.829251
   - name: JavaScript
-    totalSeconds: 1539.395408
+    totalSeconds: 1545.360565
   - name: HTML
     totalSeconds: 784.237974
-  - name: Other
-    totalSeconds: 723.779373
   - name: YAML
-    totalSeconds: 371.161062
+    totalSeconds: 374.954358
   - name: Bash
     totalSeconds: 30.454231
   - name: Charmci
     totalSeconds: 18.46628
   - name: Git Config
     totalSeconds: 17.196363
+  - name: SQL
+    totalSeconds: 15.840299
   - name: Diff
-    totalSeconds: 1.147734
+    totalSeconds: 14.747765
+  - name: TOML
+    totalSeconds: 2.130406
   - name: Text
     totalSeconds: 0.732592
   - name: CSS
     totalSeconds: 0.354156
 projects:
   - name: dialect
-    totalSeconds: 77805.748791
+    totalSeconds: 75243.93043
   - name: leonzalion
-    totalSeconds: 2845.892612
+    totalSeconds: 2848.35026
   - name: GapYearStream
     totalSeconds: 2794.182977
   - name: website
