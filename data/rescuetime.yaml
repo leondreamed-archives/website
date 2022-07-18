@@ -2,20 +2,20 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 793
+    timeSpent: 1927
+  - category: Uncategorized
+    name: curriculum.founder.university
+    productivity: 0
+    timeSpent: 618
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 206
+    timeSpent: 322
   - category: General News & Opinion
     name: '[unpublished]'
     productivity: -2
     timeSpent: 201
-  - category: Uncategorized
-    name: curriculum.founder.university
-    productivity: 0
-    timeSpent: 164
-  - category: General Software Development
-    name: electron
-    productivity: 2
-    timeSpent: 133
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 157
