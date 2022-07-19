@@ -6,11 +6,11 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 4606
+    timeSpent: 4745
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4175
+    timeSpent: 4382
   - category: Meetings
     name: Zoom
     productivity: 1
