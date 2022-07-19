@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: apply.hackthenorth.com
     productivity: 2
-    timeSpent: 14045
+    timeSpent: 5721
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 3047
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 274
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 225
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 4745
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 4382
-  - category: Meetings
-    name: Zoom
-    productivity: 1
-    timeSpent: 3479
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 3055
+    timeSpent: 155
