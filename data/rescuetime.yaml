@@ -2,20 +2,20 @@ topActivities:
   - category: General Software Development
     name: apply.hackthenorth.com
     productivity: 2
-    timeSpent: 8412
+    timeSpent: 8698
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
     timeSpent: 3047
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 997
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 433
-  - category: General Software Development
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 225
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 197
+    timeSpent: 261
