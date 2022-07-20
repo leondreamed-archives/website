@@ -2,7 +2,11 @@ topActivities:
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
-    timeSpent: 3405
+    timeSpent: 3416
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 1258
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
@@ -10,12 +14,8 @@ topActivities:
   - category: Browsers
     name: newtab
     productivity: 0
-    timeSpent: 427
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 409
-  - category: General Software Development
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 195
+    timeSpent: 430
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 196
