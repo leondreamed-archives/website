@@ -6,16 +6,16 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 2592
+    timeSpent: 2917
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 1193
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 1073
   - category: Communications
     name: discord.com
     productivity: -1
     timeSpent: 625
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 451
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 442
