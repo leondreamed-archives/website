@@ -6,7 +6,7 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 2409
+    timeSpent: 2592
   - category: Communications
     name: discord.com
     productivity: -1
@@ -14,7 +14,7 @@ topActivities:
   - category: Browsers
     name: newtab
     productivity: 0
-    timeSpent: 447
+    timeSpent: 451
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
