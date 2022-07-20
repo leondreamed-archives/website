@@ -2,19 +2,19 @@ topActivities:
   - category: General Software Development
     name: apply.hackthenorth.com
     productivity: 2
-    timeSpent: 10437
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 4366
+    timeSpent: 10594
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4280
+    timeSpent: 5889
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 4550
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3296
+    timeSpent: 3304
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
