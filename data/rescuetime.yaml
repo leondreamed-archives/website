@@ -2,11 +2,15 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4089
+    timeSpent: 5255
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
     timeSpent: 3632
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 1631
   - category: Meetings
     name: meet.google.com
     productivity: 1
@@ -14,8 +18,4 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1186
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 634
+    timeSpent: 1191
