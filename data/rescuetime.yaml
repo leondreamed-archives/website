@@ -2,7 +2,7 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 5772
+    timeSpent: 5831
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
@@ -10,12 +10,12 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 2474
-  - category: Meetings
-    name: meet.google.com
-    productivity: 1
-    timeSpent: 1200
+    timeSpent: 2511
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1547
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1195
+    timeSpent: 1348
