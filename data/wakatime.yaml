@@ -1,58 +1,62 @@
-dailyAverage: 15258
-totalSeconds: 106809.264041
+dailyAverage: 14068
+totalSeconds: 98477.925135
 languages:
   - name: TypeScript
-    totalSeconds: 57796.053428
+    totalSeconds: 47213.094298
   - name: sh
-    totalSeconds: 32605.852851
+    totalSeconds: 33384.727428
   - name: Markdown
-    totalSeconds: 7247.249024
+    totalSeconds: 6857.176165
   - name: JSON
-    totalSeconds: 2600.574032
-  - name: Other
-    totalSeconds: 1923.437193
-  - name: JavaScript
-    totalSeconds: 1900.258437
-  - name: Vue.js
-    totalSeconds: 1647.829251
+    totalSeconds: 2736.498425
   - name: YAML
-    totalSeconds: 1540.463546
+    totalSeconds: 2110.880118
+  - name: Other
+    totalSeconds: 1901.577939
   - name: HTML
-    totalSeconds: 784.237974
+    totalSeconds: 1864.999603
+  - name: JavaScript
+    totalSeconds: 1707.609814
+  - name: Vue.js
+    totalSeconds: 1218.352258
+  - name: Terraform
+    totalSeconds: 407.233469
   - name: Bash
-    totalSeconds: 292.110955
+    totalSeconds: 383.292849
   - name: CSS
     totalSeconds: 253.685929
+  - name: Text
+    totalSeconds: 155.001519
   - name: Charmci
     totalSeconds: 90.301189
+  - name: Diff
+    totalSeconds: 59.905003
   - name: Git Config
     totalSeconds: 17.196363
   - name: SQL
     totalSeconds: 15.840299
-  - name: Diff
-    totalSeconds: 14.747765
   - name: TOML
     totalSeconds: 2.130406
-  - name: Text
-    totalSeconds: 0.732592
 projects:
   - name: dialect
-    totalSeconds: 98161.955877
+    totalSeconds: 92248.220499
   - name: leonzalion
-    totalSeconds: 2818.299192
-  - name: GapYearStream
-    totalSeconds: 2794.182977
+    totalSeconds: 2076.460508
   - name: website
     totalSeconds: 1972.518113
+  - name: GapYearStream
+    totalSeconds: 1354.57812
   - name: tsconfig-paths-workspace
     totalSeconds: 1216.856321
   - name: AdminControl
-    totalSeconds: 816.972852
+    totalSeconds: 719.086294
   - name: create-project
     totalSeconds: 427.621267
+  - name: precommit
+    totalSeconds: 207.822283
   - name: lionconfig
-    totalSeconds: 268.482609
+    totalSeconds: 100.80296
   - name: blog
-    totalSeconds: 254.226335
+    totalSeconds: 53.951018
   - name: animation-website
     totalSeconds: 1.585691
