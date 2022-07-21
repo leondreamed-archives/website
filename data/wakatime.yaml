@@ -1,22 +1,22 @@
-dailyAverage: 14068
-totalSeconds: 98477.925135
+dailyAverage: 12519
+totalSeconds: 87633.468828
 languages:
   - name: TypeScript
-    totalSeconds: 47213.094298
+    totalSeconds: 44542.446405
   - name: sh
-    totalSeconds: 33384.727428
+    totalSeconds: 28692.787618
   - name: Markdown
-    totalSeconds: 6857.176165
-  - name: JSON
-    totalSeconds: 2736.498425
+    totalSeconds: 3210.866144
   - name: YAML
-    totalSeconds: 2110.880118
-  - name: Other
-    totalSeconds: 1901.577939
-  - name: HTML
-    totalSeconds: 1864.999603
+    totalSeconds: 3036.215224
+  - name: JSON
+    totalSeconds: 2098.588952
   - name: JavaScript
-    totalSeconds: 1707.609814
+    totalSeconds: 1866.806912
+  - name: Other
+    totalSeconds: 1704.852985
+  - name: HTML
+    totalSeconds: 1583.966023
   - name: Vue.js
     totalSeconds: 1218.352258
   - name: Terraform
@@ -30,7 +30,7 @@ languages:
   - name: Charmci
     totalSeconds: 90.301189
   - name: Diff
-    totalSeconds: 59.905003
+    totalSeconds: 58.757269
   - name: Git Config
     totalSeconds: 17.196363
   - name: SQL
@@ -39,17 +39,17 @@ languages:
     totalSeconds: 2.130406
 projects:
   - name: dialect
-    totalSeconds: 92248.220499
+    totalSeconds: 81135.693006
   - name: leonzalion
-    totalSeconds: 2076.460508
+    totalSeconds: 2628.574719
   - name: website
     totalSeconds: 1972.518113
-  - name: GapYearStream
-    totalSeconds: 1354.57812
   - name: tsconfig-paths-workspace
     totalSeconds: 1216.856321
+  - name: GapYearStream
+    totalSeconds: 1073.54454
   - name: AdminControl
-    totalSeconds: 719.086294
+    totalSeconds: 519.351895
   - name: create-project
     totalSeconds: 427.621267
   - name: precommit
