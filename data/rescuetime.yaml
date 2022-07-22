@@ -6,7 +6,11 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 4781
+    timeSpent: 5430
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 3516
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -15,7 +19,3 @@ topActivities:
     name: startupschool.org
     productivity: 2
     timeSpent: 1948
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 1753
