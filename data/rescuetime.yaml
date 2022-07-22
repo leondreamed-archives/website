@@ -1,21 +1,21 @@
 topActivities:
-  - category: General Software Development
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 8655
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 5430
+    timeSpent: 1613
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 497
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 432
+  - category: Meetings
+    name: Zoom
+    productivity: 1
+    timeSpent: 284
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 3516
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2168
-  - category: Intelligence
-    name: startupschool.org
-    productivity: 2
-    timeSpent: 1948
+    timeSpent: 229
