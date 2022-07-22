@@ -2,7 +2,7 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1895
+    timeSpent: 2453
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: '[unpublished]'
     productivity: 0
     timeSpent: 736
-  - category: Meetings
-    name: Zoom
-    productivity: 1
-    timeSpent: 440
+  - category: General Social Networking
+    name: twitter.com
+    productivity: -2
+    timeSpent: 649
