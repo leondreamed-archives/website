@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1755
+    timeSpent: 1895
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 1364
+    timeSpent: 1578
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 1377
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 612
+    timeSpent: 736
   - category: Meetings
     name: Zoom
     productivity: 1
-    timeSpent: 351
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 299
+    timeSpent: 440
