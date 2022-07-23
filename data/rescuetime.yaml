@@ -1,5 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 797
+  - category: Meetings
+    name: Zoom
+    productivity: 1
+    timeSpent: 587
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 517
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1
+    timeSpent: 487
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 277
