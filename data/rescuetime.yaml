@@ -1,16 +1,16 @@
 topActivities:
   - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 1986
-  - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1845
+    timeSpent: 3103
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 2025
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 1394
+    timeSpent: 1531
   - category: Communications
     name: discord.com
     productivity: -1
