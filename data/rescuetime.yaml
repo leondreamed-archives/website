@@ -2,19 +2,19 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1840
+    timeSpent: 1845
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1134
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 799
+    timeSpent: 1686
   - category: Meetings
     name: Zoom
     productivity: 1
-    timeSpent: 668
+    timeSpent: 861
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 803
   - category: Games
     name: play.typeracer.com
     productivity: -2
