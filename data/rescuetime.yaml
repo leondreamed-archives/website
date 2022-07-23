@@ -1,1 +1,5 @@
-topActivities: []
+topActivities:
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 1
