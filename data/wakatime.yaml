@@ -1,59 +1,59 @@
-dailyAverage: 11893
-totalSeconds: 83251.902586
+dailyAverage: 12089
+totalSeconds: 84622.460283
 languages:
   - name: TypeScript
-    totalSeconds: 43238.869308
+    totalSeconds: 40468.591488
   - name: sh
-    totalSeconds: 27519.499201
+    totalSeconds: 29764.219928
+  - name: Text
+    totalSeconds: 3220.065825
   - name: YAML
-    totalSeconds: 2959.034716
+    totalSeconds: 2947.294456
   - name: JavaScript
-    totalSeconds: 1885.17313
-  - name: Markdown
-    totalSeconds: 1877.515218
-  - name: Other
-    totalSeconds: 1598.812159
+    totalSeconds: 1879.087052
   - name: HTML
-    totalSeconds: 1583.966023
+    totalSeconds: 1535.393649
+  - name: Other
+    totalSeconds: 1485.610956
   - name: Vue.js
     totalSeconds: 1218.352258
   - name: JSON
-    totalSeconds: 948.822597
+    totalSeconds: 959.91688
+  - name: Markdown
+    totalSeconds: 717.861172
   - name: CSS
-    totalSeconds: 684.969648
+    totalSeconds: 684.615492
   - name: Terraform
     totalSeconds: 407.233469
   - name: Bash
     totalSeconds: 394.094706
   - name: Charmci
     totalSeconds: 286.680503
-  - name: Text
-    totalSeconds: 155.001519
   - name: Diff
-    totalSeconds: 73.775297
+    totalSeconds: 118.629769
   - name: SQL
     totalSeconds: 15.840299
+  - name: Git Config
+    totalSeconds: 2.452931
   - name: TOML
     totalSeconds: 2.130406
-  - name: Git Config
-    totalSeconds: 0.944288
   - name: Docker
     totalSeconds: 0
 projects:
   - name: dialect
-    totalSeconds: 77933.150126
+    totalSeconds: 79236.9889
   - name: leonzalion
-    totalSeconds: 2482.779394
+    totalSeconds: 2842.738673
   - name: website
     totalSeconds: 1972.518113
   - name: GapYearStream
     totalSeconds: 1073.54454
   - name: create-react-app
     totalSeconds: 603.808182
-  - name: AdminControl
-    totalSeconds: 519.351895
   - name: precommit
     totalSeconds: 207.822283
+  - name: AdminControl
+    totalSeconds: 112.910336
   - name: blog
     totalSeconds: 53.951018
   - name: portfolio-showcase
