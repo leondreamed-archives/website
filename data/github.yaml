@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-24T22:05:04Z'
+    type: WatchEvent
   - date: '2022-07-23T18:00:33Z'
     type: WatchEvent
   - date: '2022-07-22T13:31:44Z'
@@ -57,12 +59,10 @@ events:
     type: WatchEvent
   - date: '2022-07-12T13:47:55Z'
     type: WatchEvent
-  - date: '2022-07-08T13:17:32Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: merge confs'
+  message: 'feat: /prettier'
   url: >-
-    https://api.github.com/repos/leonzalion/macos-configs/commits/b5fce49aeabd0f4cf4d4ac15a4ed81697be9c9c8
+    https://api.github.com/repos/leonzalion/lionconfig/commits/d117c166fd03a3fbaa480980a15dad6217356a26
   repo:
-    url: https://api.github.com/repos/leonzalion/macos-configs
-    name: leonzalion/macos-configs
+    url: https://api.github.com/repos/leonzalion/lionconfig
+    name: leonzalion/lionconfig
