@@ -1,28 +1,28 @@
-dailyAverage: 12089
-totalSeconds: 84622.460283
+dailyAverage: 12932
+totalSeconds: 90521.283438
 languages:
   - name: TypeScript
-    totalSeconds: 40468.591488
+    totalSeconds: 42532.155123
   - name: sh
-    totalSeconds: 29764.219928
+    totalSeconds: 31124.963351
   - name: Text
     totalSeconds: 3220.065825
-  - name: YAML
-    totalSeconds: 2947.294456
   - name: JavaScript
-    totalSeconds: 1879.087052
-  - name: HTML
-    totalSeconds: 1535.393649
-  - name: Other
-    totalSeconds: 1485.610956
-  - name: Vue.js
-    totalSeconds: 1218.352258
+    totalSeconds: 3130.186897
+  - name: YAML
+    totalSeconds: 2933.743983
   - name: JSON
-    totalSeconds: 959.91688
-  - name: Markdown
-    totalSeconds: 717.861172
+    totalSeconds: 2131.93687
+  - name: C++
+    totalSeconds: 1873.308379
+  - name: Other
+    totalSeconds: 1522.808805
+  - name: HTML
+    totalSeconds: 1115.433278
   - name: CSS
     totalSeconds: 684.615492
+  - name: Markdown
+    totalSeconds: 547.812157
   - name: Terraform
     totalSeconds: 407.233469
   - name: Bash
@@ -41,22 +41,16 @@ languages:
     totalSeconds: 0
 projects:
   - name: dialect
-    totalSeconds: 79236.9889
+    totalSeconds: 85790.549728
   - name: leonzalion
-    totalSeconds: 2842.738673
-  - name: website
-    totalSeconds: 1972.518113
-  - name: GapYearStream
-    totalSeconds: 1073.54454
+    totalSeconds: 5243.679014
   - name: create-react-app
     totalSeconds: 603.808182
   - name: precommit
     totalSeconds: 207.822283
   - name: AdminControl
     totalSeconds: 112.910336
-  - name: blog
-    totalSeconds: 53.951018
+  - name: website
+    totalSeconds: 83.119197
   - name: portfolio-showcase
     totalSeconds: 2.203503
-  - name: animation-website
-    totalSeconds: 1.585691
