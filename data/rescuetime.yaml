@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4534
+    timeSpent: 4544
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 2473
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
     timeSpent: 2437
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 2202
   - category: General Business
     name: Google Spreadsheets
     productivity: 2
-    timeSpent: 878
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 744
+    timeSpent: 1534
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 1384
