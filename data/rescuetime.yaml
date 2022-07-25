@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1868
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 581
+    timeSpent: 2171
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 494
+    timeSpent: 1462
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 373
+    timeSpent: 1032
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 762
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 322
+    timeSpent: 389
