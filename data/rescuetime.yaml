@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2811
+    timeSpent: 4647
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
@@ -10,12 +10,12 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 1796
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 787
+    timeSpent: 2072
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
-    timeSpent: 632
+    timeSpent: 942
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 927
