@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-25T19:40:51Z'
+    type: WatchEvent
   - date: '2022-07-24T22:05:04Z'
     type: WatchEvent
   - date: '2022-07-23T18:00:33Z'
@@ -56,8 +58,6 @@ events:
   - date: '2022-07-12T21:18:55Z'
     type: PushEvent
   - date: '2022-07-12T21:14:26Z'
-    type: WatchEvent
-  - date: '2022-07-12T13:47:55Z'
     type: WatchEvent
 latestCommit:
   message: 'feat: /prettier'
