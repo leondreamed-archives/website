@@ -1,49 +1,51 @@
-dailyAverage: 12932
-totalSeconds: 90521.283438
+dailyAverage: 17771
+totalSeconds: 124398.212399
 languages:
   - name: TypeScript
-    totalSeconds: 42532.155123
+    totalSeconds: 65058.920696
   - name: sh
-    totalSeconds: 31124.963351
-  - name: Text
-    totalSeconds: 3220.065825
-  - name: JavaScript
-    totalSeconds: 3130.186897
+    totalSeconds: 39182.411563
   - name: YAML
-    totalSeconds: 2933.743983
+    totalSeconds: 3810.534719
+  - name: JavaScript
+    totalSeconds: 3236.246485
+  - name: Text
+    totalSeconds: 3227.450672
   - name: JSON
-    totalSeconds: 2131.93687
+    totalSeconds: 2879.047207
   - name: C++
     totalSeconds: 1873.308379
-  - name: Other
-    totalSeconds: 1522.808805
   - name: HTML
     totalSeconds: 1115.433278
+  - name: Bash
+    totalSeconds: 875.554908
+  - name: Other
+    totalSeconds: 860.215465
   - name: CSS
     totalSeconds: 684.615492
-  - name: Markdown
-    totalSeconds: 547.812157
   - name: Terraform
-    totalSeconds: 407.233469
-  - name: Bash
-    totalSeconds: 394.094706
+    totalSeconds: 590.60972
+  - name: Markdown
+    totalSeconds: 560.568434
   - name: Charmci
-    totalSeconds: 286.680503
-  - name: Diff
-    totalSeconds: 118.629769
+    totalSeconds: 465.559764
   - name: SQL
-    totalSeconds: 15.840299
+    totalSeconds: 403.112839
+  - name: CSV
+    totalSeconds: 284.271914
+  - name: Diff
+    totalSeconds: 105.029738
+  - name: Go
+    totalSeconds: 23.598519
   - name: Git Config
-    totalSeconds: 2.452931
-  - name: TOML
-    totalSeconds: 2.130406
+    totalSeconds: 21.938072
   - name: Docker
     totalSeconds: 0
 projects:
   - name: dialect
-    totalSeconds: 85790.549728
+    totalSeconds: 118865.723547
   - name: leonzalion
-    totalSeconds: 5243.679014
+    totalSeconds: 5295.413214
   - name: create-react-app
     totalSeconds: 603.808182
   - name: precommit
@@ -52,5 +54,9 @@ projects:
     totalSeconds: 112.910336
   - name: website
     totalSeconds: 83.119197
+  - name: build-push-action
+    totalSeconds: 63.829083
+  - name: buildx
+    totalSeconds: 23.598519
   - name: portfolio-showcase
     totalSeconds: 2.203503
