@@ -2,7 +2,7 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 3819
+    timeSpent: 5280
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -11,11 +11,11 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 973
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 926
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 695
-  - category: General Design & Composition
-    name: figma.com
-    productivity: 2
-    timeSpent: 686
+    timeSpent: 716
