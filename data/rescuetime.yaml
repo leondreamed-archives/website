@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5971
+    timeSpent: 7022
+  - category: General Communication & Scheduling
+    name: discord
+    productivity: -2
+    timeSpent: 2143
   - category: Uncategorized
     name: usedapp-docs.netlify.app
     productivity: 0
     timeSpent: 542
-  - category: General Communication & Scheduling
-    name: discord
-    productivity: -2
-    timeSpent: 481
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 355
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 310
+    timeSpent: 443
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 369
