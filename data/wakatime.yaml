@@ -1,61 +1,59 @@
-dailyAverage: 16949
-totalSeconds: 118639.947731
+dailyAverage: 16509
+totalSeconds: 115561.849889
 languages:
   - name: TypeScript
-    totalSeconds: 60128.540274
+    totalSeconds: 61415.069969
   - name: sh
-    totalSeconds: 40296.672897
+    totalSeconds: 38879.893105
   - name: Text
-    totalSeconds: 3227.450672
+    totalSeconds: 3073.181745
   - name: JavaScript
-    totalSeconds: 2810.220277
-  - name: YAML
-    totalSeconds: 2658.780788
+    totalSeconds: 2806.875556
   - name: JSON
-    totalSeconds: 2614.435343
+    totalSeconds: 2284.448463
+  - name: YAML
+    totalSeconds: 2247.018372
   - name: C++
     totalSeconds: 1873.308379
   - name: Other
-    totalSeconds: 1756.896568
-  - name: HTML
-    totalSeconds: 1115.433278
+    totalSeconds: 1723.240477
   - name: Bash
-    totalSeconds: 796.278403
+    totalSeconds: 705.096509
   - name: SQL
     totalSeconds: 701.280548
-  - name: Terraform
-    totalSeconds: 590.60972
   - name: CSS
     totalSeconds: 504.91402
-  - name: Markdown
-    totalSeconds: 457.948365
   - name: Charmci
     totalSeconds: 426.407861
   - name: CSV
     totalSeconds: 284.271914
+  - name: Terraform
+    totalSeconds: 183.376251
   - name: Diff
-    totalSeconds: 105.029738
+    totalSeconds: 75.490078
+  - name: Markdown
+    totalSeconds: 35.253302
   - name: Go
     totalSeconds: 23.598519
   - name: Git Config
     totalSeconds: 21.938072
+  - name: Docker
+    totalSeconds: 17.598563
   - name: C#
     totalSeconds: 1.828363
   - name: TOML
     totalSeconds: 1.0003
-  - name: Docker
-    totalSeconds: 0
 projects:
   - name: dialect
-    totalSeconds: 114152.133179
+    totalSeconds: 111222.726172
   - name: leonzalion
-    totalSeconds: 5343.44955
+    totalSeconds: 5343.397721
   - name: create-react-app
     totalSeconds: 603.808182
-  - name: precommit
-    totalSeconds: 207.822283
   - name: build-push-action
     totalSeconds: 63.829083
+  - name: GapYearStream
+    totalSeconds: 25.527186
   - name: buildx
     totalSeconds: 23.598519
   - name: portfolio-showcase
