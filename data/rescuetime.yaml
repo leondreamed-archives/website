@@ -2,11 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 13366
+    timeSpent: 15787
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 3851
+    timeSpent: 4356
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 1555
   - category: Meetings
     name: Zoom
     productivity: 1
@@ -14,8 +18,4 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1023
-  - category: Editing & IDEs
-    name: localhost:3001
-    productivity: 2
-    timeSpent: 963
+    timeSpent: 1031
