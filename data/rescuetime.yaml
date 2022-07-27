@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 9845
+    timeSpent: 11434
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 2596
+    timeSpent: 3259
   - category: Meetings
     name: Zoom
     productivity: 1
@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 872
-  - category: Uncategorized
-    name: usedapp-docs.netlify.app
-    productivity: 0
-    timeSpent: 542
+    timeSpent: 923
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 882
