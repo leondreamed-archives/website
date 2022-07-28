@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: discord
     productivity: -2
-    timeSpent: 614
+    timeSpent: 2261
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 500
+  - category: General Software Development
+    name: auth0.github.io
+    productivity: 2
+    timeSpent: 347
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 275
-  - category: Communications
-    name: app.slack.com
+    timeSpent: 277
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 255
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 225
-  - category: Instant Message
-    name: dialectlabs.slack.com
-    productivity: -1
-    timeSpent: 173
+    timeSpent: 271
