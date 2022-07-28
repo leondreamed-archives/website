@@ -1,30 +1,32 @@
-dailyAverage: 16509
-totalSeconds: 115561.849889
+dailyAverage: 19001
+totalSeconds: 133009.288378
 languages:
   - name: TypeScript
-    totalSeconds: 61415.069969
+    totalSeconds: 75947.099054
   - name: sh
-    totalSeconds: 38879.893105
+    totalSeconds: 42047.81048
+  - name: Other
+    totalSeconds: 3103.170498
   - name: Text
     totalSeconds: 3073.181745
-  - name: JavaScript
-    totalSeconds: 2806.875556
   - name: JSON
-    totalSeconds: 2284.448463
-  - name: YAML
-    totalSeconds: 2247.018372
+    totalSeconds: 2579.362465
+  - name: JavaScript
+    totalSeconds: 2272.144844
   - name: C++
     totalSeconds: 1873.308379
-  - name: Other
-    totalSeconds: 1723.240477
+  - name: YAML
+    totalSeconds: 1304.002314
+  - name: SQL
+    totalSeconds: 1250.496721
   - name: Bash
     totalSeconds: 705.096509
-  - name: SQL
-    totalSeconds: 701.280548
   - name: CSS
     totalSeconds: 504.91402
   - name: Charmci
     totalSeconds: 426.407861
+  - name: Git Config
+    totalSeconds: 397.716905
   - name: CSV
     totalSeconds: 284.271914
   - name: Terraform
@@ -32,11 +34,9 @@ languages:
   - name: Diff
     totalSeconds: 75.490078
   - name: Markdown
-    totalSeconds: 35.253302
+    totalSeconds: 40.583093
   - name: Go
     totalSeconds: 23.598519
-  - name: Git Config
-    totalSeconds: 21.938072
   - name: Docker
     totalSeconds: 17.598563
   - name: C#
@@ -45,9 +45,9 @@ languages:
     totalSeconds: 1.0003
 projects:
   - name: dialect
-    totalSeconds: 111222.726172
+    totalSeconds: 131197.155137
   - name: leonzalion
-    totalSeconds: 5343.397721
+    totalSeconds: 4196.337266
   - name: create-react-app
     totalSeconds: 603.808182
   - name: build-push-action
