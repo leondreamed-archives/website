@@ -1,40 +1,42 @@
-dailyAverage: 19001
-totalSeconds: 133009.288378
+dailyAverage: 20735
+totalSeconds: 145141.800931
 languages:
   - name: TypeScript
-    totalSeconds: 75947.099054
+    totalSeconds: 91452.119371
   - name: sh
-    totalSeconds: 42047.81048
-  - name: Other
-    totalSeconds: 3103.170498
+    totalSeconds: 39026.952352
   - name: Text
     totalSeconds: 3073.181745
+  - name: Other
+    totalSeconds: 3045.139598
   - name: JSON
-    totalSeconds: 2579.362465
+    totalSeconds: 2705.386532
   - name: JavaScript
-    totalSeconds: 2272.144844
+    totalSeconds: 2327.333517
   - name: C++
     totalSeconds: 1873.308379
-  - name: YAML
-    totalSeconds: 1304.002314
   - name: SQL
     totalSeconds: 1250.496721
+  - name: YAML
+    totalSeconds: 1068.454411
   - name: Bash
-    totalSeconds: 705.096509
-  - name: CSS
-    totalSeconds: 504.91402
-  - name: Charmci
-    totalSeconds: 426.407861
+    totalSeconds: 790.823523
   - name: Git Config
     totalSeconds: 397.716905
   - name: CSV
     totalSeconds: 284.271914
+  - name: Vue.js
+    totalSeconds: 256.543526
+  - name: Charmci
+    totalSeconds: 211.562267
   - name: Terraform
     totalSeconds: 183.376251
-  - name: Diff
-    totalSeconds: 75.490078
+  - name: CSS
+    totalSeconds: 73.630301
   - name: Markdown
-    totalSeconds: 40.583093
+    totalSeconds: 62.145421
+  - name: Diff
+    totalSeconds: 60.47205
   - name: Go
     totalSeconds: 23.598519
   - name: Docker
@@ -45,16 +47,20 @@ languages:
     totalSeconds: 1.0003
 projects:
   - name: dialect
-    totalSeconds: 131197.155137
+    totalSeconds: 142990.880993
   - name: leonzalion
-    totalSeconds: 4196.337266
-  - name: create-react-app
-    totalSeconds: 603.808182
+    totalSeconds: 3867.807124
+  - name: vscode-extension
+    totalSeconds: 1085.894886
   - name: build-push-action
     totalSeconds: 63.829083
+  - name: blog
+    totalSeconds: 59.724315
+  - name: website
+    totalSeconds: 57.328752
   - name: GapYearStream
     totalSeconds: 25.527186
   - name: buildx
     totalSeconds: 23.598519
-  - name: portfolio-showcase
-    totalSeconds: 2.203503
+  - name: Terminal
+    totalSeconds: 12.349671
