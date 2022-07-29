@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 724
+    timeSpent: 1062
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
-    timeSpent: 603
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 481
+    timeSpent: 899
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 324
-  - category: Browsers
-    name: newtab
+    timeSpent: 641
+  - category: Uncategorized
+    name: '[unpublished]'
     productivity: 0
-    timeSpent: 138
+    timeSpent: 605
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 488
