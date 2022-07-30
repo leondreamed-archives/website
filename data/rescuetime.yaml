@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1735
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 370
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 245
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 168
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 112
