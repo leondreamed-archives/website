@@ -2,15 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 8570
+    timeSpent: 9725
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
-    timeSpent: 1419
+    timeSpent: 1446
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 521
+    timeSpent: 829
   - category: General Software Development
     name: Github
     productivity: 2
@@ -18,4 +18,4 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 233
+    timeSpent: 280
