@@ -1,4 +1,6 @@
 events:
+  - date: '2022-07-30T15:53:47Z'
+    type: WatchEvent
   - date: '2022-07-28T12:52:15Z'
     type: PushEvent
   - date: '2022-07-25T19:40:51Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-07-12T21:19:38Z'
     type: PushEvent
-  - date: '2022-07-12T21:18:55Z'
-    type: PushEvent
 latestCommit:
-  message: 'feat: /prettier'
+  message: 1.7.26
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/d117c166fd03a3fbaa480980a15dad6217356a26
+    https://api.github.com/repos/leonzalion/lionconfig/commits/4137f6067554bf73a2f936037f41b8f02f342fa6
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
