@@ -1,28 +1,26 @@
-dailyAverage: 22250
-totalSeconds: 155749.798315
+dailyAverage: 26446
+totalSeconds: 185124.218091
 languages:
   - name: TypeScript
-    totalSeconds: 102805.097861
+    totalSeconds: 125802.229576
   - name: sh
-    totalSeconds: 38626.379626
+    totalSeconds: 46209.633742
   - name: Other
-    totalSeconds: 3639.20848
+    totalSeconds: 4106.62631
   - name: JavaScript
-    totalSeconds: 3554.548337
+    totalSeconds: 3274.660799
   - name: JSON
-    totalSeconds: 2872.311248
-  - name: C++
-    totalSeconds: 1873.308379
+    totalSeconds: 3249.371495
   - name: Markdown
-    totalSeconds: 1404.530425
+    totalSeconds: 1881.7195
   - name: SQL
-    totalSeconds: 1271.945218
+    totalSeconds: 1295.934
   - name: YAML
-    totalSeconds: 1068.454411
+    totalSeconds: 1065.429889
   - name: Bash
     totalSeconds: 795.639668
   - name: Git Config
-    totalSeconds: 401.170713
+    totalSeconds: 427.629568
   - name: CSV
     totalSeconds: 284.271914
   - name: Vue.js
@@ -32,13 +30,13 @@ languages:
   - name: Terraform
     totalSeconds: 183.376251
   - name: CSS
-    totalSeconds: 73.630301
+    totalSeconds: 115.75766
   - name: Go
     totalSeconds: 23.598519
+  - name: Diff
+    totalSeconds: 19.047644
   - name: Docker
     totalSeconds: 17.598563
-  - name: Diff
-    totalSeconds: 15.617578
   - name: Text
     totalSeconds: 7.384847
   - name: C#
@@ -47,15 +45,15 @@ languages:
     totalSeconds: 1.0003
 projects:
   - name: dialect
-    totalSeconds: 154988.576094
+    totalSeconds: 186051.959252
   - name: leonzalion
-    totalSeconds: 3064.640337
+    totalSeconds: 1089.974366
   - name: vscode-extension
     totalSeconds: 1085.894886
+  - name: blog
+    totalSeconds: 812.844734
   - name: build-push-action
     totalSeconds: 63.829083
-  - name: blog
-    totalSeconds: 59.724315
   - name: website
     totalSeconds: 57.328752
   - name: GapYearStream

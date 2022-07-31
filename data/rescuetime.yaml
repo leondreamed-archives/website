@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 21355
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 4533
+    timeSpent: 520
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 3223
+    timeSpent: 304
+  - category: General Utilities
+    name: karabiner-elements
+    productivity: 0
+    timeSpent: 201
   - category: Editing & IDEs
-    name: localhost:3001
+    name: Visual Studio Code
     productivity: 2
-    timeSpent: 2783
+    timeSpent: 131
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 1818
+    timeSpent: 52
