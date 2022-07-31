@@ -1,4 +1,10 @@
 events:
+  - date: '2022-07-31T02:28:49Z'
+    type: WatchEvent
+  - date: '2022-07-31T02:08:18Z'
+    type: WatchEvent
+  - date: '2022-07-31T01:43:16Z'
+    type: PushEvent
   - date: '2022-07-30T15:53:47Z'
     type: WatchEvent
   - date: '2022-07-28T12:52:15Z'
@@ -53,16 +59,10 @@ events:
     type: WatchEvent
   - date: '2022-07-12T21:28:54Z'
     type: PushEvent
-  - date: '2022-07-12T21:28:14Z'
-    type: PushEvent
-  - date: '2022-07-12T21:20:03Z'
-    type: PushEvent
-  - date: '2022-07-12T21:19:38Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.26
+  message: 1.7.27
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/4137f6067554bf73a2f936037f41b8f02f342fa6
+    https://api.github.com/repos/leonzalion/lionconfig/commits/f610384dfa9cf483a878abea137e83006cae2d9f
   repo:
     url: https://api.github.com/repos/leonzalion/lionconfig
     name: leonzalion/lionconfig
