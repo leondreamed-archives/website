@@ -10,12 +10,12 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1662
+    timeSpent: 1795
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 1115
+    timeSpent: 1360
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 858
+    timeSpent: 864
