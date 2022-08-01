@@ -1,65 +1,53 @@
-dailyAverage: 26446
-totalSeconds: 185124.218091
+dailyAverage: 22425
+totalSeconds: 156978.066321
 languages:
   - name: TypeScript
-    totalSeconds: 125802.229576
+    totalSeconds: 105096.155701
   - name: sh
-    totalSeconds: 46209.633742
+    totalSeconds: 40962.395661
   - name: Other
-    totalSeconds: 4106.62631
+    totalSeconds: 3812.410551
   - name: JavaScript
-    totalSeconds: 3274.660799
-  - name: JSON
-    totalSeconds: 3249.371495
+    totalSeconds: 3162.636054
   - name: Markdown
-    totalSeconds: 1881.7195
+    totalSeconds: 3013.628966
+  - name: JSON
+    totalSeconds: 2458.261627
   - name: SQL
-    totalSeconds: 1295.934
-  - name: YAML
-    totalSeconds: 1065.429889
-  - name: Bash
-    totalSeconds: 795.639668
+    totalSeconds: 892.821161
   - name: Git Config
-    totalSeconds: 427.629568
-  - name: CSV
-    totalSeconds: 284.271914
+    totalSeconds: 409.120407
+  - name: Bash
+    totalSeconds: 314.179466
   - name: Vue.js
     totalSeconds: 256.543526
-  - name: Charmci
-    totalSeconds: 211.562267
-  - name: Terraform
-    totalSeconds: 183.376251
+  - name: YAML
+    totalSeconds: 217.257229
   - name: CSS
     totalSeconds: 115.75766
-  - name: Go
-    totalSeconds: 23.598519
+  - name: Charmci
+    totalSeconds: 32.683006
   - name: Diff
-    totalSeconds: 19.047644
+    totalSeconds: 26.198631
   - name: Docker
     totalSeconds: 17.598563
-  - name: Text
-    totalSeconds: 7.384847
   - name: C#
     totalSeconds: 1.828363
   - name: TOML
     totalSeconds: 1.0003
 projects:
   - name: dialect
-    totalSeconds: 186051.959252
-  - name: leonzalion
-    totalSeconds: 1089.974366
+    totalSeconds: 157783.311424
   - name: vscode-extension
     totalSeconds: 1085.894886
+  - name: leonzalion
+    totalSeconds: 1005.682267
   - name: blog
     totalSeconds: 812.844734
-  - name: build-push-action
-    totalSeconds: 63.829083
   - name: website
     totalSeconds: 57.328752
   - name: GapYearStream
     totalSeconds: 25.527186
-  - name: buildx
-    totalSeconds: 23.598519
   - name: Terminal
     totalSeconds: 12.349671
   - name: kevins-playground
