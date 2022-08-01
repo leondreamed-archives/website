@@ -2,11 +2,11 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 9533
+    timeSpent: 11010
   - category: Meetings
     name: Zoom
     productivity: 1
-    timeSpent: 2071
+    timeSpent: 2079
   - category: General Software Development
     name: Github
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 663
+    timeSpent: 1018
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 422
+    timeSpent: 457
