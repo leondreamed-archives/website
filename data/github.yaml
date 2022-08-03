@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-03T10:12:49Z'
+    type: WatchEvent
   - date: '2022-07-31T02:28:49Z'
     type: WatchEvent
   - date: '2022-07-31T02:08:18Z'
@@ -57,12 +59,10 @@ events:
     type: WatchEvent
   - date: '2022-07-14T01:56:17Z'
     type: WatchEvent
-  - date: '2022-07-12T21:28:54Z'
-    type: PushEvent
 latestCommit:
-  message: 1.7.27
+  message: 'chore: update'
   url: >-
-    https://api.github.com/repos/leonzalion/lionconfig/commits/f610384dfa9cf483a878abea137e83006cae2d9f
+    https://api.github.com/repos/leonzalion/create-project/commits/7d87b01444b8b8e499648cd786b3b1530def9cef
   repo:
-    url: https://api.github.com/repos/leonzalion/lionconfig
-    name: leonzalion/lionconfig
+    url: https://api.github.com/repos/leonzalion/create-project
+    name: leonzalion/create-project

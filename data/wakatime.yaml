@@ -1,50 +1,84 @@
-dailyAverage: 26079
-totalSeconds: 182549.603583
+dailyAverage: 30107
+totalSeconds: 210749.637835
 languages:
   - name: TypeScript
-    totalSeconds: 125930.509364
+    totalSeconds: 126535.488606
   - name: sh
-    totalSeconds: 40187.978387
+    totalSeconds: 49454.130826
+  - name: Rust
+    totalSeconds: 12241.414116
   - name: JavaScript
-    totalSeconds: 6339.688061
+    totalSeconds: 6226.296154
   - name: Markdown
-    totalSeconds: 5378.213975
+    totalSeconds: 6087.517228
   - name: Other
-    totalSeconds: 3573.553011
+    totalSeconds: 3596.478535
   - name: JSON
-    totalSeconds: 2647.531922
-  - name: SQL
-    totalSeconds: 596.488763
-  - name: Git Config
-    totalSeconds: 409.878697
-  - name: Diff
-    totalSeconds: 358.327618
+    totalSeconds: 3464.825407
+  - name: Objective-C++
+    totalSeconds: 1299.58492
+  - name: C
+    totalSeconds: 1211.029562
   - name: Vue.js
-    totalSeconds: 256.543526
-  - name: YAML
-    totalSeconds: 204.846582
-  - name: Bash
-    totalSeconds: 177.342868
+    totalSeconds: 676.192542
+  - name: Git Config
+    totalSeconds: 597.382068
+  - name: SQL
+    totalSeconds: 596.758771
   - name: CSS
-    totalSeconds: 42.127359
-  - name: Docker
-    totalSeconds: 17.598563
+    totalSeconds: 531.992773
+  - name: TOML
+    totalSeconds: 513.253513
+  - name: Swift
+    totalSeconds: 441.052701
+  - name: Diff
+    totalSeconds: 342.71004
+  - name: YAML
+    totalSeconds: 266.023535
+  - name: Bash
+    totalSeconds: 177.429939
+  - name: C++
+    totalSeconds: 65.85945
+  - name: XML
+    totalSeconds: 9.739244
+  - name: HTML
+    totalSeconds: 4.884142
+  - name: Makefile
+    totalSeconds: 3.109001
   - name: CSV
-    totalSeconds: 2.527898
+    totalSeconds: 2.649046
+  - name: Terraform
+    totalSeconds: 0.216497
+  - name: Charmci
+    totalSeconds: 0.08778
+  - name: Docker
+    totalSeconds: 0.009974
 projects:
   - name: dialect
-    totalSeconds: 183144.262089
-  - name: vscode-extension
-    totalSeconds: 1085.894886
+    totalSeconds: 199411.800596
+  - name: espanso
+    totalSeconds: 9235.816687
   - name: leonzalion
-    totalSeconds: 977.411324
+    totalSeconds: 2782.928849
+  - name: vscode-extension
+    totalSeconds: 1287.361441
   - name: blog
     totalSeconds: 812.844734
+  - name: desktop-app
+    totalSeconds: 264.813402
+  - name: i
+    totalSeconds: 222.666622
+  - name: Swift-Keylogger
+    totalSeconds: 180.237058
+  - name: keylogger
+    totalSeconds: 61.263716
   - name: website
     totalSeconds: 57.328752
-  - name: GapYearStream
-    totalSeconds: 25.527186
   - name: Terminal
     totalSeconds: 12.349671
   - name: kevins-playground
     totalSeconds: 7.537952
+  - name: tabulo
+    totalSeconds: 5.269464
+  - name: vscode-ejs
+    totalSeconds: 3.897426
