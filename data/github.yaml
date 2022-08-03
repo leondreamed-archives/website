@@ -1,4 +1,8 @@
 events:
+  - date: '2022-08-03T21:54:47Z'
+    type: CreateEvent
+  - date: '2022-08-03T21:54:34Z'
+    type: CreateEvent
   - date: '2022-08-03T18:02:56Z'
     type: WatchEvent
   - date: '2022-08-03T10:12:49Z'
@@ -55,14 +59,10 @@ events:
     type: PushEvent
   - date: '2022-07-14T14:09:46Z'
     type: PushEvent
-  - date: '2022-07-14T14:08:38Z'
-    type: PushEvent
-  - date: '2022-07-14T13:29:52Z'
-    type: WatchEvent
 latestCommit:
-  message: 'chore: update'
+  message: 'chore: update deps'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/7d87b01444b8b8e499648cd786b3b1530def9cef
+    https://api.github.com/repos/leonzalion/create-project/commits/e35c689bd07b4d41339c845c4a0c98915a26d47d
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
