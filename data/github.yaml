@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-03T18:02:56Z'
+    type: WatchEvent
   - date: '2022-08-03T10:12:49Z'
     type: WatchEvent
   - date: '2022-07-31T02:28:49Z'
@@ -56,8 +58,6 @@ events:
   - date: '2022-07-14T14:08:38Z'
     type: PushEvent
   - date: '2022-07-14T13:29:52Z'
-    type: WatchEvent
-  - date: '2022-07-14T01:56:17Z'
     type: WatchEvent
 latestCommit:
   message: 'chore: update'
