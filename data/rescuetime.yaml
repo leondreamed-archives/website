@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 8591
+    timeSpent: 9623
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2725
+    timeSpent: 3669
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2688
+    timeSpent: 3099
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 1127
+    timeSpent: 1448
   - category: Uncategorized
     name: formik.org
     productivity: 0
