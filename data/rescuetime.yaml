@@ -1,21 +1,21 @@
 topActivities:
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 967
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 842
-  - category: Uncategorized
+    timeSpent: 2182
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1272
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 1242
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 859
+  - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 306
-  - category: Uncategorized
-    name: kubernetes.dialect.business
-    productivity: 0
-    timeSpent: 235
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 209
+    timeSpent: 492
