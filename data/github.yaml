@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-04T18:50:35Z'
+    type: WatchEvent
   - date: '2022-08-03T22:20:17Z'
     type: WatchEvent
   - date: '2022-08-03T21:54:47Z'
@@ -57,12 +59,10 @@ events:
     type: CreateEvent
   - date: '2022-07-14T14:12:05Z'
     type: PushEvent
-  - date: '2022-07-14T14:10:17Z'
-    type: PushEvent
 latestCommit:
-  message: 1.1.16
+  message: 'chore: no lockfile'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/46ca706277aca4d46642ef53e7562d6970efcc30
+    https://api.github.com/repos/leonzalion/create-project/commits/c8b4e8f65ed2704558078d906364a3429972f27b
   repo:
     url: https://api.github.com/repos/leonzalion/create-project
     name: leonzalion/create-project
