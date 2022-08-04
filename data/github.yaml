@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-04T19:23:51Z'
+    type: WatchEvent
   - date: '2022-08-04T18:50:35Z'
     type: WatchEvent
   - date: '2022-08-03T22:20:17Z'
@@ -57,12 +59,10 @@ events:
     type: CreateEvent
   - date: '2022-07-14T14:19:58Z'
     type: CreateEvent
-  - date: '2022-07-14T14:12:05Z'
-    type: PushEvent
 latestCommit:
-  message: 'chore: no lockfile'
+  message: 'chore: fix exports'
   url: >-
-    https://api.github.com/repos/leonzalion/create-project/commits/c8b4e8f65ed2704558078d906364a3429972f27b
+    https://api.github.com/repos/leonzalion/tsconfig-paths-workspace/commits/87184a3047f8cd649e73323326cc335fdc9c62e8
   repo:
-    url: https://api.github.com/repos/leonzalion/create-project
-    name: leonzalion/create-project
+    url: https://api.github.com/repos/leonzalion/tsconfig-paths-workspace
+    name: leonzalion/tsconfig-paths-workspace
