@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 944
+    timeSpent: 2339
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 523
-  - category: Uncategorized
-    name: linear.app
-    productivity: 0
-    timeSpent: 134
-  - category: General Business
+    timeSpent: 648
+  - category: Science & Technology
     name: '[unpublished]'
-    productivity: 2
-    timeSpent: 75
+    productivity: -2
+    timeSpent: 374
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 68
+    timeSpent: 339
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 218
