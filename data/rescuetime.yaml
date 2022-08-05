@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 4380
+    timeSpent: 5085
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2926
+    timeSpent: 3483
   - category: Email
     name: Gmail
     productivity: 0
-    timeSpent: 823
+    timeSpent: 1029
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 704
   - category: Browsers
-    name: newtab
+    name: Firefox
     productivity: 0
-    timeSpent: 516
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 415
+    timeSpent: 640
