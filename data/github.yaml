@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-05T18:56:40Z'
+    type: WatchEvent
   - date: '2022-08-05T00:13:22Z'
     type: PushEvent
   - date: '2022-08-04T19:23:51Z'
@@ -57,8 +59,6 @@ events:
     type: PushEvent
   - date: '2022-07-14T14:22:34Z'
     type: PushEvent
-  - date: '2022-07-14T14:20:06Z'
-    type: CreateEvent
 latestCommit:
   message: 'chore: fix exports'
   url: >-
