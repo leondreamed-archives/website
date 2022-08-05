@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 5403
+    timeSpent: 5404
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 4188
+    timeSpent: 4215
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2049
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 1243
+    timeSpent: 2293
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1121
+    timeSpent: 2033
+  - category: Email
+    name: Gmail
+    productivity: 0
+    timeSpent: 1245
