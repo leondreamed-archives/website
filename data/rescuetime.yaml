@@ -6,7 +6,11 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2558
+    timeSpent: 2582
+  - category: Writing
+    name: Google Documents
+    productivity: 2
+    timeSpent: 2099
   - category: General Reference & Learning
     name: desmos.com
     productivity: 2
@@ -15,7 +19,3 @@ topActivities:
     name: localhost:3001
     productivity: 2
     timeSpent: 1202
-  - category: Browsers
-    name: Firefox
-    productivity: 0
-    timeSpent: 947
