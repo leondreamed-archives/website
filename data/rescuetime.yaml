@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 4604
+    timeSpent: 5796
   - category: General Reference & Learning
     name: desmos.com
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 967
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 278
+    timeSpent: 1008
+  - category: Browsers
+    name: Firefox
+    productivity: 0
+    timeSpent: 947
