@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5796
+    timeSpent: 6157
   - category: General Reference & Learning
     name: desmos.com
     productivity: 2
     timeSpent: 1538
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 1425
   - category: Editing & IDEs
     name: localhost:3001
     productivity: 2
     timeSpent: 1202
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 1008
   - category: Browsers
     name: Firefox
     productivity: 0
