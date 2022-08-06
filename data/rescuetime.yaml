@@ -1,12 +1,12 @@
 topActivities:
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 6459
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5608
+    timeSpent: 7166
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 7015
   - category: Other
     name: alacritty
     productivity: 0
