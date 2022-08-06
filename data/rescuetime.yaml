@@ -1,21 +1,21 @@
 topActivities:
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 7166
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 7015
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 2683
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2646
+    timeSpent: 4604
+  - category: General Reference & Learning
+    name: desmos.com
+    productivity: 2
+    timeSpent: 1538
+  - category: Editing & IDEs
+    name: localhost:3001
+    productivity: 2
+    timeSpent: 1202
   - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 1270
+    name: Slack
+    productivity: 0
+    timeSpent: 967
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 278
