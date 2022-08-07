@@ -1,21 +1,21 @@
 topActivities:
   - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 1321
-  - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 1088
+    timeSpent: 3182
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 1458
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 351
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 147
-  - category: Browsers
-    name: newtab
+    timeSpent: 744
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 127
+    timeSpent: 217
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 217
