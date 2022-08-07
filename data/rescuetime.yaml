@@ -3,6 +3,10 @@ topActivities:
     name: Slack
     productivity: 0
     timeSpent: 5347
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 2781
   - category: Communications
     name: discord.com
     productivity: -1
@@ -15,7 +19,3 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 814
-  - category: Games
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 799
