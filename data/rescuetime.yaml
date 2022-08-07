@@ -1,21 +1,21 @@
 topActivities:
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 6157
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 1321
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5380
-  - category: Writing
-    name: Google Documents
+    timeSpent: 1088
+  - category: Editing & IDEs
+    name: Visual Studio Code
     productivity: 2
-    timeSpent: 2099
-  - category: General Reference & Learning
-    name: desmos.com
-    productivity: 2
-    timeSpent: 1538
+    timeSpent: 351
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 1454
+    timeSpent: 147
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 127

@@ -1,48 +1,46 @@
-dailyAverage: 29762
-totalSeconds: 208336.047543
+dailyAverage: 25743
+totalSeconds: 180199.669784
 languages:
   - name: TypeScript
-    totalSeconds: 104175.427886
+    totalSeconds: 66038.639058
   - name: sh
-    totalSeconds: 79841.684613
+    totalSeconds: 63421.403113
   - name: Rust
     totalSeconds: 46802.306322
   - name: JavaScript
-    totalSeconds: 8123.82817
+    totalSeconds: 10853.685321
   - name: Markdown
-    totalSeconds: 5647.166645
+    totalSeconds: 5859.951263
   - name: C++
     totalSeconds: 5113.511658
-  - name: JSON
-    totalSeconds: 5025.877739
   - name: Objective-C++
     totalSeconds: 3525.940586
-  - name: Other
-    totalSeconds: 2775.44476
   - name: C
     totalSeconds: 2434.587863
+  - name: JSON
+    totalSeconds: 1790.651514
+  - name: Other
+    totalSeconds: 1633.138302
   - name: TOML
     totalSeconds: 1468.789408
   - name: Vue.js
     totalSeconds: 997.875663
+  - name: CSS
+    totalSeconds: 987.118343
   - name: Swift
     totalSeconds: 882.105402
   - name: CMake
     totalSeconds: 719.406537
-  - name: CSS
-    totalSeconds: 581.507647
   - name: YAML
-    totalSeconds: 506.842127
+    totalSeconds: 535.463647
   - name: Objective-C
     totalSeconds: 402.20103
   - name: Diff
-    totalSeconds: 346.140106
+    totalSeconds: 346.430961
   - name: Git Config
-    totalSeconds: 265.628729
+    totalSeconds: 213.686999
   - name: Bash
     totalSeconds: 91.174313
-  - name: SQL
-    totalSeconds: 50.082883
   - name: Docker
     totalSeconds: 43.211124
   - name: XML
@@ -55,6 +53,8 @@ languages:
     totalSeconds: 9.768284
   - name: CSV
     totalSeconds: 5.176944
+  - name: SQL
+    totalSeconds: 3.94063
   - name: SCSS
     totalSeconds: 2.459362
   - name: Terraform
@@ -63,17 +63,15 @@ languages:
     totalSeconds: 0.17556
 projects:
   - name: dialect
-    totalSeconds: 229300.218082
+    totalSeconds: 171376.069919
   - name: espanso
     totalSeconds: 18471.633374
   - name: socket-experiment
     totalSeconds: 7203.452004
-  - name: leonzalion
-    totalSeconds: 5618.21426
   - name: habitica
-    totalSeconds: 4007.03821
-  - name: blog
-    totalSeconds: 1506.240838
+    totalSeconds: 5337.634202
+  - name: leonzalion
+    totalSeconds: 4226.519276
   - name: socket.io-client-cpp
     totalSeconds: 674.730534
   - name: desktop-app
