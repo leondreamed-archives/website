@@ -1,28 +1,28 @@
-dailyAverage: 25743
-totalSeconds: 180199.669784
+dailyAverage: 25030
+totalSeconds: 175208.376646
 languages:
   - name: TypeScript
-    totalSeconds: 66038.639058
+    totalSeconds: 88998.041534
   - name: sh
-    totalSeconds: 63421.403113
+    totalSeconds: 65444.660028
   - name: Rust
-    totalSeconds: 46802.306322
+    totalSeconds: 48246.280033
   - name: JavaScript
-    totalSeconds: 10853.685321
+    totalSeconds: 10898.772676
   - name: Markdown
-    totalSeconds: 5859.951263
+    totalSeconds: 5945.905797
   - name: C++
-    totalSeconds: 5113.511658
+    totalSeconds: 5114.397153
   - name: Objective-C++
     totalSeconds: 3525.940586
+  - name: Other
+    totalSeconds: 2677.272382
   - name: C
     totalSeconds: 2434.587863
   - name: JSON
-    totalSeconds: 1790.651514
-  - name: Other
-    totalSeconds: 1633.138302
+    totalSeconds: 1875.900325
   - name: TOML
-    totalSeconds: 1468.789408
+    totalSeconds: 1593.184076
   - name: Vue.js
     totalSeconds: 997.875663
   - name: CSS
@@ -31,30 +31,30 @@ languages:
     totalSeconds: 882.105402
   - name: CMake
     totalSeconds: 719.406537
+  - name: Diff
+    totalSeconds: 664.257974
+  - name: XML
+    totalSeconds: 545.354696
   - name: YAML
-    totalSeconds: 535.463647
+    totalSeconds: 471.985513
   - name: Objective-C
     totalSeconds: 402.20103
-  - name: Diff
-    totalSeconds: 346.430961
   - name: Git Config
-    totalSeconds: 213.686999
+    totalSeconds: 212.493329
   - name: Bash
     totalSeconds: 91.174313
   - name: Docker
     totalSeconds: 43.211124
-  - name: XML
-    totalSeconds: 30.823437
   - name: Makefile
     totalSeconds: 25.351239
+  - name: HTML
+    totalSeconds: 14.879772
   - name: systemd
     totalSeconds: 14.258056
-  - name: HTML
-    totalSeconds: 9.768284
+  - name: SQL
+    totalSeconds: 7.946481
   - name: CSV
     totalSeconds: 5.176944
-  - name: SQL
-    totalSeconds: 3.94063
   - name: SCSS
     totalSeconds: 2.459362
   - name: Terraform
@@ -63,7 +63,7 @@ languages:
     totalSeconds: 0.17556
 projects:
   - name: dialect
-    totalSeconds: 171376.069919
+    totalSeconds: 201181.66672
   - name: espanso
     totalSeconds: 18471.633374
   - name: socket-experiment
@@ -71,7 +71,11 @@ projects:
   - name: habitica
     totalSeconds: 5337.634202
   - name: leonzalion
-    totalSeconds: 4226.519276
+    totalSeconds: 4507.590858
+  - name: datachannel-rs
+    totalSeconds: 2937.921372
+  - name: GapYearStream
+    totalSeconds: 738.555374
   - name: socket.io-client-cpp
     totalSeconds: 674.730534
   - name: desktop-app
@@ -88,6 +92,8 @@ projects:
     totalSeconds: 175.6311
   - name: keylogger
     totalSeconds: 122.527432
+  - name: blog
+    totalSeconds: 87.237676
   - name: catch
     totalSeconds: 75.019947
   - name: compile-vue-sfc
@@ -98,9 +104,13 @@ projects:
     totalSeconds: 41.21768
   - name: websocketpp
     totalSeconds: 39.801998
+  - name: libdatachannel
+    totalSeconds: 23.254318
   - name: rapidjson
     totalSeconds: 12.350257
   - name: tabulo
     totalSeconds: 10.538928
   - name: vscode-ejs
     totalSeconds: 7.794852
+  - name: website
+    totalSeconds: 6.322086
