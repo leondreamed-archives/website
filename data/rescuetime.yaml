@@ -2,19 +2,19 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5741
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 3067
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 2946
+    timeSpent: 5779
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 1097
+    timeSpent: 3886
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 3136
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 2968
   - category: Uncategorized
     name: app.sli.do
     productivity: 0
