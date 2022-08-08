@@ -7,15 +7,15 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 3537
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2105
   - category: Communications
     name: discord.com
     productivity: -1
     timeSpent: 1625
-  - category: Writing
-    name: Notion
+  - category: General Software Development
+    name: Github
     productivity: 2
-    timeSpent: 1003
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 904
+    timeSpent: 1113
