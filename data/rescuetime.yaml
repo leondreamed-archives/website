@@ -1,21 +1,21 @@
 topActivities:
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 1740
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 849
+    timeSpent: 3085
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 1933
   - category: Engineering & Technology
     name: codementor.io
     productivity: 2
-    timeSpent: 575
+    timeSpent: 1212
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 530
+    timeSpent: 533
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 411
+    timeSpent: 461
