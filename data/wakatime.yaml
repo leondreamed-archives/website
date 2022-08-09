@@ -1,48 +1,44 @@
-dailyAverage: 25030
-totalSeconds: 175208.376646
+dailyAverage: 18473
+totalSeconds: 129310.406152
 languages:
-  - name: TypeScript
-    totalSeconds: 88998.041534
   - name: sh
-    totalSeconds: 65444.660028
+    totalSeconds: 59609.08978
   - name: Rust
     totalSeconds: 48246.280033
-  - name: JavaScript
-    totalSeconds: 10898.772676
-  - name: Markdown
-    totalSeconds: 5945.905797
+  - name: TypeScript
+    totalSeconds: 29755.280877
   - name: C++
     totalSeconds: 5114.397153
+  - name: JavaScript
+    totalSeconds: 4218.612188
   - name: Objective-C++
     totalSeconds: 3525.940586
-  - name: Other
-    totalSeconds: 2677.272382
   - name: C
     totalSeconds: 2434.587863
   - name: JSON
-    totalSeconds: 1875.900325
+    totalSeconds: 2353.796036
+  - name: Markdown
+    totalSeconds: 1926.039032
   - name: TOML
     totalSeconds: 1593.184076
   - name: Vue.js
     totalSeconds: 997.875663
   - name: CSS
     totalSeconds: 987.118343
+  - name: Other
+    totalSeconds: 935.748071
   - name: Swift
     totalSeconds: 882.105402
   - name: CMake
     totalSeconds: 719.406537
-  - name: Diff
-    totalSeconds: 664.257974
+  - name: YAML
+    totalSeconds: 699.66892
   - name: XML
     totalSeconds: 545.354696
-  - name: YAML
-    totalSeconds: 471.985513
   - name: Objective-C
     totalSeconds: 402.20103
   - name: Git Config
-    totalSeconds: 212.493329
-  - name: Bash
-    totalSeconds: 91.174313
+    totalSeconds: 398.48012
   - name: Docker
     totalSeconds: 43.211124
   - name: Makefile
@@ -52,26 +48,28 @@ languages:
   - name: systemd
     totalSeconds: 14.258056
   - name: SQL
-    totalSeconds: 7.946481
-  - name: CSV
-    totalSeconds: 5.176944
+    totalSeconds: 4.545867
   - name: SCSS
     totalSeconds: 2.459362
   - name: Terraform
     totalSeconds: 0.432994
+  - name: CSV
+    totalSeconds: 0.242296
   - name: Charmci
     totalSeconds: 0.17556
+  - name: Bash
+    totalSeconds: 0.174142
 projects:
   - name: dialect
-    totalSeconds: 201181.66672
+    totalSeconds: 128549.934032
   - name: espanso
     totalSeconds: 18471.633374
   - name: socket-experiment
     totalSeconds: 7203.452004
+  - name: leonzalion
+    totalSeconds: 6271.737979
   - name: habitica
     totalSeconds: 5337.634202
-  - name: leonzalion
-    totalSeconds: 4507.590858
   - name: datachannel-rs
     totalSeconds: 2937.921372
   - name: GapYearStream
