@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3736
+    timeSpent: 3738
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 3204
+    timeSpent: 3509
   - category: Engineering & Technology
     name: codementor.io
     productivity: 2
     timeSpent: 2603
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 2420
   - category: Other
     name: alacritty
     productivity: 0
     timeSpent: 2031
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1752
