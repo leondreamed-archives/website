@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 1587
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 505
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 386
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 329
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 179
