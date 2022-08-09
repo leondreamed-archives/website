@@ -6,7 +6,7 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2779
+    timeSpent: 3204
   - category: Engineering & Technology
     name: codementor.io
     productivity: 2
@@ -14,8 +14,8 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 1941
+    timeSpent: 2031
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1242
+    timeSpent: 1752
