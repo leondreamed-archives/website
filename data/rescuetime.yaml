@@ -2,11 +2,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 2164
+    timeSpent: 2165
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2121
+    timeSpent: 2140
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: codementor.io
     productivity: 2
     timeSpent: 1823
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1224
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1507
