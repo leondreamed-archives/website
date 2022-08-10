@@ -1,21 +1,21 @@
 topActivities:
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 1316
   - category: Engineering & Technology
     name: codementor.io
     productivity: 2
-    timeSpent: 1282
+    timeSpent: 1811
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 1717
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 534
+    timeSpent: 618
   - category: Graphic Design
     name: figma
     productivity: 2
     timeSpent: 452
-  - category: Communications
-    name: discord.com
-    productivity: -1
-    timeSpent: 386
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 390
