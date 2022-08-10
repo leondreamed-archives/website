@@ -1,21 +1,21 @@
 topActivities:
-  - category: Communications
-    name: Slack
+  - category: Other
+    name: alacritty
     productivity: 0
-    timeSpent: 5868
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 4211
+    timeSpent: 1316
+  - category: Engineering & Technology
+    name: codementor.io
+    productivity: 2
+    timeSpent: 1282
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 3739
+    timeSpent: 534
+  - category: Graphic Design
+    name: figma
+    productivity: 2
+    timeSpent: 452
   - category: Communications
     name: discord.com
     productivity: -1
-    timeSpent: 2961
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 2887
+    timeSpent: 386
