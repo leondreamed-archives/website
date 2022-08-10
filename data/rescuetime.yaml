@@ -2,20 +2,20 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5464
+    timeSpent: 5868
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 3782
+    timeSpent: 4211
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
     timeSpent: 3739
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 2961
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 2885
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 2737
+    timeSpent: 2887
