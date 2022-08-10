@@ -11,11 +11,11 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 618
+  - category: Communications
+    name: discord.com
+    productivity: -1
+    timeSpent: 530
   - category: Graphic Design
     name: figma
     productivity: 2
     timeSpent: 452
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 390
