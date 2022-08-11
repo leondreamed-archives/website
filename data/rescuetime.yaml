@@ -2,7 +2,11 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 4313
+    timeSpent: 4846
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 1132
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
@@ -10,12 +14,8 @@ topActivities:
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 839
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 808
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 381
+    timeSpent: 854
+  - category: Engineering & Technology
+    name: blog.codecombat.com
+    productivity: 2
+    timeSpent: 457
