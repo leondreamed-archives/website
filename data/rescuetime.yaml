@@ -2,7 +2,7 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5819
+    timeSpent: 5834
   - category: Writing
     name: Notion
     productivity: 2
@@ -15,7 +15,7 @@ topActivities:
     name: meet.google.com
     productivity: 1
     timeSpent: 1086
-  - category: Uncategorized
+  - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 1024
+    timeSpent: 1025
