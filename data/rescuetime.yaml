@@ -1,21 +1,21 @@
 topActivities:
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 889
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 797
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 130
-  - category: Intelligence
-    name: RescueTime
-    productivity: 2
-    timeSpent: 119
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 45
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 39
+    timeSpent: 441
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 362
+  - category: General News & Opinion
+    name: community.brave.com
+    productivity: -2
+    timeSpent: 158
