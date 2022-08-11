@@ -1,21 +1,21 @@
 topActivities:
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 797
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 130
+  - category: Intelligence
+    name: RescueTime
+    productivity: 2
+    timeSpent: 119
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2457
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 2166
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2095
+    timeSpent: 45
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1839
-  - category: Engineering & Technology
-    name: codementor.io
-    productivity: 2
-    timeSpent: 1823
+    timeSpent: 39
