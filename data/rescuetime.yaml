@@ -2,7 +2,7 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 3437
+    timeSpent: 4313
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
@@ -10,12 +10,12 @@ topActivities:
   - category: Meetings
     name: meet.google.com
     productivity: 1
-    timeSpent: 819
+    timeSpent: 839
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 797
+    timeSpent: 808
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 366
+    timeSpent: 381
