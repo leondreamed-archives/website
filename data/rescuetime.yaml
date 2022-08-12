@@ -2,20 +2,20 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 5887
+    timeSpent: 6632
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 3102
+    timeSpent: 3124
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 1328
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 1232
   - category: Meetings
     name: meet.google.com
     productivity: 1
     timeSpent: 1086
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1038
