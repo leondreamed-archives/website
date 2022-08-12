@@ -1,78 +1,56 @@
-dailyAverage: 10043
-totalSeconds: 70302.3314
+dailyAverage: 8100
+totalSeconds: 56700.118485
 languages:
   - name: sh
-    totalSeconds: 37384.368483
+    totalSeconds: 30794.90875
   - name: TypeScript
-    totalSeconds: 29484.270322
-  - name: Rust
-    totalSeconds: 9573.476517
+    totalSeconds: 28204.97791
   - name: JavaScript
-    totalSeconds: 3440.080611
-  - name: C++
-    totalSeconds: 2207.439257
+    totalSeconds: 5280.162873
+  - name: Rust
+    totalSeconds: 3475.347742
   - name: JSON
-    totalSeconds: 1187.449668
-  - name: Objective-C++
-    totalSeconds: 915.647714
-  - name: Other
-    totalSeconds: 568.314943
-  - name: Markdown
-    totalSeconds: 563.398451
+    totalSeconds: 1161.660083
   - name: XML
-    totalSeconds: 531.864451
-  - name: Vue.js
-    totalSeconds: 280.150657
+    totalSeconds: 1029.062518
+  - name: Other
+    totalSeconds: 282.078003
   - name: TOML
-    totalSeconds: 184.760704
+    totalSeconds: 248.789336
+  - name: Markdown
+    totalSeconds: 111.390122
+  - name: YAML
+    totalSeconds: 102.811156
   - name: Docker
     totalSeconds: 81.45627
-  - name: YAML
-    totalSeconds: 59.217516
-  - name: CMake
-    totalSeconds: 51.427778
-  - name: Git Config
-    totalSeconds: 28.682344
+  - name: Vue.js
+    totalSeconds: 57.866534
   - name: Text
     totalSeconds: 16.68179
-  - name: CSS
-    totalSeconds: 14.77503
-  - name: Makefile
-    totalSeconds: 14.464988
   - name: HTML
     totalSeconds: 10.222976
-  - name: C
-    totalSeconds: 10.009028
-  - name: systemd
-    totalSeconds: 9.03462
   - name: SQL
     totalSeconds: 8.011702
+  - name: C++
+    totalSeconds: 6.737819
   - name: CSV
     totalSeconds: 6.117322
   - name: SCSS
     totalSeconds: 2.459362
 projects:
   - name: dialect
-    totalSeconds: 79741.613069
+    totalSeconds: 59989.264032
   - name: habitica
     totalSeconds: 5337.634202
   - name: datachannel-rs
     totalSeconds: 2940.797911
   - name: leonzalion
-    totalSeconds: 1344.511612
+    totalSeconds: 1496.027085
   - name: GapYearStream
     totalSeconds: 738.555374
-  - name: asio
-    totalSeconds: 229.335836
   - name: blog
     totalSeconds: 87.237676
   - name: libdatachannel
     totalSeconds: 23.254318
-  - name: catch
-    totalSeconds: 13.194278
-  - name: rapidjson
-    totalSeconds: 6.348718
   - name: website
     totalSeconds: 6.322086
-  - name: websocketpp
-    totalSeconds: 3.483828
