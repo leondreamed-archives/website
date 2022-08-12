@@ -2,15 +2,15 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2369
+    timeSpent: 2373
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 2114
+    timeSpent: 2283
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1932
+    timeSpent: 2119
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
