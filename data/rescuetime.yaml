@@ -6,16 +6,16 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1286
+    timeSpent: 1364
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
     timeSpent: 1109
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 585
   - category: Calendars
     name: '[unpublished]'
     productivity: 0
     timeSpent: 564
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 421
