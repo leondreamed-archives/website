@@ -1,51 +1,47 @@
-dailyAverage: 8100
-totalSeconds: 56700.118485
+dailyAverage: 6563
+totalSeconds: 45942.265931
 languages:
-  - name: sh
-    totalSeconds: 30794.90875
   - name: TypeScript
-    totalSeconds: 28204.97791
-  - name: JavaScript
-    totalSeconds: 5280.162873
+    totalSeconds: 32538.135066
+  - name: sh
+    totalSeconds: 19087.384587
   - name: Rust
     totalSeconds: 3475.347742
+  - name: JavaScript
+    totalSeconds: 3191.133869
   - name: JSON
-    totalSeconds: 1161.660083
+    totalSeconds: 1115.125711
   - name: XML
     totalSeconds: 1029.062518
-  - name: Other
-    totalSeconds: 282.078003
   - name: TOML
     totalSeconds: 248.789336
+  - name: Other
+    totalSeconds: 219.103573
   - name: Markdown
     totalSeconds: 111.390122
-  - name: YAML
-    totalSeconds: 102.811156
-  - name: Docker
-    totalSeconds: 81.45627
-  - name: Vue.js
-    totalSeconds: 57.866534
+  - name: HTML
+    totalSeconds: 24.585632
   - name: Text
     totalSeconds: 16.68179
-  - name: HTML
-    totalSeconds: 10.222976
+  - name: YAML
+    totalSeconds: 13.32705
   - name: SQL
     totalSeconds: 8.011702
-  - name: C++
-    totalSeconds: 6.737819
   - name: CSV
     totalSeconds: 6.117322
-  - name: SCSS
-    totalSeconds: 2.459362
+  - name: C++
+    totalSeconds: 1.77099
 projects:
   - name: dialect
-    totalSeconds: 59989.264032
-  - name: habitica
-    totalSeconds: 5337.634202
+    totalSeconds: 52523.932028
   - name: datachannel-rs
     totalSeconds: 2940.797911
+  - name: habitica
+    totalSeconds: 2661.191984
+  - name: aws-doc-sdk-examples
+    totalSeconds: 1800.384922
   - name: leonzalion
-    totalSeconds: 1496.027085
+    totalSeconds: 883.533318
   - name: GapYearStream
     totalSeconds: 738.555374
   - name: blog
