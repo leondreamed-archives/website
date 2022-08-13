@@ -1,1 +1,5 @@
-topActivities: []
+topActivities:
+  - category: Writing
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 8
