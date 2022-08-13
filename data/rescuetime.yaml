@@ -2,11 +2,15 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 23966
+    timeSpent: 26385
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 273
+    timeSpent: 346
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 55
   - category: Instant Message
     name: '[unpublished]'
     productivity: -1
@@ -15,7 +19,3 @@ topActivities:
     name: '[unpublished]'
     productivity: 1
     timeSpent: 11
-  - category: Writing
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 8
