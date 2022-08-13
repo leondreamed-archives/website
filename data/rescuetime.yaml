@@ -2,7 +2,11 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 10071
+    timeSpent: 10931
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 19
   - category: Voice Chat
     name: '[unpublished]'
     productivity: 1
@@ -15,7 +19,3 @@ topActivities:
     name: Finder
     productivity: 2
     timeSpent: 7
-  - category: Games
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 6
