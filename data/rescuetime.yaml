@@ -2,20 +2,20 @@ topActivities:
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 322
+    timeSpent: 455
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 305
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 270
+    timeSpent: 273
+  - category: Video Editing
+    name: studio.youtube.com
+    productivity: 2
+    timeSpent: 255
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 190
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 64
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 42
+    timeSpent: 194
