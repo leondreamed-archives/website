@@ -2,20 +2,20 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 26385
+    timeSpent: 30310
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 346
+    timeSpent: 555
+  - category: Video Editing
+    name: quicktime player
+    productivity: 2
+    timeSpent: 72
   - category: Games
     name: '[unpublished]'
     productivity: -2
     timeSpent: 55
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 19
-  - category: Voice Chat
-    name: '[unpublished]'
-    productivity: 1
-    timeSpent: 11
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 42
