@@ -2,7 +2,7 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 33645
+    timeSpent: 38175
   - category: Video
     name: youtube.com
     productivity: -2
@@ -15,7 +15,7 @@ topActivities:
     name: '[unpublished]'
     productivity: -2
     timeSpent: 55
-  - category: Browsers
-    name: newtab
-    productivity: 0
+  - category: Search
+    name: google.com
+    productivity: 1
     timeSpent: 49
