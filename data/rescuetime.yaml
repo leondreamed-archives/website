@@ -2,11 +2,11 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 30310
+    timeSpent: 33645
   - category: Video
     name: youtube.com
     productivity: -2
-    timeSpent: 555
+    timeSpent: 571
   - category: Video Editing
     name: quicktime player
     productivity: 2
@@ -18,4 +18,4 @@ topActivities:
   - category: Browsers
     name: newtab
     productivity: 0
-    timeSpent: 42
+    timeSpent: 49
