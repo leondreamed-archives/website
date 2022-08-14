@@ -1,4 +1,8 @@
 topActivities:
+  - category: Video Editing
+    name: studio.youtube.com
+    productivity: 2
+    timeSpent: 571
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
@@ -11,11 +15,7 @@ topActivities:
     name: Notion
     productivity: 2
     timeSpent: 273
-  - category: Video Editing
-    name: studio.youtube.com
-    productivity: 2
-    timeSpent: 255
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 194
+    timeSpent: 200
