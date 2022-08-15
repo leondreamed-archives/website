@@ -1,4 +1,8 @@
 topActivities:
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 754
   - category: Video Editing
     name: studio.youtube.com
     productivity: 2
@@ -11,10 +15,6 @@ topActivities:
     name: '[unpublished]'
     productivity: 0
     timeSpent: 324
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 282
   - category: Writing
     name: Notion
     productivity: 2
