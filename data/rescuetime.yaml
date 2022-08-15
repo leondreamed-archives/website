@@ -6,15 +6,15 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 1190
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 244
+    timeSpent: 1309
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 216
+    timeSpent: 284
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 249
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
