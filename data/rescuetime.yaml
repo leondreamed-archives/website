@@ -1,21 +1,21 @@
 topActivities:
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1314
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 1126
+    timeSpent: 1190
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 244
+  - category: General Communication & Scheduling
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 216
   - category: General Software Development
     name: '[unpublished]'
     productivity: 2
     timeSpent: 207
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 152
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 117
-  - category: Writing
-    name: Notion
-    productivity: 2
-    timeSpent: 109
