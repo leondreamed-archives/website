@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 1126
+  - category: General Software Development
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 207
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 152
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 117
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 109
