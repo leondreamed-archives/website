@@ -1,50 +1,32 @@
-dailyAverage: 5542
-totalSeconds: 33253.733536
+dailyAverage: 4921
+totalSeconds: 29525.724421
 languages:
   - name: sh
-    totalSeconds: 17460.488623
+    totalSeconds: 14277.499027
+  - name: C++
+    totalSeconds: 5877.463314
   - name: TypeScript
-    totalSeconds: 11436.826466
-  - name: Rust
-    totalSeconds: 3475.347742
+    totalSeconds: 5652.542702
   - name: JSON
-    totalSeconds: 1115.125711
-  - name: XML
-    totalSeconds: 1029.062518
+    totalSeconds: 1011.623211
+  - name: Rust
+    totalSeconds: 587.40032
   - name: JavaScript
-    totalSeconds: 523.803799
-  - name: TOML
-    totalSeconds: 248.789336
-  - name: Other
-    totalSeconds: 200.633729
-  - name: Markdown
-    totalSeconds: 111.390122
-  - name: HTML
-    totalSeconds: 24.585632
+    totalSeconds: 433.629089
   - name: Text
     totalSeconds: 16.68179
+  - name: HTML
+    totalSeconds: 14.362656
   - name: YAML
     totalSeconds: 13.32705
-  - name: SQL
-    totalSeconds: 8.011702
   - name: CSV
     totalSeconds: 6.117322
-  - name: C++
-    totalSeconds: 1.77099
 projects:
   - name: dialect
-    totalSeconds: 29791.803332
-  - name: datachannel-rs
-    totalSeconds: 2940.797911
+    totalSeconds: 18484.203882
+  - name: leonzalion
+    totalSeconds: 8106.454108
   - name: aws-doc-sdk-examples
     totalSeconds: 1800.384922
-  - name: leonzalion
-    totalSeconds: 862.84952
-  - name: GapYearStream
-    totalSeconds: 738.555374
-  - name: blog
-    totalSeconds: 87.237676
-  - name: libdatachannel
-    totalSeconds: 23.254318
-  - name: website
-    totalSeconds: 6.322086
+  - name: datachannel-rs
+    totalSeconds: 2.876539
