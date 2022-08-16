@@ -1,32 +1,48 @@
-dailyAverage: 4921
-totalSeconds: 29525.724421
+dailyAverage: 7463
+totalSeconds: 44779.479678
 languages:
   - name: sh
-    totalSeconds: 14277.499027
+    totalSeconds: 26940.782467
+  - name: TypeScript
+    totalSeconds: 20415.245299
   - name: C++
     totalSeconds: 5877.463314
-  - name: TypeScript
-    totalSeconds: 5652.542702
   - name: JSON
-    totalSeconds: 1011.623211
-  - name: Rust
-    totalSeconds: 587.40032
+    totalSeconds: 2770.358179
   - name: JavaScript
-    totalSeconds: 433.629089
+    totalSeconds: 1295.453217
+  - name: Rust
+    totalSeconds: 1174.80064
+  - name: Other
+    totalSeconds: 817.279431
+  - name: CSS
+    totalSeconds: 449.61611
+  - name: Markdown
+    totalSeconds: 87.622958
+  - name: YAML
+    totalSeconds: 79.23482
+  - name: SQL
+    totalSeconds: 55.160032
+  - name: HTML
+    totalSeconds: 28.725312
+  - name: Docker
+    totalSeconds: 17.639156
   - name: Text
     totalSeconds: 16.68179
-  - name: HTML
-    totalSeconds: 14.362656
-  - name: YAML
-    totalSeconds: 13.32705
+  - name: Bash
+    totalSeconds: 13.287012
   - name: CSV
     totalSeconds: 6.117322
+  - name: TOML
+    totalSeconds: 2.52895
 projects:
   - name: dialect
-    totalSeconds: 18484.203882
+    totalSeconds: 50813.117402
   - name: leonzalion
-    totalSeconds: 8106.454108
+    totalSeconds: 5037.67983
   - name: aws-doc-sdk-examples
     totalSeconds: 1800.384922
+  - name: lion-utils
+    totalSeconds: 42.289698
   - name: datachannel-rs
-    totalSeconds: 2.876539
+    totalSeconds: 5.753078
