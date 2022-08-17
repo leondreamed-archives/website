@@ -1,45 +1,41 @@
-dailyAverage: 7463
-totalSeconds: 44779.479678
+dailyAverage: 6898
+totalSeconds: 41390.693033
 languages:
-  - name: sh
-    totalSeconds: 26940.782467
   - name: TypeScript
-    totalSeconds: 20415.245299
+    totalSeconds: 21365.838409
+  - name: sh
+    totalSeconds: 19482.970723
   - name: C++
     totalSeconds: 5877.463314
-  - name: JSON
-    totalSeconds: 2770.358179
   - name: JavaScript
-    totalSeconds: 1295.453217
-  - name: Rust
-    totalSeconds: 1174.80064
+    totalSeconds: 2763.697183
+  - name: JSON
+    totalSeconds: 2105.184575
   - name: Other
-    totalSeconds: 817.279431
+    totalSeconds: 725.381407
   - name: CSS
     totalSeconds: 449.61611
   - name: Markdown
-    totalSeconds: 87.622958
+    totalSeconds: 89.228454
   - name: YAML
     totalSeconds: 79.23482
   - name: SQL
-    totalSeconds: 55.160032
+    totalSeconds: 57.16303
+  - name: Bash
+    totalSeconds: 38.95183
   - name: HTML
     totalSeconds: 28.725312
   - name: Docker
     totalSeconds: 17.639156
-  - name: Text
-    totalSeconds: 16.68179
-  - name: Bash
-    totalSeconds: 13.287012
-  - name: CSV
-    totalSeconds: 6.117322
   - name: TOML
-    totalSeconds: 2.52895
+    totalSeconds: 3.899154
+  - name: CSV
+    totalSeconds: 1.633194
 projects:
   - name: dialect
-    totalSeconds: 50813.117402
+    totalSeconds: 44927.047786
   - name: leonzalion
-    totalSeconds: 5037.67983
+    totalSeconds: 3962.380108
   - name: aws-doc-sdk-examples
     totalSeconds: 1800.384922
   - name: lion-utils
