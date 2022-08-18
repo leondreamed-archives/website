@@ -1,21 +1,21 @@
 topActivities:
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 68
-  - category: General Social Networking
-    name: twitter.com
-    productivity: -2
-    timeSpent: 60
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 15
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 819
+  - category: Office
+    name: amazon.ca
+    productivity: -1
+    timeSpent: 611
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 12
-  - category: Uncategorized
+    timeSpent: 549
+  - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 9
+    timeSpent: 382
+  - category: General Social Networking
+    name: twitter.com
+    productivity: -2
+    timeSpent: 250
