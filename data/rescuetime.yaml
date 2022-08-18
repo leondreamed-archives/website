@@ -2,19 +2,19 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 819
+    timeSpent: 915
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 866
   - category: Office
     name: amazon.ca
     productivity: -1
     timeSpent: 611
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 549
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 382
+    timeSpent: 386
   - category: General Social Networking
     name: twitter.com
     productivity: -2
