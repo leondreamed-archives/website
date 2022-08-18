@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-18T18:11:25Z'
+    type: IssueCommentEvent
   - date: '2022-08-08T11:52:02Z'
     type: PushEvent
   - date: '2022-08-07T16:33:57Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-07-14T14:24:48Z'
     type: PushEvent
-  - date: '2022-07-14T14:24:16Z'
-    type: PushEvent
 latestCommit:
   message: 'chore: fix exports'
   url: >-
-    https://api.github.com/repos/leonzalion/tsconfig-paths-workspace/commits/e7d9389f186c7751a42a56f2c496b211216b87af
+    https://api.github.com/repos/leonzalion/tsconfig-paths-workspace/commits/582087db4433dc212c2cd35707b2663f889425d3
   repo:
     url: https://api.github.com/repos/leonzalion/tsconfig-paths-workspace
     name: leonzalion/tsconfig-paths-workspace
