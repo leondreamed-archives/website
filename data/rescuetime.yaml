@@ -2,7 +2,7 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2948
+    timeSpent: 2951
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
