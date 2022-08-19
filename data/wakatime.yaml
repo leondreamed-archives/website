@@ -1,52 +1,54 @@
-dailyAverage: 7613
-totalSeconds: 45678.035772
+dailyAverage: 9134
+totalSeconds: 54804.120346
 languages:
   - name: TypeScript
-    totalSeconds: 25252.781099
+    totalSeconds: 21767.812587
   - name: sh
-    totalSeconds: 19888.308809
-  - name: C++
-    totalSeconds: 5877.463314
-  - name: JavaScript
-    totalSeconds: 4882.792613
+    totalSeconds: 18918.770358
   - name: JSON
-    totalSeconds: 3459.992609
-  - name: Other
-    totalSeconds: 795.587367
-  - name: Diff
-    totalSeconds: 618.735028
-  - name: CSS
-    totalSeconds: 449.61611
-  - name: Markdown
-    totalSeconds: 135.136644
-  - name: YAML
-    totalSeconds: 90.02701
-  - name: SQL
-    totalSeconds: 88.144196
-  - name: Git Config
-    totalSeconds: 87.019634
-  - name: XML
-    totalSeconds: 48.638948
-  - name: Bash
-    totalSeconds: 38.95183
-  - name: HTML
-    totalSeconds: 33.288244
-  - name: Docker
-    totalSeconds: 27.471998
+    totalSeconds: 3382.140931
+  - name: JavaScript
+    totalSeconds: 3322.984228
+  - name: C++
+    totalSeconds: 2938.731657
   - name: Vue.js
-    totalSeconds: 25.502656
+    totalSeconds: 2457.097465
+  - name: Other
+    totalSeconds: 825.731846
+  - name: CSV
+    totalSeconds: 593.774394
+  - name: CSS
+    totalSeconds: 535.265498
+  - name: Diff
+    totalSeconds: 451.98436
+  - name: Git Config
+    totalSeconds: 158.502189
+  - name: YAML
+    totalSeconds: 86.521204
+  - name: Markdown
+    totalSeconds: 70.33829
+  - name: SQL
+    totalSeconds: 44.072098
+  - name: XML
+    totalSeconds: 24.319474
+  - name: Bash
+    totalSeconds: 19.475915
+  - name: HTML
+    totalSeconds: 16.644122
+  - name: Docker
+    totalSeconds: 13.735999
   - name: TOML
-    totalSeconds: 3.899154
+    totalSeconds: 1.949577
 projects:
   - name: dialect
-    totalSeconds: 50125.93779
+    totalSeconds: 48611.916785
   - name: leonzalion
-    totalSeconds: 6225.435606
+    totalSeconds: 5226.719406
   - name: aws-doc-sdk-examples
-    totalSeconds: 1800.384922
+    totalSeconds: 900.192461
   - name: lion-utils
-    totalSeconds: 1110.502416
+    totalSeconds: 795.677412
   - name: remix
-    totalSeconds: 129.46646
+    totalSeconds: 64.73323
   - name: dialect-test
-    totalSeconds: 61.225796
+    totalSeconds: 30.612898

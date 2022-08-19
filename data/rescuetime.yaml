@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 5648
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 4700
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1578
+    timeSpent: 4414
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1354
-  - category: Other
-    name: alacritty
+    timeSpent: 1275
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 447
+  - category: Uncategorized
+    name: v3.nuxtjs.org
     productivity: 0
-    timeSpent: 1293
+    timeSpent: 409
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 287
