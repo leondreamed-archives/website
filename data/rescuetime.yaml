@@ -6,7 +6,7 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 2998
+    timeSpent: 3002
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
@@ -14,7 +14,7 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 515
+    timeSpent: 684
   - category: General Software Development
     name: localhost:3000
     productivity: 2
