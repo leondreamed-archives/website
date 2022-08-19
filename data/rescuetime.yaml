@@ -6,16 +6,16 @@ topActivities:
   - category: Writing
     name: Notion
     productivity: 2
-    timeSpent: 1275
+    timeSpent: 2613
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 602
   - category: General Software Development
     name: localhost:3000
     productivity: 2
     timeSpent: 447
-  - category: Uncategorized
-    name: v3.nuxtjs.org
-    productivity: 0
-    timeSpent: 409
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 287
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 437
