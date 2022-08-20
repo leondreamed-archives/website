@@ -1,54 +1,56 @@
-dailyAverage: 9134
-totalSeconds: 54804.120346
+dailyAverage: 10145
+totalSeconds: 60872.990171
 languages:
   - name: TypeScript
-    totalSeconds: 21767.812587
+    totalSeconds: 23192.785008
   - name: sh
-    totalSeconds: 18918.770358
+    totalSeconds: 18915.757035
+  - name: Vue.js
+    totalSeconds: 7123.670494
   - name: JSON
-    totalSeconds: 3382.140931
+    totalSeconds: 3674.681674
   - name: JavaScript
-    totalSeconds: 3322.984228
+    totalSeconds: 2999.085652
   - name: C++
     totalSeconds: 2938.731657
-  - name: Vue.js
-    totalSeconds: 2457.097465
   - name: Other
     totalSeconds: 825.731846
   - name: CSV
     totalSeconds: 593.774394
   - name: CSS
-    totalSeconds: 535.265498
+    totalSeconds: 555.563952
   - name: Diff
     totalSeconds: 451.98436
   - name: Git Config
     totalSeconds: 158.502189
   - name: YAML
-    totalSeconds: 86.521204
+    totalSeconds: 79.857679
   - name: Markdown
-    totalSeconds: 70.33829
+    totalSeconds: 74.778827
   - name: SQL
     totalSeconds: 44.072098
+  - name: Bash
+    totalSeconds: 27.458636
   - name: XML
     totalSeconds: 24.319474
-  - name: Bash
-    totalSeconds: 19.475915
-  - name: HTML
-    totalSeconds: 16.644122
   - name: Docker
     totalSeconds: 13.735999
+  - name: HTML
+    totalSeconds: 2.281466
   - name: TOML
     totalSeconds: 1.949577
 projects:
   - name: dialect
-    totalSeconds: 48611.916785
+    totalSeconds: 55411.390179
   - name: leonzalion
-    totalSeconds: 5226.719406
-  - name: aws-doc-sdk-examples
-    totalSeconds: 900.192461
+    totalSeconds: 5270.747267
   - name: lion-utils
     totalSeconds: 795.677412
+  - name: framework
+    totalSeconds: 122.331122
   - name: remix
     totalSeconds: 64.73323
   - name: dialect-test
     totalSeconds: 30.612898
+  - name: precommit
+    totalSeconds: 3.229909
