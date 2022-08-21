@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 610
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 332
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 111
+  - category: General Utilities
+    name: universalaccessauthwarn
+    productivity: 1
+    timeSpent: 65
+  - category: Games
+    name: play.typeracer.com
+    productivity: -2
+    timeSpent: 38
