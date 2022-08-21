@@ -1,12 +1,12 @@
 topActivities:
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 3514
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
     timeSpent: 3481
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 2862
   - category: Games
     name: '[unpublished]'
     productivity: -2
@@ -14,7 +14,7 @@ topActivities:
   - category: Uncategorized
     name: spinthewheel.app
     productivity: 0
-    timeSpent: 489
+    timeSpent: 550
   - category: General Reference & Learning
     name: en.wikipedia.org
     productivity: 2
