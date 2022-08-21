@@ -2,7 +2,7 @@ topActivities:
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 3514
+    timeSpent: 4991
   - category: General Utilities
     name: '[unpublished]'
     productivity: 1
@@ -15,7 +15,7 @@ topActivities:
     name: spinthewheel.app
     productivity: 0
     timeSpent: 550
-  - category: General Reference & Learning
-    name: en.wikipedia.org
-    productivity: 2
-    timeSpent: 210
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 409
