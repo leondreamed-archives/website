@@ -1,21 +1,21 @@
 topActivities:
-  - category: Uncategorized
+  - category: General Utilities
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 3481
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 675
+  - category: Games
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 136
+  - category: General Social Networking
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 3146
-  - category: Games
+    timeSpent: 30
+  - category: General Communication & Scheduling
     name: '[unpublished]'
-    productivity: -2
-    timeSpent: 634
-  - category: Games
-    name: play.typeracer.com
-    productivity: -2
-    timeSpent: 166
-  - category: Games
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 161
-  - category: Games
-    name: monkeytype.com
-    productivity: -2
-    timeSpent: 124
+    productivity: 0
+    timeSpent: 17
