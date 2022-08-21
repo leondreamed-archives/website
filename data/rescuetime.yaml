@@ -10,12 +10,12 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 136
-  - category: General Social Networking
-    name: '[unpublished]'
+    timeSpent: 138
+  - category: Email
+    name: Gmail
     productivity: 0
-    timeSpent: 30
-  - category: General Communication & Scheduling
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 17
+    timeSpent: 111
+  - category: General Reference & Learning
+    name: en.wikipedia.org
+    productivity: 2
+    timeSpent: 109
