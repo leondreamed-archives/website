@@ -3,19 +3,19 @@ topActivities:
     name: '[unpublished]'
     productivity: 1
     timeSpent: 3481
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 2862
   - category: Games
     name: '[unpublished]'
     productivity: -2
     timeSpent: 675
-  - category: Games
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 138
-  - category: Email
-    name: Gmail
+  - category: Uncategorized
+    name: spinthewheel.app
     productivity: 0
-    timeSpent: 111
+    timeSpent: 489
   - category: General Reference & Learning
     name: en.wikipedia.org
     productivity: 2
-    timeSpent: 109
+    timeSpent: 210
