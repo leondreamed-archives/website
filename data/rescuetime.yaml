@@ -1,12 +1,12 @@
 topActivities:
+  - category: Uncategorized
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 2984
   - category: Games
     name: '[unpublished]'
     productivity: -2
     timeSpent: 610
-  - category: Uncategorized
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 332
   - category: Games
     name: '[unpublished]'
     productivity: -2
