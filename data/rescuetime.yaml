@@ -15,7 +15,7 @@ topActivities:
     name: alacritty
     productivity: 0
     timeSpent: 259
-  - category: General Social Networking
-    name: twitter.com
-    productivity: -2
-    timeSpent: 169
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 254
