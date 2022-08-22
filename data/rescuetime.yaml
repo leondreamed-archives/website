@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6202
+    timeSpent: 7865
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1623
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 636
   - category: Meetings
     name: meet.google.com
     productivity: 1
     timeSpent: 538
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 259
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 254
+  - category: General Entertainment
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 370
