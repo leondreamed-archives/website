@@ -7,6 +7,10 @@ topActivities:
     name: Notion
     productivity: 2
     timeSpent: 1623
+  - category: General Social Networking
+    name: twitter.com
+    productivity: -2
+    timeSpent: 731
   - category: Communications
     name: Slack
     productivity: 0
@@ -15,7 +19,3 @@ topActivities:
     name: meet.google.com
     productivity: 1
     timeSpent: 538
-  - category: General Entertainment
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 454
