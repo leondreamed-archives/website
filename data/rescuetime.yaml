@@ -3,6 +3,10 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 9150
+  - category: Games
+    name: '[unpublished]'
+    productivity: 1
+    timeSpent: 2711
   - category: Writing
     name: Notion
     productivity: 2
@@ -15,7 +19,3 @@ topActivities:
     name: Slack
     productivity: 0
     timeSpent: 879
-  - category: General Social Networking
-    name: twitter.com
-    productivity: -2
-    timeSpent: 731
