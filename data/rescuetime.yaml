@@ -1,20 +1,20 @@
 topActivities:
+  - category: Meetings
+    name: Zoom
+    productivity: 1
+    timeSpent: 4422
   - category: Games
     name: '[unpublished]'
     productivity: 1
     timeSpent: 2929
-  - category: Meetings
-    name: Zoom
-    productivity: 1
-    timeSpent: 2296
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 2657
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1291
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 791
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
