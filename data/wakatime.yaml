@@ -1,16 +1,16 @@
-dailyAverage: 9148
-totalSeconds: 45740.441111
+dailyAverage: 9515
+totalSeconds: 38058.243994
 languages:
   - name: sh
-    totalSeconds: 16752.657252
+    totalSeconds: 14756.463363
   - name: TypeScript
-    totalSeconds: 15351.860674
+    totalSeconds: 10846.927738
   - name: Vue.js
     totalSeconds: 7123.670494
   - name: JSON
-    totalSeconds: 2680.160059
+    totalSeconds: 2248.533508
   - name: JavaScript
-    totalSeconds: 2182.64886
+    totalSeconds: 1448.526877
   - name: CSV
     totalSeconds: 593.774394
   - name: Diff
@@ -20,28 +20,26 @@ languages:
   - name: Git Config
     totalSeconds: 158.502189
   - name: Other
-    totalSeconds: 132.103659
+    totalSeconds: 116.733473
   - name: Markdown
-    totalSeconds: 30.967348
+    totalSeconds: 30.1646
   - name: XML
     totalSeconds: 24.319474
-  - name: Bash
-    totalSeconds: 20.81513
   - name: SQL
-    totalSeconds: 16.492082
+    totalSeconds: 15.490583
   - name: YAML
     totalSeconds: 13.949909
+  - name: Bash
+    totalSeconds: 7.982721
   - name: Docker
     totalSeconds: 4.916421
   - name: HTML
     totalSeconds: 2.281466
-  - name: TOML
-    totalSeconds: 0.685102
 projects:
   - name: dialect
-    totalSeconds: 42760.482749
+    totalSeconds: 35068.919581
   - name: leonzalion
-    totalSeconds: 2116.622299
+    totalSeconds: 2110.618164
   - name: lion-utils
     totalSeconds: 774.532563
   - name: framework

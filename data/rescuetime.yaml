@@ -2,20 +2,20 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: 1
-    timeSpent: 16071
-  - category: Travel & Outdoors
-    name: '[unpublished]'
-    productivity: 2
-    timeSpent: 495
-  - category: General Utilities
-    name: Finder
-    productivity: 2
-    timeSpent: 445
+    timeSpent: 2929
   - category: General Entertainment
     name: '[unpublished]'
     productivity: -2
-    timeSpent: 183
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 169
+    timeSpent: 93
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 21
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 19
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 11
