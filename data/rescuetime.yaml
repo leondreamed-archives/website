@@ -10,12 +10,12 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 436
-  - category: Browsers
-    name: brave browser
-    productivity: 0
-    timeSpent: 213
+    timeSpent: 556
   - category: Professional Networking
     name: linkedin.com
     productivity: -2
-    timeSpent: 187
+    timeSpent: 344
+  - category: Science & Technology
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 255
