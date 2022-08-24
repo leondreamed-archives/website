@@ -10,12 +10,12 @@ topActivities:
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 2657
+    timeSpent: 2786
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1291
-  - category: Professional Networking
-    name: linkedin.com
-    productivity: -2
-    timeSpent: 344
+  - category: Browsers
+    name: brave browser
+    productivity: 0
+    timeSpent: 411
