@@ -2,12 +2,20 @@ topActivities:
   - category: Games
     name: '[unpublished]'
     productivity: 1
-    timeSpent: 11066
+    timeSpent: 11068
+  - category: Travel & Outdoors
+    name: '[unpublished]'
+    productivity: 2
+    timeSpent: 495
   - category: General Utilities
     name: Finder
     productivity: 2
-    timeSpent: 443
-  - category: Uncategorized
-    name: keyboard setup assistant
-    productivity: 0
-    timeSpent: 124
+    timeSpent: 445
+  - category: General Entertainment
+    name: '[unpublished]'
+    productivity: -2
+    timeSpent: 183
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 169
