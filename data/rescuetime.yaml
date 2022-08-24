@@ -3,19 +3,19 @@ topActivities:
     name: '[unpublished]'
     productivity: 1
     timeSpent: 2929
-  - category: General Entertainment
-    name: '[unpublished]'
-    productivity: -2
-    timeSpent: 93
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: Writing
+    name: Notion
     productivity: 2
-    timeSpent: 21
-  - category: Instant Message
-    name: '[unpublished]'
-    productivity: -1
-    timeSpent: 19
+    timeSpent: 1133
   - category: Communications
     name: Slack
     productivity: 0
-    timeSpent: 11
+    timeSpent: 436
+  - category: Browsers
+    name: brave browser
+    productivity: 0
+    timeSpent: 213
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 187
