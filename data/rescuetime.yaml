@@ -1,21 +1,21 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 2151
   - category: Writing
     name: Notion
     productivity: 2
     timeSpent: 1318
-  - category: Communications
-    name: Slack
-    productivity: 0
-    timeSpent: 258
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: codeforces.com
     productivity: 2
-    timeSpent: 222
-  - category: Browsers
-    name: brave browser
-    productivity: 0
-    timeSpent: 165
+    timeSpent: 964
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 141
+    timeSpent: 321
+  - category: Communications
+    name: Slack
+    productivity: 0
+    timeSpent: 305
