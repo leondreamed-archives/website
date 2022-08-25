@@ -3,6 +3,10 @@ topActivities:
     name: Zoom
     productivity: 1
     timeSpent: 4422
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 3685
   - category: Games
     name: '[unpublished]'
     productivity: 1
@@ -11,10 +15,6 @@ topActivities:
     name: Slack
     productivity: 0
     timeSpent: 2796
-  - category: Editing & IDEs
-    name: Visual Studio Code
-    productivity: 2
-    timeSpent: 2638
   - category: Writing
     name: Notion
     productivity: 2
