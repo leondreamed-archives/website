@@ -1,21 +1,21 @@
 topActivities:
+  - category: Writing
+    name: Notion
+    productivity: 2
+    timeSpent: 1288
   - category: Games
     name: '[unpublished]'
     productivity: -2
     timeSpent: 138
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 89
+  - category: Professional Networking
+    name: linkedin.com
+    productivity: -2
+    timeSpent: 82
   - category: Calendars
     name: Google Calendar
     productivity: 0
-    timeSpent: 13
-  - category: Email
-    name: Gmail
-    productivity: 0
-    timeSpent: 7
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 4
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 4
+    timeSpent: 80
