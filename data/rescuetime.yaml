@@ -2,7 +2,7 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 7816
+    timeSpent: 9447
   - category: Writing
     name: Notion
     productivity: 2
@@ -11,11 +11,11 @@ topActivities:
     name: codeforces.com
     productivity: 2
     timeSpent: 964
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 756
   - category: Communications
     name: Slack
     productivity: 0
     timeSpent: 435
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 408
