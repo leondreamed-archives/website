@@ -2,19 +2,19 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 886
+    timeSpent: 2491
   - category: General Software Development
     name: Github
     productivity: 2
     timeSpent: 362
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 83
   - category: Uncategorized
     name: nuxtjs.org
     productivity: 0
     timeSpent: 61
-  - category: Search
-    name: google.com
-    productivity: 1
-    timeSpent: 42
   - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
