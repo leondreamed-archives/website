@@ -1,1 +1,21 @@
-topActivities: []
+topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 437
+  - category: General Software Development
+    name: usaco.org
+    productivity: 2
+    timeSpent: 331
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 56
+  - category: Engineering & Technology
+    name: nodejs.org
+    productivity: 2
+    timeSpent: 27
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 22
