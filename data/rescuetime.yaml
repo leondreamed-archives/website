@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 437
+    timeSpent: 1530
   - category: General Software Development
     name: usaco.org
     productivity: 2
-    timeSpent: 331
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 56
-  - category: Engineering & Technology
-    name: nodejs.org
-    productivity: 2
-    timeSpent: 27
+    timeSpent: 465
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 22
+    timeSpent: 259
+  - category: Browsers
+    name: newtab
+    productivity: 0
+    timeSpent: 74
+  - category: Search
+    name: google.com
+    productivity: 1
+    timeSpent: 67
