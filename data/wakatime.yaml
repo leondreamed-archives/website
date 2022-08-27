@@ -1,28 +1,10 @@
-dailyAverage: 4651
-totalSeconds: 18603.633163
+dailyAverage: 4547
+totalSeconds: 18187.682469
 languages:
   - name: sh
-    totalSeconds: 12032.307371
-  - name: Vue.js
-    totalSeconds: 4666.573029
-  - name: TypeScript
-    totalSeconds: 1424.972421
-  - name: JSON
-    totalSeconds: 292.540743
-  - name: JavaScript
-    totalSeconds: 154.517887
-  - name: CSS
-    totalSeconds: 20.298454
-  - name: Bash
-    totalSeconds: 7.982721
-  - name: Markdown
-    totalSeconds: 4.440537
+    totalSeconds: 18187.682469
 projects:
   - name: dialect
-    totalSeconds: 13535.206396
+    totalSeconds: 13297.882911
   - name: leonzalion
-    totalSeconds: 4942.865736
-  - name: framework
-    totalSeconds: 122.331122
-  - name: precommit
-    totalSeconds: 3.229909
+    totalSeconds: 4889.799558
