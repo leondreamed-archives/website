@@ -2,7 +2,15 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 16280
+    timeSpent: 18763
+  - category: General Software Development
+    name: Github
+    productivity: 2
+    timeSpent: 791
+  - category: Other
+    name: alacritty
+    productivity: 0
+    timeSpent: 759
   - category: General Utilities
     name: universalaccessauthwarn
     productivity: 1
@@ -10,12 +18,4 @@ topActivities:
   - category: Search
     name: google.com
     productivity: 1
-    timeSpent: 636
-  - category: Other
-    name: alacritty
-    productivity: 0
-    timeSpent: 566
-  - category: General Software Development
-    name: Github
-    productivity: 2
-    timeSpent: 506
+    timeSpent: 644
