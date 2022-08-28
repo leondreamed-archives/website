@@ -2,11 +2,11 @@ topActivities:
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 6915
+    timeSpent: 8465
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 6469
+    timeSpent: 6971
   - category: General Communication & Scheduling
     name: '[unpublished]'
     productivity: 0
@@ -14,7 +14,7 @@ topActivities:
   - category: General Software Development
     name: localhost:3000
     productivity: 2
-    timeSpent: 794
+    timeSpent: 838
   - category: General Software Development
     name: usaco.org
     productivity: 2
