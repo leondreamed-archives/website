@@ -1,12 +1,16 @@
 topActivities:
+  - category: Editing & IDEs
+    name: Visual Studio Code
+    productivity: 2
+    timeSpent: 1854
   - category: Video
     name: youtube.com
     productivity: -2
     timeSpent: 884
-  - category: Editing & IDEs
-    name: Visual Studio Code
+  - category: General Software Development
+    name: localhost:3000
     productivity: 2
-    timeSpent: 847
+    timeSpent: 492
   - category: Uncategorized
     name: v3.nuxtjs.org
     productivity: 0
@@ -14,8 +18,4 @@ topActivities:
   - category: General Software Development
     name: Github
     productivity: 2
-    timeSpent: 215
-  - category: General Software Development
-    name: localhost:3000
-    productivity: 2
-    timeSpent: 207
+    timeSpent: 217
