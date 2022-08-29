@@ -2,20 +2,20 @@ topActivities:
   - category: Editing & IDEs
     name: Visual Studio Code
     productivity: 2
-    timeSpent: 2061
+    timeSpent: 3601
+  - category: Instant Message
+    name: '[unpublished]'
+    productivity: -1
+    timeSpent: 1303
   - category: Other
     name: alacritty
     productivity: 0
-    timeSpent: 717
-  - category: General Social Networking
+    timeSpent: 933
+  - category: Uncategorized
     name: '[unpublished]'
     productivity: 0
-    timeSpent: 149
-  - category: Browsers
-    name: newtab
-    productivity: 0
-    timeSpent: 50
-  - category: Search
-    name: wolframalpha.com
-    productivity: 1
-    timeSpent: 33
+    timeSpent: 809
+  - category: General Software Development
+    name: localhost:3000
+    productivity: 2
+    timeSpent: 255
