@@ -1,4 +1,6 @@
 events:
+  - date: '2022-08-29T21:20:38Z'
+    type: WatchEvent
   - date: '2022-08-18T21:50:18Z'
     type: PushEvent
   - date: '2022-08-18T21:49:56Z'
@@ -57,12 +59,10 @@ events:
     type: PushEvent
   - date: '2022-07-14T14:38:52Z'
     type: PushEvent
-  - date: '2022-07-14T14:35:11Z'
-    type: PushEvent
 latestCommit:
-  message: 0.0.2
+  message: 'fix: interop'
   url: >-
-    https://api.github.com/repos/leonzalion/tsconfig-paths-workspace/commits/0f3984af6bd1aa046ead7ea5b2951f9a745c4fe5
+    https://api.github.com/repos/leonzalion/tsconfig-paths-workspace/commits/8e7d94fba3b75ba1558f825ad1ddd22a39493f91
   repo:
     url: https://api.github.com/repos/leonzalion/tsconfig-paths-workspace
     name: leonzalion/tsconfig-paths-workspace
