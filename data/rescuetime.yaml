@@ -3,19 +3,19 @@ topActivities:
     name: Visual Studio Code
     productivity: 2
     timeSpent: 7870
+  - category: General Social Networking
+    name: '[unpublished]'
+    productivity: 0
+    timeSpent: 2339
   - category: Other
     name: alacritty
     productivity: 0
     timeSpent: 1866
-  - category: General Social Networking
-    name: '[unpublished]'
-    productivity: 0
-    timeSpent: 1779
+  - category: Meetings
+    name: meet.google.com
+    productivity: 1
+    timeSpent: 1660
   - category: General Software Development
     name: localhost:3000
     productivity: 2
     timeSpent: 1413
-  - category: Video
-    name: youtube.com
-    productivity: -2
-    timeSpent: 884
