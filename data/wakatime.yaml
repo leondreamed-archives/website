@@ -1,12 +1,14 @@
-dailyAverage: 8055
-totalSeconds: 40274.216722
+dailyAverage: 8359
+totalSeconds: 50151.551044
 languages:
   - name: sh
-    totalSeconds: 40274.216722
+    totalSeconds: 50151.551044
 projects:
   - name: dialect
-    totalSeconds: 31668.650393
+    totalSeconds: 33885.971085
   - name: leonzalion
-    totalSeconds: 8588.92572
+    totalSeconds: 16111.126426
+  - name: Terminal
+    totalSeconds: 137.812924
   - name: simple-vue-icon
     totalSeconds: 16.640609
